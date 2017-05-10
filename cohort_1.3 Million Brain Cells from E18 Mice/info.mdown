@@ -3,6 +3,7 @@ Chromium Megacell Demonstration (v2 Chemistry) Dataset by Cell Ranger 1.3.0
 
 Cells from cortex, hippocampus and subventricular zone of two E18 mice
 
+
 * Combined cortex, hippocampus, and subventricular zone were purchased from BrainBits (C57EHCV). They were from 2 E18 C57BL/6 mice dissected on the same day, shipped overnight on ice, and stored at 4C until being prepared for scRNA-Seq.
 * Brain tissues were dissociated following the Demonstrated Protocol for Mouse Embryonic Neural Tissue.
 * 69 scRNA-Seq libraries were made from first mouse brain 2 days after the dissection. Another 64 scRNA-Seq libraries were made from second mouse brain 6 days after the dissection.
