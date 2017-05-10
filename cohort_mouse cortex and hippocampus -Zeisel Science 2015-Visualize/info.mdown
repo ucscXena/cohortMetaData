@@ -1,1 +1,6 @@
+# [Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq](https://www.ncbi.nlm.nih.gov/pubmed/25700174)
 
+Zeisel A1, Muñoz-Manchado AB1, Codeluppi S1, Lönnerberg P1, La Manno G1, Juréus A1, Marques S1, Munguba H1, He L2, Betsholtz C3, Rolny C4, Castelo-Branco G1, Hjerling-Leffler J5, Linnarsson S5
+
+### Abstract
+The mammalian cerebral cortex supports cognitive functions such as sensorimotor integration, memory, and social behaviors. Normal brain function relies on a diverse set of differentiated cell types, including neurons, glia, and vasculature. Here, we have used large-scale single-cell RNA sequencing (RNA-seq) to classify cells in the mouse somatosensory cortex and hippocampal CA1 region. We found 47 molecularly distinct subclasses, comprising all known major cell types in the cortex. We identified numerous marker genes, which allowed alignment with known cell types, morphology, and location. We found a layer I interneuron expressing Pax6 and a distinct postmitotic oligodendrocyte subclass marked by Itpr2. Across the diversity of cortical cell types, transcription factors formed a complex, layered regulatory code, suggesting a mechanism for the maintenance of adult cell type identity.
