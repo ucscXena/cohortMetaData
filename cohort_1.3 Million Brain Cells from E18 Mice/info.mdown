@@ -11,4 +11,4 @@ Cells from cortex, hippocampus and subventricular zone of two E18 mice
 * Sequenced on 11 Illumina Hiseq 4000 flow cells, and each sample was sequenced on multiple flow cells. Samples were downsampled and aggregated with approximately 18,500 reads per cell.
 * 1,306,127 cells detected in total
 
-View live example: [Aldoc, Crym, and Gria2 gene expression](http://dev.xenabrowser.net/heatmap/?bookmark=5979cfb485016987ed362f774c3229d0)
+#### <span style="color:#4ecdc4">View live example: [<u>Aldoc, Crym, and Gria2 gene expression</u>](http://dev.xenabrowser.net/heatmap/?bookmark=5979cfb485016987ed362f774c3229d0)</span>
