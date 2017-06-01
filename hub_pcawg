@@ -1,2 +1,16 @@
 # PCAWG Xena hub
-####_Single-cell RNAseq datasets, from hundreds of cells to the largest cohort of 1.3 million cells._
+####_PANCANCER ANALYSIS OF WHOLE GENOMES datasets_
+
+The Pancancer Analysis of Whole Genomes (PCAWG) study is an international collaboration to identify a comprehensive description of genomic, transcriptomic and epigenomic changes in 2,800 cancer whole genomes in 47 different tumor types from the International Cancer Genome Consortium. 
+
+PCAWG Xena hub hosts primary results from the project
+Consensus whole genome SNVs, indels and SVs
+Consensus whole genome copy number
+RNAseq gene expression, consensus fusion calls, and alternative promoter usage
+Small RNA-Seq (miRNA) analyses
+Coding patient-centric driver catalogue
+Integrated driver calls
+Mutation Signatures
+Methylation data
+Tumour subtype, histology information, donor clinical data
+
