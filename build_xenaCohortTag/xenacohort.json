@@ -1,0 +1,403 @@
+{
+  "_comment": [
+    "http://oncotree.mskcc.org/oncotree/#/home",
+    "http://www.jsoneditoronline.org/?id=71d624e22d6364f65522556e6dd0b823"
+  ],
+  "TCGA Acute Myeloid Leukemia (LAML)": {
+    "metanci": [
+      "C3171"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Adrenocortical Cancer (ACC)": {
+    "metanci": [
+      "C9325"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Bile Duct Cancer (CHOL)": {
+    "metanci": [
+      "C4436"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Bladder Cancer (BLCA)": {
+    "metanci": [
+      "C39851"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Breast Cancer (BRCA)": {
+    "metanci": [
+      "C39851"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Cervical Cancer (CESC)": {
+    "metanci": [
+      "C4028"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Colon and Rectal Cancer (COADREAD)": {
+    "metanci": [
+      "C5105"
+    ],
+    "tag": [
+      "tumor",
+      "rectum",
+      "large intestine"
+    ]
+  },
+  "TCGA Colon Cancer (COAD)": {
+    "metanci": [
+      "C4349"
+    ],
+    "tag": [
+      "tumor",
+      "large intestine"
+    ]
+  },
+  "TCGA Endometrioid Cancer (UCEC)": {
+    "metanci": [
+      "C7558"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Esophageal Cancer (ESCA)": {
+    "metanci": [
+      "C4025"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": {
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Glioblastoma (GBM)": {
+    "metanci": [
+      "C3058"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Head and Neck Cancer (HNSC)": {
+    "metanci": [
+      "C34447"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Kidney Chromophobe (KICH)": {
+    "metanci": [
+      "C4146"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
+    "metanci": [
+      "C4033"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
+    "metanci": [
+      "C6975"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Large B-cell Lymphoma (DLBC)": {
+    "metanci": [
+      "C8851"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Liver Cancer (LIHC)": {
+    "metanci": [
+      "C3099"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Lower Grade Glioma (LGG)": {
+    "metanci": [
+      "C60781",
+      "C3288",
+      "C4050"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
+    "metanci": [
+      "C60781",
+      "C3288",
+      "C4050",
+      "C3058"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Lung Adenocarcinoma (LUAD)": {
+    "metanci": [
+      "C3512"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Lung Cancer (LUNG)": {
+    "metanci": [
+      "C3512",
+      "C3493"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Lung Squamous Cell Carcinoma (LUSC)": {
+    "metanci": [
+      "C3493"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Melanoma (SKCM)": {
+    "metanci": [
+      "C3510"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Mesothelioma (MESO)": {
+    "metanci": [
+      "C9351"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Ocular melanomas (UVM)": {
+    "metanci": [
+      "C8562"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Ovarian Cancer (OV)": {
+    "metanci": [
+      "C105555"
+    ],
+    "tag": [
+      "Ovarian Serous Cystadenocarcinoma",
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Pancreatic Cancer (PAAD)": {
+    "metanci": [
+      "C8294"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
+    "metanci": [
+      "C3326",
+      "C3308"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Prostate Cancer (PRAD)": {
+    "metanci": [
+      "C2919"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Rectal Cancer (READ)": {
+    "metanci": [
+      "C9383"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Sarcoma (SARC)": {
+    "tag": [
+      "soft tissue",
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Stomach Cancer (STAD)": {
+    "metanci": [
+      "C4004"
+    ],
+    "tag": [
+      "intestine",
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Testicular Cancer (TGCT)": {
+    "metanci": [
+      "C9309",
+      "C9313"
+    ],
+    "tag": [
+      "Testicular Germ Cell Tumor",
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Thymoma (THYM)": {
+    "metanci": [
+      "C3411"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Thyroid Cancer (THCA)": {
+    "tag": [
+      "Thyroid gland",
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Uterine Carcinosarcoma (UCS)": {
+    "metanci": [
+      "C42700"
+    ],
+    "tag": [
+      "Cancer",
+      "tumor"
+    ]
+  },
+  "TCGA Pan-Cancer (PANCAN)": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor"
+    ],
+    "composite_cohots": [
+      "TCGA Liver Cancer (LIHC)",
+      "TCGA Cervical Cancer (CESC)",
+      "TCGA Sarcoma (SARC)",
+      "TCGA Thymoma (THYM)",
+      "TCGA Mesothelioma (MESO)",
+      "TCGA Pancreatic Cancer (PAAD)",
+      "TCGA Ocular melanomas (UVM)",
+      "TCGA Rectal Cancer (READ)",
+      "TCGA Lung Squamous Cell Carcinoma (LUSC)",
+      "TCGA Stomach Cancer (STAD)",
+      "TCGA lower grade glioma and glioblastoma (GBMLGG)",
+      "TCGA Colon Cancer (COAD)",
+      "TCGA Lower Grade Glioma (LGG)",
+      "TCGA Thyroid Cancer (THCA)",
+      "TCGA Kidney Chromophobe (KICH)",
+      "TCGA Kidney Papillary Cell Carcinoma (KIRP)",
+      "TCGA Colon and Rectal Cancer (COADREAD)",
+      "TCGA Bile Duct Cancer (CHOL)",
+      "TCGA Glioblastoma (GBM)",
+      "TCGA Lung Adenocarcinoma (LUAD)",
+      "TCGA Ovarian Cancer (OV)",
+      "TCGA Kidney Clear Cell Carcinoma (KIRC)",
+      "TCGA Endometrioid Cancer (UCEC)",
+      "TCGA Head and Neck Cancer (HNSC)",
+      "TCGA Adrenocortical Cancer (ACC)",
+      "TCGA Prostate Cancer (PRAD)",
+      "TCGA Uterine Carcinosarcoma (UCS)",
+      "TCGA Melanoma (SKCM)",
+      "TCGA Pheochromocytoma & Paraganglioma (PCPG)",
+      "TCGA Breast Cancer (BRCA)",
+      "TCGA Testicular Cancer (TGCT)",
+      "TCGA Acute Myeloid Leukemia (LAML)",
+      "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)",
+      "TCGA Large B-cell Lymphoma (DLBC)",
+      "TCGA Lung Cancer (LUNG)",
+      "TCGA Bladder Cancer (BLCA)",
+      "TCGA Esophageal Cancer (ESCA)"
+    ]
+  },
+  "TCGA PANCAN12 (PANCAN12)":{
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor"
+    ]
+  }
+}
