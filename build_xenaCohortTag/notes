@@ -2,4 +2,4 @@ curl -X GET --header "Accept: text/plain" "http://oncotree.mskcc.org/oncotree/ap
 
 # build xenacohort.json
 
-python buildTagJson.py tumor_types.txt  xenacohort.json xenacohort_tag.json
+python buildTagJson.py tumor_types.txt  xenacohort_manual.json xenacohort_tag.json

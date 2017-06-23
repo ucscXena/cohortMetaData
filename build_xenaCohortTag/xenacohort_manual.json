@@ -9,7 +9,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Adrenocortical Cancer (ACC)": {
@@ -18,7 +19,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Bile Duct Cancer (CHOL)": {
@@ -27,7 +29,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Bladder Cancer (BLCA)": {
@@ -36,7 +39,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Breast Cancer (BRCA)": {
@@ -45,7 +49,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Cervical Cancer (CESC)": {
@@ -54,7 +59,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Colon and Rectal Cancer (COADREAD)": {
@@ -63,6 +69,7 @@
     ],
     "tag": [
       "tumor",
+      "Adult",
       "rectum",
       "large intestine"
     ]
@@ -73,6 +80,7 @@
     ],
     "tag": [
       "tumor",
+      "Adult",
       "large intestine"
     ]
   },
@@ -82,7 +90,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Esophageal Cancer (ESCA)": {
@@ -91,13 +100,15 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": {
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Glioblastoma (GBM)": {
@@ -106,7 +117,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Head and Neck Cancer (HNSC)": {
@@ -115,7 +127,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Kidney Chromophobe (KICH)": {
@@ -124,7 +137,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
@@ -133,7 +147,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
@@ -142,7 +157,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Large B-cell Lymphoma (DLBC)": {
@@ -151,7 +167,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Liver Cancer (LIHC)": {
@@ -160,7 +177,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Lower Grade Glioma (LGG)": {
@@ -171,7 +189,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
@@ -183,7 +202,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Lung Adenocarcinoma (LUAD)": {
@@ -192,7 +212,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Lung Cancer (LUNG)": {
@@ -202,7 +223,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Lung Squamous Cell Carcinoma (LUSC)": {
@@ -211,7 +233,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Melanoma (SKCM)": {
@@ -220,7 +243,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Mesothelioma (MESO)": {
@@ -229,7 +253,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Ocular melanomas (UVM)": {
@@ -238,7 +263,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Ovarian Cancer (OV)": {
@@ -248,7 +274,8 @@
     "tag": [
       "Ovarian Serous Cystadenocarcinoma",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Pancreatic Cancer (PAAD)": {
@@ -257,7 +284,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
@@ -267,7 +295,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Prostate Cancer (PRAD)": {
@@ -276,7 +305,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Rectal Cancer (READ)": {
@@ -285,14 +315,16 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Sarcoma (SARC)": {
     "tag": [
       "soft tissue",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Stomach Cancer (STAD)": {
@@ -302,7 +334,8 @@
     "tag": [
       "intestine",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Testicular Cancer (TGCT)": {
@@ -313,7 +346,8 @@
     "tag": [
       "Testicular Germ Cell Tumor",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Thymoma (THYM)": {
@@ -322,14 +356,16 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Thyroid Cancer (THCA)": {
     "tag": [
       "Thyroid gland",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Uterine Carcinosarcoma (UCS)": {
@@ -338,7 +374,8 @@
     ],
     "tag": [
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "TCGA Pan-Cancer (PANCAN)": {
@@ -348,7 +385,8 @@
       "Pan-cancer",
       "pancancer",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ],
     "composite_cohots": [
       "TCGA Liver Cancer (LIHC)",
@@ -397,13 +435,18 @@
       "Pan-cancer",
       "pancancer",
       "Cancer",
-      "tumor"
+      "tumor",
+      "Adult"
     ]
   },
   "GTEX": {
     "tag": [
       "normal tissue",
       "normal cell",
+      "cell line",
+      "cell lines"
+    ],
+    "raw": [
       "Adipose Tissue",
       "Adrenal Gland",
       "Bladder",
@@ -488,8 +531,319 @@
       "Thyroid",
       "Uterus",
       "Vagina",
-      "Whole Blood",
-      "body_site_detail (SMTSD)"
+      "Whole Blood"
+    ]
+  },
+  "TARGET Pan-Cancer (PANCAN)": {
+    "tag": [
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor"
+    ],
+    "code": [
+      "AML",
+      "ALL",
+      "AML",
+      "AML-IF",
+      "CCSK",
+      "NBL",
+      "OS",
+      "RT",
+      "WT"
+    ],
+    "raw": [
+      "Acute Lymphoblastic Leukemia",
+      "Acute Myeloid Leukemia, Induction Failure Subproject",
+      "CNS, ependymoma",
+      "CNS, glioblastoma (GBM)",
+      "CNS, low grade glioma (LGG)",
+      "CNS, medulloblastoma",
+      "CNS, other",
+      "CNS, rhabdoid tumor",
+      "Clear Cell Sarcoma of the Kidney",
+      "Ewing sarcoma",
+      "Kidney, Rhabdoid Tumor",
+      "NHL, Burkitt lymphoma (BL)",
+      "NHL, anaplastic large cell lymphoma",
+      "Neuroblastoma",
+      "Non cancerous tissue",
+      "Osteosarcoma",
+      "Rhabdomyosarcoma",
+      "Soft tissue sarcoma, non-rhabdomyosarcoma",
+      "Wilms Tumor",
+      "CNS, ependymoma",
+      "CNS, glioblastoma (GBM)",
+      "CNS, low grade glioma (LGG)",
+      "CNS, medulloblastoma",
+      "CNS, other",
+      "CNS, rhabdoid tumor",
+      "Ewing sarcoma",
+      "NHL, Burkitt lymphoma (BL)",
+      "NHL, anaplastic large cell lymphoma",
+      "Non cancerous tissue",
+      "Rhabdomyosarcoma",
+      "Soft tissue sarcoma, non-rhabdomyosarcoma"
+    ]
+  },
+  "TCGA and TARGET Pan-Cancer (PANCAN)": {
+    "composite_cohots": [
+      "TARGET Pan-Cancer (PANCAN)",
+      "TCGA Pan-Cancer (PANCAN)"
+    ]
+  },
+  "TCGA TARGET GTEx": {
+    "composite_cohots": [
+      "TARGET Pan-Cancer (PANCAN)",
+      "TCGA Pan-Cancer (PANCAN)",
+      "GTEX"
+    ]
+  },
+  "ICGC (donor centric)": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor",
+      "Adult",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
+    ],
+    "code": [
+      "ALL-US",
+      "AML-US",
+      "BLCA-CN",
+      "BLCA-US",
+      "BOCA-FR",
+      "BOCA-UK",
+      "BRCA-EU",
+      "BRCA-FR",
+      "BRCA-KR",
+      "BRCA-UK",
+      "BRCA-US",
+      "BTCA-JP",
+      "CCSK-US",
+      "CESC-US",
+      "CLLE-ES",
+      "CMDI-UK",
+      "COAD-US",
+      "COCA-CN",
+      "EOPC-DE",
+      "ESAD-UK",
+      "ESCA-CN",
+      "GACA-CN",
+      "GBM-US",
+      "HNSC-US",
+      "KIRC-US",
+      "KIRP-US",
+      "LAML-CN",
+      "LAML-KR",
+      "LAML-US",
+      "LGG-US",
+      "LIAD-FR",
+      "LICA-CN",
+      "LICA-FR",
+      "LIHC-US",
+      "LIHM-FR",
+      "LINC-JP",
+      "LIRI-JP",
+      "LUAD-US",
+      "LUSC-CN",
+      "LUSC-KR",
+      "LUSC-US",
+      "MALY-DE",
+      "MELA-AU",
+      "NBL-US",
+      "ORCA-IN",
+      "OV-AU",
+      "OV-US",
+      "PAAD-US",
+      "PACA-AU",
+      "PACA-CA",
+      "PAEN-AU",
+      "PAEN-IT",
+      "PBCA-DE",
+      "PRAD-CA",
+      "PRAD-UK",
+      "PRAD-US",
+      "READ-US",
+      "RECA-CN",
+      "RECA-EU",
+      "SKCA-BR",
+      "SKCM-US",
+      "STAD-US",
+      "THCA-SA",
+      "THCA-US",
+      "UCEC-US",
+      "WT-US"
+    ],
+    "raw": [
+      "Bladder",
+      "Blood",
+      "Bone",
+      "Brain",
+      "Breast",
+      "Cervix",
+      "Colorectal",
+      "Esophagus",
+      "Gall Bladder",
+      "Head and neck",
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Nervous System",
+      "Ovary",
+      "Pancreas",
+      "Prostate",
+      "Skin",
+      "Stomach",
+      "Uterus",
+      "Biliary Tract cancer : Multiple histological subtypes",
+      "Bladder cancer : Invasive Urothelial Bladder cancer",
+      "Bladder cancer : Urothelial carcinoma",
+      "Blood cancer : Acute Myeloid Leukemia",
+      "Blood cancer : Acute lymphoblastic leukemia",
+      "Blood cancer : Acute myeloid leukaemia",
+      "Blood cancer : Acute myeloid leukaemia & Chronic myelogenous leukaemia",
+      "Bone cancer : Ewing sarcoma",
+      "Bone cancer : Osteosarcoma / chondrosarcoma / rare subtypes",
+      "Brain cancer : Glioblastoma multiforme",
+      "Brain cancer : Lower grade glioma",
+      "Breast cancer : Asian phenotype",
+      "Breast cancer : Ductal & lobular",
+      "Breast cancer : ER+ve, HER2-ve",
+      "Breast cancer : Subtype defined by an amplification of the HER2 gene",
+      "Breast cancer : Triple Negative/lobular/other",
+      "Cervical cancer : Cervical squamous cell carcinoma",
+      "Chronic Lymphocytic Leukemia : CLL with mutated and unmutated IgVH",
+      "Chronic Myeloid Disorders : Myelodysplastic Syndromes, Myeloproliferative Neoplasms & Other Chronic Myeloid Malignancies",
+      "Colon cancer : Adenocarcinoma",
+      "Colorectal cancer : Adenocarcinoma, non-Western",
+      "Endometrial cancer : Uterine corpus endometrial carcinoma",
+      "Esophageal cancer : Esophageal adenocarcinoma",
+      "Esophageal cancer : Squamous carcinoma",
+      "Gastric cancer : Adenocarcinoma",
+      "Gastric cancer : Intestinal- and diffuse-type",
+      "Head and Neck cancer : Squamous cell carcinoma",
+      "Head and Neck cancer : Thyroid carcinoma",
+      "Liver cancer : Hepatocellular adenoma",
+      "Liver cancer : Hepatocellular carcinoma",
+      "Liver cancer : Hepatocellular carcinoma (Secondary to alcohol and adiposity)",
+      "Liver cancer : Hepatocellular carcinoma (Virus associated)",
+      "Liver cancer : Hepatocellular carcinoma HBV-associated",
+      "Lung cancer : Adenocarcinoma",
+      "Lung cancer : Adenocarcinoma, Squamous cell carcinoma",
+      "Lung cancer : Squamous cell carcinoma",
+      "Malignant Lymphoma : Germinal center B-cell derived lymphomas",
+      "Melanoma",
+      "Oral cancer : Gingivobuccal",
+      "Ovarian cancer : Serous cystadenocarcinoma",
+      "Pancreatic cancer : Adenocarcinoma",
+      "Pancreatic cancer : Ductal adenocarcinoma",
+      "Pancreatic cancer : Endocrine neoplasms",
+      "Pediatric Brain Tumors : Medulloblastoma & Pediatric Pilocytic Astrocytoma",
+      "Pediatric Solid Tumor : Neuroblastoma",
+      "Prostate cancer : Adenocarcinoma",
+      "Prostate cancer : Early Onset",
+      "Rare Pancreatic Tumors : Enteropancreatic endocrine tumors and rare pancreatic exocrine tumors",
+      "Rectal cancer : Adenocarcinoma",
+      "Renal cancer : Clear cell carcinoma",
+      "Renal cancer : Clear cell renal cell carcinoma",
+      "Renal cancer : Clear cell sarcoma",
+      "Renal cancer : Papillary carcinoma",
+      "Renal cancer : Renal cell carcinoma (Focus on but not limited to clear cell subtype)",
+      "Renal cancer : Wilms Tumor",
+      "Skin cancer : Cutaneous melanoma",
+      "Skin cancer : Melanoma",
+      "Thyroid cancer : Papillary thyroid carcinoma"
+    ]
+  },
+  "ICGC (specimen centric)": {
+    "composite_cohots": [
+      "ICGC (donor centric)"
+    ]
+  },
+  "ICGC (US donors with both RNA and SNV data)": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor",
+      "Adult"
+    ],
+    "code": [
+      "BLCA-US",
+      "BRCA-US",
+      "CESC-US",
+      "COAD-US",
+      "GBM-US",
+      "KIRC-US",
+      "KIRP-US",
+      "LGG-US",
+      "LIHC-US",
+      "LUSC-US",
+      "OV-US",
+      "PRAD-US",
+      "READ-US",
+      "SKCM-US",
+      "STAD-US",
+      "THCA-US",
+      "UCEC-US"
+    ],
+    "raw": [
+      "Bladder",
+      "Brain",
+      "Breast",
+      "Cervix",
+      "Colorectal",
+      "Head and neck",
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Ovary",
+      "Prostate",
+      "Skin",
+      "Stomach",
+      "Uterus",
+      "Bladder cancer : Invasive Urothelial Bladder cancer",
+      "Brain cancer : Glioblastoma multiforme",
+      "Brain cancer : Lower grade glioma",
+      "Breast cancer : Ductal & lobular",
+      "Cervical cancer : Cervical squamous cell carcinoma",
+      "Colon cancer : Adenocarcinoma",
+      "Endometrial cancer : Uterine corpus endometrial carcinoma",
+      "Gastric cancer : Adenocarcinoma",
+      "Head and Neck cancer : Thyroid carcinoma",
+      "Liver cancer : Hepatocellular carcinoma",
+      "Lung cancer : Squamous cell carcinoma",
+      "Ovarian cancer : Serous cystadenocarcinoma",
+      "Prostate cancer : Adenocarcinoma",
+      "Rectal cancer : Adenocarcinoma",
+      "Renal cancer : Clear cell carcinoma",
+      "Renal cancer : Papillary carcinoma",
+      "Skin cancer : Cutaneous melanoma"
+    ]
+  },
+  "PACA-AU": {
+    "tag": [
+      "pancreatic cancer",
+      "Pancreas",
+      "Tumor"
+    ],
+    "raw": [
+      "Pancreatic Cancer - Ductal adenocarcinoma"
     ]
   }
 }
