@@ -27,8 +27,8 @@ def processTumorType(file):
 		obj={}
 		data = string.split(line[:-1],'\t')
 		for i in range (0, min(len(headers), len(data))):
-			if data[i] != "" and headers[i] != "metacolor":
-				if headers[i] == "metanci" or headers[i] == "metauml":
+			if data[i] != "" and headers[i] != "metacolor" and headers[i] != "metaumls":
+				if headers[i] == "metanci":
 					obj[headers[i]] = data[i]
 				else:
 					obj[headers[i]]  = map(lambda x: string.strip(x), decomposeEntry(data[i]))
@@ -79,7 +79,8 @@ def buildNewJson (originalJson, oncoTreeDic):
 		#clean up
 		tagDic[cohort] = list(set(i.title() for i in tagDic[cohort]))
 		tagDic[cohort] = filter(None, tagDic[cohort])
-		tagDic[cohort] = filter(lambda x: x not in ["And", "But", "By", "An", "The", "A", '-', ':'], tagDic[cohort])
+		tagDic[cohort] = filter(lambda x: x not in 
+			["And", "But", "By", "An", "The", "A", "Of", "In", '-', ':', '+'], tagDic[cohort])
 		tagDic[cohort].sort()
 
 	return tagDic
