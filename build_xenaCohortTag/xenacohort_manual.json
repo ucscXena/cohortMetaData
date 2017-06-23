@@ -1098,5 +1098,20 @@
     "composite_cohots": [
       "PCAWG (donor centric)"
     ]
+  },
+  "TCGA PancanAtlas": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "tumor",
+      "Adult",
+      "Pancan Atlas"
+    ],
+    "composite_cohots": [
+      "TCGA Pan-Cancer (PANCAN)"
+    ]
   }
 }

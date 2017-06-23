@@ -85,6 +85,15 @@ def buildNewJson (originalJson, oncoTreeDic):
 
 	return tagDic
 
+def extendSubCohort(cohort, originalJson, inputJ):
+	if originalJson[cohort].has_key("composite_cohots"):
+		tags = []
+		for sub_cohort in originalJson[cohort]["composite_cohots"]:
+			tags.extend(extendSubCohort(sub_cohort, originalJson, inputJ))
+		return tags
+	else:
+		return inputJ[cohort]
+
 def buildNewJsonWithCompositeCohort(originalJson, inputJ):
 	for cohort in originalJson.keys():
 		if cohort == "_comment":
@@ -96,7 +105,7 @@ def buildNewJsonWithCompositeCohort(originalJson, inputJ):
 			tag = inputJ[cohort]
 
 			for sub_cohort in originalObj["composite_cohots"]:
-				tag.extend(inputJ[sub_cohort])
+				tag.extend(extendSubCohort(sub_cohort, originalJson, inputJ))
 
 			#clean up
 			tag = list(set(i.title() for i in tag))
