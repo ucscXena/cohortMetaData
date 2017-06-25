@@ -388,7 +388,7 @@
       "tumor",
       "Adult"
     ],
-    "composite_cohots": [
+    "composite_cohorts": [
       "TCGA Liver Cancer (LIHC)",
       "TCGA Cervical Cancer (CESC)",
       "TCGA Sarcoma (SARC)",
@@ -593,13 +593,13 @@
     ]
   },
   "TCGA and TARGET Pan-Cancer (PANCAN)": {
-    "composite_cohots": [
+    "composite_cohorts": [
       "TARGET Pan-Cancer (PANCAN)",
       "TCGA Pan-Cancer (PANCAN)"
     ]
   },
   "TCGA TARGET GTEx": {
-    "composite_cohots": [
+    "composite_cohorts": [
       "TARGET Pan-Cancer (PANCAN)",
       "TCGA Pan-Cancer (PANCAN)",
       "GTEX"
@@ -769,7 +769,7 @@
     ]
   },
   "ICGC (specimen centric)": {
-    "composite_cohots": [
+    "composite_cohorts": [
       "ICGC (donor centric)"
     ]
   },
@@ -1095,7 +1095,7 @@
     ]
   },
   "PCAWG (specimen centric)": {
-    "composite_cohots": [
+    "composite_cohorts": [
       "PCAWG (donor centric)"
     ]
   },
@@ -1110,8 +1110,407 @@
       "Adult",
       "Pancan Atlas"
     ],
-    "composite_cohots": [
+    "composite_cohorts": [
       "TCGA Pan-Cancer (PANCAN)"
+    ]
+  },
+  "Pancreatic Cancer (Jones 2008)": {
+    "tag": [
+      "Tumor",
+      "Pancreas"
+    ]
+  },
+  "Breast Cancer (Yau 2010)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Breast Cancer Cell Lines (Neve 2006)": {
+    "tag": [
+      "Cell line"
+    ]
+  },
+  "Breast Cancer Cell Lines (Heiser 2012)": {
+    "tag": [
+      "Cell line"
+    ]
+  },
+  "1000_genomes": {
+    "tag": [
+      "Healthy",
+      "Normal",
+      "Germline",
+      "one thousand",
+      "genome"
+    ]
+  },
+  "Treehouse - St Jude PCGP pan-cancer": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
+    ]
+  },
+  "Breast Cancer (Caldas 2007)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Mouse and Human Colon Tumors (Kaiser 2007)": {
+    "tag": [
+      "Tumor",
+      "Cancer",
+      "large intestine",
+      "Bowel"
+    ]
+  },
+  "Lung Adenocarcinoma (Ding 2008)": {
+    "metanci": [
+      "C3512"
+    ],
+    "tag": [
+      "Tumor",
+      "Cancer"
+    ]
+  },
+  "Cancer Cell Line Encyclopedia": {
+    "code": [
+      "CCLE"
+    ],
+    "tag": [
+      "Cell lines"
+    ]
+  },
+  "NCI60": {
+    "tag": [
+      "Cell Line",
+      "Cell Lines"
+    ]
+  },
+  "Single-cell RNA-seq mouse cortex (Zeisel)": {
+    "tag": [
+      "Single Cell",
+      "Brain",
+      "CNS",
+      "Normal"
+    ]
+  },
+  "Lung Cancer (Raponi 2006)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Melanoma (Lin 2008)": {
+    "metanci": [
+      "C3224"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Skin"
+    ]
+  },
+  "Pancreatic Cancer (Harada 2008)": {
+    "tag": [
+      "Tumor",
+      "Pancreas"
+    ]
+  },
+  "Treehouse - TARGET neuroblastoma": {
+    "metanci": [
+      "C3270"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "NBL",
+      "Adrenal gland"
+    ]
+  },
+  "pancreatic Cancer (Harada 2008)": {
+    "tag": [
+      "Tumor",
+      "Pancreas"
+    ]
+  },
+  "Treehouse - Neuroblastoma (Sausen 2013)": {
+    "metanci": [
+      "C3270"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "NBL",
+      "Adrenal gland"
+    ]
+  },
+  "Breast Cancer (Miller 2005)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Breast Cancer (vantVeer 2002)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Breast Cancer (Vijver 2002)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "POG TCGA TARGET_NBL": {
+    "metanci": [
+      "C3270"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "NBL",
+      "Adrenal gland",
+      "TARGET",
+      "TCGA"
+    ],
+    "composite_cohorts": [
+      "TCGA Pan-Cancer (PANCAN)"
+    ]
+  },
+  "Pancreatic Cancer (Balagurunathan 2008)": {
+    "tag": [
+      "Tumor",
+      "Pancreas"
+    ]
+  },
+  "Lung Cancer CGH (Weir 2007)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "B cells (Basso 2005)": {
+    "tag": [
+      "B-cell",
+      "Cancer",
+      "Tumor",
+      "Blood",
+      "White Blood Cell"
+    ]
+  },
+  "Connectivity Map": {
+    "code": [
+      "CMAP"
+    ],
+    "tag": [
+      "Cell line",
+      "Cell lines"
+    ]
+  },
+  "Treehouse - Pediatric tumor (Khan)": {
+    "tag": [
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
+    ]
+  },
+  "Glioma (Kotliarov 2006)": {
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Brain",
+      "CNS"
+    ]
+  },
+  "Treehouse - MAGIC": {
+    "metanci": [
+      "C3222"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "Brain",
+      "CNS",
+      "Medulloblastoma"
+    ]
+  },
+  "Inbred mouse (Cutler 2007)": {
+    "tag": []
+  },
+  "Node-negative breast cancer (Desmedt 2007)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "GBM (Parsons 2008)": {
+    "metanci": [
+      "C3058"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Brain",
+      "CNS",
+      "Glioblastoma Multiforme"
+    ]
+  },
+  "Treehouse - Ewing Sarcoma Family of Tumors (Brohl 2014)": {
+    "metanci": [
+      "C4835"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
+    ]
+  },
+  "lymph-node-negative breast cancer (Wang 2005)": {
+    "tag": [
+      "node-negative",
+      "Tumor"
+    ]
+  },
+  "Mouse Tumors (Maser 2007)": {
+    "tag": [
+      "Cancer"
+    ]
+  },
+  "Treehouse - DIPG and Pediatric Non-Brainstem High-Grade Glioma (Wu 2014, St Jude)": {
+    "metanci": [
+      "C94764"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "Brain",
+      "CNS",
+      "High Grade"
+    ]
+  },
+  "Breast Cancer (Chin 2006)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Treehouse - Neuroblastoma (Khan)": {
+    "metanci": [
+      "C3270"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "Brain",
+      "CNS",
+      "NBL",
+      "Adrenal Gland"
+    ]
+  },
+  "Ovarian Cancer (Etemadmoghadam 2009)": {
+    "tag": [
+      "Tumor",
+      "OV",
+      "Ovary",
+      "Germ cell"
+    ]
+  },
+  "Treehouse - TARGET Acute Lymphoblastic Leukemia": {
+    "metanci": [
+      "C3167"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "Blood",
+      "ALL"
+    ]
+  },
+  "Treehouse - Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": {
+    "metanci": [
+      "C94764"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids",
+      "DIPG",
+      "Brain",
+      "CNS"
+    ]
+  },
+  "Breast Cancer (Hess 2006)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Acute lymphoblastic leukemia (Mullighan 2008)": {
+    "metanci": [
+      "C3167"
+    ],
+    "tag": [
+      "ALL",
+      "Cancer",
+      "Tumor",
+      "Blood"
+    ]
+  },
+  "Mouse pancreatic adenocarcinoma (Bardeesy 2006)": {
+    "metanci": [
+      "C8294"
+    ],
+    "tag": [
+      "Cancer",
+      "Tumor",
+      "Pancreas"
+    ]
+  },
+  "Breast Cancer (Haverty 2008)": {
+    "tag": [
+      "Tumor"
     ]
   }
 }

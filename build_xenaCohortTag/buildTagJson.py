@@ -1,5 +1,4 @@
 import string, json, sys, re
-import itertools
 
 def flatten(A):
     rt = []
@@ -86,9 +85,9 @@ def buildNewJson (originalJson, oncoTreeDic):
 	return tagDic
 
 def extendSubCohort(cohort, originalJson, inputJ):
-	if originalJson[cohort].has_key("composite_cohots"):
+	if originalJson[cohort].has_key("composite_cohorts"):
 		tags = []
-		for sub_cohort in originalJson[cohort]["composite_cohots"]:
+		for sub_cohort in originalJson[cohort]["composite_cohorts"]:
 			tags.extend(extendSubCohort(sub_cohort, originalJson, inputJ))
 		return tags
 	else:
@@ -101,10 +100,10 @@ def buildNewJsonWithCompositeCohort(originalJson, inputJ):
 
 		originalObj = originalJson[cohort]
 
-		if originalObj.has_key("composite_cohots"):
+		if originalObj.has_key("composite_cohorts"):
 			tag = inputJ[cohort]
 
-			for sub_cohort in originalObj["composite_cohots"]:
+			for sub_cohort in originalObj["composite_cohorts"]:
 				tag.extend(extendSubCohort(sub_cohort, originalJson, inputJ))
 
 			#clean up
