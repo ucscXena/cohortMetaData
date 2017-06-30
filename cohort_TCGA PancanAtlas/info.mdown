@@ -1,0 +1,5 @@
+## [TCGA PanCanAtlas](https://www.cancer.gov/about-nci/organization/ccg/blog/2017/tcga-pancan-atlas)
+
+As its concluding project, The Cancer Genome Atlas (TCGA) Research Network will complete the most comprehensive cross-cancer analysis to date: The Pan-Cancer Atlas (PanCanAtlas).
+
+Building on the success of the pan-cancer 12, TCGA is now poised to generate an even more comprehensive resource. The PanCanAtlas will study the complete set of TCGA data, which catalogues the alterations in DNA, epigenetics, and gene expression in more than 11,000 patient cases across 33 tumor types. Some cases also include whole genome sequencing and protein expression analysis.
