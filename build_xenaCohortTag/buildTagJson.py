@@ -7,6 +7,11 @@ def flatten(A):
         else: rt.append(i)
     return rt
 
+def customTitleCase(word):
+	if word == word.upper():
+		return word
+	return word.title() 
+
 # less chopping
 def decomposeEntry(A):
 	return map(lambda x: string.strip(x),
@@ -76,7 +81,7 @@ def buildNewJson (originalJson, oncoTreeDic):
 			tagDic[cohort].extend(obj["code"])
 
 		#clean up
-		tagDic[cohort] = list(set(i.title() for i in tagDic[cohort]))
+		tagDic[cohort] = list(set(customTitleCase(i) for i in tagDic[cohort]))
 		tagDic[cohort] = filter(None, tagDic[cohort])
 		tagDic[cohort] = filter(lambda x: x not in 
 			["And", "But", "By", "An", "The", "A", "Of", "In", '-', ':', '+'], tagDic[cohort])
@@ -107,7 +112,7 @@ def buildNewJsonWithCompositeCohort(originalJson, inputJ):
 				tag.extend(extendSubCohort(sub_cohort, originalJson, inputJ))
 
 			#clean up
-			tag = list(set(i.title() for i in tag))
+			tag = list(set(customTitleCase(i) for i in tag))
 			tag.sort()
 			inputJ[cohort] = tag
 	return inputJ
