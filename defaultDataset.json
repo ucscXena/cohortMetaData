@@ -1,0 +1,575 @@
+{
+    "TCGA Liver Cancer (LIHC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LIHC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LIHC.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LIHC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA TARGET GTEx": {
+        "gene expression": {
+            "host": "https://toil.xenahubs.net", 
+            "dataset": "TcgaTargetGtex_rsem_gene_tpm"
+        }
+    }, 
+    "TCGA Cervical Cancer (CESC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CESC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CESC.sampleMap/mutation_curated_wustl"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CESC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Sarcoma (SARC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SARC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SARC.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SARC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Thymoma (THYM)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THYM.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THYM.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THYM.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Mesothelioma (MESO)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.MESO.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.MESO.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.MESO.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Pancreatic Cancer (PAAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PAAD.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PAAD.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PAAD.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Ocular melanomas (UVM)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UVM.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UVM.sampleMap/mutation_curated_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UVM.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "GTEX": {
+        "gene expression": {
+            "host": "https://toil.xenahubs.net", 
+            "dataset": "gtex_RSEM_gene_tpm"
+        }
+    }, 
+    "TCGA Rectal Cancer (READ)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.READ.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.READ.sampleMap/mutation_bcm"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.READ.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Lung Cancer (LUNG)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUNG.sampleMap/HiSeqV2"
+        }
+    }, 
+    "TCGA Lung Squamous Cell Carcinoma (LUSC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUSC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUSC.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUSC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Stomach Cancer (STAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.STAD.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.STAD.sampleMap/mutation_curated_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.STAD.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.GBMLGG.sampleMap/HiSeqV2"
+        }
+    }, 
+    "TCGA Colon Cancer (COAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.COAD.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.COAD.sampleMap/mutation_bcm"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.COAD.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TARGET Pan-Cancer (PANCAN)": {
+        "gene expression": {
+            "host": "https://toil.xenahubs.net", 
+            "dataset": "target_RSEM_gene_tpm"
+        }
+    }, 
+    "ICGC (US donors with both RNA and SNV data)": {
+        "gene expression": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "exp_seq_donor_US_log2.RNASNV"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "simple_somatic_mutation.open.donor.xena.hasRNASNV"
+        }, 
+        "copy number": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "CNV.SNP6.donor.RNASNV.xena"
+        }
+    }, 
+    "TCGA Lower Grade Glioma (LGG)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LGG.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LGG.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LGG.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Thyroid Cancer (THCA)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THCA.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THCA.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.THCA.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Kidney Chromophobe (KICH)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KICH.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KICH.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KICH.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRP.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRP.sampleMap/mutation_bcm"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRP.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Colon and Rectal Cancer (COADREAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.COADREAD.sampleMap/HiSeqV2"
+        }
+    }, 
+    "TCGA Bile Duct Cancer (CHOL)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CHOL.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CHOL.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.CHOL.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Glioblastoma (GBM)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.GBM.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.GBM.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.GBM.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Lung Adenocarcinoma (LUAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUAD.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUAD.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LUAD.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Ovarian Cancer (OV)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.OV.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.OV.sampleMap/mutation_wustl"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.OV.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRC.sampleMap/mutation_bcm"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.KIRC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Endometrioid Cancer (UCEC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCEC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCEC.sampleMap/mutation_wustl"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCEC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Head and Neck Cancer (HNSC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.HNSC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.HNSC.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.HNSC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA PANCAN12 (PANCAN12)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PANCAN12.sampleMap/PanCan12.3602-corrected-v3_syn1715755"
+        }
+    }, 
+    "TCGA Adrenocortical Cancer (ACC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ACC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ACC.sampleMap/mutation_curated_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ACC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Prostate Cancer (PRAD)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PRAD.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PRAD.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PRAD.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Uterine Carcinosarcoma (UCS)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCS.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCS.sampleMap/mutation_curated_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.UCS.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Melanoma (SKCM)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SKCM.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SKCM.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.SKCM.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PCPG.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PCPG.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PCPG.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Pan-Cancer (PANCAN)": {
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PANCAN.sampleMap/SNP6_nocnv_genomicSegment"
+        }, 
+        "gene expression": {
+            "host": "https://toil.xenahubs.net", 
+            "dataset": "tcga_RSEM_gene_tpm"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.PANCAN.sampleMap/mutation_broad"
+        }
+    }, 
+    "TCGA Breast Cancer (BRCA)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BRCA.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BRCA.sampleMap/mutation_curated_wustl"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BRCA.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Testicular Cancer (TGCT)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.TGCT.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.TGCT.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.TGCT.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "PACA-AU": {
+        "gene expression": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "PACA-AU/nature16965-s2_normalised_exp.txt"
+        }
+    }, 
+    "TCGA Acute Myeloid Leukemia (LAML)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LAML.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LAML.sampleMap/mutation_wustl"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.LAML.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": {}, 
+    "TCGA Large B-cell Lymphoma (DLBC)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.DLBC.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.DLBC.sampleMap/mutation_bcm"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.DLBC.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA Bladder Cancer (BLCA)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BLCA.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BLCA.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.BLCA.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "TCGA and TARGET Pan-Cancer (PANCAN)": {
+        "gene expression": {
+            "host": "https://toil.xenahubs.net", 
+            "dataset": "tcga_target_no_normal_rsem_gene_tpm"
+        }
+    }, 
+    "TCGA Esophageal Cancer (ESCA)": {
+        "gene expression": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ESCA.sampleMap/HiSeqV2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ESCA.sampleMap/mutation_broad"
+        }, 
+        "copy number": {
+            "host": "https://tcga.xenahubs.net", 
+            "dataset": "TCGA.ESCA.sampleMap/SNP6_nocnv_genomicSegment"
+        }
+    }, 
+    "ICGC (donor centric)": {
+        "gene expression": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "exp_seq_donor_US_log2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "SNV.donor.codingMutation-allProjects"
+        }, 
+        "copy number": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "CNV.SNP6.donor.xena"
+        }
+    }, 
+    "ICGC (specimen centric)": {
+        "gene expression": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "exp_seq_specimen_US_log2"
+        }, 
+        "simple somatic mutation": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "SNV.sp.codingMutation-allProjects"
+        }, 
+        "copy number": {
+            "host": "https://icgc.xenahubs.net", 
+            "dataset": "CNV.SNP6.sp.xena"
+        }
+    }
+}
