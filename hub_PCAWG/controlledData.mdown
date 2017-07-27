@@ -1,16 +1,14 @@
 ## Xena Visualization of Controlled-access PCAWG-1 Concensus Somatic SNV, MNV, INDELs
 
-Because US donors non-coding PCAWG somatic SNV, MNV, INDELs are controlled access data, you need to leverage Xena **PRIVATE DATA HUB**.
+Because US donors non-coding PCAWG somatic SNV, MNV, INDELs are controlled access data, you need to leverage Xena **PRIVATE DATA HUB** to visualize this data.
 
-1. Authorized users can download Xena-ready PCAWG-1 simple somatic mutation calls derived from the US donnors
+1. Authorized users download Xena-ready PCAWG-1 simple somatic mutation calls derived from the US donnors, then uncompress the downloaded files
  * Donor-centric data [syn8093890](https://www.synapse.org/#!Synapse:syn8093890)
  * Specimen-centric data [syn8093939](https://www.synapse.org/#!Synapse:syn8093939)
 
-2. Uncompress the downloaded .zip files
-
-3. Install Xena private data hub, or initiate your hub if you have one installed
+2. Install Xena private data hub, or initiate your hub if you have one installed
 Easy to install on your own computer (e.g. laptop), please follow instructions here: http://xena.ucsc.edu/private-hubs/
 
-4. Use the Xena data import tool to import the downloaded somatic SNV MVN INDEL xena file (step 1) into your private hub
+3. Use the Xena data import tool to import the downloaded somatic SNV MVN INDEL xena file (step 1) into your private hub
 
-5. Get-started using the visualization app: http://xena.ucsc.edu/getting-started/,  choose **PCAWG** cohorts for visualization
+4. Get-started using the Xena visualization: http://xena.ucsc.edu/getting-started/,  choose **PCAWG** cohorts for visualization
