@@ -3,8 +3,9 @@
 Because US donors non-coding PCAWG somatic SNV, MNV, INDELs are controlled access data, you need to leverage Xena **PRIVATE DATA HUB**.
 
 1. Download Xena-ready PCAWG-1 simple somatic mutation calls derived from the US donnors.
-  * Donor-centric data [syn8093890](https://www.synapse.org/#!Synapse:syn8093890)
-  * Specimen-centric data [syn8093939](https://www.synapse.org/#!Synapse:syn8093939)
+  If you are authorized, you can download these data from Synapse
+  * Donor-centric data [syn8093890](https://www.synapse.org/#!Synapse:syn8093890) . 
+  * Specimen-centric data [syn8093939](https://www.synapse.org/#!Synapse:syn8093939)
 
 2. Uncompress the downloaded .zip files
 
