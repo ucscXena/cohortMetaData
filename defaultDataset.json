@@ -571,5 +571,11 @@
             "host": "https://icgc.xenahubs.net", 
             "dataset": "CNV.SNP6.sp.xena"
         }
+    },
+    "Treehouse public expression dataset (July 2017)": {
+        "gene expression": {
+            "host": "https://treehouse.xenahubs.net",
+            "dataset": "treehouse_public_samples_unique_ensembl_expected_count.2017-09-11.tsv"
+        }
     }
 }
