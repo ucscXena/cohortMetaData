@@ -575,7 +575,7 @@
     "Treehouse public expression dataset (July 2017)": {
         "gene expression": {
             "host": "https://treehouse.xenahubs.net",
-            "dataset": "treehouse_public_samples_unique_ensembl_expected_count.2017-09-11.tsv"
+            "dataset": "treehouse_public_samples_unique_hugo_log2_tpm_plus_1.2017-09-11.tsv"
         }
     }
 }
