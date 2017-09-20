@@ -440,7 +440,7 @@
         }, 
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "tcga_RSEM_gene_tpm"
+            "dataset": "tcga_RSEM_Hugo_norm_count"
         }, 
         "simple somatic mutation": {
             "host": "https://tcga.xenahubs.net", 
