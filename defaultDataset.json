@@ -527,7 +527,7 @@
     "TCGA and TARGET Pan-Cancer (PANCAN)": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "tcga_target_no_normal_rsem_gene_tpm"
+            "dataset": "tcga_target_no_normal_RSEM_hugo_norm_count"
         }
     }, 
     "TCGA Esophageal Cancer (ESCA)": {
