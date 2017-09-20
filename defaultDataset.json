@@ -16,7 +16,7 @@
     "TCGA TARGET GTEx": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "TcgaTargetGtex_rsem_gene_tpm"
+            "dataset": "TcgaTargetGtex_RSEM_Hugo_norm_count"
         }
     }, 
     "TCGA Cervical Cancer (CESC)": {
