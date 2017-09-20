@@ -180,7 +180,7 @@
     "TARGET Pan-Cancer (PANCAN)": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "target_RSEM_gene_tpm"
+            "dataset": "target_RSEM_Hugo_norm_count"
         }
     }, 
     "ICGC (US donors with both RNA and SNV data)": {
