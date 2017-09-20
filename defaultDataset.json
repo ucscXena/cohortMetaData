@@ -106,7 +106,7 @@
     "GTEX": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "gtex_RSEM_gene_tpm"
+            "dataset": "gtex_RSEM_Hugo_norm_count"
         }
     }, 
     "TCGA Rectal Cancer (READ)": {
