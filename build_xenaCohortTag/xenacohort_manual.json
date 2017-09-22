@@ -849,301 +849,34 @@
       "Pancreatic Cancer - Ductal adenocarcinoma"
     ]
   },
-  "PCAWG (donor centric)": {
-    "tag": [
-      "Pancan",
-      "Pan Cancer",
-      "Pan-cancer",
-      "pancancer",
-      "Cancer",
-      "tumor",
-      "Adult",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "Whole genome",
-      "ICGC"
-    ],
-    "raw": [
-      "Acinar cell carcinoma",
-      "Acute myeloid leukemia",
-      "Acute myeloid leukemia, Chronic myelomonocytic leukemia",
-      "Acute myeloid leukemia, Essential thrombocythemia",
-      "Acute myeloid leukemia, Myelodysplastic syndrome",
-      "Acute myeloid leukemia, Myeloproliferative neoplasm",
-      "Acute myeloid leukemia, Polycythemia vera",
-      "Acute myeloid leukemia, Primary myelofibrosis",
-      "Acute myeloid leukemia, Systemic mastocytosis",
-      "Adamantinoma",
-      "Adenocarcinoma",
-      "Adenocarcinoma, Hepatocellular carcinoma",
-      "Adenocarcinoma, Serous cystadenocarcinoma",
-      "Adenocarcinoma, chromophobe type",
-      "Adenocarcinoma, classical type",
-      "Adenocarcinoma, clear cell type",
-      "Adenocarcinoma, columnar cell type",
-      "Adenocarcinoma, endometrioid",
-      "Adenocarcinoma, follicular type",
-      "Adenocarcinoma, in situ",
-      "Adenocarcinoma, invasive",
-      "Adenocarcinoma, invasive, mucinous",
-      "Adenocarcinoma, mucinous",
-      "Adenocarcinoma, papillary",
-      "Adenocarcinoma, papillary type",
-      "Adenocarcinoma, poorly cohesive",
-      "Adenocarcinoma, tubular",
-      "Anaplastic carcinoma",
-      "BLOOD, BONE MARROW, & HEMATOPOIETIC SYS",
-      "BONES & JOINTS",
-      "BRAIN, & CRANIAL NERVES, & SPINAL CORD, (EXCL. VENTRICLE, CEREBELLUM)",
-      "BREAST",
-      "Basaloid squamous cell carcinoma",
-      "Biliary",
-      "Biliary, Liver",
-      "Bladder",
-      "Bone neoplasm, benign",
-      "Bone neoplasm, epithelioid",
-      "Bone/SoftTissue",
-      "Breast",
-      "Burkitt lymphoma",
-      "CERVIX UTERI",
-      "CNS",
-      "Carcinoma, adenosquamous",
-      "Cartilaginous neoplasm, benign, bone",
-      "Cervix",
-      "Cholangiocarcinoma",
-      "Cholangiocarcinoma, Hepatocellular carcinoma",
-      "Cholangiocarcinoma, papillary",
-      "Chondroblastoma",
-      "Chordoma",
-      "Chrondromyxoid fibroma",
-      "Chronic lymphocytic leukemia",
-      "Colon/Rectum",
-      "Combined hepatocellular + cholangiocarcinoma",
-      "Desmoplastic medulloblastoma",
-      "Diffse large B-cell lymphoma",
-      "Diffuse glioma",
-      "Duct micropapillary carcinoma",
-      "ESOPHAGUS",
-      "Esophagus",
-      "Essential thrombocythemia",
-      "Fibrolamellar hepatocellular carcinoma",
-      "Follicular lymphoma",
-      "GALLBLADDER & EXTRAHEPATIC BILE DUCTS",
-      "GUM, FLOOR OF MOUTH, & OTHER MOUTH",
-      "Glioblastoma",
-      "Head/Neck",
-      "Hepatocellular carcinoma",
-      "In situ adenocarcinoma",
-      "Infiltrating duct carcinoma",
-      "Intraductal papillary adenocarcinoma with invasion",
-      "Invasive carcinoma arising in IPMN",
-      "Invasive carcinoma arising in IPMN, Pancreatic ductal carcinoma",
-      "KIDNEY",
-      "Kidney",
-      "LARGE INTESTINE, (EXCL. APPENDIX)",
-      "LIVER",
-      "LUNG & BRONCHUS",
-      "LYMPH NODES",
-      "Large cell medulloblastoma",
-      "Leiomyosarcoma",
-      "Liver",
-      "Lobular carcinoma",
-      "Lung",
-      "Lymphoid",
-      "Lymphoma, NOS",
-      "Malignant lymphoma, NOS",
-      "Malignant melanoma",
-      "Marginal zone B-cell lymphoma",
-      "Mature B-cell lymphoma",
-      "Medullary carcinonoma",
-      "Medulloblastoma",
-      "Melanoma",
-      "Mucinous adenocarcinoma",
-      "Myelodysplastic syndrome",
-      "Myelodysplastic syndrome with ring sideroblasts",
-      "Myeloid",
-      "Myeloproliferative neoplasm",
-      "Neoroendocrine carcinoma",
-      "Neuroendocrine tumor",
-      "Non-diffuse glioma",
-      "OVARY",
-      "Oligodendroglioma",
-      "Osteoblastoma",
-      "Osteofibrous dysplasia",
-      "Osteosarcoma",
-      "Ovary",
-      "PANCREAS",
-      "PROSTATE GLAND",
-      "Pancreas",
-      "Pancreatic ductal carcinoma",
-      "Phosphaturic mesenchymal tumour",
-      "Pilocytic astrocytoma",
-      "Polycythemia vera",
-      "Post-transplant lymphoproliferative disorder, early lesion",
-      "Prostate",
-      "RECTUM",
-      "Renal cell carcinoma (distal tubules)",
-      "Renal cell carcinoma (proximal tubules)",
-      "SKIN",
-      "STOMACH",
-      "Sarcoma, bone",
-      "Sarcoma, soft tissue",
-      "Serous cystadenocarcinoma",
-      "Skin",
-      "Squamous Cell Carcinoma",
-      "Squamous cell carcinoma",
-      "Stomach",
-      "THYROID GLAND",
-      "Thyroid",
-      "Transitional cell carcinoma",
-      "Transitional cell carcinoma, papillary",
-      "URINARY BLADDER",
-      "UTERUS, NOS",
-      "Uterus"
-    ],
+  "Cancer Cell Line Encyclopedia": {
     "code": [
-      "BLCA-US",
-      "BOCA-UK",
-      "BRCA-EU",
-      "BRCA-UK",
-      "BRCA-US",
-      "BTCA-SG",
-      "Biliary-AdenoCA",
-      "Biliary-AdenoCA, Liver-HCC",
-      "Bladder-TCC",
-      "Bone-Benign",
-      "Bone-Cart",
-      "Bone-Epith",
-      "Bone-Leiomyo",
-      "Bone-Osteoblast",
-      "Bone-Osteosarc",
-      "Breast-AdenoCA",
-      "Breast-DCIS",
-      "Breast-LobularCA",
-      "CESC-US",
-      "CLLE-ES",
-      "CMDI-UK",
-      "CNS-GBM",
-      "CNS-Medullo",
-      "CNS-Oligo",
-      "CNS-PiloAstro",
-      "COAD-US",
-      "Cervix-AdenoCA",
-      "Cervix-SCC",
-      "ColoRect-AdenoCA",
-      "DLBC-US",
-      "EOPC-DE",
-      "ESAD-UK",
-      "Eso-AdenoCA",
-      "GACA-CN",
-      "GBM-US",
-      "HNSC-US",
-      "Head-SCC",
-      "KICH-US",
-      "KIRC-US",
-      "KIRP-US",
-      "Kidney-ChRCC",
-      "Kidney-RCC",
-      "LAML-KR",
-      "LAML-US",
-      "LGG-US",
-      "LICA-FR",
-      "LIHC-US",
-      "LINC-JP",
-      "LIRI-JP",
-      "LUAD-US",
-      "LUSC-US",
-      "Liver-HCC",
-      "Lung-AdenoCA",
-      "Lung-SCC",
-      "Lymph-BNHL",
-      "Lymph-CLL",
-      "Lymph-NOS",
-      "MALY-DE",
-      "MELA-AU",
-      "Myeloid-AML",
-      "Myeloid-AML, Myeloid-MDS",
-      "Myeloid-AML, Myeloid-MPN",
-      "Myeloid-MDS",
-      "Myeloid-MPN",
-      "ORCA-IN",
-      "OV-AU",
-      "OV-US",
-      "Ovary-AdenoCA",
-      "PACA-AU",
-      "PACA-CA",
-      "PAEN-AU",
-      "PAEN-IT",
-      "PBCA-DE",
-      "PRAD-CA",
-      "PRAD-UK",
-      "PRAD-US",
-      "Panc-AdenoCA",
-      "Panc-Endocrine",
-      "Prost-AdenoCA",
-      "READ-US",
-      "RECA-EU",
-      "SARC-US",
-      "SKCM-US",
-      "STAD-US",
-      "Skin-Melanoma",
-      "Stomach-AdenoCA",
-      "THCA-US",
-      "Thy-AdenoCA",
-      "UCEC-US",
-      "Uterus-AdenoCA"
-    ]
-  },
-  "PCAWG (specimen centric)": {
-    "composite_cohorts": [
-      "PCAWG (donor centric)"
-    ]
-  },
-  "TCGA PancanAtlas": {
-    "tag": [
-      "Pancan",
-      "Pan Cancer",
-      "Pan-cancer",
-      "pancancer",
-      "Cancer",
-      "tumor",
-      "Adult",
-      "Pancan Atlas"
+      "CCLE"
     ],
-    "composite_cohorts": [
-      "TCGA Pan-Cancer (PANCAN)"
+    "tag": [
+      "Cell lines"
     ]
   },
-  "Pancreatic Cancer (Jones 2008)": {
+  "Single-cell RNA-seq mouse cortex (Zeisel)": {
     "tag": [
-      "Tumor",
-      "Pancreas"
+      "Single Cell",
+      "Brain",
+      "CNS",
+      "Normal"
+    ]
+  },
+  "Connectivity Map": {
+    "code": [
+      "CMAP"
+    ],
+    "tag": [
+      "Cell line",
+      "Cell lines"
     ]
   },
   "Breast Cancer (Yau 2010)": {
     "tag": [
       "Tumor"
-    ]
-  },
-  "Breast Cancer Cell Lines (Neve 2006)": {
-    "tag": [
-      "Cell line"
-    ]
-  },
-  "Breast Cancer Cell Lines (Heiser 2012)": {
-    "tag": [
-      "Cell line"
-    ]
-  },
-  "1000_genomes": {
-    "tag": [
-      "Healthy",
-      "Normal",
-      "Germline",
-      "one thousand",
-      "genome"
     ]
   },
   "Treehouse - St Jude PCGP pan-cancer": {
@@ -1158,71 +891,6 @@
       "Childhood",
       "Kid",
       "Kids"
-    ]
-  },
-  "Breast Cancer (Caldas 2007)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "Mouse and Human Colon Tumors (Kaiser 2007)": {
-    "tag": [
-      "Tumor",
-      "Cancer",
-      "large intestine",
-      "Bowel"
-    ]
-  },
-  "Lung Adenocarcinoma (Ding 2008)": {
-    "metanci": [
-      "C3512"
-    ],
-    "tag": [
-      "Tumor",
-      "Cancer"
-    ]
-  },
-  "Cancer Cell Line Encyclopedia": {
-    "code": [
-      "CCLE"
-    ],
-    "tag": [
-      "Cell lines"
-    ]
-  },
-  "NCI60": {
-    "tag": [
-      "Cell Line",
-      "Cell Lines"
-    ]
-  },
-  "Single-cell RNA-seq mouse cortex (Zeisel)": {
-    "tag": [
-      "Single Cell",
-      "Brain",
-      "CNS",
-      "Normal"
-    ]
-  },
-  "Lung Cancer (Raponi 2006)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "Melanoma (Lin 2008)": {
-    "metanci": [
-      "C3224"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Skin"
-    ]
-  },
-  "Pancreatic Cancer (Harada 2008)": {
-    "tag": [
-      "Tumor",
-      "Pancreas"
     ]
   },
   "Treehouse - TARGET neuroblastoma": {
@@ -1240,40 +908,15 @@
       "Adrenal gland"
     ]
   },
-  "pancreatic Cancer (Harada 2008)": {
+  "Breast Cancer (Caldas 2007)": {
+    "tag": [
+      "Tumor"
+    ]
+  },
+  "Pancreatic Cancer (Balagurunathan 2008)": {
     "tag": [
       "Tumor",
       "Pancreas"
-    ]
-  },
-  "Treehouse - Neuroblastoma (Sausen 2013)": {
-    "metanci": [
-      "C3270"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "NBL",
-      "Adrenal gland"
-    ]
-  },
-  "Breast Cancer (Miller 2005)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "Breast Cancer (vantVeer 2002)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "Breast Cancer (Vijver 2002)": {
-    "tag": [
-      "Tumor"
     ]
   },
   "POG TCGA TARGET_NBL": {
@@ -1296,178 +939,6 @@
       "TCGA Pan-Cancer (PANCAN)"
     ]
   },
-  "Pancreatic Cancer (Balagurunathan 2008)": {
-    "tag": [
-      "Tumor",
-      "Pancreas"
-    ]
-  },
-  "Lung Cancer CGH (Weir 2007)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "B cells (Basso 2005)": {
-    "tag": [
-      "B-cell",
-      "Cancer",
-      "Tumor",
-      "Blood",
-      "White Blood Cell"
-    ]
-  },
-  "Connectivity Map": {
-    "code": [
-      "CMAP"
-    ],
-    "tag": [
-      "Cell line",
-      "Cell lines"
-    ]
-  },
-  "Treehouse - Pediatric tumor (Khan)": {
-    "tag": [
-      "Pancan",
-      "Pan Cancer",
-      "Pan-cancer",
-      "pancancer",
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids"
-    ]
-  },
-  "Glioma (Kotliarov 2006)": {
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Brain",
-      "CNS"
-    ]
-  },
-  "Treehouse - MAGIC": {
-    "metanci": [
-      "C3222"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "Brain",
-      "CNS",
-      "Medulloblastoma"
-    ]
-  },
-  "Inbred mouse (Cutler 2007)": {
-    "tag": []
-  },
-  "Node-negative breast cancer (Desmedt 2007)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "GBM (Parsons 2008)": {
-    "metanci": [
-      "C3058"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Brain",
-      "CNS",
-      "Glioblastoma Multiforme"
-    ]
-  },
-  "Treehouse - Ewing Sarcoma Family of Tumors (Brohl 2014)": {
-    "metanci": [
-      "C4835"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids"
-    ]
-  },
-  "lymph-node-negative breast cancer (Wang 2005)": {
-    "tag": [
-      "node-negative",
-      "Tumor"
-    ]
-  },
-  "Mouse Tumors (Maser 2007)": {
-    "tag": [
-      "Cancer"
-    ]
-  },
-  "Treehouse - DIPG and Pediatric Non-Brainstem High-Grade Glioma (Wu 2014, St Jude)": {
-    "metanci": [
-      "C94764"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "Brain",
-      "CNS",
-      "High Grade"
-    ]
-  },
-  "Breast Cancer (Chin 2006)": {
-    "tag": [
-      "Tumor"
-    ]
-  },
-  "Treehouse - Neuroblastoma (Khan)": {
-    "metanci": [
-      "C3270"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "Brain",
-      "CNS",
-      "NBL",
-      "Adrenal Gland"
-    ]
-  },
-  "Ovarian Cancer (Etemadmoghadam 2009)": {
-    "tag": [
-      "Tumor",
-      "OV",
-      "Ovary",
-      "Germ cell"
-    ]
-  },
-  "Treehouse - TARGET Acute Lymphoblastic Leukemia": {
-    "metanci": [
-      "C3167"
-    ],
-    "tag": [
-      "Cancer",
-      "Tumor",
-      "Pediatric",
-      "Childhood",
-      "Kid",
-      "Kids",
-      "Blood",
-      "ALL"
-    ]
-  },
   "Treehouse - Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": {
     "metanci": [
       "C94764"
@@ -1484,35 +955,33 @@
       "CNS"
     ]
   },
-  "Breast Cancer (Hess 2006)": {
+  "Treehouse - Pediatric tumor (Khan)": {
     "tag": [
-      "Tumor"
-    ]
-  },
-  "Acute lymphoblastic leukemia (Mullighan 2008)": {
-    "metanci": [
-      "C3167"
-    ],
-    "tag": [
-      "ALL",
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
       "Cancer",
       "Tumor",
-      "Blood"
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
     ]
   },
-  "Mouse pancreatic adenocarcinoma (Bardeesy 2006)": {
-    "metanci": [
-      "C8294"
-    ],
+  "Treehouse public expression dataset (July 2017)":{
     "tag": [
+      "Treehouse",
+      "Pancan",
+      "Pan Cancer",
+      "Pan-cancer",
+      "pancancer",
       "Cancer",
       "Tumor",
-      "Pancreas"
-    ]
-  },
-  "Breast Cancer (Haverty 2008)": {
-    "tag": [
-      "Tumor"
+      "Pediatric",
+      "Childhood",
+      "Kid",
+      "Kids"
     ]
   }
 }
