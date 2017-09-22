@@ -119,7 +119,7 @@ def buildNewJsonWithCompositeCohort(originalJson, inputJ):
 
 
 if len(sys.argv[:])!=4:
-	print "python script.py onco_tree_tumortype.txt json_input output"
+	print "python buildTagJson.py onco_tree_tumortype.txt json_input output"
 	sys.exit()
 
 tumorTypeF = sys.argv[1]
