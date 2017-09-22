@@ -16,7 +16,7 @@
     "TCGA TARGET GTEx": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "TcgaTargetGtex_rsem_gene_tpm"
+            "dataset": "TcgaTargetGtex_RSEM_Hugo_norm_count"
         }
     }, 
     "TCGA Cervical Cancer (CESC)": {
@@ -106,7 +106,7 @@
     "GTEX": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "gtex_RSEM_gene_tpm"
+            "dataset": "gtex_RSEM_Hugo_norm_count"
         }
     }, 
     "TCGA Rectal Cancer (READ)": {
@@ -180,7 +180,7 @@
     "TARGET Pan-Cancer (PANCAN)": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "target_RSEM_gene_tpm"
+            "dataset": "target_RSEM_Hugo_norm_count"
         }
     }, 
     "ICGC (US donors with both RNA and SNV data)": {
@@ -440,7 +440,7 @@
         }, 
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "tcga_RSEM_gene_tpm"
+            "dataset": "tcga_RSEM_Hugo_norm_count"
         }, 
         "simple somatic mutation": {
             "host": "https://tcga.xenahubs.net", 
@@ -527,7 +527,7 @@
     "TCGA and TARGET Pan-Cancer (PANCAN)": {
         "gene expression": {
             "host": "https://toil.xenahubs.net", 
-            "dataset": "tcga_target_no_normal_rsem_gene_tpm"
+            "dataset": "tcga_target_no_normal_RSEM_hugo_norm_count"
         }
     }, 
     "TCGA Esophageal Cancer (ESCA)": {
@@ -575,7 +575,7 @@
     "Treehouse public expression dataset (July 2017)": {
         "gene expression": {
             "host": "https://treehouse.xenahubs.net",
-            "dataset": "treehouse_public_samples_unique_ensembl_expected_count.2017-09-11.tsv"
+            "dataset": "treehouse_public_samples_unique_hugo_log2_tpm_plus_1.2017-09-11.tsv"
         }
     }
 }
