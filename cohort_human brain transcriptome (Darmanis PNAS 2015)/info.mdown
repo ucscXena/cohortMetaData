@@ -10,5 +10,5 @@ The human brain is a tissue of vast complexity in terms of the cell types it com
 
 <br>
 <hr style="clear: both;">
-#### <span style="color:#4ecdc4">View live example: [<span style="color:#4ecdc4"><u>Oligodendrocyte vs. Astrocyte in Brain Transcriptome</u></span>](https://xenabrowser.net/heatmap/?bookmark=e1d6c3349d6754e3905ee36831662f98)</span>
+#### <span style="color:#4ecdc4">View live example: [<span style="color:#4ecdc4"><u>Oligodendrocyte vs. Astrocyte in Brain Transcriptome</u></span>](https://xenabrowser.net/heatmap/?bookmark=045ec8ff364ae4b24adf74515c2fe995)</span>
 <hr>
