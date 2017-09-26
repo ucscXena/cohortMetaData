@@ -587,5 +587,15 @@
             "host": "https://pcawg.xenahubs.net",
             "dataset": "20170119_final_consensus_copynumber_donor"
         }
+    },
+    "PCAWG (specimen centric)": {
+        "gene expression": {
+            "host": "https://pcawg.xenahubs.net",
+            "dataset": "tophat_star_fpkm_uq.v2_aliquot_gl.sp.log"
+        },
+        "copy number": {
+            "host": "https://pcawg.xenahubs.net",
+            "dataset": "20170119_final_consensus_copynumber_sp"
+        }
     }
 }
