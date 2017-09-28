@@ -444,7 +444,7 @@
         }, 
         "simple somatic mutation": {
             "host": "https://tcga.xenahubs.net", 
-            "dataset": "TCGA.PANCAN.sampleMap/PANCAN_mutation"
+            "dataset": "TCGA.PANCAN.sampleMap/mutation_broad"
         }
     }, 
     "TCGA Breast Cancer (BRCA)": {
