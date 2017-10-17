@@ -1,158 +1,158 @@
 {
   "TCGA Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "sample_type"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "age_at_initial_pathologic_diagnosis"
     }
   ],
   "TCGA Breast Cancer (BRCA)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "sample_type"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "PAM50_mRNA_nature2012"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "ER_Status_nature2012"
     }
   ],
   "TCGA TARGET GTEx": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "primary disease or tissue"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "_sample_type"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "_study"
     }
   ],
   "TCGA and TARGET Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "age_at_initial_pathologic_diagnosis"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "_study"
     }
   ],
   "GTEX": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "_primary_site"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "body_site_detail (SMTSD)"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "_gender"
     }
   ],
   "TARGET Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "_sample_type"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "primary_disease_code"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_donor_allprojects_transfer_to_sample",
       "feature": "_age_at_diagnosis"
     }
   ],
   "Treehouse public expression dataset (July 2017)": [
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "disease"
     },
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "age_in_years"
     },
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "gender"
     }
   ],
     "PCAWG (donor centric)": [
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9_donor",
       "feature": "histology_abbreviation"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "project_code_donor",
       "feature": "dcc_project_code"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_donor_clinical_August2016_v9",
       "feature": "donor_sex"
     }
   ],
   "PCAWG (specimen centric)": [
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9",
       "feature": "histology_abbreviation"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "sp_specimen_type",
       "feature": "dcc_specimen_type"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "project_code_sp",
       "feature": "dcc_project_code"
     }
