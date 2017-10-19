@@ -1,417 +1,417 @@
 {
   "TCGA Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "sample_type"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
       "feature": "age_at_initial_pathologic_diagnosis"
     }
   ],
   "TCGA Breast Cancer (BRCA)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "sample_type"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "PAM50_mRNA_nature2012"
     },
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix",
       "feature": "ER_Status_nature2012"
     }
   ],
   "TCGA Acute Myeloid Leukemia (LAML)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LAML.sampleMap/LAML_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Adrenocortical Cancer (ACC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ACC.sampleMap/ACC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Bile Duct Cancer (CHOL)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CHOL.sampleMap/CHOL_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Bladder Cancer (BLCA)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BLCA.sampleMap/BLCA_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Cervical Cancer (CESC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CESC.sampleMap/CESC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Colon and Rectal Cancer (COADREAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.COADREAD.sampleMap/COADREAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Colon Cancer (COAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.COAD.sampleMap/COAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Endometrioid Cancer (UCEC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCEC.sampleMap/UCEC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Esophageal Cancer (ESCA)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ESCA.sampleMap/ESCA_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.FPPP.sampleMap/FPPP_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Glioblastoma (GBM)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.GBM.sampleMap/GBM_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Head and Neck Cancer (HNSC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.HNSC.sampleMap/HNSC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Kidney Chromophobe (KICH)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KICH.sampleMap/KICH_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Kidney Clear Cell Carcinoma (KIRC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRC.sampleMap/KIRC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Kidney Papillary Cell Carcinoma (KIRP)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRP.sampleMap/KIRP_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Large B-cell Lymphoma (DLBC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.DLBC.sampleMap/DLBC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Liver Cancer (LIHC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LIHC.sampleMap/LIHC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Lower Grade Glioma (LGG)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LGG.sampleMap/LGG_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA lower grade glioma and glioblastoma (GBMLGG)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.GBMLGG.sampleMap/GBMLGG_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Lung Adenocarcinoma (LUAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUAD.sampleMap/LUAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Lung Cancer (LUNG)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUNG.sampleMap/LUNG_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Lung Squamous Cell Carcinoma (LUSC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUSC.sampleMap/LUSC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Melanoma (SKCM)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SKCM.sampleMap/SKCM_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Mesothelioma (MESO)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.MESO.sampleMap/MESO_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Ocular melanomas (UVM)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UVM.sampleMap/UVM_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Ovarian Cancer (OV)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.OV.sampleMap/OV_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA PANCAN12 (PANCAN12)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PANCAN12.sampleMap/PANCAN12_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Pancreatic Cancer (PAAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PAAD.sampleMap/PAAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Pheochromocytoma & Paraganglioma (PCPG)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PCPG.sampleMap/PCPG_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Prostate Cancer (PRAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PRAD.sampleMap/PRAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Rectal Cancer (READ)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.READ.sampleMap/READ_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Sarcoma (SARC)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SARC.sampleMap/SARC_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Stomach Cancer (STAD)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.STAD.sampleMap/STAD_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Testicular Cancer (TGCT)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.TGCT.sampleMap/TGCT_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Thymoma (THYM)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THYM.sampleMap/THYM_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Thyroid Cancer (THCA)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THCA.sampleMap/THCA_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA Uterine Carcinosarcoma (UCS)": [
     {
-      "hub": "https://tcga.xenahubs.net",
+      "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCS.sampleMap/UCS_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
   "TCGA TARGET GTEx": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "primary disease or tissue"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "_sample_type"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "_study"
     }
   ],
   "TCGA and TARGET Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "age_at_initial_pathologic_diagnosis"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TCGA_TARGET_phenotype",
       "feature": "_study"
     }
   ],
   "GTEX": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "_primary_site"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "body_site_detail (SMTSD)"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "GTEX_phenotype",
       "feature": "_gender"
     }
   ],
   "TARGET Pan-Cancer (PANCAN)": [
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "_primary_disease"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "_sample_type"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_phenotype",
       "feature": "primary_disease_code"
     },
     {
-      "hub": "https://toil.xenahubs.net",
+      "host": "https://toil.xenahubs.net",
       "dataset": "TARGET_donor_allprojects_transfer_to_sample",
       "feature": "_age_at_diagnosis"
     }
   ],
   "Treehouse public expression dataset (July 2017)": [
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "disease"
     },
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "age_in_years"
     },
     {
-      "hub": "https://treehouse.xenahubs.net",
+      "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "gender"
     }
   ],
   "PCAWG (donor centric)": [
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9_donor",
       "feature": "histology_abbreviation"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "project_code_donor",
       "feature": "dcc_project_code"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_donor_clinical_August2016_v9",
       "feature": "donor_sex"
     }
   ],
   "PCAWG (specimen centric)": [
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9",
       "feature": "histology_abbreviation"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "sp_specimen_type",
       "feature": "dcc_specimen_type"
     },
     {
-      "hub": "https://pcawg.xenahubs.net",
+      "host": "https://pcawg.xenahubs.net",
       "dataset": "project_code_sp",
       "feature": "dcc_project_code"
     }
