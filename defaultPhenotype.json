@@ -375,11 +375,6 @@
       "host": "https://treehouse.xenahubs.net",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "age_in_years"
-    },
-    {
-      "host": "https://treehouse.xenahubs.net",
-      "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
-      "feature": "gender"
     }
   ],
   "PCAWG (donor centric)": [
