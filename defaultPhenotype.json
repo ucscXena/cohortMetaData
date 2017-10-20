@@ -171,6 +171,11 @@
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUAD.sampleMap/LUAD_clinicalMatrix",
       "feature": "sample_type"
+    },
+    {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.LUAD.sampleMap/LUAD_clinicalMatrix",
+      "feature": "Expression_Subtype"
     }
   ],
   "TCGA Lung Cancer (LUNG)": [
