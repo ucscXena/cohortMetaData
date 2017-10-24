@@ -312,6 +312,11 @@
       "host": "https://toil.xenahubs.net",
       "dataset": "TcgaTargetGTEX_phenotype.txt",
       "feature": "_study"
+    },
+    {
+      "host": "https://toil.xenahubs.net",
+      "dataset": "TcgaTargetGTEX_phenotype.txt",
+      "feature": "_primary_site"
     }
   ],
   "TCGA and TARGET Pan-Cancer (PANCAN)": [
