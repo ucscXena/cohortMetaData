@@ -395,13 +395,13 @@
     },
     {
       "host": "https://pcawg.xenahubs.net",
-      "dataset": "project_code_donor",
-      "feature": "dcc_project_code"
-    },
+      "dataset": "pcawg_specimen_histology_August2016_v9_donor",
+      "feature": "histology_tier4"
+    }
     {
       "host": "https://pcawg.xenahubs.net",
-      "dataset": "pcawg_donor_clinical_August2016_v9",
-      "feature": "donor_sex"
+      "dataset": "project_code_donor",
+      "feature": "dcc_project_code"
     }
   ],
   "PCAWG (specimen centric)": [
@@ -409,6 +409,11 @@
       "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9",
       "feature": "histology_abbreviation"
+    },
+    {
+      "host": "https://pcawg.xenahubs.net",
+      "dataset": "pcawg_specimen_histology_August2016_v9",
+      "feature": "histology_tier4"
     },
     {
       "host": "https://pcawg.xenahubs.net",
