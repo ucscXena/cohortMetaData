@@ -438,7 +438,7 @@
       "feature":"project_code"
     }
   ],
-  "ICGC (donor centric)": [
+  "ICGC (specimen centric)": [
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor.all_projects.phenotype_transfer_specimen",
