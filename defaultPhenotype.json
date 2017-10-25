@@ -425,5 +425,34 @@
       "dataset": "project_code_sp",
       "feature": "dcc_project_code"
     }
+  ],
+  "ICGC (donor centric)": [
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor.all_projects.xena",
+      "feature":"_primary_disease"
+    },
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor.all_projects.xena",
+      "feature":"project_code"
+    },
+  ],
+  "ICGC (donor centric)": [
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor.all_projects.phenotype_transfer_specimen",
+      "feature":"_primary_disease"
+    },
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "specimen.all_projects.xena",
+      "feature":"specimen_type"
+    },
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor.all_projects.phenotype_transfer_specimen",
+      "feature":"project_code"
+    },
   ]
 }
