@@ -397,7 +397,7 @@
       "host": "https://pcawg.xenahubs.net",
       "dataset": "pcawg_specimen_histology_August2016_v9_donor",
       "feature": "histology_tier4"
-    }
+    },
     {
       "host": "https://pcawg.xenahubs.net",
       "dataset": "project_code_donor",
