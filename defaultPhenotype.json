@@ -685,5 +685,47 @@
       "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.phenotype.tsv",
       "feature": "sample_type"
     }
+  ],
+  "GDC TARGET-AML": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-AML/Xena_Matrices/TARGET-AML.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC TARGET-CCSK": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-CCSK/Xena_Matrices/TARGET-CCSK.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC TARGET-NBL": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-NBL/Xena_Matrices/TARGET-NBL.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC TARGET-OS": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-OS/Xena_Matrices/TARGET-OS.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC TARGET-RT": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-RT/Xena_Matrices/TARGET-RT.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC TARGET-WT": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TARGET-WT/Xena_Matrices/TARGET-WT.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    }
   ]
 }
