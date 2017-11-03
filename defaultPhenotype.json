@@ -430,29 +430,260 @@
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor.all_projects.xena",
-      "feature":"_primary_disease"
+      "feature": "_primary_disease"
     },
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor.all_projects.xena",
-      "feature":"project_code"
+      "feature": "project_code"
     }
   ],
   "ICGC (specimen centric)": [
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor.all_projects.phenotype_transfer_specimen",
-      "feature":"_primary_disease"
+      "feature": "_primary_disease"
     },
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "specimen.all_projects.xena",
-      "feature":"specimen_type"
+      "feature": "specimen_type"
     },
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor.all_projects.phenotype_transfer_specimen",
-      "feature":"project_code"
+      "feature": "project_code"
+    }
+  ],
+  "GDC TCGA Acute Myeloid Leukemia (LAML)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Adrenocortical Cancer (ACC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Bile Duct Cancer (CHOL)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Bladder Cancer (BLCA)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Breast Cancer (BRCA)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Cervical Cancer (CESC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Colon Cancer (COAD)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Endometrioid Cancer (UCEC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-UCEC/Xena_Matrices/TCGA-UCEC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Esophageal Cancer (ESCA)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Glioblastoma (GBM)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Head and Neck Cancer (HNSC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Kidney Chromophobe (KICH)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Kidney Clear Cell Carcinoma (KIRC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Kidney Papillary Cell Carcinoma (KIRP)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Large B-cell Lymphoma (DLBC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Liver Cancer (LIHC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Lower Grade Glioma (LGG)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Lung Adenocarcinoma (LUAD)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Melanoma (SKCM)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-SKCM/Xena_Matrices/TCGA-SKCM.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Mesothelioma (MESO)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Ocular melanomas (UVM)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Ovarian Cancer (OV)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Pancreatic Cancer (PAAD)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Pheochromocytoma & Paraganglioma (PCPG)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Prostate Cancer (PRAD)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Rectal Cancer (READ)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Sarcoma (SARC)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Stomach Cancer (STAD)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Testicular Cancer (TGCT)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Thymoma (THYM)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Thyroid Cancer (THCA)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.phenotype.tsv",
+      "feature": "sample_type"
+    }
+  ],
+  "GDC TCGA Uterine Carcinosarcoma (UCS)": [
+    {
+      "host": "https://dgc.xenahubs.net",
+      "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.phenotype.tsv",
+      "feature": "sample_type"
     }
   ]
 }
