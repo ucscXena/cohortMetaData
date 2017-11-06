@@ -1,0 +1,8 @@
+<a href="https://xenabrowser.net/heatmap/?bookmark=2ac4e86d1a597ea64de0fc9a7b1782ea/"><img src="high-res-xena-screenshot-oct.16.2017.png" align="left" height="300" style="padding-right:50px;"></a>
+
+UCSC Xena allows users to explore the Treehouse dataset, finding correlations and trends within and across genomic and phenotypic variables. Users can interactively add, remove, and rearrange arbitrary slices of data including genes, transcripts and other dataset features. This example shows that neuroblastoma, in comparison to other pediatric cancers, has a much stronger ALK gene expression and younger patient population.
+
+<br>
+<hr style="clear: both;">
+#### <span style="color:#4ecdc4">View live example: [<span style="color:#4ecdc4"><u>Neuroblastoma has a strong ALK gene expression and young patient population</u></span>](https://xenabrowser.net/heatmap/?bookmark=2ac4e86d1a597ea64de0fc9a7b1782ea)</span>
+<hr>
