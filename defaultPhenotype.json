@@ -477,6 +477,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Bile Duct Cancer (CHOL)": [
@@ -489,6 +494,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Bladder Cancer (BLCA)": [
@@ -501,6 +511,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Breast Cancer (BRCA)": [
@@ -513,6 +528,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Cervical Cancer (CESC)": [
@@ -525,6 +545,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Colon Cancer (COAD)": [
@@ -537,6 +562,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Endometrioid Cancer (UCEC)": [
@@ -549,6 +579,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UCEC/Xena_Matrices/TCGA-UCEC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC/Xena_Matrices/TCGA-UCEC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Esophageal Cancer (ESCA)": [
@@ -561,6 +596,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Glioblastoma (GBM)": [
@@ -573,6 +613,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Head and Neck Cancer (HNSC)": [
@@ -585,6 +630,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Kidney Chromophobe (KICH)": [
@@ -597,6 +647,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Kidney Clear Cell Carcinoma (KIRC)": [
@@ -609,6 +664,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Kidney Papillary Cell Carcinoma (KIRP)": [
@@ -621,6 +681,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Large B-cell Lymphoma (DLBC)": [
@@ -633,6 +698,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Liver Cancer (LIHC)": [
@@ -645,6 +715,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Lower Grade Glioma (LGG)": [
@@ -657,6 +732,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Lung Adenocarcinoma (LUAD)": [
@@ -669,6 +749,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": [
@@ -681,6 +766,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.GDC_GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.GDC_GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Melanoma (SKCM)": [
@@ -705,6 +795,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Ocular melanomas (UVM)": [
@@ -717,6 +812,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Ovarian Cancer (OV)": [
@@ -729,6 +829,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Pancreatic Cancer (PAAD)": [
@@ -741,6 +846,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Pheochromocytoma & Paraganglioma (PCPG)": [
@@ -753,6 +863,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Prostate Cancer (PRAD)": [
@@ -765,6 +880,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Rectal Cancer (READ)": [
@@ -777,6 +897,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Sarcoma (SARC)": [
@@ -789,6 +914,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Stomach Cancer (STAD)": [
@@ -801,6 +931,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Testicular Cancer (TGCT)": [
@@ -813,6 +948,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Thymoma (THYM)": [
@@ -825,6 +965,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Thyroid Cancer (THCA)": [
@@ -837,6 +982,11 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TCGA Uterine Carcinosarcoma (UCS)": [
@@ -849,6 +999,12 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
+    }
+    ,
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.GDC_phenotype.tsv",
+      "feature": "histological_type"
     }
   ],
   "GDC TARGET-AML": [
