@@ -1059,5 +1059,19 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.mutect2_snv.tsv"
     }
+  },
+  "GDC Pan-Cancer (PANCAN)": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.htseq_fpkm-uq.tsv"
+    },
+    "copy number": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.masked_cnv.tsv"
+    },
+    "simple somatic mutation": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.mutect2_snv.tsv"
+    }
   }
 }
