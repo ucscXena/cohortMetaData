@@ -999,8 +999,7 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.GDC_phenotype.tsv",
       "feature": "is_ffpe.samples"
-    }
-    ,
+    },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.GDC_phenotype.tsv",
@@ -1047,6 +1046,28 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-WT/Xena_Matrices/TARGET-WT.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    }
+  ],
+  "GDC Pan-Cancer (PANCAN)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "project_code"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "age_at_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "sample_type.samples"
     }
   ]
 }
