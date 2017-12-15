@@ -1062,12 +1062,12 @@
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "age_at_diagnosis.diagnoses"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
+      "feature": "age_at_diagnosis.diagnoses"
     }
   ]
 }
