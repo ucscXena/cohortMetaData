@@ -157,6 +157,11 @@
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LGG.sampleMap/LGG_clinicalMatrix",
       "feature": "sample_type"
+    },
+    {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.LGG.sampleMap/LGG_clinicalMatrix",
+      "feature": "histological_type"
     }
   ],
   "TCGA lower grade glioma and glioblastoma (GBMLGG)": [
