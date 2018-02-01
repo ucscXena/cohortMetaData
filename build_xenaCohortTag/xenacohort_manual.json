@@ -882,7 +882,7 @@
       "Tumor"
     ]
   },
-  "Treehouse - St Jude PCGP pan-cancer": {
+  "St Jude PCGP pan-cancer": {
     "tag": [
       "Pancan",
       "Pan Cancer",
@@ -896,7 +896,7 @@
       "Kids"
     ]
   },
-  "Treehouse - TARGET neuroblastoma": {
+  "TARGET neuroblastoma": {
     "metanci": [
       "C3270"
     ],
@@ -942,7 +942,7 @@
       "TCGA Pan-Cancer (PANCAN)"
     ]
   },
-  "Treehouse - Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": {
+  "Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": {
     "metanci": [
       "C94764"
     ],
@@ -958,7 +958,7 @@
       "CNS"
     ]
   },
-  "Treehouse - Pediatric tumor (Khan)": {
+  "Pediatric tumor (Khan)": {
     "tag": [
       "Pancan",
       "Pan Cancer",
