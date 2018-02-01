@@ -842,6 +842,29 @@
     "Wilms", 
     "Wilms Tumor"
   ], 
+  "Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": [
+    "2012", 
+    "BRAIN", 
+    "Brain", 
+    "C94764", 
+    "CNS", 
+    "Cancer", 
+    "Childhood", 
+    "DIFG", 
+    "DIPG", 
+    "Diffuse", 
+    "Diffuse Glioma", 
+    "Diffuse Intrinsic Pontine Glioma", 
+    "Glioma", 
+    "Gliomas", 
+    "Intrinsic", 
+    "Kid", 
+    "Kids", 
+    "Pediatric", 
+    "Pontine", 
+    "Puget", 
+    "Tumor"
+  ], 
   "ICGC (US donors with both RNA and SNV data)": [
     "Adenocarcinoma", 
     "Adult", 
@@ -986,16 +1009,23 @@
     "Thyroid Gland", 
     "Tumor"
   ], 
-  "TCGA PANCAN12 (PANCAN12)": [
-    "Adult", 
+  "Treehouse public expression dataset (July 2017)": [
+    "2017", 
     "Cancer", 
-    "PANCAN12", 
+    "Childhood", 
+    "Dataset", 
+    "Expression", 
+    "July", 
+    "Kid", 
+    "Kids", 
     "Pan", 
     "Pan Cancer", 
     "Pan-Cancer", 
     "Pancan", 
     "Pancancer", 
-    "TCGA", 
+    "Pediatric", 
+    "Public", 
+    "Treehouse", 
     "Tumor"
   ], 
   "TCGA Lung Cancer (LUNG)": [
@@ -2015,21 +2045,12 @@
     "Tumor", 
     "UVM"
   ], 
-  "Treehouse - St Jude PCGP pan-cancer": [
+  "Pancreatic Cancer (Balagurunathan 2008)": [
+    "2008", 
+    "Balagurunathan", 
     "Cancer", 
-    "Childhood", 
-    "Jude", 
-    "Kid", 
-    "Kids", 
-    "PCGP", 
-    "Pan", 
-    "Pan Cancer", 
-    "Pan-Cancer", 
-    "Pancan", 
-    "Pancancer", 
-    "Pediatric", 
-    "St", 
-    "Treehouse", 
+    "Pancreas", 
+    "Pancreatic", 
     "Tumor"
   ], 
   "TCGA Endometrioid Cancer (UCEC)": [
@@ -2047,26 +2068,16 @@
     "UTERUS", 
     "Uterus"
   ], 
-  "Treehouse - TARGET neuroblastoma": [
-    "Adrenal", 
-    "Adrenal Gland", 
-    "BRAIN", 
-    "Brain", 
-    "C3270", 
-    "CNS", 
+  "TCGA PANCAN12 (PANCAN12)": [
+    "Adult", 
     "Cancer", 
-    "Childhood", 
-    "EMBT", 
-    "Embryonal", 
-    "Embryonal Tumor", 
-    "Gland", 
-    "Kid", 
-    "Kids", 
-    "NBL", 
-    "Neuroblastoma", 
-    "Pediatric", 
-    "TARGET", 
-    "Treehouse", 
+    "PANCAN12", 
+    "Pan", 
+    "Pan Cancer", 
+    "Pan-Cancer", 
+    "Pancan", 
+    "Pancancer", 
+    "TCGA", 
     "Tumor"
   ], 
   "TCGA Adrenocortical Cancer (ACC)": [
@@ -2106,6 +2117,22 @@
     "Prostate Adenocarcinoma", 
     "Prostate Cancer", 
     "TCGA", 
+    "Tumor"
+  ], 
+  "St Jude PCGP pan-cancer": [
+    "Cancer", 
+    "Childhood", 
+    "Jude", 
+    "Kid", 
+    "Kids", 
+    "PCGP", 
+    "Pan", 
+    "Pan Cancer", 
+    "Pan-Cancer", 
+    "Pancan", 
+    "Pancancer", 
+    "Pediatric", 
+    "St", 
     "Tumor"
   ], 
   "TCGA Uterine Carcinosarcoma (UCS)": [
@@ -2520,25 +2547,6 @@
     "TCGA", 
     "Tumor"
   ], 
-  "Treehouse public expression dataset (July 2017)": [
-    "2017", 
-    "Cancer", 
-    "Childhood", 
-    "Dataset", 
-    "Expression", 
-    "July", 
-    "Kid", 
-    "Kids", 
-    "Pan", 
-    "Pan Cancer", 
-    "Pan-Cancer", 
-    "Pancan", 
-    "Pancancer", 
-    "Pediatric", 
-    "Public", 
-    "Treehouse", 
-    "Tumor"
-  ], 
   "TCGA Testicular Cancer (TGCT)": [
     "Adult", 
     "C9309", 
@@ -2562,20 +2570,20 @@
     "Testis", 
     "Tumor"
   ], 
-  "Treehouse - Pediatric tumor (Khan)": [
-    "Cancer", 
-    "Childhood", 
-    "Khan", 
-    "Kid", 
-    "Kids", 
-    "Pan", 
-    "Pan Cancer", 
-    "Pan-Cancer", 
-    "Pancan", 
-    "Pancancer", 
-    "Pediatric", 
-    "Treehouse", 
-    "Tumor"
+  "Single-cell RNA-seq mouse cortex (Zeisel)": [
+    "Brain", 
+    "CNS", 
+    "Cell", 
+    "Cortex", 
+    "Mouse", 
+    "Normal", 
+    "Rna-Seq", 
+    "Rnaseq", 
+    "Single", 
+    "Single Cell", 
+    "Single-Cell", 
+    "Singlecell", 
+    "Zeisel"
   ], 
   "PACA-AU": [
     "Adenocarcinoma", 
@@ -2587,6 +2595,27 @@
     "Pancreas", 
     "Pancreatic", 
     "Pancreatic Cancer", 
+    "Tumor"
+  ], 
+  "TARGET neuroblastoma": [
+    "Adrenal", 
+    "Adrenal Gland", 
+    "BRAIN", 
+    "Brain", 
+    "C3270", 
+    "CNS", 
+    "Cancer", 
+    "Childhood", 
+    "EMBT", 
+    "Embryonal", 
+    "Embryonal Tumor", 
+    "Gland", 
+    "Kid", 
+    "Kids", 
+    "NBL", 
+    "Neuroblastoma", 
+    "Pediatric", 
+    "TARGET", 
     "Tumor"
   ], 
   "TCGA Acute Myeloid Leukemia (LAML)": [
@@ -2603,14 +2632,6 @@
     "Leukemia", 
     "Myeloid", 
     "TCGA", 
-    "Tumor"
-  ], 
-  "Pancreatic Cancer (Balagurunathan 2008)": [
-    "2008", 
-    "Balagurunathan", 
-    "Cancer", 
-    "Pancreas", 
-    "Pancreatic", 
     "Tumor"
   ], 
   "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": [
@@ -2647,28 +2668,18 @@
     "TCGA", 
     "Tumor"
   ], 
-  "Treehouse - Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": [
-    "2012", 
-    "BRAIN", 
-    "Brain", 
-    "C94764", 
-    "CNS", 
+  "Pediatric tumor (Khan)": [
     "Cancer", 
     "Childhood", 
-    "DIFG", 
-    "DIPG", 
-    "Diffuse", 
-    "Diffuse Glioma", 
-    "Diffuse Intrinsic Pontine Glioma", 
-    "Glioma", 
-    "Gliomas", 
-    "Intrinsic", 
+    "Khan", 
     "Kid", 
     "Kids", 
+    "Pan", 
+    "Pan Cancer", 
+    "Pan-Cancer", 
+    "Pancan", 
+    "Pancancer", 
     "Pediatric", 
-    "Pontine", 
-    "Puget", 
-    "Treehouse", 
     "Tumor"
   ], 
   "TCGA Bladder Cancer (BLCA)": [
@@ -3006,21 +3017,6 @@
     "Wilms", 
     "Wilms Tumor", 
     "With"
-  ], 
-  "Single-cell RNA-seq mouse cortex (Zeisel)": [
-    "Brain", 
-    "CNS", 
-    "Cell", 
-    "Cortex", 
-    "Mouse", 
-    "Normal", 
-    "Rna-Seq", 
-    "Rnaseq", 
-    "Single", 
-    "Single Cell", 
-    "Single-Cell", 
-    "Singlecell", 
-    "Zeisel"
   ], 
   "ICGC (specimen centric)": [
     "ALL-US", 
