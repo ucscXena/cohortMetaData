@@ -1,5 +1,7 @@
 UCSC Xena allows users to explore the Treehouse dataset, finding correlations and trends within and across genomic and phenotypic variables. Users can interactively add, remove, and rearrange arbitrary slices of data including genes, transcripts and other dataset features. 
 
+The cohort includes samples from Treehouse (identifiers start with "TH"), TCGA and TARGET projects.
+
 The view below shows that neuroblastoma, in comparison to other pediatric cancers, has a much stronger ALK gene expression and younger patient population.
 
 <a href="https://xenabrowser.net/heatmap/?bookmark=04c07236cc0c4aae50538f5e5e37aac8"><img src="https://rawgit.com/ucscXena/cohortMetaData/master/cohort_Treehouse%20public%20expression%20dataset%20(July%202017)/high-res-xena-screenshot-oct.16.2017.jpg" height="300"></a>
