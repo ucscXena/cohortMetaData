@@ -7,13 +7,10 @@
     "amp": 0.25,
     "del": -0.15
   },
-  "TCGA Acute Myeloid Leukemia (LAML)": [
-    {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LAML.sampleMap/LAML_clinicalMatrix",
-      "feature": "sample_type"
-    }
-  ],
+  "TCGA Acute Myeloid Leukemia (LAML)": {
+    "amp": 0.35,
+    "del": -0.2
+  },
   "TCGA Adrenocortical Cancer (ACC)":{
     "amp": 0.4,
     "del": -0.15
@@ -42,13 +39,10 @@
     "amp": 0.37,
     "del": -0.2
   },
-  "TCGA Esophageal Cancer (ESCA)": [
-    {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.ESCA.sampleMap/ESCA_clinicalMatrix",
-      "feature": "sample_type"
-    }
-  ],
+  "TCGA Esophageal Cancer (ESCA)": {
+    "amp": 0.35,
+    "del": -0.2
+  },
   "TCGA Glioblastoma (GBM)": {
     "amp": 0.35,
     "del": -0.2
