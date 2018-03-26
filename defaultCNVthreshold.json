@@ -84,93 +84,75 @@
     "amp": 0.35,
     "del": -0.25
   },
-  "TCGA lower grade glioma and glioblastoma (GBMLGG)":
-  {
+  "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
     "amp": 0.3,
     "del": -0.25
   },
-  "TCGA Lung Adenocarcinoma (LUAD)":
-  {
+  "TCGA Lung Adenocarcinoma (LUAD)": {
     "amp": 0.35,
     "del": -0.15
   },
-  "TCGA Lung Cancer (LUNG)": 
-  {
+  "TCGA Lung Cancer (LUNG)": {
     "amp": 0.35,
     "del": -0.15
   },
-  "TCGA Lung Squamous Cell Carcinoma (LUSC)":
-  {
+  "TCGA Lung Squamous Cell Carcinoma (LUSC)": {
     "amp": 0.35,
     "del": -0.15
   },
-  "TCGA Melanoma (SKCM)":
-  {
+  "TCGA Melanoma (SKCM)": {
     "amp": 0.45,
     "del": -0.25
   },
-  "TCGA Mesothelioma (MESO)":
-  {
+  "TCGA Mesothelioma (MESO)": {
     "amp": 0.35,
     "del": -0.15
   },
-  "TCGA Ocular melanomas (UVM)":
-  {
+  "TCGA Ocular melanomas (UVM)": {
     "amp": 0.25,
     "del": -0.25
   },
-  "TCGA Ovarian Cancer (OV)": 
-  {
+  "TCGA Ovarian Cancer (OV)": {
     "amp": 0.4,
     "del": -0.2
   },
-  "TCGA Pancreatic Cancer (PAAD)":
-  {
+  "TCGA Pancreatic Cancer (PAAD)": {
     "amp": 0.35,
     "del": -0.1
   },
-  "TCGA Pheochromocytoma & Paraganglioma (PCPG)":
-  {
+  "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
     "amp": 0.35,
     "del": -0.15
   },
-  "TCGA Prostate Cancer (PRAD)":
-  {
+  "TCGA Prostate Cancer (PRAD)": {
     "amp": 0.2,
     "del": -0.2
   },
-  "TCGA Rectal Cancer (READ)":
-  {
+  "TCGA Rectal Cancer (READ)": {
     "amp": 0.5,
     "del": -0.2
   },
-  "TCGA Sarcoma (SARC)":
-  {
+  "TCGA Sarcoma (SARC)": {
     "amp": 0.5,
     "del": -0.2
   },
-  "TCGA Stomach Cancer (STAD)":
-  {
+  "TCGA Stomach Cancer (STAD)": {
     "amp": 0.2,
     "del": -0.2
   },
-  "TCGA Testicular Cancer (TGCT)":
-  {
+  "TCGA Testicular Cancer (TGCT)": {
     "amp": 0.75,
     "del": -0.15
   },
-  "TCGA Thymoma (THYM)":
-  {
+  "TCGA Thymoma (THYM)": {
     "amp": 0.25,
     "del": -0.2
   },
-  "TCGA Thyroid Cancer (THCA)":
-  {
+  "TCGA Thyroid Cancer (THCA)": {
     "amp": 0.2,
     "del": -0.2
   },
-  "TCGA Uterine Carcinosarcoma (UCS)":
-  {
+  "TCGA Uterine Carcinosarcoma (UCS)": {
     "amp": 0.5,
     "del": -0.2
   }
