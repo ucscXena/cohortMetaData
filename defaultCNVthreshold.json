@@ -55,13 +55,10 @@
     "amp": 0.3,
     "del": -0.15
   },
-  "TCGA Kidney Clear Cell Carcinoma (KIRC)": [
-    {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KIRC.sampleMap/KIRC_clinicalMatrix",
-      "feature": "sample_type"
-    }
-  ],
+  "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
+    "amp": 0.2,
+    "del": -0.25
+  },
   "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
     "amp": 0.25,
     "del": -0.2
