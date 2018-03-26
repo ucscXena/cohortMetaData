@@ -1,0 +1,177 @@
+{
+  "TCGA Pan-Cancer (PANCAN)": {
+    "amp": 0.3,
+    "del": -0.2
+  },
+  "TCGA Breast Cancer (BRCA)": {
+    "amp": 0.25,
+    "del": -0.15
+  },
+  "TCGA Acute Myeloid Leukemia (LAML)": [
+    {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.LAML.sampleMap/LAML_clinicalMatrix",
+      "feature": "sample_type"
+    }
+  ],
+  "TCGA Adrenocortical Cancer (ACC)":{
+    "amp": 0.4,
+    "del": -0.15
+  },
+  "TCGA Bile Duct Cancer (CHOL)": {
+    "amp": 0.35,
+    "del": -0.2
+  },
+  "TCGA Bladder Cancer (BLCA)": {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Cervical Cancer (CESC)": {
+    "amp": 0.25,
+    "del": -0.15
+  },
+  "TCGA Colon and Rectal Cancer (COADREAD)": {
+    "amp": 0.3,
+    "del": -0.25
+  },
+  "TCGA Colon Cancer (COAD)": {
+    "amp": 0.3,
+    "del": -0.25
+  },
+  "TCGA Endometrioid Cancer (UCEC)": {
+    "amp": 0.37,
+    "del": -0.2
+  },
+  "TCGA Esophageal Cancer (ESCA)": [
+    {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.ESCA.sampleMap/ESCA_clinicalMatrix",
+      "feature": "sample_type"
+    }
+  ],
+  "TCGA Glioblastoma (GBM)": {
+    "amp": 0.35,
+    "del": -0.2
+  },
+  "TCGA Head and Neck Cancer (HNSC)": {
+    "amp": 0.35,
+    "del": -0.25
+  },
+  "TCGA Kidney Chromophobe (KICH)": {
+    "amp": 0.3,
+    "del": -0.15
+  },
+  "TCGA Kidney Clear Cell Carcinoma (KIRC)": [
+    {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.KIRC.sampleMap/KIRC_clinicalMatrix",
+      "feature": "sample_type"
+    }
+  ],
+  "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
+    "amp": 0.25,
+    "del": -0.2
+  },
+  "TCGA Large B-cell Lymphoma (DLBC)": {
+    "amp": 0.2,
+    "del": -0.25
+  },
+  "TCGA Liver Cancer (LIHC)": {
+    "amp": 0.3,
+    "del": -0.3
+  },
+  "TCGA Lower Grade Glioma (LGG)": {
+    "amp": 0.35,
+    "del": -0.25
+  },
+  "TCGA lower grade glioma and glioblastoma (GBMLGG)":
+  {
+    "amp": 0.3,
+    "del": -0.25
+  },
+  "TCGA Lung Adenocarcinoma (LUAD)":
+  {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Lung Cancer (LUNG)": 
+  {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Lung Squamous Cell Carcinoma (LUSC)":
+  {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Melanoma (SKCM)":
+  {
+    "amp": 0.45,
+    "del": -0.25
+  },
+  "TCGA Mesothelioma (MESO)":
+  {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Ocular melanomas (UVM)":
+  {
+    "amp": 0.25,
+    "del": -0.25
+  },
+  "TCGA Ovarian Cancer (OV)": 
+  {
+    "amp": 0.4,
+    "del": -0.2
+  },
+  "TCGA Pancreatic Cancer (PAAD)":
+  {
+    "amp": 0.35,
+    "del": -0.1
+  },
+  "TCGA Pheochromocytoma & Paraganglioma (PCPG)":
+  {
+    "amp": 0.35,
+    "del": -0.15
+  },
+  "TCGA Prostate Cancer (PRAD)":
+  {
+    "amp": 0.2,
+    "del": -0.2
+  },
+  "TCGA Rectal Cancer (READ)":
+  {
+    "amp": 0.5,
+    "del": -0.2
+  },
+  "TCGA Sarcoma (SARC)":
+  {
+    "amp": 0.5,
+    "del": -0.2
+  },
+  "TCGA Stomach Cancer (STAD)":
+  {
+    "amp": 0.2,
+    "del": -0.2
+  },
+  "TCGA Testicular Cancer (TGCT)":
+  {
+    "amp": 0.75,
+    "del": -0.15
+  },
+  "TCGA Thymoma (THYM)":
+  {
+    "amp": 0.25,
+    "del": -0.2
+  },
+  "TCGA Thyroid Cancer (THCA)":
+  {
+    "amp": 0.2,
+    "del": -0.2
+  },
+  "TCGA Uterine Carcinosarcoma (UCS)":
+  {
+    "amp": 0.5,
+    "del": -0.2
+  }
+ }
