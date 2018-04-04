@@ -1073,5 +1073,19 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.mutect2_snv.tsv"
     }
+  },
+  "TCGA PanCanAtlas": {
+    "gene expression": {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "EB++AdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena"
+    },
+    "copy number": {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "broad.mit.edu_PANCAN_Genome_Wide_SNP_6_whitelisted.xena"
+    },
+    "simple somatic mutation": {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "mc3.v0.2.8.PUBLIC.xena"
+    }
   }
 }
