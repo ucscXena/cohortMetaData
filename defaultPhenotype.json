@@ -1074,5 +1074,32 @@
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
       "feature": "age_at_diagnosis.diagnoses"
     }
+  ],
+   "TCGA PanCanAtlas": [
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "cancer type abbreviation"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "histological_type"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "TCGA_phenotype_denseDataOnlyDownload.tsv",
+      "feature": "sample_type"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "gender"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "age_at_initial_pathologic_diagnosis"
+    }
   ]
 }
