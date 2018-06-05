@@ -1116,12 +1116,17 @@
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
-      "feature": "PLX4720:RAF_IC50 (uM)"
+      "feature": "Lapatinib:EGFR_ActArea"
     },
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
       "feature": "PLX4720:RAF_ActArea"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
+      "feature": "Erlotinib:EGFR_ActArea"
     }
   ]
 }
