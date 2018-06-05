@@ -1101,5 +1101,27 @@
       "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
       "feature": "age_at_initial_pathologic_diagnosis"
     }
+  ],
+   "Cancer Cell Line Encyclopedia (CCLE)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/sample_info_primary_site",
+      "feature": "Site Primary"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_sample_info_file_2012-10-18.txt",
+      "feature": "Source"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
+      "feature": "PLX4720:RAF_IC50 (uM)"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
+      "feature": "PLX4720:RAF_ActArea"
+    }
   ]
 }
