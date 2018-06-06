@@ -15,7 +15,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LIHC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA TARGET GTEx": {
     "gene expression": {
@@ -39,7 +40,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CESC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Sarcoma (SARC)": {
     "gene expression": {
@@ -57,7 +59,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SARC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Thymoma (THYM)": {
     "gene expression": {
@@ -75,7 +78,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THYM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Mesothelioma (MESO)": {
     "gene expression": {
@@ -111,7 +115,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PAAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Ocular melanomas (UVM)": {
     "gene expression": {
@@ -129,7 +134,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UVM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "GTEX": {
     "gene expression": {
@@ -153,7 +159,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.READ.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Lung Cancer (LUNG)": {
     "gene expression": {
@@ -177,7 +184,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUSC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Stomach Cancer (STAD)": {
     "gene expression": {
@@ -195,7 +203,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.STAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
     "gene expression": {
@@ -219,7 +228,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.COAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TARGET Pan-Cancer (PANCAN)": {
     "gene expression": {
@@ -257,7 +267,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LGG.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Thyroid Cancer (THCA)": {
     "gene expression": {
@@ -275,7 +286,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Kidney Chromophobe (KICH)": {
     "gene expression": {
@@ -293,7 +305,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KICH.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
     "gene expression": {
@@ -311,7 +324,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRP.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Colon and Rectal Cancer (COADREAD)": {
     "gene expression": {
@@ -335,7 +349,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CHOL.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Glioblastoma (GBM)": {
     "gene expression": {
@@ -353,7 +368,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.GBM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Lung Adenocarcinoma (LUAD)": {
     "gene expression": {
@@ -371,7 +387,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Ovarian Cancer (OV)": {
     "gene expression": {
@@ -389,7 +406,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.OV.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
     "gene expression": {
@@ -407,7 +425,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Endometrioid Cancer (UCEC)": {
     "gene expression": {
@@ -425,7 +444,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCEC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Head and Neck Cancer (HNSC)": {
     "gene expression": {
@@ -443,7 +463,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.HNSC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA PANCAN12 (PANCAN12)": {
     "gene expression": {
@@ -467,7 +488,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ACC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Prostate Cancer (PRAD)": {
     "gene expression": {
@@ -485,7 +507,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PRAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Uterine Carcinosarcoma (UCS)": {
     "gene expression": {
@@ -503,7 +526,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCS.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Melanoma (SKCM)": {
     "gene expression": {
@@ -521,7 +545,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SKCM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
     "gene expression": {
@@ -539,7 +564,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PCPG.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Pan-Cancer (PANCAN)": {
     "copy number": {
@@ -571,7 +597,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Testicular Cancer (TGCT)": {
     "gene expression": {
@@ -589,7 +616,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.TGCT.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "PACA-AU": {
     "gene expression": {
@@ -613,7 +641,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LAML.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": {},
   "TCGA Large B-cell Lymphoma (DLBC)": {
@@ -632,7 +661,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.DLBC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA Bladder Cancer (BLCA)": {
     "gene expression": {
@@ -650,7 +680,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BLCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "TCGA and TARGET Pan-Cancer (PANCAN)": {
     "gene expression": {
@@ -674,7 +705,8 @@
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ESCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes"
-    }
+    },
+    "cohort.viewInPathway": true
   },
   "ICGC (donor centric)": {
     "gene expression": {
@@ -1250,6 +1282,7 @@
     "copy number for pathway view": {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_copynumber_byGene_2013-12-03_breast"
-    }
+    },
+    "cohort.viewInPathway": true
   }
 }
