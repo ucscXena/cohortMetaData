@@ -1,3 +1,11 @@
 ## [Cancer Cell Line Encyclopedia (CCLE)](https://portals.broadinstitute.org/ccle)
 
 The CCLE (Cancer Cell Line Encyclopedia) project is a collaboration between the Broad Institute, and the Novartis Institutes for Biomedical Research and its Genomics Institute of the Novartis Research Foundation to conduct a detailed genetic and pharmacologic characterization of a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics into cancer patient stratification. The CCLE provides public access to genomic data, analysis and visualization for over 1100 cell lines. See [CCLE](https://portals.broadinstitute.org/ccle/about) site for more detail.
+
+[Pharmacogenomic agreement between two cancer cell line data set](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature15736.html)
+The Cancer Cell Line Encyclopedia Consortium & The Genomics of Drug Sensitivity in Cancer Consortium
+Nature doi:10.1038/nature15736   /  Nov 16, 2015
+
+[The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity](http://www.nature.com/nature/journal/v483/n7391/full/nature11003.html)
+Barretina Caponigro Stransky et al.
+Nature doi:10.1038/nature11003   /  Mar 29, 2012
