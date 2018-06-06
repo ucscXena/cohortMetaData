@@ -10,7 +10,5 @@ Nature doi:10.1038/nature15736   /  Nov 16, 2015
 Barretina Caponigro Stransky et al.<br>
 Nature doi:10.1038/nature11003   /  Mar 29, 2012
 
-[Live view showing BRAF V600E mutation correlats with response to RAF inhibitor PLX4720](https://xenabrowser.net/heatmap/?bookmark=ee5f4923ba2bfae9b43cb5607e7aa083)
+####[<span style="color:#4ecdc4"><u>Live view showing BRAF V600E mutation correlats with response to RAF inhibitor PLX4720</u></span>](https://xenabrowser.net/heatmap/?bookmark=ee5f4923ba2bfae9b43cb5607e7aa083)</span>
 <a href="https://xenabrowser.net/heatmap/?bookmark=ee5f4923ba2bfae9b43cb5607e7aa083"><img src="https://github.com/ucscXena/cohortMetaData/blob/master/cohort_Cancer%20Cell%20Line%20Encyclopedia%20(CCLE)/BRAF-01.png?raw=true" width="60%"></a>
-
-
