@@ -11,14 +11,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LIHC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LIHC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA TARGET GTEx": {
     "gene expression": {
@@ -38,14 +31,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CESC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.CESC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Sarcoma (SARC)": {
     "gene expression": {
@@ -59,14 +45,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SARC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.SARC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Thymoma (THYM)": {
     "gene expression": {
@@ -80,14 +59,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THYM.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.THYM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Mesothelioma (MESO)": {
     "gene expression": {
@@ -101,12 +73,6 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.MESO.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.MESO.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
     }
   },
   "TCGA Pancreatic Cancer (PAAD)": {
@@ -121,14 +87,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PAAD.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PAAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Ocular melanomas (UVM)": {
     "gene expression": {
@@ -142,14 +101,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UVM.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UVM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "GTEX": {
     "gene expression": {
@@ -169,14 +121,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.READ.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.READ.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Lung Cancer (LUNG)": {
     "gene expression": {
@@ -196,14 +141,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUSC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LUSC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Stomach Cancer (STAD)": {
     "gene expression": {
@@ -217,14 +155,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.STAD.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.STAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA lower grade glioma and glioblastoma (GBMLGG)": {
     "gene expression": {
@@ -244,14 +175,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.COAD.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.COAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TARGET Pan-Cancer (PANCAN)": {
     "gene expression": {
@@ -285,14 +209,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LGG.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LGG.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Thyroid Cancer (THCA)": {
     "gene expression": {
@@ -306,14 +223,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.THCA.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.THCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Kidney Chromophobe (KICH)": {
     "gene expression": {
@@ -327,14 +237,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KICH.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KICH.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
     "gene expression": {
@@ -348,14 +251,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRP.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KIRP.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Colon and Rectal Cancer (COADREAD)": {
     "gene expression": {
@@ -375,14 +271,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.CHOL.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.CHOL.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Glioblastoma (GBM)": {
     "gene expression": {
@@ -396,14 +285,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.GBM.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.GBM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Lung Adenocarcinoma (LUAD)": {
     "gene expression": {
@@ -417,14 +299,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUAD.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LUAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Ovarian Cancer (OV)": {
     "gene expression": {
@@ -438,14 +313,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.OV.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.OV.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Kidney Clear Cell Carcinoma (KIRC)": {
     "gene expression": {
@@ -459,14 +327,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.KIRC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KIRC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Endometrioid Cancer (UCEC)": {
     "gene expression": {
@@ -480,14 +341,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCEC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UCEC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Head and Neck Cancer (HNSC)": {
     "gene expression": {
@@ -501,14 +355,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.HNSC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.HNSC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA PANCAN12 (PANCAN12)": {
     "gene expression": {
@@ -528,14 +375,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ACC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.ACC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Prostate Cancer (PRAD)": {
     "gene expression": {
@@ -549,14 +389,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PRAD.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PRAD.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Uterine Carcinosarcoma (UCS)": {
     "gene expression": {
@@ -570,14 +403,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.UCS.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UCS.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Melanoma (SKCM)": {
     "gene expression": {
@@ -591,14 +417,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.SKCM.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.SKCM.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
     "gene expression": {
@@ -612,14 +431,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.PCPG.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PCPG.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Pan-Cancer (PANCAN)": {
     "copy number": {
@@ -647,14 +459,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BRCA.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.BRCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Testicular Cancer (TGCT)": {
     "gene expression": {
@@ -668,14 +473,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.TGCT.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.TGCT.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "PACA-AU": {
     "gene expression": {
@@ -695,14 +493,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LAML.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LAML.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Formalin Fixed Paraffin-Embedded Pilot Phase II (FPPP)": {},
   "TCGA Large B-cell Lymphoma (DLBC)": {
@@ -717,14 +508,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.DLBC.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.DLBC.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA Bladder Cancer (BLCA)": {
     "gene expression": {
@@ -738,14 +522,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.BLCA.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.BLCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "TCGA and TARGET Pan-Cancer (PANCAN)": {
     "gene expression": {
@@ -765,14 +542,7 @@
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ESCA.sampleMap/SNP6_nocnv_genomicSegment"
-    },
-    "copy number for pathway view": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.ESCA.sampleMap/Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -2
-    },
-    "viewInPathway": true
+    }
   },
   "ICGC (donor centric)": {
     "gene expression": {
@@ -1330,10 +1100,6 @@
     "simple somatic mutation": {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_DepMap_18Q2_maf_20180502"
-    },
-    "copy number for pathway view": {
-      "host": "https://ucscpublic.xenahubs.net",
-      "dataset": "ccle/CCLE_copynumber_byGene_2013-12-03"
     }
   },
   "Cancer Cell Line Encyclopedia (Breast)": {
@@ -1344,13 +1110,6 @@
     "simple somatic mutation": {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_DepMap_18Q2_maf_20180502_breast"
-    },
-    "copy number for pathway view": {
-      "host": "https://ucscpublic.xenahubs.net",
-      "dataset": "ccle/CCLE_copynumber_byGene_2013-12-03_breast",
-      "amplificationThreshold": 2,
-      "deletionThreshold": -1
-    },
-    "viewInPathway": true
+    }
   }
 }
