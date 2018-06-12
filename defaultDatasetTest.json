@@ -10,7 +10,7 @@
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LIHC.sampleMap/SNP6_nocnv_genomicSegment"
+      "dataset": "TCGA.LIHC.sampleMap/SNP6_nocnv_genomicSegmen"
     },
     "copy number for pathway view": {
       "host": "https://tcga.xenahubs.net",
