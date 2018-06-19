@@ -1128,5 +1128,22 @@
       "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24",
       "feature": "Erlotinib:EGFR_ActArea"
     }
+  ],
+  "human brain transcriptome (Darmanis PNAS 2015)": [
+    {
+      "host": "https://singlecell.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "biosample_source_life_stage"
+    },
+    {
+      "host": "https://singlecell.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "sample_category"
+    },
+    {
+      "host": "https://singlecell.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "biosample_cell_type"
+    }
   ]
 }
