@@ -2067,19 +2067,7 @@
     "UCEC", 
     "UTERUS", 
     "Uterus"
-  ], 
-  "TCGA PANCAN12 (PANCAN12)": [
-    "Adult", 
-    "Cancer", 
-    "PANCAN12", 
-    "Pan", 
-    "Pan Cancer", 
-    "Pan-Cancer", 
-    "Pancan", 
-    "Pancancer", 
-    "TCGA", 
-    "Tumor"
-  ], 
+  ],  
   "TCGA Adrenocortical Cancer (ACC)": [
     "ACC", 
     "ADRENAL", 
@@ -2433,6 +2421,8 @@
     "Ovary", 
     "PAAD", 
     "PANCAN", 
+    "Pancan Atlas",
+    "Pan-Cancer Atlas",
     "PANCREAS", 
     "PCPG", 
     "PGNG", 
