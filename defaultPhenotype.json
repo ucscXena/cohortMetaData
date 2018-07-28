@@ -11,7 +11,7 @@
       "feature": "sample_type"
     },
     {
-      "host": "https://tcga.xenahubs.net",
+      "host": "https://pancanatlas.xenahubs.net",
       "dataset": "TCGA_phenotype_denseDataOnlyDownload.tsv",
       "feature": "_primary_disease"
     },
