@@ -510,12 +510,6 @@
     },
     "viewInPathway": true
   },
-  "TCGA PANCAN12 (PANCAN12)": {
-    "gene expression": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN12.sampleMap/PanCan12.3602-corrected-v3_syn1715755"
-    }
-  },
   "TCGA Adrenocortical Cancer (ACC)": {
     "gene expression": {
       "host": "https://tcga.xenahubs.net",
@@ -623,16 +617,16 @@
   },
   "TCGA Pan-Cancer (PANCAN)": {
     "copy number": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN.sampleMap/SNP6_nocnv_genomicSegment"
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "broad.mit.edu_PANCAN_Genome_Wide_SNP_6_whitelisted.xena"
     },
     "gene expression": {
-      "host": "https://toil.xenahubs.net",
-      "dataset": "tcga_RSEM_Hugo_norm_count"
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "EB++AdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena"
     },
     "simple somatic mutation": {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN.sampleMap/PANCAN_mutation"
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "mc3.v0.2.8.PUBLIC.xena"
     }
   },
   "TCGA Breast Cancer (BRCA)": {
@@ -1302,20 +1296,6 @@
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.mutect2_snv.tsv"
-    }
-  },
-  "TCGA PanCanAtlas": {
-    "gene expression": {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "EB++AdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.xena"
-    },
-    "copy number": {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "broad.mit.edu_PANCAN_Genome_Wide_SNP_6_whitelisted.xena"
-    },
-    "simple somatic mutation": {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "mc3.v0.2.8.PUBLIC.xena"
     }
   },
   "Cancer Cell Line Encyclopedia (CCLE)": {
