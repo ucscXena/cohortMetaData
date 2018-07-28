@@ -1,19 +1,29 @@
 {
   "TCGA Pan-Cancer (PANCAN)": [
     {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
-      "feature": "_primary_disease"
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "cancer type abbreviation"
     },
     {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "TCGA_phenotype_denseDataOnlyDownload.tsv",
       "feature": "sample_type"
     },
     {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN.sampleMap/PANCAN_clinicalMatrix",
+      "dataset": "TCGA_phenotype_denseDataOnlyDownload.tsv",
+      "feature": "_primary_disease"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
       "feature": "age_at_initial_pathologic_diagnosis"
+    },
+    {
+      "host": "https://pancanatlas.xenahubs.net",
+      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
+      "feature": "gender"
     }
   ],
   "TCGA Breast Cancer (BRCA)": [
@@ -222,13 +232,6 @@
     {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.OV.sampleMap/OV_clinicalMatrix",
-      "feature": "sample_type"
-    }
-  ],
-  "TCGA PANCAN12 (PANCAN12)": [
-    {
-      "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PANCAN12.sampleMap/PANCAN12_clinicalMatrix",
       "feature": "sample_type"
     }
   ],
@@ -1080,34 +1083,7 @@
       "feature": "age_at_diagnosis.diagnoses"
     }
   ],
-   "TCGA PanCanAtlas": [
-    {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
-      "feature": "cancer type abbreviation"
-    },
-    {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
-      "feature": "histological_type"
-    },
-    {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "TCGA_phenotype_denseDataOnlyDownload.tsv",
-      "feature": "sample_type"
-    },
-    {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
-      "feature": "gender"
-    },
-    {
-      "host": "https://pancanatlas.xenahubs.net",
-      "dataset": "Survival_SupplementalTable_S1_20171025_xena_sp",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    }
-  ],
-   "Cancer Cell Line Encyclopedia (CCLE)": [
+  "Cancer Cell Line Encyclopedia (CCLE)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/sample_info_primary_site",
