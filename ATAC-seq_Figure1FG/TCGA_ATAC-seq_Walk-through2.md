@@ -3,7 +3,7 @@
 In Figure 1, Corces, 2018 show that they can identify known sites of chromatin accessibility, including a peak that shows increased accessibility in kidney renal clear cell carcinoma (rs35252396) and another associated with colon cancer susceptibility (rs6983267). Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
 
 ## Live View of Figure 1F
-<a href="http://xenabrowser.net/?bookmark=0014b6d379b0a69e5fd9a7c2930cf408"><img src="https://atacseq.xenahubs.net/download/meta/Figure1F.png" width="700"></a>
+<a href="http://xenabrowser.net/?bookmark=0014b6d379b0a69e5fd9a7c2930cf408"><img src="Figure1F.png" width="700"></a>
 
 Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) reveals that this trend is specific to this locus. This SNP is associated with MYC in colorectal cancer (column F). Bookmark: <http://xenabrowser.net/?bookmark=0014b6d379b0a69e5fd9a7c2930cf408>
 
