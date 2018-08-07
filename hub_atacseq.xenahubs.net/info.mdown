@@ -1,4 +1,4 @@
-<img src="https://atacseq.xenahubs.net/download/meta/open-chromatin.png" width="40%"  align="left" /> 
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/open-chromatin.png" width="40%"  align="left" /> 
 ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing) is a technique used in molecular biology to study chromatin accessibility.
 
 The Cancer Genome Atlas (TCGA) was established to understand the heterogeneity and molecular underpinnings of cancer. However, to date, no large-scale genome-wide epigenomic assays have been performed on samples from the TCGA cohort. In particular, the gene regulatory machinery driving cancer remains largely unknown. Limitations on tissue availability have prevented the use of chromatin immunoprecipitation sequencing (ChIP-seq) or DNaseI hypersensitivity sequencing (DNase-seq). Recently, the advent of ATAC-seq technology has enabled the genome-wide profiling of chromatin accessibility in as few as hundreds of cells. Moreover, recent improvements to this method have made it possible to obtain high quality chromatin accessibility profiles from small quantities of frozen tissue.
@@ -7,7 +7,7 @@ The Cancer Genome Atlas (TCGA) was established to understand the heterogeneity a
 
 The ATAC-seq peak signals and computed peak to gene linkage predictions from the study are available for interactive visualization and exploration, as well as bulk download. Below are a few walk-through tutorials on how to use the Xena Browser to query and visualize the TCGA ATAC-seq data.
 
-<a href="http://dev.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/ATAC-seq_Figure1FG/TCGA_ATAC-seq_Walk-through2.md"><img src="https://atacseq.xenahubs.net/download/meta/walthroughFigure1FG.png" width="500"></a>
+<a href="http://dev.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/ATAC-seq_Figure1FG/TCGA_ATAC-seq_Walk-through2.md"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1FG.png" width="500"></a>
 
 <br>
 <br>
