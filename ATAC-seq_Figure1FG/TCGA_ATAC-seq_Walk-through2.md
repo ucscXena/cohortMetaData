@@ -34,7 +34,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> rs6983267 is associated with MYC in colorectal cancer ([Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607)). Here we examine MYC accessibility.
 
-	Bookmark: <http://xenabrowser.net/?bookmark=0014b6d379b0a69e5fd9a7c2930cf408>
+	Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
 
 ## Explore further
 <a href="http://xenabrowser.net/heatmap/?bookmark=c005b9ec29d4f16dc45e5b69c86e9772"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1Fchart.png" width="700"></a>
