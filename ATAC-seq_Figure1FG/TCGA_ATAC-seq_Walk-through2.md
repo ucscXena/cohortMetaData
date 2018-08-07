@@ -33,19 +33,19 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 	Bookmark: <http://xenabrowser.net/?bookmark=0014b6d379b0a69e5fd9a7c2930cf408>
 
 ## Explore further
-<a href="http://xenabrowser.net/heatmap/?bookmark=9841aae3ca1ffca6156414e4b96dbb74"><img src="https://atacseq.xenahubs.net/download/meta/Figure1Fchart.png" width="700"></a>
+<a href="http://xenabrowser.net/heatmap/?bookmark=9841aae3ca1ffca6156414e4b96dbb74"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1Fchart.png" width="700"></a>
 
 Bookmark: <http://xenabrowser.net/heatmap/?bookmark=9841aae3ca1ffca6156414e4b96dbb74>
 Another view of rs6983267 accessibility by cancer type.
 
 ### Steps to reproduce
 
-<img src="https://atacseq.xenahubs.net/download/meta/atacseqchart.gif" width="90%">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/atacseqchart.gif" width="90%">
 
 We see a box plot of rs6983267 peak signal across cancer type. This more clearly identifies cancer types with increased accessibility for this locus, including LUSC, BLCA and BRCA. This finding is corroborated by other studies in the literature, including [Wokolorczyk 2008](https://www.ncbi.nlm.nih.gov/pubmed/19047180).
 
 ## Live View of Figure 1G/H
-<a href="http://xenabrowser.net/?bookmark=a73a14eeba05a51a0da64a672b912355"><img src="https://atacseq.xenahubs.net/download/meta/Figure1GH.png" width="700"></a>
+<a href="http://xenabrowser.net/?bookmark=a73a14eeba05a51a0da64a672b912355"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1GH.png" width="700"></a>
 
 Bookmark: <http://xenabrowser.net/?bookmark=a73a14eeba05a51a0da64a672b912355>
 Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), we can see that rs6983267 is very accessible for COAD whereas in KIRC it is relatively inaccessible. The reverse is true for rs35252396. Red indicates higher chromatin accessibility and blue indicates lower.
@@ -53,7 +53,7 @@ Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), w
 ### Steps to reproduce
 __Filter to COAD and KIRC.__ Enter 'COAD OR KIRC' in the filter search bar to highlight and find samples that are COAD or KIRC. Choose 'Filter' from the menu next to the search bar.
 
-<img src="https://atacseq.xenahubs.net/download/meta/atacseqfilter.gif" width="90%">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/atacseqfilter.gif" width="90%">
 
 More help on our filter feature can be found here: <https://ucsc-xena.gitbook.io/project/overview-of-features/filter-and-subgrouping>
 
