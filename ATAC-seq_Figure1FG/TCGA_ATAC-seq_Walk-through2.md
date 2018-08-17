@@ -1,11 +1,15 @@
 # TCGA ATAC-seq Walk-through
 
-In Figure 1, Corces 2018 show that they can identify known sites of chromatin accessibility, including a peak associated with colon cancer susceptibility (rs6983267) and another that shows increased accessibility in kidney renal clear cell carcinoma (rs35252396). Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
+In Figure 1, Corces 2018 investigate the relationship between MYC, chromatin accessibility, and cancer type.  We observed substantial diversity in the chromatin accessibility landscape of the MYC locus to cluster cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
+
+Further, they identify known sites of chromatin accessibility including peaks surrounding two functionally validated GWAS cancer susceptibility SNPs: rs6983267, which is associated with colon cancer susceptibility,  and rs35252396, which is associated with renal cancer. Both of these SNPs show accessibility in other cancer types, indicating that they may be important in other cancer types.
+
+Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
 
 ## Live View of Figure 1F
 <a href="http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1F.png" width="700"></a>
 
-Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The rs6983267 SNP is associated with MYC in colorectal cancer (column G). Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
+Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The both SNPs are associated with MYC in colorectal cancer  adn renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
 
 
 ### Steps to reproduce
@@ -19,9 +23,13 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 3. __Add ATAC-seq peak ESCA\_60954, which is the peak for rs6983267__ Click 'Add Column' and enter 'ESCA\_60954' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
 	> Note that you need to enter 'ESCA_60954'. If you can always edit the label to read 'rs6983267' by clicking on it and typing.
+	
+	> We could see that rs6983267 is more accessible in COAD, which is predicted from ([Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607). It is also more accessible in breast and other squamous cancer types.
 
 4. __Add ATAC-seq peak STAD\_57221, which is the peak for rs35252396.__  Repeat step 3 for STAD\_57221.
 
+	> We could see that rs35252396 is more accessible in KIRC, which is predicted from ([Grampp 2016](https://www.nature.com/articles/ncomms13183). 
+	
 	> Bookmark: <http://xenabrowser.net/heatmap/?bookmark=2ab87ec9bde550dfac9f547cd3090e9a>
 
 5. __Examine peaks in the region surrounding rs6983267.__ Click 'Add Column' and enter 'chr8:127369679-127432497' as the 'Gene or Position'. Click 'Show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
@@ -30,9 +38,11 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 6. __Examine peaks in the region surrounding rs35252396.__ Repeat step 5 for 'chr8:127841010-127911511'
 
+	> Similarly, for rs35252396  we see here that while some peaks nearby have a similar trend, this is isolated to this peak.
+
 7. __Examine peaks around MYC.__ Click on 'Add Column' and enter 'chr8:127715668-127760786' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
-	> rs6983267 is associated with MYC in colorectal cancer ([Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607)). Here we examine MYC accessibility.
+	> Both of these SNPs are linked to the gene MYC. Here we see that in addition to the distal peaks of rs6983267 and rs35252396, that MYC itself has cancer-dependent trends in chromatin accessibility. Some cancer types have extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and some cancer types have chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
 	Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
 
