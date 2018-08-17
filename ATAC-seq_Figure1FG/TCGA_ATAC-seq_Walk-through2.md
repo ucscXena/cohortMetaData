@@ -24,11 +24,11 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> Note that you need to enter 'ESCA_60954'. If you can always edit the label to read 'rs6983267' by clicking on it and typing.
 	
-	> We could see that rs6983267 is more accessible in COAD, which is predicted from ([Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607). It is also more accessible in breast and other squamous cancer types.
+	> We could see that rs6983267 is more accessible in COAD, which is predicted from [Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607). It is also more accessible in breast and other squamous cancer types.
 
 4. __Add ATAC-seq peak STAD\_57221, which is the peak for rs35252396.__  Repeat step 3 for STAD\_57221.
 
-	> We could see that rs35252396 is more accessible in KIRC, which is predicted from ([Grampp 2016](https://www.nature.com/articles/ncomms13183). 
+	> We could see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
 	
 	> Bookmark: <http://xenabrowser.net/heatmap/?bookmark=2ab87ec9bde550dfac9f547cd3090e9a>
 
