@@ -1070,7 +1070,7 @@
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "disease_type"
+      "feature": "disease_type.project"
     },
     {
       "host": "https://gdc.xenahubs.net",
