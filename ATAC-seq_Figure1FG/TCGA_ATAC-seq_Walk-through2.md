@@ -6,10 +6,10 @@ Further, they identify known sites of chromatin accessibility including peaks su
 
 Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
 
-## Live View of Figure 1F
-<a href="http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1F.png" width="700"></a>
+## Live View of Figure 1D
+<a href="http://xenabrowser.net/?bookmark=5fbbe464a39c8413e508630bb97d8d69"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1D.png" width="700"></a>
 
-Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The both SNPs are associated with MYC in colorectal cancer  adn renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
+Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The both SNPs are associated with MYC in colorectal cancer  adn renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=5fbbe464a39c8413e508630bb97d8d69>
 
 
 ### Steps to reproduce
@@ -30,7 +30,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> We could see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
 	
-	> Bookmark: <http://xenabrowser.net/heatmap/?bookmark=2ab87ec9bde550dfac9f547cd3090e9a>
+	> Bookmark: <http://xenabrowser.net/heatmap/?bookmark=ebc9f098f9fddb943cae09ad2e412917>
 
 5. __Examine peaks in the region surrounding rs6983267.__ Click 'Add Column' and enter 'chr8:127369679-127432497' as the 'Gene or Position'. Click 'Show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
@@ -44,12 +44,12 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> Both of these SNPs are linked to the gene MYC. Here we see that in addition to the distal peaks of rs6983267 and rs35252396, that MYC itself has cancer-dependent trends in chromatin accessibility. Some cancer types have extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and some cancer types have chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
-	Bookmark: <http://xenabrowser.net/?bookmark=46d80f025316b32fbf21568767e6fb4c>
+	Bookmark: <http://xenabrowser.net/?bookmark=5fbbe464a39c8413e508630bb97d8d69>
 
 ## Explore further
-<a href="http://xenabrowser.net/heatmap/?bookmark=c005b9ec29d4f16dc45e5b69c86e9772"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1Fchart.png" width="700"></a>
+<a href="http://xenabrowser.net/heatmap/?bookmark=a39f856a91aee6339320116137982ab3"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1Dchart.png" width="700"></a>
 
-Bookmark: <http://xenabrowser.net/heatmap/?bookmark=c005b9ec29d4f16dc45e5b69c86e9772>
+Bookmark: <http://xenabrowser.net/heatmap/?bookmark=a39f856a91aee6339320116137982ab3>
 Another view of rs6983267 accessibility by cancer type.
 
 ### Steps to reproduce
@@ -60,10 +60,10 @@ Another view of rs6983267 accessibility by cancer type.
 
 We see a box plot of rs6983267 peak signal across cancer type. This more clearly identifies cancer types with increased accessibility for this locus, including LUSC, BLCA and BRCA. This finding is corroborated by other studies in the literature, including [Wokolorczyk 2008](https://www.ncbi.nlm.nih.gov/pubmed/19047180).
 
-## Live View of Figure 1G/H
-<a href="http://xenabrowser.net/?bookmark=3613ef4cb97c18e156b963a3be65ca42"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1GH.png" width="700"></a>
+## Live View of Figure 1E
+<a href="http://xenabrowser.net/?bookmark=50b215e3a402a711270b29e21c21a42c"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1E.png" width="700"></a>
 
-Bookmark: <http://xenabrowser.net/?bookmark=3613ef4cb97c18e156b963a3be65ca42>
+Bookmark: <http://xenabrowser.net/?bookmark=50b215e3a402a711270b29e21c21a42c>
 Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), we can see that rs6983267 is very accessible for COAD whereas in KIRC it is relatively inaccessible. The reverse is true for rs35252396. Red indicates higher chromatin accessibility and blue indicates lower.
 
 ### Steps to reproduce
