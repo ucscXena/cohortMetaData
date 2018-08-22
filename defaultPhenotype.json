@@ -1059,13 +1059,13 @@
   "GDC Pan-Cancer (PANCAN)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "project_code"
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.project_info.tsv",
+      "feature": "program_code.project"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "disease_code"
+      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.project_info.tsv",
+      "feature": "disease_code.project"
     },
     {
       "host": "https://gdc.xenahubs.net",
