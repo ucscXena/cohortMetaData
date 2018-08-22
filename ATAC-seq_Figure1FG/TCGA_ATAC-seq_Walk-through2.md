@@ -24,6 +24,8 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> Note that you need to enter 'ESCA_60954'. If you can always edit the label to read 'rs6983267' by clicking on it and typing.
 	
+	> Note that the color threshold in the images are different (max:4 min:-2) than what is used by default. See [this help](https://ucsc-xena.gitbook.io/project/how-do-i/how-do-i-change-the-color-threshold-for-a-column) for more information.
+	
 	> We could see that rs6983267 is more accessible in COAD, which is predicted from [Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607). It is also more accessible in breast and other squamous cancer types.
 
 4. __Add ATAC-seq peak STAD\_57221, which is the peak for rs35252396.__  Repeat step 3 for STAD\_57221.
