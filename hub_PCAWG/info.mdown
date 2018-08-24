@@ -1,4 +1,4 @@
-# <a https://pcawg.xenahubs.net/download/meta/PCAWG-final-small.png"><img src="https://pcawg.xenahubs.net/download/meta/PCAWG-final-small.png" align="left" width="100" style="padding-right:20px"></a> _PCAWG_ Xena Hub
+# <a href="https://dcc.icgc.org/pcawg"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_PCAWG/PCAWG-final-small.png" align="left" width="100" style="padding-right:20px"></a> _PCAWG_ Xena Hub
 #### _UCSC Xena Visualization of PCAWG data_
 
 <br>
