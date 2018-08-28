@@ -7,7 +7,7 @@ Further, they identify known sites of chromatin accessibility including peaks su
 Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
 
 ## Live View of Figure 1D
-<a href="http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1D.png" width="700"></a>
+<a href="http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1D.png" width="700"></a>
 
 Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The both SNPs are associated with MYC in colorectal cancer  adn renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd>
 
@@ -49,7 +49,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 	Bookmark: <http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd>
 
 ## Explore further
-<a href="http://xenabrowser.net/heatmap/?bookmark=443b97e1754fde0d252134ac6f1d3480"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1Dchart.png" width="700"></a>
+<a href="http://xenabrowser.net/heatmap/?bookmark=443b97e1754fde0d252134ac6f1d3480"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1Dchart.png" width="700"></a>
 
 Bookmark: <http://xenabrowser.net/heatmap/?bookmark=443b97e1754fde0d252134ac6f1d3480>
 Another view of rs6983267 accessibility by cancer type.
@@ -58,12 +58,12 @@ Another view of rs6983267 accessibility by cancer type.
 
 1. __Click the chart icon__
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/atacseqchart.gif" width="90%">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqchart.gif" width="90%">
 
 We see a box plot of rs6983267 peak signal across cancer type. This more clearly identifies cancer types with increased accessibility for this locus, including LUSC, BLCA and BRCA. This finding is corroborated by other studies in the literature, including [Wokolorczyk 2008](https://www.ncbi.nlm.nih.gov/pubmed/19047180).
 
 ## Live View of Figure 1E
-<a href="http://xenabrowser.net/?bookmark=ce4e0c581f6cbc8e894aacc3a5566373"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/Figure1E.png" width="700"></a>
+<a href="http://xenabrowser.net/?bookmark=ce4e0c581f6cbc8e894aacc3a5566373"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1E.png" width="700"></a>
 
 Bookmark: <http://xenabrowser.net/?bookmark=ce4e0c581f6cbc8e894aacc3a5566373>
 Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), we can see that rs6983267 is very accessible for COAD whereas in KIRC it is relatively inaccessible. The reverse is true for rs35252396. Red indicates higher chromatin accessibility and blue indicates lower.
@@ -72,7 +72,7 @@ Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), w
 
 1. __Filter to COAD and KIRC.__ Enter 'COAD OR KIRC' in the filter search bar to highlight and find samples that are COAD or KIRC. Choose 'Filter' from the menu next to the search bar.
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/ATAC-seq_Figure1FG/atacseqfilter.gif" width="90%">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqfilter.gif" width="90%">
 
 More help on our filter feature can be found here: <https://ucsc-xena.gitbook.io/project/overview-of-features/filter-and-subgrouping>
 
