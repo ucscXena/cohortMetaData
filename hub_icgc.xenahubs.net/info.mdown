@@ -31,6 +31,6 @@ This release includes:
 
 UCSC Xena ingests release version 22 data from the [ICGC Data portal](https://dcc.icgc.org/)
 
-Live Example
+#### View live example: [<span style="color:#4ecdc4"><u>Intron mutation hotspots in ICGC lymphomas</u></span>](http://dev.xenabrowser.net/heatmap/?bookmark=b62b660e6029947f51ce5745945cce90)
 
 <a href="http://dev.xenabrowser.net/heatmap/?bookmark=b62b660e6029947f51ce5745945cce90"><img src="https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_icgc.xenahubs.net/SFigure%202%20icgc%20mutation.png"></a>
