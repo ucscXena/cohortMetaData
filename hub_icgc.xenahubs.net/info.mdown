@@ -1,1 +1,33 @@
+#ICGC Xena Hub
+
+[International Cancer Genome Consortium (ICGC)](http://icgc.org/) goal is to obtain a comprehensive description of genomic, transcriptomic and epigenomic changes in 50 different tumor types and/or subtypes which are of clinical and societal importance across the globe.
+
+
+### ICGC Xena Hub hosts the following data
+Supported data types
+* Somatic simple mutations
+* Copy number variation
+* Gene expressions from US projects (because they were processed the same way and so form a coherent set) and selected projects
+* Phenotype data
+* Selected publication data
+
+ICGC data from all projects are combined and organized into three cohorts on ICGC Xena Hub
+* A donor-centric cohort
+* A specimen-centric cohort
+* a cohort of US donors with both RNA and SNV data
+
+
+### ICGC Data Release, [version 22](https://dcc.icgc.org/releases/release_22/)
+
+Released on August 23, 2016
+
+This release includes:
+* 70 Cancer Projects
+* 21 Cancer primary sites
+* 16,236 Donors with molecular data in DCC
+* 19,290 Total Donors
+* 46,429,997 Simple Somatic Mutations
+* 57,658 Mutated genes
+
+UCSC Xena ingests release version 22 data from the [ICGC Data portal](https://dcc.icgc.org/)
 
