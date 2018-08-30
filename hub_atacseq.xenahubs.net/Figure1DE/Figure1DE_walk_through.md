@@ -1,4 +1,4 @@
-# TCGA ATAC-seq Walk-through
+# TCGA ATAC-seq Walk-through: Figure 1D & E
 
 In Figure 1, Corces 2018 investigate the relationship between MYC, chromatin accessibility, and cancer type.  We observed substantial diversity in the chromatin accessibility landscape of the MYC locus to cluster cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
