@@ -7,9 +7,9 @@ Here we recreate a variation of this figure.
 ## Live View of Figure 7H
 <a href="https://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
 
-Here we can see chromatin accessibility near the beginning of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility upstream from FGD4 (column C), as highlighted by the black box. This increased accessibility is associated with the highest FGD4 gene expression for these samples (column D).
+Here we can see chromatin accessibility near the beginning of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility in the region upstream from FGD4 (column C), as highlighted by the black oval. This increased accessibility is associated with the highest FGD4 gene expression for this sample (column D).
 
-At the top of column C we have highlighted the ATACseq peak (BLCA_65729) that overlaps with eFGD4 ("enhancer FGD4") at chr12:32385775. Note that can’t see the mutation in the mutation data itself because mutations outside the coding region are considered protected data by TCGA.
+At the top of column C we have highlighted the ATACseq peak (BLCA_65729) that overlaps with the eFGD4 point mutation ("enhancer FGD4") at chr12:32385775:C->T. Note that can’t see the mutation in the mutation data on Xena because mutations outside the coding region are considered protected data by TCGA.
 
 Bookmark: <https://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
