@@ -33,7 +33,7 @@ Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
   > We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
-<Bookmark: http://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
+Bookmark: <http://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
