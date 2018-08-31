@@ -5,17 +5,17 @@ Corces 2018 overlapped WGS and ATAC-seq data to uncover a mutation upstream of t
 Here we recreate a variation of this figure.
 
 ## Live View of Figure 7H
-<a href="http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
+<a href="https://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
 
 Here we can see chromatin accessibility near the beginning of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility upstream from FGD4 (column C), as highlighted by the black box. This increased accessibility is associated with the highest FGD4 gene expression for these samples (column D).
 
 At the top of column C we have highlighted the ATACseq peak (BLCA_65729) that overlaps with eFGD4 ("enhancer FGD4") at chr12:32385775. Note that can’t see the mutation in the mutation data itself because mutations outside the coding region are considered protected data by TCGA.
 
-Bookmark: <http://xenabrowser.net/?bookmark= figure 7H>
+Bookmark: <https://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
 ### Steps to reproduce
 
-1. __Start here: <http://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9>.__
+1. __Start here: <https://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9>.__
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
@@ -33,7 +33,7 @@ Bookmark: <http://xenabrowser.net/?bookmark= figure 7H>
 
   > We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
-<bookmark = filtered to blca>
+<Bookmark: https://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
@@ -41,7 +41,7 @@ Bookmark: <http://xenabrowser.net/?bookmark= figure 7H>
 
   > We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
-Bookmark: <http://xenabrowser.net/?bookmark= figure 7H>
+Bookmark: <https://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
 
 ## Live View of Figure 1I
@@ -51,7 +51,7 @@ Here we can see that higher FGD4 expression is significantly associated with wor
 
 Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
-1. __Start here: <http://xenabrowser.net/>.__
+1. __Start here: <https://xenabrowser.net/>.__
 
 2. __Choose the GDC TCGA Bladder Cancer (BLCA) study.__ Type 'GDC TCGA Bladder Cancer' in the 'Search for Study' field. Choose the GDC TCGA Bladder Cancer (BLCA) study and click 'done'.
 
