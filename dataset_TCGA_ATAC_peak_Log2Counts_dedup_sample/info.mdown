@@ -1,3 +1,3 @@
 This is TCGA ATACseq peak signal pancancer (404 samples) data.
 
-To explore the data, start here to only view these 404 samples: http://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9 , then add more columns of atacseq, gene expression, DNA methylation, and sample annotation data.
+To explore the data, start here to only view these 404 samples: [http://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9](http://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9), then add more columns of atacseq, gene expression, DNA methylation, and sample annotation data.
