@@ -7,8 +7,12 @@ The Cancer Genome Atlas (TCGA) was established to understand the heterogeneity a
 
 The ATAC-seq peak signals and computed peak to gene linkage predictions from the study are available for interactive visualization and exploration, as well as bulk download. Below are a few walk-through tutorials on how to use the Xena Browser to query and visualize the TCGA ATAC-seq data.
 
-| <a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="90%"></a> | <a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7HI_walk_through.md"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure7HI.png" width="90%"></a> |
---|--
+<table>
+  <tr>
+    <td><a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="90%"></a></td>
+    <td><a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7HI_walk_through.md"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure7HI.png" width="90%"></a></td>
+  </tr>
+</table>
 
 <br>
 <br>
