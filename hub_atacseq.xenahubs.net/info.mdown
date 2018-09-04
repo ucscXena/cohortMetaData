@@ -1,5 +1,6 @@
 <head>
 <link rel="stylesheet" href="https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/info.css">
+</link>
 </head>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/open-chromatin.png" width="40%"  align="left" /> 
