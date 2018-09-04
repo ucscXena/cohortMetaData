@@ -2,7 +2,7 @@
 dataset, cohort and hub splash pages
 
 To add a new dataset page:
-1. create a new folder that is 'dataset_' + the EXACT dataset name as it appears in Xena. If the dataset name has "/" in it, replace "/" with "_" 
+1. In the "dataset" directory, create a new subfolder, that is the EXACT dataset name as it appears in Xena. If the dataset name has "/" in it, still keep "/".
 2. add a 'info.markdown' page to the folder. This is the markdown page that will be displayed on the Xena dataset page
 3. if you need to add images, add them to the folder as well
 
