@@ -1,8 +1,3 @@
-<head>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/info.css">
-</link>
-</head>
-
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/open-chromatin.png" width="40%"  align="left" /> 
 ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing) is a technique used in molecular biology to study chromatin accessibility.
 
@@ -12,7 +7,7 @@ The Cancer Genome Atlas (TCGA) was established to understand the heterogeneity a
 
 The ATAC-seq peak signals and computed peak to gene linkage predictions from the study are available for interactive visualization and exploration, as well as bulk download. Below are a few walk-through tutorials on how to use the Xena Browser to query and visualize the TCGA ATAC-seq data.
 
-<table class="center">
+<table style="text-align:center; width=80%;">
   <tr>
     <td class="center"><a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="80%"></a></td>
     <td class="center"><a href="http://xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7HI_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure7HI.png" width="80%"></a></td>
