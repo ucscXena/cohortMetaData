@@ -1,5 +1,6 @@
 table, tr, th, td {
    border: 0;
+   width: 80%;
    text-align: center;
    vertical-align: middle;
 }
