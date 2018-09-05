@@ -1,3 +1,3 @@
-This is ATAC-seq peak signal data in the TCGA BRCA cohort.
+This is ATAC-seq peak signal data on the 74 TCGA BRCA samples that are assayed.
 
-To explore the data, start here to only view these 74 samples: [https://xenabrowser.net/heatmap/?bookmark=d5908a2d985a4816279920c2eea6fda7](https://xenabrowser.net/heatmap/?bookmark=d5908a2d985a4816279920c2eea6fda7), then add more columns of atacseq, gene expression, DNA methylation, and sample annotation data.
+To explore the data, start [here](https://xenabrowser.net/heatmap/?bookmark=652ca73b6e60e205bcda3e493aa987e2) to view the 74 samples, then add more columns of atac-seq, gene expression, DNA methylation, and sample annotation data.
