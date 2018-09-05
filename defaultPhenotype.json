@@ -385,12 +385,12 @@
   ],
   "Treehouse public expression dataset (July 2017)": [
     {
-      "host": "https://treehouse.xenahubs.net",
+      "host": "https://xena.treehouse.gi.ucsc.edu:443",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "disease"
     },
     {
-      "host": "https://treehouse.xenahubs.net",
+      "host": "https://xena.treehouse.gi.ucsc.edu:443",
       "dataset": "treehouse_public_samples_clinical_metadata.2017-09-11.tsv",
       "feature": "age_in_years"
     }
