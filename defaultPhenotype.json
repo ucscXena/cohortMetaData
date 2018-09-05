@@ -395,6 +395,23 @@
       "feature": "age_in_years"
     }
   ],
+  "Treehouse public expression dataset (July 2017)": [
+    {
+      "host": "https://xena.treehouse.gi.ucsc.edu:443",
+      "dataset": "TreehousePEDv8_clinical_metadata.2018-07-25.tsv",
+      "feature": "disease"
+    },
+    {
+      "host": "https://xena.treehouse.gi.ucsc.edu:443",
+      "dataset": "TreehousePEDv8_clinical_metadata.2018-07-25.tsv",
+      "feature": "age_at_dx"
+    },
+    {
+      "host": "https://xena.treehouse.gi.ucsc.edu:443",
+      "dataset": "TreehousePEDv8_clinical_metadata.2018-07-25.tsv",
+      "feature": "pedaya"
+    }
+  ],
   "PCAWG (donor centric)": [
     {
       "host": "https://pcawg.xenahubs.net",
