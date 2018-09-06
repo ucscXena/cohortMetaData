@@ -1,0 +1,31 @@
+### Four parameters to measure pharmacological sensitivity:                                                                                                   
+<li>Amax: a maximal effect level of inhibition, see https://www.nature.com/articles/nature11003/figures/2 (b)                                                                                    
+<li>EC50: the concentration at half-maximal activity of the compound                                                                                                                             
+<li>IC50: the concentration at which the drug response reached an absolute inhibition of 50%                                                                                                     
+<li>ActArea (activity area): the area over the dose–response curve, see https://www.nature.com/articles/nature11003/figures/2 (b)                                                                
+                                                                                                                                          
+### List of the 24 drugs profiled across 504 CCLE lines                                                                                                                               
+<li>Erlotinib,Tarceva,EGFR,EGFR Inhibitor,Kinase inhibitor,Launched-2004,Genentech                                                                                                              
+<li>Lapatinib,Tykerb,"EGFR, HER2",EGFR and HER2 Inhibitor,Kinase inhibitor,Launched-2007,GlaxoSmithKline                                                                                       
+<li>PHA-665752,,c-MET,c-MET Inhibitor,Kinase inhibitor,Preclinical,Pfizer                                                                                                                        
+<li>PF-2341066,Crizotinib,"c-MET, ALK",c-MET and ALK Inhibitor,Kinase inhibitor,Launched-2011,Pfizer                                                                                           
+<li>TAE684,,ALK,ALK Inhibitor,Kinase inhibitor,Preclinical,Novartis                                                                                                                              
+<li>Vandetanib,Zactima,"Abl, EGFR, Flt3, C-KIT, RET, VEGFR-1, KDR, FLT4",Multi-kinase inhibitor,Kinase inhibitor,Launched-2011,AstraZeneca                                                     
+<li>Nilotinib,Tasigna,Abl/Bcr-Abl,Abl Inhibitor,Kinase inhibitor,Launched-2007,Novartis                                                                                                          
+<li>AZD0530,Saracatinib,"Src, Abl/Bcr-Abl, EGFR",Src and Abl inhibitor,Kinase inhibitor,Phase II,AstraZeneca                                                                                   
+<li>Sorafenib,Nexavar,"Flt3, C-KIT, PDGFRbeta, RET, Raf kinase B, Raf kinase C, VEGFR-1, KDR, FLT4",Multi-kinase inhibitor,Kinase inhibitor,Launched-2005,Bayer                                
+<li>TKI258,Dovitinib,"EGFR, FGFR1, PDGFRbeta, VEGFR-1, KDR",Multi-kinase inhibitor,Kinase inhibitor,Phase III,Novartis                                                                         
+<li>PD-0332991 ,,CDK4/6,CDK4/6 Inhibitor,Kinase inhibitor,Phase II,Pfizer                                                                                                                        
+<li>AEW541,,IGF-1R,IGF-1R Inhibitor,Kinase inhibitor,Preclinical,Novartis                                                                                                                        
+<li>RAF265,,"Raf kinase B, KDR",Raf kinase B and KDR Inhibitor,Kinase inhibitor,Phase I,Novartis                                                                                               
+<li>PLX4720,,RAF ,Raf kinase B Inhibitor,Kinase inhibitor,Preclinical,Plexxikon                                                                                                                  
+<li>PD-0325901,,MEK,MEK1 and MEK2 Inhibitor,Kinase inhibitor,Discontinued,Pfizer                                                                                                                 
+<li>AZD6244,Selumetinib,MEK,MEK1 and MEK2 Inhibitor,Kinase inhibitor,Phase II,AstraZeneca                                                                                                        
+<li>Nutlin-3,,MDM2,MDM2 Inhibitor,Other targeted therapies,Preclinical,Roche                                                                                                                     
+<li>LBW242,,IAP,Inhibitor of Apoptosis Proteins (IAP) Inhibitor,Other targeted therapies,Preclinical,Novartis                                                                                    
+<li>17-AAG,Tanespimycin,HSP90,Heat Shock Protein 90 (hsp90) Inhibitor,Other targeted therapies,Phase III,Bristol-Myers Squibb                                                                    
+<li>L-685458,,Gamma Secretase,gamma-Secretase Inhibitor,Other targeted therapies,Preclinical,Merck Sharp & Dohme                                                                                 
+<li>Panobinostat??,Faridak ,HDAC,Histone Deacetylase (HDAC) Inhibitor,Other targeted therapies,Pre-Registered,Novartis                                                                           
+<li>Paclitaxel,Taxol,beta-tubulin ,Microtubule-Stabilizing Agents,Cytotoxic,Launched-1993,Bristol-Myers Squibb                                                                                   
+<li>Irinotecan,Camptosar?,Topoisomerase I,DNA Topoisomerase I Inhibitor,Cytotoxic,Launched-1994,Pfizer                                                                                           
+<li>Topotecan,Hycamtin,Topoisomerase I,DNA Topoisomerase I Inhibitor,Cytotoxic,Launched-1996,GlaxoSmithKline
