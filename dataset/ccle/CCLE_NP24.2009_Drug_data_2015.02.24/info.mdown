@@ -1,5 +1,5 @@
 ### Four parameters to measure pharmacological sensitivity:                                                                                                   
-* Amax: a maximal effect level of inhibition, see https://www.nature.com/articles/nature11003/figures/2 (b)                                                                                    
+* Amax: a maximal effect level of inhibition, see figures 2b](https://www.nature.com/articles/nature11003/figures/2)                                                                                                  
 * EC50: the concentration at half-maximal activity of the compound                                                                                                                             
 * IC50: the concentration at which the drug response reached an absolute inhibition of 50%                                                                                                     
 * ActArea (activity area): the area over the dose–response curve, see [figures 2b](https://www.nature.com/articles/nature11003/figures/2)                                                                
