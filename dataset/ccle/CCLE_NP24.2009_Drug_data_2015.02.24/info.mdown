@@ -2,7 +2,7 @@
 <li>Amax: a maximal effect level of inhibition, see https://www.nature.com/articles/nature11003/figures/2 (b)                                                                                    
 <li>EC50: the concentration at half-maximal activity of the compound                                                                                                                             
 <li>IC50: the concentration at which the drug response reached an absolute inhibition of 50%                                                                                                     
-<li>ActArea (activity area): the area over the dose–response curve, see https://www.nature.com/articles/nature11003/figures/2 (b)                                                                
+<li>ActArea (activity area): the area over the dose–response curve, see (https://www.nature.com/articles/nature11003/figures/2(b))[https://www.nature.com/articles/nature11003/figures/2]                                                                
                                                                                                                                           
 ### List of the 24 drugs profiled across 504 CCLE lines                                                                                                                               
 <li>Erlotinib,Tarceva,EGFR,EGFR Inhibitor,Kinase inhibitor,Launched-2004,Genentech                                                                                                              
