@@ -1416,6 +1416,51 @@
       "feature": "HIST1H3B"
     }
   ],
+  "Pediatric tumor (Khan)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Khan_pediatric/Pediatric_affy_clinicalMatrix",
+      "feature": "Tumor_type"
+    }
+  ],
+  "Single-cell RNA-seq mouse cortex (Zeisel)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Zeisel/Zeisel_expression_phenotype",
+      "feature": "tissue"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Zeisel/Zeisel_expression_phenotype",
+      "feature": "level1class"
+    }
+  ],
+  "St Jude PCGP pan-cancer": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "StJudePCGP/pan-pcgp_phenotype",
+      "feature": "Disease"
+    }
+  ],
+  "TARGET Acute Lymphoblastic Leukemia": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "TARGET_ALL/TARGET_public_clinicalMatrix",
+      "feature": "AGE_AT_DIAGNOSIS"
+    }
+  ],
+  "TARGET neuroblastoma": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "TARGET_neuroblastoma/TARGET_neuroblastoma_clinicalMatrix",
+      "feature": "age"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "TARGET_neuroblastoma/TARGET_neuroblastoma_clinicalMatrix",
+      "feature": "MYCNamp"
+    }
+  ],
   "human brain transcriptome (Darmanis PNAS 2015)": [
     {
       "host": "https://singlecell.xenahubs.net",
