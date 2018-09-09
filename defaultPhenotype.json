@@ -1338,6 +1338,84 @@
       "feature": "Pathology_DX"
     }
   ],
+  "lymph-node-negative breast cancer (Wang 2005)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "wang2005_public/wang2005_public_clinicalMatrix",
+      "feature": "ER_Positive"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "wang2005_public/wang2005_public_clinicalMatrix",
+      "feature": "Relapse"
+    }
+  ],
+  "MAGIC": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MAGIC/phenotype",
+      "feature": "Subgroup"
+    }
+  ],
+  "Melanoma (Lin 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "lin2008_public/lin2008_public_clinicalMatrix",
+      "feature": "BRAFmutant"
+    }
+  ],
+  "Node-negative breast cancer (Desmedt 2007)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "desmedt2007_public/desmedt2007_public_clinicalMatrix",
+      "feature": "er"
+    }
+  ],
+  "Ovarian Cancer (Etemadmoghadam 2009)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "etemadmoghadam2009_public/etemadmoghadam2009_public_clinicalMatrix",
+      "feature": "Primary_Site"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "etemadmoghadam2009_public/etemadmoghadam2009_public_clinicalMatrix",
+      "feature": "Stage"
+    }
+  ],
+  "Pancreatic Cancer (Balagurunathan 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "balagurunathan2008_public/balagurunathan2008_public_clinicalMatrix",
+      "feature": "Sample_type"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "balagurunathan2008_public/balagurunathan2008_public_clinicalMatrix",
+      "feature": "Tissue"
+    }
+  ],
+  "Pancreatic Cancer (Harada 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "harada2008_public/harada2008_public_clinicalMatrix",
+      "feature": "TNM_Stage"
+    }
+  ],
+  "Pancreatic Cancer (Jones 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "jones2008cgh_public/jones2008cgh_public_clinicalMatrix",
+      "feature": "SampleType"
+    }
+  ],
+  "Pediatric diffuse intrinsic pontine gliomas (Puget 2012)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "DIPG_Puget/DIPG_clinicalMatrix",
+      "feature": "HIST1H3B"
+    }
+  ],
   "human brain transcriptome (Darmanis PNAS 2015)": [
     {
       "host": "https://singlecell.xenahubs.net",
