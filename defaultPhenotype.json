@@ -1212,12 +1212,36 @@
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "grayBreastCellLines_public/grayBreastCellLines_public_clinicalMatrix",
-      "feature": "Sub_type_ICR"
+      "feature": "classification_group"
     },
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "grayBreastCellLines_public/grayBreastCellLines_public_clinicalMatrix",
       "feature": "Cisplatin"
+    }
+  ],
+  "Breast Cancer Cell Lines (Neve 2006)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ucsfNeve_public/ucsfNeve_public_clinicalMatrix",
+      "feature": "ER"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ucsfNeve_public/ucsfNeve_public_clinicalMatrix",
+      "feature": "TP53"
+    }
+  ],
+  "Cancer Cell Line Encyclopedia (Breast)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24_breast",
+      "feature": "Paclitaxel:TUBB1_Amax"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ccle/CCLE_NP24.2009_Drug_data_2015.02.24_breast",
+      "feature": "PD-0325901:MEK_Amax"
     }
   ],
   "Cancer Cell Line Encyclopedia (CCLE)": [
