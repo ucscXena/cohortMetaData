@@ -1179,6 +1179,47 @@
       "feature": "Metastasis"
     }
   ],
+  "Breast Cancer (Vijver 2002)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "vijver2002_public/vijver2002_public_clinicalMatrix",
+      "feature": "ESR1"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "vijver2002_public/vijver2002_public_clinicalMatrix",
+      "feature": "Metastasis"
+    }
+  ],
+  "Breast Cancer (Yau 2010)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "YauClinical_public/YauClinical_public_clinicalMatrix",
+      "feature": "er"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "YauClinical_public/YauClinical_public_clinicalMatrix",
+      "feature": "pam50subtype"
+    }
+  ],
+  "Breast Cancer Cell Lines (Heiser 2012)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "grayBreastCellLines_public/grayBreastCellLines_public_clinicalMatrix",
+      "feature": "ER"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "grayBreastCellLines_public/grayBreastCellLines_public_clinicalMatrix",
+      "feature": "Sub_type_ICR"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "grayBreastCellLines_public/grayBreastCellLines_public_clinicalMatrix",
+      "feature": "Cisplatin"
+    }
+  ],
   "Cancer Cell Line Encyclopedia (CCLE)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
