@@ -1100,6 +1100,37 @@
       "feature": "age_at_diagnosis.diagnoses"
     }
   ],
+  "Acute lymphoblastic leukemia (Mullighan 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "mullighan2008_public/mullighan2008_public_clinicalMatrix",
+      "feature": "Sample_Stage"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "mullighan2008_public/mullighan2008_public_clinicalMatrix",
+      "feature": "Sample_Type"
+    }
+  ],
+  "Breast Cancer (Caldas 2007)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Caldas2007/chinSF2007_public_clinicalMatrix",
+      "feature": "ER"
+    }
+  ],
+  "Breast Cancer (Chin 2006)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "chin2006_public/chin2006_public_clinicalMatrix",
+      "feature": "er"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "chin2006_public/chin2006_public_clinicalMatrix",
+      "feature": "subEuc"
+    }
+  ],
   "Cancer Cell Line Encyclopedia (CCLE)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
