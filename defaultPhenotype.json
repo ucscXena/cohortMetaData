@@ -1271,6 +1271,73 @@
       "feature": "Erlotinib:EGFR_ActArea"
     }
   ],
+  "Connectivity Map": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "cmap/cmap_clinicalMatrix",
+      "feature": "cell_line"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "cmap/cmap_clinicalMatrix",
+      "feature": "compound_name"
+    }
+  ],
+  "GBM (Parsons 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "parsons2008cgh_public/parsons2008cgh_public_clinicalMatrix",
+      "feature": "SampleType"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "parsons2008cgh_public/parsons2008cgh_public_clinicalMatrix",
+      "feature": "RecurrentGBM"
+    }
+  ],
+  "Glioma (Kotliarov 2006)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "kotliarov2006_public/kotliarov2006_public_clinicalMatrix",
+      "feature": "SampleType"
+    }
+  ],
+  "Lung Adenocarcinoma (Ding 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ding2008_public/ding2008_public_clinicalMatrix",
+      "feature": "Smoking_Status"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "ding2008_public/ding2008_public_clinicalMatrix",
+      "feature": "Age_at_DX"
+    }
+  ],
+  "Lung Cancer (Raponi 2006)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "raponi2006_public/raponi2006_public_clinicalMatrix",
+      "feature": "differentiation"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "raponi2006_public/raponi2006_public_clinicalMatrix",
+      "feature": "Smoking_History_Packyears"
+    }
+  ],
+  "Lung Cancer CGH (Weir 2007)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "weir2007_public/weir2007_public_clinicalMatrix",
+      "feature": "Stage"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "weir2007_public/weir2007_public_clinicalMatrix",
+      "feature": "Pathology_DX"
+    }
+  ],
   "human brain transcriptome (Darmanis PNAS 2015)": [
     {
       "host": "https://singlecell.xenahubs.net",
