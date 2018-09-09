@@ -1131,6 +1131,54 @@
       "feature": "subEuc"
     }
   ],
+  "Breast Cancer (Haverty 2008)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "haverty2008_public/haverty2008_public_clinicalMatrix",
+      "feature": "ER_status"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "haverty2008_public/haverty2008_public_clinicalMatrix",
+      "feature": "Her2"
+    }
+  ],
+  "Breast Cancer (Hess 2006)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Hess2006/lajosJCO2006_public_clinicalMatrix",
+      "feature": "ER_Positive"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Hess2006/lajosJCO2006_public_clinicalMatrix",
+      "feature": "pCR"
+    }
+  ],
+  "Breast Cancer (Miller 2005)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "miller2005_public/miller2005_public_clinicalMatrix",
+      "feature": "ERstatus"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "miller2005_public/miller2005_public_clinicalMatrix",
+      "feature": "p53mutant"
+    }
+  ],
+  "Breast Cancer (vantVeer 2002)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "vantVeer_public/vantVeer_public_clinicalMatrix",
+      "feature": "ER_positive"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "vantVeer_public/vantVeer_public_clinicalMatrix",
+      "feature": "Metastasis"
+    }
+  ],
   "Cancer Cell Line Encyclopedia (CCLE)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
