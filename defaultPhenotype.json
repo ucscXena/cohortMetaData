@@ -1364,6 +1364,13 @@
       "feature": "BRAFmutant"
     }
   ],
+  "Neuroblastoma (Khan)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Khan_neuroblastoma/neuroblastoma_affy_clinicalMatrix",
+      "feature": "stage"
+    }
+  ],
   "Node-negative breast cancer (Desmedt 2007)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
