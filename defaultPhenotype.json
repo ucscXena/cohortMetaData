@@ -1484,5 +1484,17 @@
       "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
       "feature": "biosample_cell_type"
     }
+  ],
+  "TCGA PANCAN12 (PANCAN12)": [
+    {
+      "host": "https://legacy.xenahubs.net",
+      "dataset": "TCGA.PANCAN12.sampleMap/PANCAN12_clinicalMatrix",
+      "feature": "_primary_disease"
+    },
+    {
+      "host": "https://legacy.xenahubs.net",
+      "dataset": "TCGA.PANCAN12.sampleMap/PANCAN12_clinicalMatrix",
+      "feature": "sample_type"
+    }
   ]
 }
