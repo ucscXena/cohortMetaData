@@ -31,7 +31,7 @@ Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfilterblca.gif" width="90%">
 
-  > We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
+  	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
 Bookmark: <http://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
 
@@ -39,7 +39,7 @@ Bookmark: <http://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
 
-  > We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
+  	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
 Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
@@ -63,6 +63,6 @@ Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
 
-  > We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
+  	> We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
-  > More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
+  	> More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
