@@ -30,16 +30,14 @@ Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 4. __Filter to bladder cancer (BLCA).__ Enter 'BLCA' in the filter search bar to highlight and find bladder samples. Choose 'Filter' from the menu next to the search bar.
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfilterblca.gif" width="90%">
-
-  	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
+	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
 Bookmark: <http://xenabrowser.net/?bookmark=fc5809b3836a12565989f4baa9c29941>
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
-
-  	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
+	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
 Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
