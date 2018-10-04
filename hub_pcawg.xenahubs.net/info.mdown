@@ -37,7 +37,6 @@ Mary Goldman, Junjun Zhang, Nuno A. Fonseca, Qian Xiang, Brian Craft, Elena Piñ
 <a href="https://dcc.icgc.org/pcawg">https://dcc.icgc.org/pcawg</a><br>
 Please write to jennifer.jennings@oicr.on.ca for further information.
 <br>
-<br>
 
 #### Visualize Controlled-access PCAWG-1 Concensus Somatic Mutation calls
 [https://github.com/ucscXena/cohortMetaData/blob/master/hub_pcawg.xenahubs.net/controlledData.mdown](https://github.com/ucscXena/cohortMetaData/blob/master/hub_pcawg.xenahubs.net/controlledData.mdown)
