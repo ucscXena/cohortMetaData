@@ -9,7 +9,7 @@ Here we recreate a variation of this figure as well as further explore the relat
 ## Live View of Figure 1D
 <a href="http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1D.png" width="700"></a>
 
-Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. The both SNPs are associated with MYC in colorectal cancer and renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd>
+Here we can see heterogenous accessibility of rs6983267 (column C) and rs35252396 (column D) by cancer type (column B). Red indicates higher chromatin accessibility and blue indicates lower. Examining peaks on either side of the rs6983267 locus (column E) and rs35252396 locus (column F) reveals that these trends are specific to these loci. Both SNPs are associated with MYC in colorectal cancer and renal cancer respectively (column G). Bookmark: <http://xenabrowser.net/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd>
 
 
 ### Steps to reproduce
