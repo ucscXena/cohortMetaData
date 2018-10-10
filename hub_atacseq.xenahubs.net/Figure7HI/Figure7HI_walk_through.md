@@ -61,6 +61,6 @@ Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
 
-  > We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
+We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
-  > More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
+More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
