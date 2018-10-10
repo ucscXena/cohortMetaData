@@ -1,15 +1,15 @@
 # TCGA ATAC-seq Walk-through: Figure 7H & I
 
-Corces 2018 overlapped WGS and ATAC-seq data to uncover a mutation upstream of the FGD4 gene in a bladder cancer (sample TCGA-BL-A13J-01A) where the variant allele frequency observed in ATAC-seq is markedly higher than the variant allele frequency observed in WGS. This mutation is associated with a significant increase in accessibility compared to other bladder cancer samples in this cohort and is accompanied by the highest FGD4 gene expression among the 10 samples. Further, higher FGD4 expression is significantly associated with worse overall survival in bladder cancer, leading the authors to believe this mutation is likely to have functional consequence in this particular cancer.
+Corces et. al. 2018 overlapped WGS and ATAC-seq data to uncover a mutation upstream of the FGD4 gene in a bladder cancer (sample TCGA-BL-A13J-01A) where the variant allele frequency observed in ATAC-seq is markedly higher than the variant allele frequency observed in WGS. This mutation is associated with a significant increase in accessibility compared to other bladder cancer samples in this cohort and is accompanied by the highest FGD4 gene expression among the 10 samples. Further, higher FGD4 expression is significantly associated with worse overall survival in bladder cancer, leading the authors to believe this mutation is likely to have functional consequence in this particular cancer.
 
 Here we recreate a variation of this figure.
 
 ## Live View of Figure 7H
 <a href="http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
 
-Here we can see chromatin accessibility near the beginning of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility in the region upstream from FGD4 (column C), as highlighted by the black oval. This increased accessibility is associated with the highest FGD4 gene expression for this sample (column D).
+Here we can see chromatin accessibility in the promoter region of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility in the region upstream from FGD4 (column D), as highlighted by the black oval. This increased accessibility is associated with the highest FGD4 gene expression for this sample (column C).
 
-At the top of column C we have highlighted the ATACseq peak (BLCA_65729) that overlaps with the eFGD4 point mutation ("enhancer FGD4") at chr12:32385775:C->T. Note that can’t see the mutation in the mutation data on Xena because mutations outside the coding region are considered protected data by TCGA.
+At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that overlaps with the eFGD4 point mutation ("enhancer FGD4") at chr12:32385775:C->T. Note that it is not possible to visualize the mutation in the mutation data on Xena because mutations outside the coding region are considered protected data by TCGA.
 
 Bookmark: <http://xenabrowser.net/?bookmark=bffcb177a39a778824d62d864f6fd991>
 
@@ -61,6 +61,6 @@ Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
 
-  	> We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
+  > We can see that samples with high FGD4 expression have worse overall survival. Bookmark: <https://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7>
 
-  	> More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
+  > More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
