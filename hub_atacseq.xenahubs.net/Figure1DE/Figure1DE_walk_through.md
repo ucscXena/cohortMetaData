@@ -26,7 +26,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 	
 	> Note that the color threshold in the images are different (max:4 min:-2) than what is used by default. See [this help](https://ucsc-xena.gitbook.io/project/how-do-i/how-do-i-change-the-color-threshold-for-a-column) for more information.
 	
-	> We could see that rs6983267 is more accessible in COAD and PRAD, which is predicted from [Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607) and [Yeager 2007](https://www.nature.com/articles/ng2022). It is also accessible in breast and other squamous cancer types.
+	> We could see that rs6983267 is more accessible in COAD and PRAD, which is predicted from [Yeager 2007](https://www.nature.com/articles/ng2022), [Tomlinson 2008](https://www.ncbi.nlm.nih.gov/pubmed/18372905), and [Sur 2012](https://www.ncbi.nlm.nih.gov/pubmed/23118011). It is also accessible in breast and other squamous cancer types.
 
 4. __Add ATAC-seq peak STAD\_57221, which is the peak for rs35252396.__  Repeat step 3 for STAD\_57221.
 
