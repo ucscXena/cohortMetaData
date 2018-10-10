@@ -1,8 +1,8 @@
 # TCGA ATAC-seq Walk-through: Figure 1D & E
 
-In Figure 1, Corces 2018 investigate the relationship between MYC, chromatin accessibility, and cancer type.  They observed substantial diversity in the chromatin accessibility landscape of the MYC locus to cluster cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
+In Figure 1, Corces et. al. 2018 investigate the relationship between MYC, chromatin accessibility, and cancer type.  They observed substantial diversity in the chromatin accessibility landscape of the MYC locus to cluster cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
-Further, they identify known sites of chromatin accessibility including peaks surrounding two functionally validated GWAS cancer susceptibility SNPs: rs6983267, which is associated with colon cancer susceptibility,  and rs35252396, which is associated with renal cancer. Both of these SNPs show accessibility in other cancer types, indicating that they may be important in other cancer types.
+Further, they identify known sites of chromatin accessibility including peaks surrounding two functionally validated GWAS cancer susceptibility SNPs: rs6983267, which is associated with colon and prostate cancer susceptibility,  and rs35252396, which is associated with renal cancer. Both of these SNPs show accessibility in other cancer types, indicating that they may be important in other cancer types.
 
 Here we recreate a variation of this figure as well as further explore the relationship between the accessibility of these SNPs and cancer type.
 
@@ -22,25 +22,25 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 3. __Add ATAC-seq peak ESCA\_60954, which is the peak for rs6983267__ Click 'Add Column' and enter 'ESCA\_60954' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
-	> Note that you need to enter 'ESCA_60954'. If you can always edit the label to read 'rs6983267' by clicking on it and typing.
+	> Note that you need to enter 'ESCA_60954'. After adding the column you can always edit the label to read 'rs6983267' by clicking on the label.
 	
 	> Note that the color threshold in the images are different (max:4 min:-2) than what is used by default. See [this help](https://ucsc-xena.gitbook.io/project/how-do-i/how-do-i-change-the-color-threshold-for-a-column) for more information.
 	
-	> We could see that rs6983267 is more accessible in COAD, which is predicted from [Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607). It is also more accessible in breast and other squamous cancer types.
+	> We could see that rs6983267 is more accessible in COAD and PRAD, which is predicted from [Pomerantz 2009](https://www.ncbi.nlm.nih.gov/pubmed/19561607) and [Yeager 2007](https://www.nature.com/articles/ng2022). It is also accessible in breast and other squamous cancer types.
 
 4. __Add ATAC-seq peak STAD\_57221, which is the peak for rs35252396.__  Repeat step 3 for STAD\_57221.
 
-	> We could see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
+	> We can see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
 	
 	> Bookmark: <http://xenabrowser.net/heatmap/?bookmark=65966798c18f3f361b751609a66d3a6d>
 
 5. __Examine peaks in the region surrounding rs6983267.__ Click 'Add Column' and enter 'chr8:127369679-127432497' as the 'Gene or Position'. Click 'Show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
-	> We could see from Step 3 that rs6983267 had cancer-dependent accessibility. In this step we are examining if these trends are just for this peak or if they affect a wider region. We see here that while some peaks nearby have a similar trend, this is isolated to this peak.
+	> We could see from Step 3 that rs6983267 had cancer-dependent accessibility. In this step we are examining if these trends are just for this peak or if they affect a wider region. We see here that while some peaks nearby show changes in accessibility, this the observed cancer type-specificity of rs6983267 is isolated to this peak.
 
 6. __Examine peaks in the region surrounding rs35252396.__ Repeat step 5 for 'chr8:127841010-127911511'
 
-	> Similarly, for rs35252396  we see here that while some peaks nearby have a similar trend, this is isolated to this peak.
+	> Similarly, for rs35252396  we see here that while some peaks nearby have a similar trend, this is isolated peaks that are active in renal cancer types.
 
 7. __Examine peaks around MYC.__ Click on 'Add Column' and enter 'chr8:127715668-127760786' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
