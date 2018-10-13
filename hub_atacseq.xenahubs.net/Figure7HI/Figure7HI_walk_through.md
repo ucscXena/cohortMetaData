@@ -15,7 +15,7 @@ Bookmark: </?bookmark=bffcb177a39a778824d62d864f6fd991>
 
 ### Steps to reproduce
 
-1. __Start here: <https://xenabrowser.net/?bookmark=3d71a8d22ac8b65207399f927ef50ea9>.__
+1. __Start here: [bookmark=3d71a8d22ac8b65207399f927ef50ea9](/?bookmark=3d71a8d22ac8b65207399f927ef50ea9).__
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
