@@ -9,7 +9,7 @@ The ATAC-seq peak signals and computed peak-to-gene linkage predictions from the
 
 <table style="text-align:center;">
   <tr>
-    <td class="center"><a href="/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="75%"></a></td>
+    <td class="center"><a href="/datapages/?markdown=https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="75%"></a></td>
     <td class="center"><a href="/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7HI_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure7HI.png" width="75%"></a></td>
   </tr>
 </table>
