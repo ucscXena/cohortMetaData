@@ -37,11 +37,11 @@ Bookmark: [bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d86
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
+	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
 
-> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
+	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
-> Bookmark: [bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
+	> Bookmark: [bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
 
 
 ## Live View of Figure 1I
@@ -61,8 +61,8 @@ Bookmark: [64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6
 
 4. __Generate a KM plot on FGD4 expresion.__ Click on the column menu at the top of the column and choose 'Kaplan Meier Plot'
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
+	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
 
-> We can see that samples with high FGD4 expression have worse overall survival. Bookmark: [64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
+	> We can see that samples with high FGD4 expression have worse overall survival. Bookmark: [64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
 
 More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
