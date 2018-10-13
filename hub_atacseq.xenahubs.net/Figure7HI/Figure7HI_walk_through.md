@@ -31,7 +31,7 @@ Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfilterblca.gif" width="90%">
 
-	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
+> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
 Bookmark: [bookmark=fc5809b3836a12565989f4baa9c29941](/?bookmark=fc5809b3836a12565989f4baa9c29941)
 
@@ -39,7 +39,7 @@ Bookmark: [bookmark=fc5809b3836a12565989f4baa9c29941](/?bookmark=fc5809b3836a125
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
 
-	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
+> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
 Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
 
