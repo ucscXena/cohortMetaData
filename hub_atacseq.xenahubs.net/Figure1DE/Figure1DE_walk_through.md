@@ -14,7 +14,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 ### Steps to reproduce
 
-1. __Start here: </?bookmark=3d71a8d22ac8b65207399f927ef50ea9>.__
+1. __Start here: [3d71a8d22ac8b65207399f927ef50ea9](/?bookmark=3d71a8d22ac8b65207399f927ef50ea9).__
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
@@ -32,7 +32,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> We can see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
 	
-	> Bookmark: </?bookmark=65966798c18f3f361b751609a66d3a6d>
+	> Bookmark: [bookmark=65966798c18f3f361b751609a66d3a6d](/?bookmark=65966798c18f3f361b751609a66d3a6d)
 
 5. __Examine peaks in the region surrounding rs6983267.__ Click 'Add Column' and enter 'chr8:127369679-127432497' as the 'Gene or Position'. Click 'Show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
@@ -46,37 +46,37 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> Both of these SNPs are linked to the gene MYC. Here we see that in addition to the distal peaks of rs6983267 and rs35252396, that MYC itself has cancer-dependent trends in chromatin accessibility. Some cancer types have extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and some cancer types have chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
-	Bookmark: </?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd>
+	Bookmark: [5000d4a3b9a2e874545fcf0a77ac85bd](/?bookmark=5000d4a3b9a2e874545fcf0a77ac85bd)
 
 ## Explore further
 <a href="/?bookmark=443b97e1754fde0d252134ac6f1d3480"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1Dchart.png" width="700"></a>
 
-Bookmark: </?bookmark=443b97e1754fde0d252134ac6f1d3480>
+Bookmark: [443b97e1754fde0d252134ac6f1d3480](/?bookmark=443b97e1754fde0d252134ac6f1d3480)
 Another view of rs6983267 accessibility by cancer type.
 
 ### Steps to reproduce
 
 1. __Click the chart icon__
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqchart.gif" width="90%">
+	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqchart.gif" width="90%">
 
-We see a box plot of rs6983267 peak signal across cancer type. This more clearly identifies cancer types with increased accessibility for this locus, including LUSC, BLCA and BRCA. This finding is corroborated by other studies in the literature, including [Wokolorczyk 2008](https://www.ncbi.nlm.nih.gov/pubmed/19047180).
+	> We see a box plot of rs6983267 peak signal across cancer type. This more clearly identifies cancer types with increased accessibility for this locus, including LUSC, BLCA and BRCA. This finding is corroborated by other studies in the literature, including [Wokolorczyk 2008](https://www.ncbi.nlm.nih.gov/pubmed/19047180).
 
 ## Live View of Figure 1E
 <a href="/?bookmark=ce4e0c581f6cbc8e894aacc3a5566373"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1E.png" width="700"></a>
 
-Bookmark: </?bookmark=ce4e0c581f6cbc8e894aacc3a5566373>
+Bookmark: [ce4e0c581f6cbc8e894aacc3a5566373](/?bookmark=ce4e0c581f6cbc8e894aacc3a5566373)
 Zooming into just colorectal (COAD) and kidney renal clear cell cancer (KIRC), we can see that rs6983267 is very accessible for COAD whereas in KIRC it is relatively inaccessible. The reverse is true for rs35252396. Red indicates higher chromatin accessibility and blue indicates lower.
 
 ### Steps to reproduce
 
 1. __Filter to COAD and KIRC.__ Enter 'COAD OR KIRC' in the filter search bar to highlight and find samples that are COAD or KIRC. Choose 'Filter' from the menu next to the search bar.
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqfilter.gif" width="90%">
+	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure1DE/atacseqfilter.gif" width="90%">
 
-More help on our filter feature can be found here: <https://ucsc-xena.gitbook.io/project/overview-of-features/filter-and-subgrouping>
+	> More help on our filter feature can be found here: <https://ucsc-xena.gitbook.io/project/overview-of-features/filter-and-subgrouping>
 
-> Note that 'OR' needs to be capitalized. 
+	> Note that 'OR' needs to be capitalized. 
 
 ## More Resources
 * Check out other ATAC-seq vignettes: <https://atacseq.xenahubs.net>
