@@ -32,7 +32,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> We can see that rs35252396 is more accessible in KIRC, which is predicted from [Grampp 2016](https://www.nature.com/articles/ncomms13183). 
 	
-	> Bookmark: [bookmark=65966798c18f3f361b751609a66d3a6d](/?bookmark=65966798c18f3f361b751609a66d3a6d)
+	> Bookmark: [65966798c18f3f361b751609a66d3a6d](/?bookmark=65966798c18f3f361b751609a66d3a6d)
 
 5. __Examine peaks in the region surrounding rs6983267.__ Click 'Add Column' and enter 'chr8:127369679-127432497' as the 'Gene or Position'. Click 'Show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
