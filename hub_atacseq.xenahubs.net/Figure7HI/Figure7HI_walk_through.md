@@ -11,11 +11,11 @@ Here we can see chromatin accessibility in the promoter region of FGD4 for 10 sa
 
 At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that overlaps with the eFGD4 point mutation ("enhancer FGD4") at chr12:32385775:C->T. Note that it is not possible to visualize the mutation in the mutation data on Xena because mutations outside the coding region are considered protected data by TCGA.
 
-Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
+Bookmark: [bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
 
 ### Steps to reproduce
 
-1. __Start here: [bookmark=3d71a8d22ac8b65207399f927ef50ea9](/?bookmark=3d71a8d22ac8b65207399f927ef50ea9).__
+1. __Start here: [3d71a8d22ac8b65207399f927ef50ea9](/?bookmark=3d71a8d22ac8b65207399f927ef50ea9).__
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
@@ -31,17 +31,17 @@ Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfilterblca.gif" width="90%">
 
-	We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
+> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4.
 
-	Bookmark: [bookmark=fc5809b3836a12565989f4baa9c29941](/?bookmark=fc5809b3836a12565989f4baa9c29941)
+> Bookmark: [fc5809b3836a12565989f4baa9c29941](/?bookmark=fc5809b3836a12565989f4baa9c29941)
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
 
-	We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
+> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples.
 
-	Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
+> Bookmark: [bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778824d62d864f6fd991)
 
 
 ## Live View of Figure 1I
@@ -49,7 +49,7 @@ Bookmark: [bookmark=bffcb177a39a778824d62d864f6fd991](/?bookmark=bffcb177a39a778
 
 Here we can see that higher FGD4 expression is significantly associated with worse overall survival in bladder cancer. 
 
-Bookmark: [bookmark=64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
+Bookmark: [64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
 
 1. __Start here: <https://xenabrowser.net/>.__
 
@@ -63,6 +63,6 @@ Bookmark: [bookmark=64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c63
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfgd4km.gif" width="90%">
 
-We can see that samples with high FGD4 expression have worse overall survival. Bookmark: [bookmark=64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
+> We can see that samples with high FGD4 expression have worse overall survival. Bookmark: [64500e437d90c6353879e7c6018390c7](/?bookmark=64500e437d90c6353879e7c6018390c7)
 
 More KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
