@@ -1,11 +1,9 @@
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/open-chromatin.png" width="40%"  align="left" /> 
-ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing) is a technique used in molecular biology to study chromatin accessibility.
-
 The Cancer Genome Atlas (TCGA) was established to understand the heterogeneity and molecular underpinnings of cancer. Through TCGA, the importance of the epigenome to cancer initiation and progression has become increasingly clear. The advent of the assay for transposase-accessible chromatin using sequencing (ATAC-seq) has enabled the genome-wide profiling of chromatin accessibility in small quantities of frozen tissue. Because chromatin accessibility is a hallmark of active DNA regulatory elements, ATAC-seq makes it possible to assess the gene regulatory landscape in primary human cancers. Combined with the richness of diverse, orthogonal data types in TCGA, the chromatin accessibility in cancer provides a key link between inherited and somatic mutations, DNA methylation, long-range gene regulation, and ultimately gene expression changes that impact cancer prognosis and therapy.
 
 410 TCGA tumor samples across 23 cancer types have been assayed using the ATAC-seq technology. The results are published in the manuscript titled <b>"The chromatin accessibility landscape of primary human cancers"</b> [Corces R. Science 2018]. 
 
-The ATAC-seq peak signals and computed peak-to-gene linkage predictions from the study are available for interactive visualization and exploration, as well as bulk download. Below are a few walk-through tutorials on how to use the Xena Browser to query and visualize the TCGA ATAC-seq data.
+The ATAC-seq peak signals and computed peak-to-gene linkage predictions from the study are available for interactive visualization and exploration, as well as bulk download. Here are a few walk-through tutorials on how to use the Xena Browser to query and visualize the TCGA ATAC-seq data.
 
 <table style="text-align:center;">
   <tr>
