@@ -1,6 +1,6 @@
 # TCGA ATAC-seq Walk-through: Figure 7H & I
 
-Corces et. al. 2018 overlapped WGS and ATAC-seq data to uncover a mutation upstream of the FGD4 gene in a bladder cancer (sample TCGA-BL-A13J-01A) where the variant allele frequency observed in ATAC-seq is markedly higher than the variant allele frequency observed in WGS. This mutation is associated with a significant increase in accessibility compared to other bladder cancer samples in this cohort and is accompanied by the highest FGD4 gene expression among the 10 samples. Further, higher FGD4 expression is significantly associated with worse overall survival in bladder cancer, leading the authors to believe this mutation is likely to have functional consequence in this particular cancer.
+[Corces et. al. 2018](http://science.sciencemag.org/content/362/6413/eaav1898) overlapped WGS and ATAC-seq data to uncover a mutation upstream of the FGD4 gene in a bladder cancer (sample TCGA-BL-A13J-01A) where the variant allele frequency observed in ATAC-seq is markedly higher than the variant allele frequency observed in WGS. This mutation is associated with a significant increase in accessibility compared to other bladder cancer samples in this cohort and is accompanied by the highest FGD4 gene expression among the 10 samples. Further, higher FGD4 expression is significantly associated with worse overall survival in bladder cancer, leading the authors to believe this mutation is likely to have functional consequence in this particular cancer.
 
 Here we recreate a variation of this figure.
 
