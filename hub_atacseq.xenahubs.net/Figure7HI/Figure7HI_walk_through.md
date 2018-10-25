@@ -61,6 +61,6 @@ Here we can see that higher FGD4 expression is significantly associated with wor
 
 ## More Resources
 
-Check out other ATAC-seq vignettes: <https://atacseq.xenahubs.net>
-Check out our Xena online tutorials: <https://xena.ucsc.edu/getting-started/>
-KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
+* Check out other ATAC-seq vignettes: <https://atacseq.xenahubs.net>
+* Check out our Xena online tutorials: <https://xena.ucsc.edu/getting-started/>
+* KM help <https://ucsc-xena.gitbook.io/project/overview-of-features/kaplan-meier-plots>
