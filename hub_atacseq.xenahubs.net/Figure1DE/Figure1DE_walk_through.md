@@ -1,6 +1,6 @@
 # TCGA ATAC-seq Walk-through: Figure 1D & E
 
-In Figure 1, Corces et. al. 2018 investigate the relationship between MYC, chromatin accessibility, and cancer type.  They observed substantial diversity in the chromatin accessibility landscape of the MYC locus, clustering cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
+In Figure 1, [Corces et. al. 2018](http://science.sciencemag.org/content/362/6413/eaav1898) investigate the relationship between MYC, chromatin accessibility, and cancer type.  They observed substantial diversity in the chromatin accessibility landscape of the MYC locus, clustering cancer types into two primary categories: (i) cancer types with extensive chromatin accessibility at 5’ and 3’ DNA elements, such as colon adenocarcinoma (COAD), and (ii) cancer types with chromatin accessibility primarily at 3’ regulatory elements, such as kidney renal clear cell carcinoma (KIRC).
 
 Further, they identify known sites of chromatin accessibility including peaks surrounding two functionally validated GWAS cancer susceptibility SNPs: rs6983267, which is associated with colon and prostate cancer susceptibility, and rs35252396, which is associated with renal cancer. Both of these SNPs show accessibility in other cancer types, indicating that they may be important across cancer types.
 
