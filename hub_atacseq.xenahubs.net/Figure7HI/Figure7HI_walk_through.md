@@ -41,11 +41,11 @@ At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that ov
 
 
 ## Live View of Figure 1I
-<a href="http://xenabrowser.net/?bookmark=64500e437d90c6353879e7c6018390c7"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7I.png" width="700"></a>
+<a href="/?bookmark=2897c1734c3dbdcddd6b5e424d351904"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7I.png" width="700"></a>
 
 Here we can see that higher FGD4 expression is significantly associated with worse overall survival in bladder cancer. [Click here for a live view.](/?bookmark=2897c1734c3dbdcddd6b5e424d351904)
 
-1. __Start [here](https://xenabrowser.net/)__
+1. __Start [here](/?bookmark=c6d33d31653d6a6f5c7ba413b61ba33c)__
 
 2. __Choose the GDC TCGA Bladder Cancer (BLCA) study.__ Type 'GDC TCGA Bladder Cancer' in the 'Search for Study' field. Choose the GDC TCGA Bladder Cancer (BLCA) study and click 'done'.
 
