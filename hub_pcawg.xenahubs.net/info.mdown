@@ -17,9 +17,9 @@
 * Specimen quality control designation (white, grey and excluded lists)
 
 
-#### <span style="color:#4ecdc4">View live example: [<span style="color:#4ecdc4"><u>ERG fusion in prostate cancer</u></span>](/?bookmark=92db485580786d1ef14c6c06b680201b)</span>
+#### <span style="color:#4ecdc4">View live example: [<span style="color:#4ecdc4"><u>ERG fusion in prostate cancer</u></span>](/?bookmark=51cf1729b62d73dc4687f62f5c5e3fa5)</span>
 
-<a href="/?bookmark=92db485580786d1ef14c6c06b680201b"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_pcawg.xenahubs.net/Figure 1B xena_new_v2.png" width="600" align="right" style="padding-left:20px"></a>
+<a href="/?bookmark=51cf1729b62d73dc4687f62f5c5e3fa5"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_pcawg.xenahubs.net/Figure 1B xena_new_v2.png" width="600" align="right" style="padding-left:20px"></a>
 The Xena Visual Spreadsheet shows that the ERG fusion detected in PCAWG RNAseq and whole-genome sequencing data is present in 8 out of 18 PCAWG prostate adenocarcinoma samples. Each row corresponds to a sample. Columns, starting at the left, correspond to doner (A), ERG gene expression(B), and ERG fusion based on RNAseq data (C, merged fusion calls from two methods), structural variant calls (consensus calls by four methods) using whole genome DNAseq data for ERG (D), TMPRSS2(E), SLC45A3(F), and histology(G).  Precise breakpoints are mapped to gene annotations. Grey color bars indicate the external piece of DNA that are fused at breakpoints. The gene names labeled on the grey bars show the origin of the external DNA that is joined. The data show that TMPRSS2 and SLC45A3 are fusion partners for ERG, and that fusions correlate with over-expression of ERG. Fusions detected by RNAseq and whole-genome sequencing are not always consistent. Here, even using a consensus of DNA-based detection methods, one fusion detected by a consensus of RNA-based detectors is missed, and the converse is also seen. This example shows that an integrated visualization across multiple data types and algorithms provides a more accurate model of a genomic event.
 <hr>
 
