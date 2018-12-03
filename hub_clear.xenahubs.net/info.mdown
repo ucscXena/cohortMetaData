@@ -1,0 +1,3 @@
+[Live view of figure 3b](/?bookmark=ffb75745aca07e11d803a261f9261920): FOXA1, ESR1, and FOXC1 epigenetic regulations identified by CLEAR analysis using ATAC-seq and gene expression data 
+
+<a href="/?bookmark=ffb75745aca07e11d803a261f9261920"><img src="https://clear.xenahubs.net/download/meta/figure3b_live.png" width="75%">
