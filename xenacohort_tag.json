@@ -3000,11 +3000,15 @@
   "Cancer Cell Line Encyclopedia (CCLE)": [
     "CCLE",
     "Cancer",
-    "Cell",
     "Cell Lines",
-    "Encyclopedia",
-    "Line",
-    "Lines"
+    "Encyclopedia"
+  ],
+  "Cancer Cell Line Encyclopedia (Breast)": [
+    "CCLE",
+    "Cancer",
+    "breast",
+    "Cell Lines",
+    "Encyclopedia"
   ],
   "Connectivity Map": [
     "CMAP",
