@@ -1329,7 +1329,7 @@
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "ccle/CCLE_copynumber_byGene_2013-12-03_breast",
       "amplificationThreshold": 2,
-      "deletionThreshold": -1
+      "deletionThreshold": -2
     },
     "viewInPathway": true
   }
