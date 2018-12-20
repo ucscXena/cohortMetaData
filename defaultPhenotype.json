@@ -1496,5 +1496,27 @@
       "dataset": "TCGA.PANCAN12.sampleMap/PANCAN12_clinicalMatrix",
       "feature": "sample_type"
     }
+  ],
+  "MET500 (Expression Centric)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MET500/geneExpression/M.meta.plus.txt",
+      "feature": "tissue"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MET500/geneExpression/M.meta.plus.txt",
+      "feature": "biopsy_tissue"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MET500/geneExpression/M.meta.plus.txt",
+      "feature": "cohort"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MET500/geneExpression/M.meta.plus.txt",
+      "feature": "tc"
+    }
   ]
 }
