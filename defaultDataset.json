@@ -1332,5 +1332,11 @@
       "deletionThreshold": -2
     },
     "viewInPathway": true
+  },
+  "MET500 (expression Centric)": {
+    "gene expression": {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "MET500/geneExpression/M.mx.log2.txt"
+    }
   }
 }
