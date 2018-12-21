@@ -1497,7 +1497,7 @@
       "feature": "sample_type"
     }
   ],
-  "MET500 (expression Centric)": [
+  "MET500 (expression centric)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "MET500/geneExpression/M.meta.plus.txt",
