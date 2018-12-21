@@ -2,5 +2,5 @@ Nature. 2017 Aug 17;548(7667):297-303. doi: 10.1038/nature23306. Epub 2017 Aug 2
 ## [Integrative clinical genomics of metastatic cancer.](https://www.ncbi.nlm.nih.gov/pubmed/28783718)
 Robinson DR, Wu YM, Lonigro RJ, Vats P, Cobain E, Everett J, Cao X, Rabban E, Kumar-Sinha C, Raymond V, Schuetze S, Alva A, Siddiqui J, Chugh R, Worden F, Zalupski MM, Innis J, Mody RJ, Tomlins SA, Lucas D, Baker LH, Ramnath N, Schott AF, Hayes DF, Vijai J, Offit K, Stoffel EM, Roberts JS, Smith DC, Kunju LP, Talpaz M, Cieślik M, Chinnaiyan AM
 
-<a href="/?bookmark=e153c70f64f755313f2b5ea313305460"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_MET500 (expression centric)/MET500_1.png" width="45%">
-<a href="/?bookmark=4759b7a101c102633064fee8d5d278d2"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_MET500 (expression centric)/MET500_2.png" align="right" width="45%">
+<a href="/?bookmark=17a768ead56260481023f31f3d844d8f"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_MET500 (expression centric)/MET500_1.png" width="45%">
+<a href="/?bookmark=8a33fab5a95d92bc36919b542df0cceb"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_MET500 (expression centric)/MET500_2.png" align="right" width="45%">
