@@ -308,8 +308,8 @@
   "TCGA TARGET GTEx": [
     {
       "host": "https://toil.xenahubs.net",
-      "dataset": "TcgaTargetGTEX_phenotype.txt",
-      "feature": "primary disease or tissue"
+      "dataset": "TCGA_GTEX_category.txt",
+      "feature": "TCGA_GTEX_main_category"
     },
     {
       "host": "https://toil.xenahubs.net",
