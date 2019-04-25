@@ -1643,5 +1643,19 @@
       "dataset": "cell_browser/tabulamuris/meta.tsv",
       "feature": "cell_ontology_class"
     }
+  ],
+  "HCA Fetal Maternal Interface": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/phenotype.matrix",
+      "feature": "selected_cell_type"
+    }
+  ],
+  "HCA Human Interneuron Development": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/interneuronDevelopment_Lein/phenotype.matrix",
+      "feature": "selected_cell_type"
+    }
   ]
 }
