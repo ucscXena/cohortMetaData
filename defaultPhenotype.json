@@ -1607,7 +1607,7 @@
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "cell_browser/cortex-dev/meta.tsv",
-      "feature": "Age_in_Weeks"
+      "feature": "Area"
     }
   ],
   "UCSC Cell Browser Multiple Sclerosis": [
