@@ -1,6 +1,5 @@
 ## [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns](https://www.ncbi.nlm.nih.gov/pubmed/28965763)<br>
-Enge M, Arda HE, Mignardi M, Beausang J, Bottino R, Kim SK, Quake SR.
-
+Enge M, Arda HE, Mignardi M, Beausang J, Bottino R, Kim SK, Quake SR.<br>
 Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 Sep 28.<br>
 
 - Dissociation 
@@ -12,4 +11,4 @@ Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 
 - Sequencing
   - Illumina NextSeq 500, paired_end
 
-https://prod.data.humancellatlas.org/explore/projects/e8642221-4c2c-4fd7-b926-a68bce363c88
+[https://prod.data.humancellatlas.org/explore/projects/e8642221-4c2c-4fd7-b926-a68bce363c88](https://prod.data.humancellatlas.org/explore/projects/e8642221-4c2c-4fd7-b926-a68bce363c88)
