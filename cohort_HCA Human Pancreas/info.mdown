@@ -5,7 +5,6 @@ Enge M, Arda HE, Mignardi M, Beausang J, Bottino R, Kim SK, Quake SR.
 - Dissociation 
   - FACS (fluorescence-activated cell sorting)
 - Enrichment
-  - FACS (fluorescence-activated cell sorting)
   - Markers: HPx1+ HPi2+ CD133/1+ CD133/2+
 - Library Construction
   - Smart-seq2, full length, poly-dT primer, unstranded
