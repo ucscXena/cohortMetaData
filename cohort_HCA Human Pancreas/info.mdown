@@ -1,6 +1,6 @@
 ### Publication
-Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 Sep 28.<br>
 [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns](https://www.ncbi.nlm.nih.gov/pubmed/28965763)<br>
+Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 Sep 28.<br>
 Enge M, Arda HE, Mignardi M, Beausang J, Bottino R, Kim SK, Quake SR.
 
 ### Experimental protocol
