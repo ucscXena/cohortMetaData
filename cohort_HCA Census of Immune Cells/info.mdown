@@ -1,4 +1,4 @@
-## [HCA Census of Immune Cells](https://prod.data.humancellatlas.org/explore/projects/179bf9e6-5b33-4c5b-ae26-96c7270976b8)
+## HCA Census of Immune Cells
 
 [https://prod.data.humancellatlas.org/explore/projects/179bf9e6-5b33-4c5b-ae26-96c7270976b8](https://prod.data.humancellatlas.org/explore/projects/179bf9e6-5b33-4c5b-ae26-96c7270976b8)
 
