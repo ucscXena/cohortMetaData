@@ -1,6 +1,12 @@
 ## Single-cell transcriptomic characterization of 20 organs and tissues from individual mice creates a Tabula Muris
 
+Publication
+
 [Tabula Muris Consortium Biorxiv 2018](https://www.biorxiv.org/content/10.1101/237446v2)
+
+Data
+
+[https://github.com/czbiohub/tabula-muris](https://github.com/czbiohub/tabula-muris)
 
 [https://github.com/czbiohub/tabula-muris/blob/master/tabula-muris-on-aws.md](https://github.com/czbiohub/tabula-muris/blob/master/tabula-muris-on-aws.md)
 
