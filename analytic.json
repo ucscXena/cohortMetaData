@@ -1,0 +1,16 @@
+{
+  "TCGA Pan-Cancer (PANCAN)":[
+    {
+      "name": "StemnessScores_RNAexp_20170127.2.tsv",
+      "host": "https://pancanatlas.xenahubs.net",
+      "field": "RNAss",
+      "label": "Stemness score - RNA expression-based"
+    },
+    {
+      "name": "StemnessScores_RNAexp_20170127.2.tsv",
+      "host": "https://pancanatlas.xenahubs.net",
+      "field": "EREG.EXPss	",
+      "label": "Stemness score - Epigenetically regulated RNA expression-based"
+    }
+  ]
+}
