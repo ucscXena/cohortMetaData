@@ -1,6 +1,12 @@
 {
   "TCGA Pan-Cancer (PANCAN)":[
     {
+      "name": "Subtype_Immune_Model_Based.txt",
+      "host": "https://pancanatlas.xenahubs.net",
+      "fields": "Subtype_Immune_Model_Based",
+      "label": "Subtype - Immune ModelBased"
+    },
+    {
       "name": "StemnessScores_RNAexp_20170127.2.tsv",
       "host": "https://pancanatlas.xenahubs.net",
       "fields": "RNAss",
@@ -17,12 +23,6 @@
       "host": "https://pancanatlas.xenahubs.net",
       "fields": "HRD",
       "label": "HRD score"
-    },
-    {
-      "name": "Subtype_Immune_Model_Based.txt",
-      "host": "https://pancanatlas.xenahubs.net",
-      "fields": "Subtype_Immune_Model_Based",
-      "label": "Subtype - Immune ModelBased"
     }
   ]
 }
