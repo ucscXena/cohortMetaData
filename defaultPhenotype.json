@@ -1675,4 +1675,16 @@
       "feature": "cluster"
     }
   ],
+  "Tabula Muris 10x droplet": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "TabulaMuris/droplet/TM_droplet_metadata.tsv",
+      "feature": "tissue"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "TabulaMuris/droplet/TM_droplet_metadata.tsv",
+      "feature": "cell_ontology_class"
+    }
+  ]
 }
