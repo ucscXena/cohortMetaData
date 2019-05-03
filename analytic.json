@@ -1,17 +1,16 @@
 {
-	'TCGA Breast Cancer (BRCA)': [
-		{
-			name: 'TCGA.BRCA.sampleMap/AgilentG4502A_07_3',
-			host: 'https://tcga.xenahubs.net',
-			fields: '=TP53 + FOXM1',
-			label: 'a signature', // label in wizard
-			width: 250
-		},
-		{
-			name: 'TCGA.BRCA.sampleMap/BRCA_clinicalMatrix',
-			host: 'https://tcga.xenahubs.net',
-			fields: 'CN_Clusters_nature2012',
-			label: 'a phenotype', // label in wizard
-		},
-	]
+  "TCGA Pan-Cancer (PANCAN)":[
+    {
+      "name": "StemnessScores_RNAexp_20170127.2.tsv",
+      "host": "https://pancanatlas.xenahubs.net",
+      "field": "RNAss",
+      "label": "Stemness score - RNA expression-based"
+    },
+    {
+      "name": "StemnessScores_RNAexp_20170127.2.tsv",
+      "host": "https://pancanatlas.xenahubs.net",
+      "field": "EREG.EXPss	",
+      "label": "Stemness score - Epigenetically regulated RNA expression-based"
+    }
+  ]
 }
