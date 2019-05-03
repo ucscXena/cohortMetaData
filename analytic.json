@@ -11,6 +11,18 @@
       "host": "https://pancanatlas.xenahubs.net",
       "fields": "EREG.EXPss",
       "label": "Stemness score - Epigenetically regulated RNA expression-based"
+    },
+    {
+      "name": "TCGA.HRD_withSampleID.txt",
+      "host": "https://pancanatlas.xenahubs.net",
+      "fields": "HRD",
+      "label": "HRD score"
+    },
+    {
+      "name": "Subtype_Immune_Model_Based.txtt",
+      "host": "https://pancanatlas.xenahubs.net",
+      "fields": "Subtype_Immune_Model_Based",
+      "label": "Subtype - Immune ModelBased"
     }
   ]
 }
