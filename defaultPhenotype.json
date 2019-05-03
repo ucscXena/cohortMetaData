@@ -1636,12 +1636,12 @@
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "cell_browser/tabulamuris/meta.tsv",
-      "feature": "cluster"
+      "feature": "cell_ontology_class"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "cell_browser/tabulamuris/meta.tsv",
-      "feature": "cell_ontology_class"
+      "feature": "cluster"
     }
   ],
   "HCA Fetal Maternal Interface": [
@@ -1657,5 +1657,22 @@
       "dataset": "HCA/interneuronDevelopment_Lein/phenotype.matrix",
       "feature": "selected_cell_type"
     }
-  ]
+  ],
+  "Tabula Muris SmartSeq2": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "TabulaMuris/facs/TM_facs_metadata.tsv",
+      "feature": "tissue"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "TabulaMuris/facs/TM_facs_metadata.tsv",
+      "feature": "cell_ontology_class"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "TabulaMuris/facs/cluster_filledin.tsv",
+      "feature": "cluster"
+    }
+  ],
 }
