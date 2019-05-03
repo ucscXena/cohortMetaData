@@ -19,7 +19,7 @@
       "label": "HRD score"
     },
     {
-      "name": "Subtype_Immune_Model_Based.txtt",
+      "name": "Subtype_Immune_Model_Based.txt",
       "host": "https://pancanatlas.xenahubs.net",
       "fields": "Subtype_Immune_Model_Based",
       "label": "Subtype - Immune ModelBased"
