@@ -4,5 +4,6 @@
 "UCSC Cell Browser Tabula Muris" : "tabulamuris",
 "UCSC Cell Browser Autism": "autism",
 "UCSC Cell Browser Multiple Sclerosis": "ms",
-"10x Megacell" :  "10xMegacell"
+"10x Megacell" :  "10xMegacell",
+"Tabula Muris SmartSeq2": "tabulamuris"
 }
