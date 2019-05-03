@@ -1627,23 +1627,6 @@
       "feature": "region"
     }
   ],
-  "UCSC Cell Browser Tabula Muris": [
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "cell_browser/tabulamuris/meta.tsv",
-      "feature": "tissue"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "cell_browser/tabulamuris/meta.tsv",
-      "feature": "cell_ontology_class"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "cell_browser/tabulamuris/meta.tsv",
-      "feature": "cluster"
-    }
-  ],
   "HCA Fetal Maternal Interface": [
     {
       "host": "https://singlecellnew.xenahubs.net",
