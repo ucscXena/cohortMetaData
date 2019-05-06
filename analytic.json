@@ -36,7 +36,7 @@
       "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
       "host": "https://tdi.xenahubs.net",
       "fields": "Leukocyte.iScore",
-      "label": "Stromal.iScore"
+      "label": "Stromal iScore"
     },
     {
       "name": "TDI/iSC_cluster.txt",
@@ -54,13 +54,13 @@
       "name": "mc3.v0.2.8.PUBLIC.TMB",
       "host": "https://tdi.xenahubs.net",
       "fields": "TMB",
-      "label": "tumor mutation burden"
+      "label": "tumor mutation burden (TMB)"
     },
     {
       "name": "MSI.txt",
       "host": "https://tdi.xenahubs.net",
       "fields": "MSIsensor score",
-      "label": "MSIsensor score"
+      "label": "MSI"
     }
   ]
 }
