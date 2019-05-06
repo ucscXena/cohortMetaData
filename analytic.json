@@ -24,5 +24,43 @@
       "fields": "HRD",
       "label": "HRD score"
     }
+  ],
+  "GDC Pan-Cancer (PANCAN)":[
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Leukocyte.iScore",
+      "label": "Leukocyte iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Leukocyte.iScore",
+      "label": "Stromal.iScore"
+    },
+    {
+      "name": "TDI/iSC_cluster.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "iSC",
+      "label": "iScore cluster"
+    },
+    {
+      "name": "TDI/TDI_leukocyte_merged_masked_update20180604.xena",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Leucocyte.Fraction.dna.methylation",
+      "label": "% Leucocyte by DNA methylation"
+    },
+    {
+      "name": "mc3.v0.2.8.PUBLIC.TMB",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "TMB",
+      "label": "tumor mutation burden"
+    },
+    {
+      "name": "MSI.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "MSIsensor score",
+      "label": "MSIsensor score"
+    }
   ]
 }
