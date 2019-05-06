@@ -322,10 +322,9 @@
     {
       "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
       "host": "https://tdi.xenahubs.net",
-      "fields": "T.cells	",
+      "fields": "T.cells",
       "label": "T cell iScore"
-    }
-    ,
+    },
     {
       "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
       "host": "https://tdi.xenahubs.net",
