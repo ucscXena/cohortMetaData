@@ -42,7 +42,7 @@
       "name": "TDI/iSC_cluster.txt",
       "host": "https://tdi.xenahubs.net",
       "fields": "iSC",
-      "label": "iScore cluster"
+      "label": "iScore cluster (iSC1 - iSC6)"
     },
     {
       "name": "TDI/TDI_leukocyte_merged_masked_update20180604.xena",
