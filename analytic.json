@@ -61,6 +61,276 @@
       "host": "https://tdi.xenahubs.net",
       "fields": "MSIsensor score",
       "label": "MSI"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Adipocyte",
+      "label": "Adipocyte iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "B.cell",
+      "label": "B cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "B.cell.memory",
+      "label": "B cell memory iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "B.cell.naive",
+      "label": "B cell naive iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "B.cell.pro",
+      "label": "B cell progenitor iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Basophils",
+      "label": "Basophils iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "CLP",
+      "label": "Common lymphoid progenitor (CLP) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "CMP",
+      "label": "Common myloid progenitor (CMP) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Cytotoxic.lymphocytes",
+      "label": "Cytotoxic lymphocytes iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Dendritic.cell",
+      "label": "Dendritic cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Dendritic.cell.activated",
+      "label": "Dendritic cell activated iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Dendritic.cell.plasmacytoid",
+      "label": "Dendritic cell plasmacytoid iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Endothelial.cell",
+      "label": "Endothelial cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Eosinophils",
+      "label": "Eosinophils iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Epithelial.cell",
+      "label": "Epithelial cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Fibroblasts",
+      "label": "Fibroblasts iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "GMP",
+      "label": "Granulocyte macrophage progenitor (GMP) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "HSC",
+      "label": "Hematopoietic stem cell (HSC) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Macrophage",
+      "label": "Macrophage iScore"
+    },    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Macrophage.M0",
+      "label": "Macrophage M0 iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Macrophage.M1",
+      "label": "Macrophage M1 iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Macrophage.M2",
+      "label": "Macrophage M2 iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Mast.cell",
+      "label": "Mast cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Megakaryocytes",
+      "label": "Megakaryocytes iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "MEP",
+      "label": "Megakaryocyte erythrocyte progenitor (MEP) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Monocytes",
+      "label": "Monocytes iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "MPP",
+      "label": "Multi-potent progenitor (MPP) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "MSC",
+      "label": "Mesenchymal stem cell (MSC) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Neutrophils",
+      "label": "Neutrophils iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "NK.cell",
+      "label": "Natural Killer (NK cell) iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Pericytes",
+      "label": "Pericytes iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Plasma.cell",
+      "label": "Plasma cell iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Platelets",
+      "label": "Platelets iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Preadipocytes",
+      "label": "Preadipocytes iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.CD4",
+      "label": "T cell CD4 iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.CD4.memory",
+      "label": "T cell CD4 memory iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.CD8",
+      "label": "T cell CD8 iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.CD8.memory",
+      "label": "T cell CD8 memory iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.follicular.helper",
+      "label": "T cell follicular helper iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.gamma.delta",
+      "label": "T cell gamma delta iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.helper",
+      "label": "T cell helper iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T cell memory",
+      "label": "T cell memory iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cell.regulatory",
+      "label": "T cell regulatory iScore"
+    },
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "T.cells	",
+      "label": "T cell iScore"
+    }
+    ,
+    {
+      "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
+      "host": "https://tdi.xenahubs.net",
+      "fields": "Erythrocytes",
+      "label": "Erythrocytes iScore"
     }
   ]
 }
