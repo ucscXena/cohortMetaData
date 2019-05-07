@@ -2,4 +2,4 @@
 Puram SV, Tirosh I, Parikh AS, ..., Lin DT, Regev A, Bernstein BE.<br>
 Cell. 2017 Dec 14;171(7):1611-1624.e24. doi: 10.1016/j.cell.2017.10.044. Epub 2017 Nov 30.
 
-https://www.ncbi.nlm.nih.gov/pubmed?term=29198524
+[https://www.ncbi.nlm.nih.gov/pubmed?term=29198524](https://www.ncbi.nlm.nih.gov/pubmed?term=29198524)
