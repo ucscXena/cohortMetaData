@@ -1669,5 +1669,17 @@
       "dataset": "TabulaMuris/droplet/TM_droplet_metadata.tsv",
       "feature": "cell_ontology_class"
     }
+  ],
+  "Head and Neck Cancer (Puram 2017)": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_cell_metadata.txt",
+      "feature": "cell category"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_cell_metadata.txt",
+      "feature": "cell type"
+    }
   ]
 }
