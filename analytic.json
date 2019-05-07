@@ -1,5 +1,5 @@
 {
-  "TCGA Pan-Cancer (PANCAN)":[
+  "TCGA Pan-Cancer (PANCAN)": [
     {
       "name": "Subtype_Immune_Model_Based.txt",
       "host": "https://pancanatlas.xenahubs.net",
@@ -25,7 +25,7 @@
       "label": "HRD score"
     }
   ],
-  "GDC Pan-Cancer (PANCAN)":[
+  "GDC Pan-Cancer (PANCAN)": [
     {
       "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
       "host": "https://tdi.xenahubs.net",
@@ -175,7 +175,8 @@
       "host": "https://tdi.xenahubs.net",
       "fields": "Macrophage",
       "label": "Macrophage iScore"
-    },    {
+    },
+    {
       "name": "TDI/iScore_Aggregate_CellType_iScores_Compiled_01112019_noDup.txt",
       "host": "https://tdi.xenahubs.net",
       "fields": "Macrophage.M0",
@@ -330,6 +331,14 @@
       "host": "https://tdi.xenahubs.net",
       "fields": "Erythrocytes",
       "label": "Erythrocytes iScore"
+    }
+  ],
+  "Head and Neck Cancer (Puram 2017)": [
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "KRT14 KRT17 KRT6A KRT5 KRT19 KRT8 KRT16 KRT6B KRT15 KRT6C SFN EPCAM",
+      "label": "epithelial marker expression"
     }
   ]
 }
