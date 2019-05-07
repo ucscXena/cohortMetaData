@@ -1,0 +1,17 @@
+## Tumor Deconvolution and Immunogenicity (TDI)
+• Using integration of several computational methods, the TDI analysis working group generated a TCGA Pan-cancer resource for deconvolved immune-stromal infiltrates and their correlation with tumor progression across 42 cell\
+ types and 33 tumor types.<br>
+• Integrated scores (iScores) provide unified estimates of deconvolved cell types within each bulk tumor sample, such as Leukocyte.iScore and Stromal.iScore.<br>
+
+The analysis result will be published in a manuscript titled "<B>Pan-cancer analysis reveals extensive correlates between deconvolved tumor microenvironment, tumor progression and mutational profiles</B>".<br>
+
+This web site provides interactive visualization and exploration of these computationally-deconvoluted cell type estimates, together with other data in the TCGA cohort, such as TMB, MSI, gene expression, somatic mutation, an\
+d etc., across 10,590 TCGA samples, including 9,890 tumor samples and 700 solid tissue normals.
+
+Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=e08e4a15719ed17a218cefe0021f36b1) to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for \
+them.
+
+[<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=050712fc8125a80234d9fb7\
+115270e80)<br>
+<a href="/?bookmark=050712fc8125a80234d9fb7115270e80"><img src="https://tdi.xenahubs.net/download/meta/liveview.png" style="width:65%;"></a>
+<a href="/?bookmark=6f0f41973f6ff1d7586b3f8a9704977e"><img src="https://tdi.xenahubs.net/download/meta/liveview_chart.png" style="width:30%;margin-left:10px"></a>
