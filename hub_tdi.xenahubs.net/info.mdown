@@ -13,5 +13,5 @@ them.
 
 [<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=050712fc8125a80234d9fb7\
 115270e80)<br>
-<a href="/?bookmark=050712fc8125a80234d9fb7115270e80"><img src="https://tdi.xenahubs.net/download/meta/liveview.png" style="width:65%;"></a>
-<a href="/?bookmark=6f0f41973f6ff1d7586b3f8a9704977e"><img src="https://tdi.xenahubs.net/download/meta/liveview_chart.png" style="width:30%;margin-left:10px"></a>
+<a href="/?bookmark=050712fc8125a80234d9fb7115270e80"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_clear.xenahubs.net/liveview.png" style="width:65%;"></a>
+<a href="/?bookmark=6f0f41973f6ff1d7586b3f8a9704977e"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_clear.xenahubs.net/liveview_chart.png" style="width:30%;margin-left:10px"></a>
