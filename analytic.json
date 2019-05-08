@@ -341,19 +341,19 @@
       "label": "whole genome CNV profile"
     },
     {
-      "name": "GSE103322_HNSCC_exp.txt",
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "KRT14 KRT17 KRT6A KRT5 KRT19 KRT8 KRT16 KRT6B KRT15 KRT6C SFN EPCAM",
       "label": "epithelial marker expression"
     },
     {
-      "name": "GSE103322_HNSCC_exp.txt",
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "ACTA2, MYLK, MYL9",
       "label": "myofibroblasts marker expression"
     },
     {
-      "name": "GSE103322_HNSCC_exp.txt",
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FAP, PDPN, CTGF",
       "label": "extracellular matrix marker expression"
