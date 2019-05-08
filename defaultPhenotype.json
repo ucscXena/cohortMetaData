@@ -1674,7 +1674,7 @@
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HNSCC/GSE103322_cell_metadata.txt",
-      "feature": "cell category"
+      "feature": "tumor vs. non-malignant cell"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
