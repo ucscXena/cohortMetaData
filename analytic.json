@@ -386,25 +386,25 @@
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Epi dif. 1",
-      "label": "tumor: Epithelial differentiation 1 module score"
+      "label": "tumor: Epithelial dif. 1 module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "IL1RN, SLPI, CLDN4, S100A9, SPRR1B, PVRL4, RHCG, SDCBP2, S100A8, APOBEC3A, GRHL1, SULT2B1, ELF3, KRT16, PRSS8, MXD1, S100A7, KRT6B, LYPD3, TACSTD2",
-      "label": "tumor: Epithelial differentiation 1 signature profile"
+      "label": "tumor: Epithelial dif. 1 signature profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Epi dif. 2",
-      "label": "tumor: Epithelial differentiation 2 module score"
+      "label": "tumor: Epithelial dif. 2 module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "LY6D, KRT16, KRT6B, LYPD3, KRT6C, TYMP, FABP5, SCO2, FGFBP1, JUP, IMP4, DSC2, TMBIM1, KRT14, C1QBP, SFN, S100A14, RAB38, GJB5, MRPL14",
-      "label": "tumor: Epithelial differentiation 2 signature profile"
+      "label": "tumor: Epithelial dif. 2 signature profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
