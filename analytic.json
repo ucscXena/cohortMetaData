@@ -349,7 +349,7 @@
     {
       "name": "HNSCC/z.txt",
       "host": "https://singlecellnew.xenahubs.net",
-      "fields": "ACTA2, MYLK, MYL9",
+      "fields": "FAP, PDPN, CTGF",
       "label": "extracellular matrix marker expression"
     }
   ]
