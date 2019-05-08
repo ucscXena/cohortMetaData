@@ -1680,6 +1680,11 @@
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HNSCC/GSE103322_cell_metadata.txt",
       "feature": "cell type"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_sample_metadata.txt",
+      "feature": "patient"
     }
   ]
 }
