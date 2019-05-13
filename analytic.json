@@ -430,5 +430,19 @@
       "fields": "FOS, ATF3, NR4A1, DUSP1, ZFP36, PPP1R15A, SGK1, EGR1, ZC3H12A, JUNB, FOSB, IER2, NFKBIA, NFKBIZ, HBEGF, BTG2, SOD2, CDKN1A, NCOA7, JUN",
       "label": "tumor: Stress signature profile"
     }
+  ],
+  "HCA Census of Immune Cells": [
+    {
+      "name": "HCA/Census_of_Immune_Cells/filtered_gene_bc_matrices_gene.tsv",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "HLA-DRA, IGHM, HLA-DPB1, CD37, HLA-DRB1, CD79A, HLA-DPA1, MS4A1, HLA-DQB1, IGHD, CD79B, IGKC",
+      "label": "cluster 2 markers - gene expression"
+    },
+    {
+      "name": "HCA/Census_of_Immune_Cells/filtered_gene_bc_matrices_gene.tsv",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "S100A9, LYZ, TYROBP, S100A4, S100A6, CST3, FCN1, LGALS1, CTSS, LST1, S100A8, SRGN",
+      "label": "cluster 5 markers - gene expression"
+    }
   ]
 }
