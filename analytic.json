@@ -443,6 +443,12 @@
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "S100A9, LYZ, TYROBP, S100A4, S100A6, CST3, FCN1, LGALS1, CTSS, LST1, S100A8, SRGN",
       "label": "cluster 5 markers - gene expression"
+    },
+    {
+      "name": "HNSCC/tcgaClassification",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "TCGA molecular subtype",
+      "label": "TCGA molecular subtype signature mapped to single cell"
     }
   ]
 }
