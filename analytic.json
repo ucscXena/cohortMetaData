@@ -362,7 +362,7 @@
       "name": "HNSCC/tcgaClassification",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "TCGA expression subtype",
-      "label": "TCGA molecular subtype mapped to single cell"
+      "label": "TCGA expression subtype signature applied to individual cells"
     },
     {
       "name": "HNSCC/signatureScore.txt",
