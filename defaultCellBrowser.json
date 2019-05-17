@@ -1,8 +1,9 @@
 {
-"HCA Human Pancreas": "adultPancreas",
-"UCSC Cell Browser Cortex Development": "cortex-dev",
-"UCSC Cell Browser Autism": "autism",
-"UCSC Cell Browser Multiple Sclerosis": "ms",
-"10x Megacell" :  "10xMegacell",
-"Tabula Muris SmartSeq2": "tabulamuris"
+"HCA Human Pancreas": "http://adultPancreas.cells.ucsc.edu",
+"UCSC Cell Browser Cortex Development": "http://cortex-dev.cells.ucsc.edu",
+"UCSC Cell Browser Autism": "http://autism.cells.ucsc.edu",
+"UCSC Cell Browser Multiple Sclerosis": "http://ms.cells.ucsc.edu",
+"10x Megacell" : "https://cells.ucsc.edu/?ds=10xMegacell",
+"Tabula Muris SmartSeq2": "http://tabulamuris.cells.ucsc.edu",
+"Head and Neck Cancer (Puram 2017)": "http://head-neck.cells.ucsc.edu"
 }
