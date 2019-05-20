@@ -475,7 +475,7 @@
       "label": "cluster 5 markers - gene expression"
     }
   ],
-  "human brain transcriptome (Darmanis 2015)": [
+  "Human brain (Darmanis 2015)": [
     {
       "name": "DarmanisPNAS2015/transpose_rsem_cell_by_gene.tsv",
       "host": "https://singlecellnew.xenahubs.net",
@@ -487,6 +487,18 @@
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FGFR3, AQP4, GJA1, AGT, MGST1, SLC39A12, SLC25A18, SLCO1C1, SDC4, GPR37L1, ACSBG1, SFXN5, BMPR1B, ATP13A4, RANBP3L, GJB6, GFAP, PRODH, SLC4A4",
       "label": "astrocytes markers - gene expression"
+    },
+    {
+      "name": "DarmanisPNAS2015/z.txt",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "= KLK6+ ERMN+ UGT8+ TF+ CNDP1+ OPALIN+ RNASE1+ ENPP2+ MAG+ CARNS1+ MOBP+ CLDN11+ CAPN3+ FOLH1+ LPAR1+ GJB1+ TMEM144+ ABCA8+ HHIP",
+      "label": "oligodendrocytes score"
+    },
+    {
+      "name": "DarmanisPNAS2015/z.txt",
+      "host": "https://singlecellnew.xenahubs.net",
+      "fields": "= FGFR3+ AQP4+ GJA1+ AGT+ MGST1+ SLC39A12+ SLC25A18+ SLCO1C1+ SDC4+ GPR37L1+ ACSBG1+ SFXN5+ BMPR1B+ ATP13A4+ RANBP3L+ GJB6+ GFAP+ PRODH+ SLC4A4",
+      "label": "astrocytes score"
     }
   ]
 }
