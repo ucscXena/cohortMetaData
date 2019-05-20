@@ -1468,7 +1468,7 @@
       "feature": "MYCNamp"
     }
   ],
-  "human brain transcriptome (Darmanis 2015)": [
+  "Human brain (Darmanis 2015)": [
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
