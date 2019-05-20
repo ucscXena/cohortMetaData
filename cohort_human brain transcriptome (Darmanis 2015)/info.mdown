@@ -1,8 +1,8 @@
-## [A survey of human brain transcriptome diversity at the single cell level.](https://www.ncbi.nlm.nih.gov/pubmed/26060301)
+## A survey of human brain transcriptome diversity at the single cell level.
 
-Proc Natl Acad Sci U S A. 2015 Jun 9;112(23):7285-90. doi: 10.1073/pnas.1507125112. Epub 2015 May 18.
-
-Darmanis S, Sloan SA, Zhang Y, Enge M, Caneda C, Shuer LM, Hayden Gephart MG, Barres BA, Quake SR.
+Darmanis S, Sloan SA, Zhang Y, Enge M, Caneda C, Shuer LM, Hayden Gephart MG, Barres BA, Quake SR.<br>
+Proc Natl Acad Sci U S A. 2015 Jun 9;112(23):7285-90. doi: 10.1073/pnas.1507125112. Epub 2015 May 18.<br>
+[https://www.ncbi.nlm.nih.gov/pubmed/26060301](https://www.ncbi.nlm.nih.gov/pubmed/26060301)
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466750/figure/fig01/"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4466750/bin/pnas.1507125112fig01.jpg" align="left" height="300" style="padding-right:50px;"></a>
 
