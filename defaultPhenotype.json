@@ -1468,19 +1468,19 @@
       "feature": "MYCNamp"
     }
   ],
-  "human brain transcriptome (Darmanis PNAS 2015)": [
+  "human brain transcriptome (Darmanis 2015)": [
     {
-      "host": "https://singlecell.xenahubs.net",
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
       "feature": "biosample_source_life_stage"
     },
     {
-      "host": "https://singlecell.xenahubs.net",
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
       "feature": "sample_category"
     },
     {
-      "host": "https://singlecell.xenahubs.net",
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
       "feature": "biosample_cell_type"
     }
