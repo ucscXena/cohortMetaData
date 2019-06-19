@@ -1,6 +1,5 @@
 ## Tumor Deconvolution and Immunogenicity (TDI)
-• Using integration of several computational methods, the TDI analysis working group generated a TCGA Pan-cancer resource for deconvolved immune-stromal infiltrates and their correlation with tumor progression across 42 cell\
- types and 33 tumor types.<br>
+• Using integration of several computational methods, the TDI analysis working group generated a TCGA Pan-cancer resource for deconvolved immune-stromal infiltrates and their correlation with tumor progression across 42 cell types and 33 tumor types.<br>
 • Integrated scores (iScores) provide unified estimates of deconvolved cell types within each bulk tumor sample, such as Leukocyte.iScore and Stromal.iScore.<br>
 
 The analysis result will be published in a manuscript titled "<B>Pan-cancer analysis reveals extensive correlates between deconvolved tumor microenvironment, tumor progression and mutational profiles</B>".<br>
