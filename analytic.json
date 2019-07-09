@@ -500,5 +500,13 @@
       "fields": "= FGFR3+ AQP4+ GJA1+ AGT+ MGST1+ SLC39A12+ SLC25A18+ SLCO1C1+ SDC4+ GPR37L1+ ACSBG1+ SFXN5+ BMPR1B+ ATP13A4+ RANBP3L+ GJB6+ GFAP+ PRODH+ SLC4A4",
       "label": "astrocytes score"
     }
+  ],
+  "TCGA Breast Cancer (BRCA)": [
+    {
+      "name": "TCGA.BRCA.sampleMap/HiSeqV2",
+      "host": "https://tcga.xenahubs.net",
+      "fields": "UBE2T, BIRC5, NUF2, CDC6, CCNB1, TYMS, MYBL2, CEP55, MELK, NDC80, RRM2, UBE2C, CENPF, PTTG1, EXO1, ORC6L, ANLN, CCNE1, CDC20, MKI67, KIF2C, ACTR3B, MYC, EGFR, KRT5, PHGDH, CDH3, MIA, KRT17, FOXC1, SFRP1, KRT14, ESR1, SLC39A6, BAG1, MAPT, PGR, CXXC5, MLPH, BCL2, MDM2, NAT1, FOXA1, BLVRA, MMP11, GPR160, FGFR4, GRB7, TMEM45B, ERBB2",
+      "label": "PAM50 gene expression profile"
+    }
   ]
 }
