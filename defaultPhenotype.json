@@ -1181,17 +1181,17 @@
   "GDC Pan-Cancer (PANCAN)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.project_info.tsv",
+      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
       "feature": "project.project_id"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.GDC_phenotype.tsv",
+      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
       "feature": "samples.sample_type"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.GDC_phenotype.tsv",
+      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
       "feature": "demographic.age_at_index"
     }
   ],
