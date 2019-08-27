@@ -1298,6 +1298,48 @@
       "dataset": "GDC-PANCAN.mutect2_snv.tsv"
     }
   },
+  "GDC TARGET-ALL-P3": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-AML": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-CCSK": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-CCSK.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-NBL": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-NBL.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-OS": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-OS.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-RT": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-RT.htseq_fpkm-uq.tsv"
+    }
+  },
+  "GDC TARGET-WT": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-WT.htseq_fpkm-uq.tsv"
+    }
+  },
   "Cancer Cell Line Encyclopedia (CCLE)": {
     "gene expression": {
       "host": "https://ucscpublic.xenahubs.net",
