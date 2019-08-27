@@ -825,477 +825,477 @@
   "GDC TCGA Acute Myeloid Leukemia (LAML)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-LAML/TCGA-LAML.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.masked_cnv.tsv"
+      "dataset": "TCGA-LAML/TCGA-LAML.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.mutect2_snv.tsv"
+      "dataset": "TCGA-LAML/TCGA-LAML.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Adrenocortical Cancer (ACC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-ACC/TCGA-ACC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.masked_cnv.tsv"
+      "dataset": "TCGA-ACC/TCGA-ACC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.mutect2_snv.tsv"
+      "dataset": "TCGA-ACC/TCGA-ACC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Bile Duct Cancer (CHOL)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-CHOL/TCGA-CHOL.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.masked_cnv.tsv"
+      "dataset": "TCGA-CHOL/TCGA-CHOL.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.mutect2_snv.tsv"
+      "dataset": "TCGA-CHOL/TCGA-CHOL.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Bladder Cancer (BLCA)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-BLCA/TCGA-BLCA.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.masked_cnv.tsv"
+      "dataset": "TCGA-BLCA/TCGA-BLCA.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA/Xena_Matrices/TCGA-BLCA.mutect2_snv.tsv"
+      "dataset": "TCGA-BLCA/TCGA-BLCA.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Breast Cancer (BRCA)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-BRCA/TCGA-BRCA.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.masked_cnv.tsv"
+      "dataset": "TCGA-BRCA/TCGA-BRCA.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA/Xena_Matrices/TCGA-BRCA.mutect2_snv.tsv"
+      "dataset": "TCGA-BRCA/TCGA-BRCA.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Cervical Cancer (CESC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-CESC/TCGA-CESC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.masked_cnv.tsv"
+      "dataset": "TCGA-CESC/TCGA-CESC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC/Xena_Matrices/TCGA-CESC.mutect2_snv.tsv"
+      "dataset": "TCGA-CESC/TCGA-CESC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Colon Cancer (COAD)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-COAD/TCGA-COAD.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.masked_cnv.tsv"
+      "dataset": "TCGA-COAD/TCGA-COAD.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD/Xena_Matrices/TCGA-COAD.mutect2_snv.tsv"
+      "dataset": "TCGA-COAD/TCGA-COAD.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Endometrioid Cancer (UCEC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CEUCECSC/Xena_Matrices/TCGA-UCEC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-CEUCECSC/TCGA-UCEC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC/Xena_Matrices/TCGA-UCEC.masked_cnv.tsv"
+      "dataset": "TCGA-UCEC/TCGA-UCEC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC/Xena_Matrices/TCGA-UCEC.mutect2_snv.tsv"
+      "dataset": "TCGA-UCEC/TCGA-UCEC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Esophageal Cancer (ESCA)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-ESCA/TCGA-ESCA.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.masked_cnv.tsv"
+      "dataset": "TCGA-ESCA/TCGA-ESCA.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA/Xena_Matrices/TCGA-ESCA.mutect2_snv.tsv"
+      "dataset": "TCGA-ESCA/TCGA-ESCA.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Glioblastoma (GBM)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-GBM/TCGA-GBM.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.masked_cnv.tsv"
+      "dataset": "TCGA-GBM/TCGA-GBM.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM/Xena_Matrices/TCGA-GBM.mutect2_snv.tsv"
+      "dataset": "TCGA-GBM/TCGA-GBM.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Head and Neck Cancer (HNSC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-HNSC/TCGA-HNSC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.masked_cnv.tsv"
+      "dataset": "TCGA-HNSC/TCGA-HNSC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC/Xena_Matrices/TCGA-HNSC.mutect2_snv.tsv"
+      "dataset": "TCGA-HNSC/TCGA-HNSC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Kidney Chromophobe (KICH)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-KICH/TCGA-KICH.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.masked_cnv.tsv"
+      "dataset": "TCGA-KICH/TCGA-KICH.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH/Xena_Matrices/TCGA-KICH.mutect2_snv.tsv"
+      "dataset": "TCGA-KICH/TCGA-KICH.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Kidney Clear Cell Carcinoma (KIRC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-KIRC/TCGA-KIRC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.masked_cnv.tsv"
+      "dataset": "TCGA-KIRC/TCGA-KIRC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC/Xena_Matrices/TCGA-KIRC.mutect2_snv.tsv"
+      "dataset": "TCGA-KIRC/TCGA-KIRC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Kidney Papillary Cell Carcinoma (KIRP)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-KIRP/TCGA-KIRP.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.masked_cnv.tsv"
+      "dataset": "TCGA-KIRP/TCGA-KIRP.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP/Xena_Matrices/TCGA-KIRP.mutect2_snv.tsv"
+      "dataset": "TCGA-KIRP/TCGA-KIRP.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Large B-cell Lymphoma (DLBC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-DLBC/TCGA-DLBC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.masked_cnv.tsv"
+      "dataset": "TCGA-DLBC/TCGA-DLBC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC/Xena_Matrices/TCGA-DLBC.mutect2_snv.tsv"
+      "dataset": "TCGA-DLBC/TCGA-DLBC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Liver Cancer (LIHC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-LIHC/TCGA-LIHC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.masked_cnv.tsv"
+      "dataset": "TCGA-LIHC/TCGA-LIHC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC/Xena_Matrices/TCGA-LIHC.mutect2_snv.tsv"
+      "dataset": "TCGA-LIHC/TCGA-LIHC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Lower Grade Glioma (LGG)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-LGG/TCGA-LGG.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.masked_cnv.tsv"
+      "dataset": "TCGA-LGG/TCGA-LGG.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG/Xena_Matrices/TCGA-LGG.mutect2_snv.tsv"
+      "dataset": "TCGA-LGG/TCGA-LGG.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Lung Adenocarcinoma (LUAD)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-LUAD/TCGA-LUAD.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.masked_cnv.tsv"
+      "dataset": "TCGA-LUAD/TCGA-LUAD.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD/Xena_Matrices/TCGA-LUAD.mutect2_snv.tsv"
+      "dataset": "TCGA-LUAD/TCGA-LUAD.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-LUSC/TCGA-LUSC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.masked_cnv.tsv"
+      "dataset": "TCGA-LUSC/TCGA-LUSC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC/Xena_Matrices/TCGA-LUSC.mutect2_snv.tsv"
+      "dataset": "TCGA-LUSC/TCGA-LUSC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Melanoma (SKCM)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM/Xena_Matrices/TCGA-SKCM.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-SKCM/TCGA-SKCM.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM/Xena_Matrices/TCGA-SKCM.masked_cnv.tsv"
+      "dataset": "TCGA-SKCM/TCGA-SKCM.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM/Xena_Matrices/TCGA-SKCM.mutect2_snv.tsv"
+      "dataset": "TCGA-SKCM/TCGA-SKCM.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Mesothelioma (MESO)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-MESO/TCGA-MESO.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.masked_cnv.tsv"
+      "dataset": "TCGA-MESO/TCGA-MESO.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO/Xena_Matrices/TCGA-MESO.mutect2_snv.tsv"
+      "dataset": "TCGA-MESO/TCGA-MESO.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Ocular melanomas (UVM)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-UVM/TCGA-UVM.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.masked_cnv.tsv"
+      "dataset": "TCGA-UVM/TCGA-UVM.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM/Xena_Matrices/TCGA-UVM.mutect2_snv.tsv"
+      "dataset": "TCGA-UVM/TCGA-UVM.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Ovarian Cancer (OV)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-OV/TCGA-OV.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.masked_cnv.tsv"
+      "dataset": "TCGA-OV/TCGA-OV.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV/Xena_Matrices/TCGA-OV.mutect2_snv.tsv"
+      "dataset": "TCGA-OV/TCGA-OV.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Pancreatic Cancer (PAAD)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-PAAD/TCGA-PAAD.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.masked_cnv.tsv"
+      "dataset": "TCGA-PAAD/TCGA-PAAD.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD/Xena_Matrices/TCGA-PAAD.mutect2_snv.tsv"
+      "dataset": "TCGA-PAAD/TCGA-PAAD.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Pheochromocytoma & Paraganglioma (PCPG)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-PCPG/TCGA-PCPG.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.masked_cnv.tsv"
+      "dataset": "TCGA-PCPG/TCGA-PCPG.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG/Xena_Matrices/TCGA-PCPG.mutect2_snv.tsv"
+      "dataset": "TCGA-PCPG/TCGA-PCPG.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Prostate Cancer (PRAD)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-PRAD/TCGA-PRAD.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.masked_cnv.tsv"
+      "dataset": "TCGA-PRAD/TCGA-PRAD.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD/Xena_Matrices/TCGA-PRAD.mutect2_snv.tsv"
+      "dataset": "TCGA-PRAD/TCGA-PRAD.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Rectal Cancer (READ)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-READ/TCGA-READ.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.masked_cnv.tsv"
+      "dataset": "TCGA-READ/TCGA-READ.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ/Xena_Matrices/TCGA-READ.mutect2_snv.tsv"
+      "dataset": "TCGA-READ/TCGA-READ.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Sarcoma (SARC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-SARC/TCGA-SARC.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.masked_cnv.tsv"
+      "dataset": "TCGA-SARC/TCGA-SARC.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC/Xena_Matrices/TCGA-SARC.mutect2_snv.tsv"
+      "dataset": "TCGA-SARC/TCGA-SARC.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Stomach Cancer (STAD)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-STAD/TCGA-STAD.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.masked_cnv.tsv"
+      "dataset": "TCGA-STAD/TCGA-STAD.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD/Xena_Matrices/TCGA-STAD.mutect2_snv.tsv"
+      "dataset": "TCGA-STAD/TCGA-STAD.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Testicular Cancer (TGCT)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-TGCT/TCGA-TGCT.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.masked_cnv.tsv"
+      "dataset": "TCGA-TGCT/TCGA-TGCT.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT/Xena_Matrices/TCGA-TGCT.mutect2_snv.tsv"
+      "dataset": "TCGA-TGCT/TCGA-TGCT.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Thymoma (THYM)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-THYM/TCGA-THYM.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.masked_cnv.tsv"
+      "dataset": "TCGA-THYM/TCGA-THYM.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM/Xena_Matrices/TCGA-THYM.mutect2_snv.tsv"
+      "dataset": "TCGA-THYM/TCGA-THYM.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Thyroid Cancer (THCA)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-THCA/TCGA-THCA.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.masked_cnv.tsv"
+      "dataset": "TCGA-THCA/TCGA-THCA.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA/Xena_Matrices/TCGA-THCA.mutect2_snv.tsv"
+      "dataset": "TCGA-THCA/TCGA-THCA.mutect2_snv.tsv"
     }
   },
   "GDC TCGA Uterine Carcinosarcoma (UCS)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.htseq_fpkm-uq.tsv"
+      "dataset": "TCGA-UCS/TCGA-UCS.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.masked_cnv.tsv"
+      "dataset": "TCGA-UCS/TCGA-UCS.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS/Xena_Matrices/TCGA-UCS.mutect2_snv.tsv"
+      "dataset": "TCGA-UCS/TCGA-UCS.mutect2_snv.tsv"
     }
   },
   "GDC Pan-Cancer (PANCAN)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.htseq_fpkm-uq.tsv"
+      "dataset": "GDC-PANCAN/GDC-PANCAN.htseq_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.masked_cnv.tsv"
+      "dataset": "GDC-PANCAN/GDC-PANCAN.masked_cnv.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.mutect2_snv.tsv"
+      "dataset": "GDC-PANCAN/GDC-PANCAN.mutect2_snv.tsv"
     }
   },
   "Cancer Cell Line Encyclopedia (CCLE)": {
