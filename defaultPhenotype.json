@@ -834,13 +834,18 @@
   "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.GDC_GDC_phenotype.tsv",
+      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.GDC_GDC_phenotype.tsv",
+      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
       "feature": "age_at_initial_pathologic_diagnosis"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
+      "feature": "tobacco_smoking_history"
     }
   ],
   "GDC TCGA Melanoma (SKCM)": [
