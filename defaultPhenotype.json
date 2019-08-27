@@ -1094,70 +1094,105 @@
   "GDC TARGET-AML": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-AML/Xena_Matrices/TARGET-AML.clinical.tsv",
+      "dataset": "TARGET-AML.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.clinical.tsv",
+      "feature": "Gemtuzumab ozogamicin treatment"
     }
   ],
   "GDC TARGET-CCSK": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-CCSK/Xena_Matrices/TARGET-CCSK.clinical.tsv",
+      "dataset": "TARGET-CCSK.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-CCSK.clinical.tsv",
+      "feature": "Stage"
     }
   ],
   "GDC TARGET-NBL": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-NBL/Xena_Matrices/TARGET-NBL.clinical.tsv",
+      "dataset": "TARGET-NBL.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-NBL.clinical.tsv",
+      "feature": "COG Risk Group"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-NBL.clinical.tsv",
+      "feature": "Grade"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-NBL.clinical.tsv",
+      "feature": "Diagnostic Category"
     }
   ],
   "GDC TARGET-OS": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-OS/Xena_Matrices/TARGET-OS.clinical.tsv",
+      "dataset": "TARGET-OS.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-OS.clinical.tsv",
+      "feature": "Disease at diagnosis"
     }
   ],
   "GDC TARGET-RT": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-RT/Xena_Matrices/TARGET-RT.clinical.tsv",
+      "dataset": "TARGET-RT.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-RT.clinical.tsv",
+      "feature": "Stage"
     }
   ],
   "GDC TARGET-WT": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-WT/Xena_Matrices/TARGET-WT.clinical.tsv",
+      "dataset": "TARGET-WT.clinical.tsv",
       "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-WT.clinical.tsv",
+      "feature": "Stage"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-WT.clinical.tsv",
+      "feature": "Histologic Classification of Primary Tumor"
     }
   ],
   "GDC Pan-Cancer (PANCAN)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.project_info.tsv",
-      "feature": "program_code.project"
+      "dataset": "GDC-PANCAN.project_info.tsv",
+      "feature": "project.project_id"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.project_info.tsv",
-      "feature": "disease_code.project"
+      "dataset": "GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "samples.sample_type"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "disease_type.project"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN/Xena_Matrices/GDC-PANCAN.GDC_phenotype.tsv",
-      "feature": "age_at_diagnosis.diagnoses"
+      "dataset": "GDC-PANCAN.GDC_phenotype.tsv",
+      "feature": "demographic.age_at_index"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
@@ -1750,6 +1785,18 @@
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HNSCC/cell_category.txt",
       "feature": "cell_category"
+    }
+  ],
+  "GDC TARGET-ALL-P3": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "Age at Diagnosis in Days"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "WHO ALAL Classification"
     }
   ]
 }
