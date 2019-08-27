@@ -483,47 +483,57 @@
   "GDC TCGA Acute Myeloid Leukemia (LAML)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.GDC_phenotype.tsv",
+      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML/Xena_Matrices/TCGA-LAML.GDC_phenotype.tsv",
-      "feature": "is_ffpe.samples"
+      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
+      "feature": "age_at_initial_pathologic_diagnosis"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
+      "feature": "acute_myeloid_leukemia_calgb_cytogenetics_risk_category"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
+      "feature": "disease_type"
     }
   ],
   "GDC TCGA Adrenocortical Cancer (ACC)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.GDC_phenotype.tsv",
+      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.GDC_phenotype.tsv",
-      "feature": "is_ffpe.samples"
+      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
+      "feature": "age_at_initial_pathologic_diagnosis"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC/Xena_Matrices/TCGA-ACC.GDC_phenotype.tsv",
-      "feature": "histological_type"
+      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TCGA Bile Duct Cancer (CHOL)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.GDC_phenotype.tsv",
+      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.GDC_phenotype.tsv",
-      "feature": "is_ffpe.samples"
+      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
+      "feature": "age_at_initial_pathologic_diagnosis"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL/Xena_Matrices/TCGA-CHOL.GDC_phenotype.tsv",
-      "feature": "histological_type"
+      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TCGA Bladder Cancer (BLCA)": [
