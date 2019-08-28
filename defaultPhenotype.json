@@ -1181,18 +1181,23 @@
   "GDC Pan-Cancer (PANCAN)": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
-      "feature": "project.project_id"
+      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
+      "feature": "program"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
-      "feature": "samples.sample_type"
+      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
+      "feature": "project_id"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.Xena_phenotype.tsv",
-      "feature": "demographic.age_at_index"
+      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
+      "feature": "sample_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
+      "feature": "Age at Diagnosis in Years	"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
