@@ -1197,7 +1197,7 @@
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "GDC-PANCAN.basic_phenotype.tsv",
-      "feature": "Age at Diagnosis in Years	"
+      "feature": "Age at Diagnosis in Years"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
