@@ -1,4 +1,4 @@
-# GDC Xena Data Hub
+# GDC Xena Hub
 
 The hub hosts v18.0 release from [GDC Data Portal](https://portal.gdc.cancer.gov/). The hub is last updated on 2019-08-28.
 
