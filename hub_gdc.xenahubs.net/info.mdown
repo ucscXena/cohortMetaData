@@ -28,7 +28,7 @@ miRNA Expression
 
 Phenotype
 
-## Study Cohorts
+## Study cohorts
 * TCGA
 * TARGET
 * GDC Pan-Cancer (PANCAN)
