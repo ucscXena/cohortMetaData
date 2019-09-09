@@ -8,6 +8,7 @@ Gene Expression RNAseq
 * HTSeq - Counts
 * HTSeq - FPKM
 * HTSeq - FPKM-uq
+* STAR - Counts (TARGET-ALL-P3 study only)
 
 Somatic Mutation
 * MuSE
