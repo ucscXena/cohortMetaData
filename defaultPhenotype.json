@@ -490,6 +490,13 @@
       "feature": "_primary_disease"
     }
   ],
+  "PACA-AU": [
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "PACA-AU/nature16965-s2_NMF_class_assignment.txt",
+      "feature": "expression subtype"
+    }
+  ],
   "GDC TCGA Acute Myeloid Leukemia (LAML)": [
     {
       "host": "https://gdc.xenahubs.net",
