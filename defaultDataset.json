@@ -469,6 +469,26 @@
       "dataset": "TCGA.TGCT.sampleMap/SNP6_nocnv_genomicSegment"
     }
   },
+  "ICGC (donor centric)": {
+    "simple somatic mutation": {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor/SNV.donor.codingMutation-allProjects"
+    },
+    "copy number": {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor/copy_number_somatic_mutation.all_projects.donor"
+    }
+  },
+  "ICGC (specimen centric)": {
+    "simple somatic mutation": {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "sp/SNV.sp.codingMutation-allProjects"
+    },
+    "copy number": {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "sp/copy_number_somatic_mutation.all_projects.specimen"
+    }
+  },  
   "PACA-AU": {
     "gene expression": {
       "host": "https://icgc.xenahubs.net",
