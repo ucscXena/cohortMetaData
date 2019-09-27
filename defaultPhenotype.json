@@ -466,7 +466,7 @@
       "host": "https://icgc.xenahubs.net",
       "dataset": "donor/donor.all_projects.phenotype",
       "feature": "_primary_disease"
-    },
+    }
   ],
   "ICGC (specimen centric)": [
     {
@@ -483,7 +483,7 @@
       "host": "https://icgc.xenahubs.net",
       "dataset": "ssp/specimen.all_projects.tsv",
       "feature": "specimen_type"
-    }
+    },
     {
       "host": "https://icgc.xenahubs.net",
       "dataset": "sp/donor.all_projects.phenotype_transfer_specimen",
