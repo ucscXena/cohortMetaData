@@ -8,28 +8,27 @@ Supported data types
 * Somatic simple mutations
 * Copy number variation
 * Gene expressions from US projects (because they were processed the same way and so form a coherent set) and selected projects
+* Protein expressions from US projects (same reason as above)
 * Phenotype data
 * Selected publication data
 
 ICGC data from all projects are combined and organized into three cohorts on ICGC Xena Hub
 * A donor-centric cohort
 * A specimen-centric cohort
-* a cohort of US donors with both RNA and SNV data
 
+### ICGC Data Release, [version 28](https://dcc.icgc.org/releases/release_28/)
 
-### ICGC Data Release, [version 22](https://dcc.icgc.org/releases/release_22/)
-
-Released on August 23, 2016
+Released on March 27, 2019
 
 This release includes:
-* 70 Cancer Projects
-* 21 Cancer primary sites
-* 16,236 Donors with molecular data in DCC
-* 19,290 Total Donors
-* 46,429,997 Simple Somatic Mutations
-* 57,658 Mutated genes
+86 Cancer Projects
+22 Cancer primary sites
+22,330 Donors with molecular data in DCC
+24,289 Total Donors
+81,782,588 Simple Somatic Mutations
+57,905 Mutated genes
 
-UCSC Xena ingests release version 22 data from the [ICGC Data portal](https://dcc.icgc.org/)
+UCSC Xena ingests release version 28 data from the [ICGC Data portal](https://dcc.icgc.org/). The Xena hub was last updated on September 24, 2019
 
 #### View live example: [<span style="color:#4ecdc4"><u>Intron mutation hotspots in ICGC lymphomas</u></span>](/?bookmark=b62b660e6029947f51ce5745945cce90)
 
