@@ -454,30 +454,40 @@
   "ICGC (donor centric)": [
     {
       "host": "https://icgc.xenahubs.net",
-      "dataset": "donor.all_projects.xena",
-      "feature": "_primary_disease"
+      "dataset": "donor/donor.all_projects.phenotype",
+      "feature": "_primary_site"
     },
     {
       "host": "https://icgc.xenahubs.net",
-      "dataset": "donor.all_projects.xena",
+      "dataset": "donor/donor.all_projects.phenotype",
       "feature": "project_code"
-    }
+    },
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "donor/donor.all_projects.phenotype",
+      "feature": "_primary_disease"
+    },
   ],
   "ICGC (specimen centric)": [
     {
       "host": "https://icgc.xenahubs.net",
-      "dataset": "donor.all_projects.phenotype_transfer_specimen",
-      "feature": "_primary_disease"
+      "dataset": "sp/donor.all_projects.phenotype_transfer_specimen",
+      "feature": "_primary_site"
     },
     {
       "host": "https://icgc.xenahubs.net",
-      "dataset": "specimen.all_projects.xena",
-      "feature": "specimen_type"
-    },
-    {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "donor.all_projects.phenotype_transfer_specimen",
+      "dataset": "sp/donor.all_projects.phenotype_transfer_specimen",
       "feature": "project_code"
+    },
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "ssp/specimen.all_projects.tsv",
+      "feature": "specimen_type"
+    }
+    {
+      "host": "https://icgc.xenahubs.net",
+      "dataset": "sp/donor.all_projects.phenotype_transfer_specimen",
+      "feature": "_primary_disease"
     }
   ],
   "GDC TCGA Acute Myeloid Leukemia (LAML)": [
