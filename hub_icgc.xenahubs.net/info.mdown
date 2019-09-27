@@ -3,7 +3,7 @@
 [International Cancer Genome Consortium (ICGC)](http://icgc.org/) goal is to obtain a comprehensive description of genomic, transcriptomic and epigenomic changes in 50 different tumor types and/or subtypes which are of clinical and societal importance across the globe.
 
 
-### ICGC Xena Hub hosts the following data
+### ICGC Xena Hub hosts the following ICGC data
 Supported data types
 * Somatic simple mutations
 * Copy number variation
@@ -15,6 +15,8 @@ Supported data types
 ICGC data from all projects are combined and organized into three cohorts on ICGC Xena Hub
 * A donor-centric cohort
 * A specimen-centric cohort
+
+UCSC Xena ingests release version 28 data from the [ICGC Data portal](https://dcc.icgc.org/). The Xena hub was last updated on September 24, 2019
 
 ### ICGC Data Release, [version 28](https://dcc.icgc.org/releases/release_28/)
 
@@ -28,7 +30,6 @@ This release includes:
 81,782,588 Simple Somatic Mutations
 57,905 Mutated genes
 
-UCSC Xena ingests release version 28 data from the [ICGC Data portal](https://dcc.icgc.org/). The Xena hub was last updated on September 24, 2019
 
 #### View live example: [<span style="color:#4ecdc4"><u>Intron mutation hotspots in ICGC lymphomas</u></span>](/?bookmark=b62b660e6029947f51ce5745945cce90)
 
