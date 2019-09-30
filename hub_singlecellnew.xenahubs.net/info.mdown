@@ -1,4 +1,6 @@
-This Xena data hub contains single-cell RNA sequencing data from the [Human Cell Atlas (HCA)](https://data.humancellatlas.org/) and other publications. This single cell browser is an online exploration tool for single cell RNA-seq data and associated meta-data and annotations. It is built for performance, allowing you to dynamically view 1 million cells at a time. This site currently supports the Visual Spreadsheet view and genomic signatures. We are actively working to support the remaining Xena Browser functionalities. 
+This Xena data hub contains single-cell RNA sequencing data from the [Human Cell Atlas (HCA)](https://data.humancellatlas.org/) and other publications. This single cell browser is an online exploration tool for single cell RNA-seq data and associated meta-data and annotations. It is built for performance, allowing you to dynamically view 1 million cells at a time. 
+
+Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell. Users interactively build their spreadsheet, enabling discovery across multiple genes and cell annotations.
 
 # Live Example
 <a href="/?columns=%5B%7B%22name%22%3A%22HCA%2FCensus_of_Immune_Cells%2Fcluster_filledin.tsv%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22width%22%3A100%2C%22fields%22%3A%22louvain_cluster%22%7D%2C%7B%22name%22%3A%22HCA%2FCensus_of_Immune_Cells%2Fbarcode_phenotype.matrix%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22width%22%3A100%2C%22fields%22%3A%22organ_part%22%7D%2C%7B%22name%22%3A%22HCA%2FCensus_of_Immune_Cells%2Ffiltered_gene_bc_matrices_gene.tsv%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22width%22%3A250%2C%22fields%22%3A%22HLA-DRA%20IGHM%20HLA-DPB1%20CD37%20HLA-DRB1%20CD79A%20HLA-DPA1%20MS4A1%20HLA-DQB1%20IGHD%20CD79B%20IGKC%22%2C%22columnLabel%22%3A%22cluster%202%20markers%20-%20gene%20expression%22%7D%2C%7B%22name%22%3A%22HCA%2FCensus_of_Immune_Cells%2Ffiltered_gene_bc_matrices_gene.tsv%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22width%22%3A250%2C%22fields%22%3A%22S100A9%20LYZ%20TYROBP%20S100A4%20S100A6%20CST3%20FCN1%20LGALS1%20CTSS%20LST1%20S100A8%20SRGN%22%2C%22columnLabel%22%3A%22cluster%205%20markers%20-%20gene%20expression%22%7D%5D&heatmap=%7B%22showWelcome%22%3Afalse%7D"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_HCA Census of Immune Cells/HCA Census of Immune Cells_public_private.png" width="700"></a>
@@ -7,6 +9,10 @@ This Xena data hub contains single-cell RNA sequencing data from the [Human Cell
 
 The view displays expression profiles of 24 genes with two cell annotations from the HCA Census of Immune Cells study. The 26-parameter data from all 794,365 cells is held in compressed form in the Browser, with no down-sampling applied in generating the view. Each row across the entire display represents a single cell. Xena’s public-private data join feature enables users to combine large public resource data, such as the gene expression data from HCA, with their own analysis results, such as the Louvain clusters. 
 
-## [Steps to Reproduce](/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+## [Beginner Tutorial: Reproducing the live example](/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+
+## Future of this tool
+
+This site currently supports the Visual Spreadsheet view and genomic signatures. We are actively working to support more Xena Browser functionalities. 
 
 <br>
