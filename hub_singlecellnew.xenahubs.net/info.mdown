@@ -11,6 +11,8 @@ The view displays expression profiles of 24 genes with two cell annotations from
 
 ## [Beginner Tutorial: Reproducing the live example](/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
 
+<br>
+
 ## Future of this tool
 
 This site currently supports the Visual Spreadsheet view and genomic signatures. We are actively working to support more Xena Browser functionalities. 
