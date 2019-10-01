@@ -1,0 +1,13 @@
+# Single-cell RNA-seq analysis throughout a 125-day differentiation protocol that converted H1 human embryonic stem cells to a variety of ventrally-derived cell types.
+
+**[Project Description in HCA](https://data.humancellatlas.org/explore/projects/2043c65a-1cf8-4828-a656-9e247d4e64f1)**
+
+### About Xena
+Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
+
+### To visualize
+Click the 'Visualize' button below and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+
+## [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+
+<br>
