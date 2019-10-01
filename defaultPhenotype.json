@@ -1636,42 +1636,91 @@
       "feature": "tc"
     }
   ],
-  "10x Megacell": [
+  "HCA Adult Retina (Wong)": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "10xgenomics/graphclust_new.tsv",
-      "feature": "Graph_cluster"
-    }
+      "dataset": "HCA/WongAdultRetina/cells.tsv",
+      "feature": "derived_organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/WongAdultRetina/cells.tsv",
+      "feature": "genes_detected"
+    }    
   ],
   "HCA Census of Immune Cells": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Census_of_Immune_Cells/cluster_filledin.tsv",
+      "dataset": "HCA/Census_of_Immune_Cells/cells.tsv",
       "feature": "louvain_cluster"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Census_of_Immune_Cells/barcode_phenotype.matrix",
-      "feature": "organ_part"
+      "dataset": "HCA/Census_of_Immune_Cells/cells.tsv",
+      "feature": "derived_organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Census_of_Immune_Cells/cells.tsv",
+      "feature": "genes_detected"
+    }
+  ],
+  "HCA Fetal Maternal Interface": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/phenotype.matrix",
+      "feature": "selected_cell_type"
     }
   ],
   "HCA HPSI Human Cerebral Organoids": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HPSI_human_cerebral_organoids/cluster_filledin.tsv",
-      "feature": "louvain_cluster"
+      "dataset": "HCA/HPSI_human_cerebral_organoids/cells.tsv",
+      "feature": "organ_parts_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HPSI_human_cerebral_organoids/cluster_filledin.tsv",
-      "feature": "cell_type"
+      "dataset": "HCA/HPSI_human_cerebral_organoids/cells.tsv",
+      "feature": "derived_organ_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HPSI_human_cerebral_organoids/cells.tsv",
+      "feature": "genes_detected"
+    }
+  ],
+  "HCA Human Colonic Mesenchyme IBD": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
+      "feature": "donor_organism.diseases.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
+      "feature": "organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
+      "feature": "derived_organ_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
+      "feature": "genes_detected"
     }
   ],
   "HCA Human Hematopoietic Profiling": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Human_Hematopoietic_Profiling/cluster_filledin.tsv",
-      "feature": "louvain_cluster"
+      "dataset": "HCA/Human_Hematopoietic_Profiling/cells.tsv",
+      "feature": "derived_organ_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Human_Hematopoietic_Profiling/cells.tsv",
+      "feature": "genes_detected"
     }
   ],
   "HCA Human Pancreas": [
@@ -1681,16 +1730,62 @@
       "feature": "cell_type"
     }
   ],
-  "HCA Tissue Stability": [
+  "HCA Human Tissue T cell Activation": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Tissue_stability/cluster_filledin.tsv",
-      "feature": "louvain_cluster"
+      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
+      "feature": "derived_organ_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Tissue_stability/barcode_phenotype.matrix",
-      "feature": "specimen_description"
+      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
+      "feature": "derived_organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
+      "feature": "genes_detected"
+    }
+  ],
+  "HCA Kidney Single Cell Atlas": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
+      "feature": "donor_organism.diseases.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
+      "feature": "derived_organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
+      "feature": "genes_detected"
+    }
+  ],
+  "HCA Single Cell Liver Landscape": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/SingleCellLiverLandscape/cells.tsv",
+      "feature": "derived_organ_parts_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/SingleCellLiverLandscape/cells.tsv",
+      "feature": "genes_detected"
+    }
+  ],
+  "HCA Tissue Stability": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Tissue_stability/cells.tsv",
+      "feature": "derived_organ_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Tissue_stability/cells.tsv",
+      "feature": "genes_detected"
     }
   ],
   "UCSC Cell Browser Autism": [
@@ -1742,13 +1837,6 @@
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "cell_browser/ms/meta.tsv",
       "feature": "region"
-    }
-  ],
-  "HCA Fetal Maternal Interface": [
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Fetal_Maternal_Interface/phenotype.matrix",
-      "feature": "selected_cell_type"
     }
   ],
   "HCA Human Interneuron Development": [
