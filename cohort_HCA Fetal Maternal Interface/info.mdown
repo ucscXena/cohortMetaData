@@ -1,7 +1,5 @@
 # Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics
 
-<br>
-
 ## [HCA Description](https://data.humancellatlas.org/explore/projects/f83165c5-e2ea-4d15-a5cf-33f3550bffde)
 
 <br>
@@ -13,3 +11,5 @@ Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual 
 Click the 'Visualize' button below and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
 ## [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+
+<br>
