@@ -1,6 +1,6 @@
-# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics
+# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics  
 
-## [HCA Description](https://data.humancellatlas.org/explore/projects/f83165c5-e2ea-4d15-a5cf-33f3550bffde)
+## [Description in HCA](https://data.humancellatlas.org/explore/projects/f83165c5-e2ea-4d15-a5cf-33f3550bffde)
 
 <br>
 
