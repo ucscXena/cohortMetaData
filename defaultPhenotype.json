@@ -1651,7 +1651,7 @@
   "HCA Census of Immune Cells": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Census_of_Immune_Cells/cells.tsv",
+      "dataset": "HCA/Census_of_Immune_Cells/cluster.tsv",
       "feature": "louvain_cluster"
     },
     {
