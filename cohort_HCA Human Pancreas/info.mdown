@@ -1,8 +1,10 @@
-## [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns](https://www.ncbi.nlm.nih.gov/pubmed/28965763)<br>
+# Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns
+
+**[Project Description in HCA](https://data.humancellatlas.org/explore/projects/cddab57b-6868-4be4-806f-395ed9dd635a)**
+
+(https://www.ncbi.nlm.nih.gov/pubmed/28965763)<br>
 Enge M, Arda HE, Mignardi M, Beausang J, Bottino R, Kim SK, Quake SR.<br>
 Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 Sep 28.<br>
-
-[https://data.humancellatlas.org/explore/projects/cddab57b-6868-4be4-806f-395ed9dd635a](https://data.humancellatlas.org/explore/projects/cddab57b-6868-4be4-806f-395ed9dd635a)
 
 - Dissociation 
   - FACS (fluorescence-activated cell sorting)
@@ -13,4 +15,12 @@ Cell. 2017 Oct 5;171(2):321-330.e14. doi: 10.1016/j.cell.2017.09.004. Epub 2017 
 - Sequencing
   - Illumina NextSeq 500, paired_end
 
+### About Xena
+Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
 
+### To visualize
+Click the 'Visualize' button below and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+
+## [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+
+<br>
