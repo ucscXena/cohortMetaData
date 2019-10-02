@@ -4,10 +4,13 @@ Enge M, et al. [Single-Cell Analysis of Human Pancreas Reveals Transcriptional S
 
 **[Project Description in HCA](https://data.humancellatlas.org/explore/projects/cddab57b-6868-4be4-806f-395ed9dd635a)**
 
-- Dissociation: FACS (fluorescence-activated cell sorting)
-- Enrichment: Markers: HPx1+ HPi2+ CD133/1+ CD133/2+
-- Library Construction: Smart-seq2, full length, poly-dT primer, unstranded
-- Sequencing: Illumina NextSeq 500, paired_end
+Dissociation: FACS (fluorescence-activated cell sorting)
+
+Enrichment: Markers: HPx1+ HPi2+ CD133/1+ CD133/2+
+
+Library Construction: Smart-seq2, full length, poly-dT primer, unstranded
+
+Sequencing: Illumina NextSeq 500, paired_end
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
