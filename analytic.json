@@ -465,14 +465,14 @@
     {
       "name": "HCA/Census_of_Immune_Cells/expression.tsv",
       "host": "https://singlecellnew.xenahubs.net",
-      "fields": "CD74, CD37, CD79A, MS4A1, CD79B, HLA-DRB1, TCL1A, HLA-DQA1, HLA-DQB1, CD52, FAM129C, BANK1",
-      "label": "cluster 5 & 7 markers - gene expression"
+      "fields": "LYZ, S100A9, S100A8, S100A6, S100A4, LGALS1, SRGN, TYROBP, CST3, CYBA, FCN1, FOS",
+      "label": "cluster 3 markers - gene expression"
     },
     {
       "name": "HCA/Census_of_Immune_Cells/expression.tsv",
       "host": "https://singlecellnew.xenahubs.net",
-      "fields": "LYZ, S100A9, S100A8, S100A6, S100A4, LGALS1, SRGN, TYROBP, CST3, CYBA, FCN1, FOS",
-      "label": "cluster 3 markers - gene expression"
+      "fields": "CD74, CD37, CD79A, MS4A1, CD79B, HLA-DRB1, TCL1A, HLA-DQA1, HLA-DQB1, CD52, FAM129C, BANK1",
+      "label": "cluster 5 & 7 markers - gene expression"
     }
   ],
   "Human brain (Darmanis 2015)": [
