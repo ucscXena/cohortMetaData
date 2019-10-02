@@ -1,5 +1,7 @@
 # Profiling of CD34+ cells from human bone marrow to understand hematopoiesis
 
+Setty M, et al. [Palantir characterizes cell fate continuities in human hematopoiesis](https://www.biorxiv.org/content/10.1101/385328v1) BioRxiv 2018
+
 **[Project Description in HCA](https://data.humancellatlas.org/explore/projects/091cf39b-01bc-42e5-9437-f419a66c8a45)**
 
 ### About Xena
