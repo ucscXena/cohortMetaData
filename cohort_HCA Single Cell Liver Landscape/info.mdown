@@ -1,5 +1,7 @@
 # Dissecting the human liver cellular landscape by single cell RNA-seq reveals novel intrahepatic monocyte/ macrophage populations
 
+MacParland SA, et al. [Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197289/) Nat Commun. 2018
+
 **[Project Description in HCA](https://data.humancellatlas.org/explore/projects/4d6f6c96-2a83-43d8-8fe1-0f53bffd4674)**
 
 ### About Xena
