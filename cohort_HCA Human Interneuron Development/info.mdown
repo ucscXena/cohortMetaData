@@ -1,5 +1,7 @@
 # Single-cell RNA-seq analysis throughout a 125-day differentiation protocol that converted H1 human embryonic stem cells to a variety of ventrally-derived cell types.
 
+Close JL, et al. [Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation.](https://europepmc.org/abstract/MED/28279351) Neuron 2017
+
 **[Project Description in HCA](https://data.humancellatlas.org/explore/projects/2043c65a-1cf8-4828-a656-9e247d4e64f1)**
 
 ### About Xena
