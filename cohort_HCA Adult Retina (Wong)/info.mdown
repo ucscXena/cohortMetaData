@@ -2,7 +2,7 @@
 
 Lukowski SW, et. al. [A single-cell transcriptome atlas of the adult human retina.](https://www.ncbi.nlm.nih.gov/pubmed/31436334) EMBO J. 2019
 
-## [Project Description in HCA](https://data.humancellatlas.org/explore/projects/8185730f-4113-40d3-9cc3-929271784c2b)
+__[Project Description in HCA](https://data.humancellatlas.org/explore/projects/8185730f-4113-40d3-9cc3-929271784c2b)__
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
