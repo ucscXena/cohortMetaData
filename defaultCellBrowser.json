@@ -1,9 +1,13 @@
 {
 "HCA Human Pancreas": "http://cells.ucsc.edu/?ds=xena%2Fhca-pancreas",
+"HCA HPSI human cerebral organoids":"http://cells.ucsc.edu/?ds=xena%2Fhca-cerebral-organoids",
+"HCA Fetal Maternal Interface":"http://cells.ucsc.edu/?ds=xena%2Fhca-fetal-maternal",
+"HCA Human Interneuron Development":"http://cells.ucsc.edu/?ds=xena%2Fhca-interneuron-development",
+"HCA Human Hematopoietic Profiling":"http://cells.ucsc.edu/?ds=xena%2Fhca-hematopoietic-profiling",
+"HCA Tissue stability":"http://cells.ucsc.edu/?ds=xena%2Fhca-tissue-stability",
 "UCSC Cell Browser Cortex Development": "http://cortex-dev.cells.ucsc.edu",
 "UCSC Cell Browser Autism": "http://autism.cells.ucsc.edu",
 "UCSC Cell Browser Multiple Sclerosis": "http://ms.cells.ucsc.edu",
-"10x Megacell" : "https://cells.ucsc.edu/?ds=10xMegacell",
 "Tabula Muris SmartSeq2": "http://tabulamuris.cells.ucsc.edu",
 "Head and Neck Cancer (Puram 2017)": "http://head-neck.cells.ucsc.edu"
 }
