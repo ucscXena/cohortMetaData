@@ -1776,7 +1776,7 @@
       "feature": "genes_detected"
     }
   ],
-  "HCA Tissue Stability": [
+  "HCA Tissue stability": [
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HCA/Tissue_stability/cells.tsv",
