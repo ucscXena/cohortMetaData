@@ -1,3 +1,3 @@
-<button name="cohortButton" class="cohortButton">VISUALIZE</button>
+<button name="cohortButton" class="cohortButton">Visualize</button>
 
 TARGET data is intended exclusively for biomedical research using pediatric data (i.e., the research objectives cannot be accomplished using data from adults) that focus on the development of more effective treatments, diagnostic tests, or prognostic markers for childhood cancers. Moreover, TARGET data can be used for research relevant to the biology, causes, treatment and late complications of treatment of pediatric cancers, but is not intended for the sole purposes of methods and/or tool development (please see [Using TARGET Data](https://ocg.cancer.gov/programs/target/using-target-data) section of the OCG website). If you are interested in using TARGET data for publication or other research purposes, you must follow the [TARGET Publication Guidelines](https://ocg.cancer.gov/programs/target/target-publication-guidelines).
