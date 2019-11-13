@@ -4,8 +4,6 @@
 * IC50: the concentration at which the drug response reached an absolute inhibition of 50%
 * ActArea (activity area): the area over the dose–response curve, see [figure 2b](https://www.nature.com/articles/nature11003/figures/2) 
 
-<button name="button" onclick="this.onViz">Visualize</button>
-
 ### **List of the 24 drugs profiled across 504 CCLE lines:**
 * Erlotinib,Tarceva,EGFR,EGFR Inhibitor,Kinase inhibitor,Launched-2004,Genentech
 * Lapatinib,Tykerb,"EGFR, HER2",EGFR and HER2 Inhibitor,Kinase inhibitor,Launched-2007,GlaxoSmithKline
