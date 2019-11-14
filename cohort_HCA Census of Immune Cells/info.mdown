@@ -1,5 +1,7 @@
 ## HCA Census of Immune Cells
 
+<button class="cohortButton">Launch Xena</button>
+
 [Project Description in HCA](https://data.humancellatlas.org/explore/projects/cc95ff89-2e68-4a08-a234-480eca21ce79)
 
 ### About Xena
@@ -12,5 +14,5 @@ Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual 
 <br>
 
 ### To visualize
-Click the 'Visualize' button below and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+Click the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
