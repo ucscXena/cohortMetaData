@@ -2,7 +2,7 @@
 
 [International Cancer Genome Consortium (ICGC)](http://icgc.org/) goal is to obtain a comprehensive description of genomic, transcriptomic and epigenomic changes in 50 different tumor types and/or subtypes which are of clinical and societal importance across the globe.
 
-<button class="hubButton" cohort="ICGC (donor centric)">Launch Xena</button>
+<button class="hubButton" data-cohort="ICGC (donor centric)">Launch Xena</button>
 
 ### ICGC Xena Hub hosts the following ICGC data
 Supported data types
