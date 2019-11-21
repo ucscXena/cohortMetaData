@@ -349,6 +349,12 @@
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
+      "fields": "= KRT14 + KRT17 + KRT6A + KRT5 + KRT19 + KRT8 + KRT16 + KRT6B + KRT15 + KRT6C + SFN + EPCAM",
+      "label": "epithelial signature"
+    },
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://singlecellnew.xenahubs.net",
       "fields": "ACTA2, MYLK, MYL9",
       "label": "myofibroblasts markers - gene expression"
     },
@@ -398,7 +404,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "SERPINE1, TGFBI, MMP10, LAMC2, P4HA2, PDPN, ITGA5, LAMA3, CDH13, TNC, MMP2, EMP3, INHBA, LAMB3, VIM, SEMA3C, PRKCDBP, ANXA5, DHRS7, ITGB1",
-      "label": "tumor: p-EMT signature profile"
+      "label": "tumor: p-EMT module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
@@ -410,7 +416,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "TK1, HMGB2, ZWINT, MAD2L1, TUBA1B, STMN1, KIF22, CKS1B, H2AFZ, CENPW, CDC20, DTYMK, UBE2C, UBE2T, NUSAP1, RRM2, BIRC5, RNASEH2A, PCNA, TUBB",
-      "label": "tumor: Cell Cycle signature profile"
+      "label": "tumor: Cell Cycle module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
@@ -422,7 +428,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "IL1RN, SLPI, CLDN4, S100A9, SPRR1B, PVRL4, RHCG, SDCBP2, S100A8, APOBEC3A, GRHL1, SULT2B1, ELF3, KRT16, PRSS8, MXD1, S100A7, KRT6B, LYPD3, TACSTD2",
-      "label": "tumor: Epithelial dif. 1 signature profile"
+      "label": "tumor: Epithelial dif. 1 module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
@@ -434,7 +440,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "LY6D, KRT16, KRT6B, LYPD3, KRT6C, TYMP, FABP5, SCO2, FGFBP1, JUP, IMP4, DSC2, TMBIM1, KRT14, C1QBP, SFN, S100A14, RAB38, GJB5, MRPL14",
-      "label": "tumor: Epithelial dif. 2 signature profile"
+      "label": "tumor: Epithelial dif. 2 module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
@@ -446,7 +452,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "NDRG1, IGFBP3, PTHLH, EGLN3, BNIP3, NDUFA4L2, ERO1L, P4HA1, SLC2A1, ENO2, HK2, PGF, LDHA, PGK1, PDK1, DHRS3, DDIT4, PVRL4, GPNMB, BIK",
-      "label": "tumor: Hypoxia signature profile"
+      "label": "tumor: Hypoxia module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
@@ -458,7 +464,7 @@
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FOS, ATF3, NR4A1, DUSP1, ZFP36, PPP1R15A, SGK1, EGR1, ZC3H12A, JUNB, FOSB, IER2, NFKBIA, NFKBIZ, HBEGF, BTG2, SOD2, CDKN1A, NCOA7, JUN",
-      "label": "tumor: Stress signature profile"
+      "label": "tumor: Stress module profile"
     }
   ],
   "HCA Census of Immune Cells": [
