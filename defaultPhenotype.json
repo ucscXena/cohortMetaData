@@ -1895,6 +1895,27 @@
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HNSCC/cell_category.txt",
       "feature": "cell_category"
+    },
+    
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_cell_metadata.txt",
+      "feature": "tumor vs. non-malignant cell"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_cell_metadata.txt",
+      "feature": "cell type"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "HNSCC/GSE103322_sample_metadata.txt",
+      "feature": "patient"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "HNSCC/cell_category.txt",
+      "feature": "cell_category"
     }
   ],
   "GDC TARGET-ALL-P3": [
