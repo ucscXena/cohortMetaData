@@ -466,6 +466,44 @@
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FOS, ATF3, NR4A1, DUSP1, ZFP36, PPP1R15A, SGK1, EGR1, ZC3H12A, JUNB, FOSB, IER2, NFKBIA, NFKBIZ, HBEGF, BTG2, SOD2, CDKN1A, NCOA7, JUN",
       "label": "tumor: Stress module profile"
+    },
+    
+    {
+      "name": "HNSCC/cnv.txt",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "chr1_60, chr1_130, chr1_200, chr1_270, chr1_340, chr1_410, chr1_480, chr1_550, chr1_620, chr1_690, chr1_760, chr1_830, chr1_900, chr1_970, chr1_1040, chr1_1110, chr1_1180, chr1_1250, chr1_1320, chr1_1390, chr1_1460, chr1_1530, chr1_1600, chr1_1670, chr1_1740, chr1_1810, chr1_1880, chr1_1950, chr2_10, chr2_80, chr2_150, chr2_220, chr2_290, chr2_360, chr2_430, chr2_500, chr2_570, chr2_640, chr2_710, chr2_780, chr2_850, chr2_920, chr2_990, chr2_1060, chr2_1130, chr2_1200, chr3_60, chr3_130, chr3_200, chr3_270, chr3_340, chr3_410, chr3_480, chr3_550, chr3_620, chr3_690, chr3_760, chr3_830, chr3_900, chr3_970, chr3_1040, chr4_50, chr4_120, chr4_190, chr4_260, chr4_330, chr4_400, chr4_470, chr4_540, chr4_610, chr5_0, chr5_70, chr11_520, chr11_590, chr11_660, chr11_730, chr11_800, chr11_870, chr11_940, chr11_1010, chr11_1080, chr11_1150, chr11_1220, chr12_60, chr12_130, chr12_200, chr12_270, chr12_340, chr12_410, chr12_480, chr12_550, chr12_620, chr12_690, chr12_760, chr12_830, chr12_900, chr13_10, chr13_80, chr13_150, chr13_220, chr13_290, chr14_40, chr14_110, chr14_180, chr14_250, chr14_320, chr14_390, chr14_460, chr14_530, chr14_600, chr15_40, chr15_110, chr15_180, chr15_250, chr15_320, chr15_390, chr15_460, chr15_530, chr16_20, chr16_90, chr16_160, chr16_230, chr16_300, chr16_370, chr16_440, chr16_510, chr16_580, chr16_650, chr16_720, chr17_50, chr17_120, chr17_190, chr17_260, chr17_330, chr17_470, chr17_540, chr17_610, chr17_680, chr17_750, chr17_820, chr17_890, chr17_960, chr17_1030, chr17_1100, chr18_40, chr18_110, chr18_180, chr19_50, chr19_120, chr19_190, chr19_260, chr19_330, chr19_400, chr19_470, chr19_540, chr19_610, chr19_680, chr19_750, chr19_820, chr19_890, chr19_960, chr19_1030, chr19_1100, chr19_1170, chr19_1240, chr19_1310, chr20_0, chr20_70, chr20_140, chr20_210, chr20_280, chr20_350, chr20_420, chr21_0, chr21_70, chr21_140, chr22_40, chr22_110, chr22_180, chr22_250, chr22_320, chrX_10, chrX_80, chrX_150, chrX_220, chrX_290, chrX_360, chrX_430, chrX_500, chrX_570, chrX_640, chrX_710, chrX_780",
+      "label": "whole genome large-scale CNV profile"
+    },
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "KRT14 KRT17 KRT6A KRT5 KRT19 KRT8 KRT16 KRT6B KRT15 KRT6C SFN EPCAM",
+      "label": "epithelial markers - gene expression"
+    },
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "= KRT14 + KRT17 + KRT6A + KRT5 + KRT19 + KRT8 + KRT16 + KRT6B + KRT15 + KRT6C + SFN + EPCAM",
+      "normalize": "mean",
+      "label": "epithelial signature"
+    },
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "ACTA2, MYLK, MYL9",
+      "label": "myofibroblasts markers - gene expression"
+    },
+    {
+      "name": "HNSCC/GSE103322_HNSCC_exp.txt",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "FAP, PDPN, CTGF",
+      "label": "extracellular matrix markers - gene expression"
+    },
+    {
+      "name": "HNSCC/tcgaClassification",
+      "host": "https://ucscpublic.xenahubs.net",
+      "fields": "TCGA expression subtype",
+      "label": "TCGA expression subtype: assigned to individual cells"
     }
   ],
   "HCA Census of Immune Cells": [
