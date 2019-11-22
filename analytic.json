@@ -338,146 +338,170 @@
       "name": "HNSCC/cnv.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "chr1_60, chr1_130, chr1_200, chr1_270, chr1_340, chr1_410, chr1_480, chr1_550, chr1_620, chr1_690, chr1_760, chr1_830, chr1_900, chr1_970, chr1_1040, chr1_1110, chr1_1180, chr1_1250, chr1_1320, chr1_1390, chr1_1460, chr1_1530, chr1_1600, chr1_1670, chr1_1740, chr1_1810, chr1_1880, chr1_1950, chr2_10, chr2_80, chr2_150, chr2_220, chr2_290, chr2_360, chr2_430, chr2_500, chr2_570, chr2_640, chr2_710, chr2_780, chr2_850, chr2_920, chr2_990, chr2_1060, chr2_1130, chr2_1200, chr3_60, chr3_130, chr3_200, chr3_270, chr3_340, chr3_410, chr3_480, chr3_550, chr3_620, chr3_690, chr3_760, chr3_830, chr3_900, chr3_970, chr3_1040, chr4_50, chr4_120, chr4_190, chr4_260, chr4_330, chr4_400, chr4_470, chr4_540, chr4_610, chr5_0, chr5_70, chr11_520, chr11_590, chr11_660, chr11_730, chr11_800, chr11_870, chr11_940, chr11_1010, chr11_1080, chr11_1150, chr11_1220, chr12_60, chr12_130, chr12_200, chr12_270, chr12_340, chr12_410, chr12_480, chr12_550, chr12_620, chr12_690, chr12_760, chr12_830, chr12_900, chr13_10, chr13_80, chr13_150, chr13_220, chr13_290, chr14_40, chr14_110, chr14_180, chr14_250, chr14_320, chr14_390, chr14_460, chr14_530, chr14_600, chr15_40, chr15_110, chr15_180, chr15_250, chr15_320, chr15_390, chr15_460, chr15_530, chr16_20, chr16_90, chr16_160, chr16_230, chr16_300, chr16_370, chr16_440, chr16_510, chr16_580, chr16_650, chr16_720, chr17_50, chr17_120, chr17_190, chr17_260, chr17_330, chr17_470, chr17_540, chr17_610, chr17_680, chr17_750, chr17_820, chr17_890, chr17_960, chr17_1030, chr17_1100, chr18_40, chr18_110, chr18_180, chr19_50, chr19_120, chr19_190, chr19_260, chr19_330, chr19_400, chr19_470, chr19_540, chr19_610, chr19_680, chr19_750, chr19_820, chr19_890, chr19_960, chr19_1030, chr19_1100, chr19_1170, chr19_1240, chr19_1310, chr20_0, chr20_70, chr20_140, chr20_210, chr20_280, chr20_350, chr20_420, chr21_0, chr21_70, chr21_140, chr22_40, chr22_110, chr22_180, chr22_250, chr22_320, chrX_10, chrX_80, chrX_150, chrX_220, chrX_290, chrX_360, chrX_430, chrX_500, chrX_570, chrX_640, chrX_710, chrX_780",
-      "label": "whole genome large-scale CNV profile"
+      "label": "whole genome large-scale CNV profile",
+      "fieldLabel": "whole genome large-scale CNV profile"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "KRT14 KRT17 KRT6A KRT5 KRT19 KRT8 KRT16 KRT6B KRT15 KRT6C SFN EPCAM",
-      "label": "epithelial markers - gene expression"
+      "label": "epithelial markers - gene expression",
+      "fieldLabel": "epithelial markers - gene expression"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "= KRT14 + KRT17 + KRT6A + KRT5 + KRT19 + KRT8 + KRT16 + KRT6B + KRT15 + KRT6C + SFN + EPCAM",
       "normalize": "mean",
-      "label": "epithelial signature"
+      "label": "epithelial signature",
+      "fieldLabel": "epithelial signature"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "ACTA2, MYLK, MYL9",
-      "label": "myofibroblasts markers - gene expression"
+      "label": "myofibroblasts markers - gene expression",
+      "fieldLabel": "myofibroblasts markers - gene expression"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FAP, PDPN, CTGF",
-      "label": "extracellular matrix markers - gene expression"
+      "label": "extracellular matrix markers - gene expression",
+      "fieldLabel": "extracellular matrix markers - gene expression"
     },
     {
       "name": "HNSCC/tcgaClassification",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "TCGA expression subtype",
-      "label": "TCGA expression subtype: assigned to individual cells"
+      "label": "TCGA expression subtype: assigned to individual cells",
+      "fieldLabel": "TCGA expression subtype: assigned to individual cells"
     },
     {
       "name": "HNSCC/z.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "= ADAMTS2+ ADAMTS12+ STARD13+ VCAN+ ST3GAL2+ NID2+ BICC1+ COL3A1+ ZEB2+ TNS3+ FAM198B+ ITGA1+ OLFML2B+ COL1A2+ COL1A1+ POSTN+ COL5A1+ PDGFRB+ NRP1+ COL5A2+ PLXNC1+ ADAM12+ SH2B3+ COL6A3+ SPARC+ MXRA5+ FN1+ FSTL1+ SULF1+ COL8A1+ GPR124+ DAB2+ VIM+ COL4A1+ FAP+ LHFP+ ZEB1+ COL6A1+ LAMA4+ F2R+ TMEM26+ DACT1+ CDH11+ FBN1+ MMP16+ CALD1+ DDR2+ STARD8+ BGN+ LRRC32+ SFRP2+ AMPH+ FMNL3+ OLFML1+ COL12A1+ GLT8D2+ KIAA1462+ PCOLCE+ GUCY1A2+ PCDHGA12+ AEBP1+ OLFML3+ C1QTNF6+ EMILIN1+ ARSB+ COL6A2+ SYT11+ TIMP2+ LPAR4+ PCDH17+ RASGRF2+ CHSY3+ GPR116+ COLEC12+ THY1+ GGT5+ ZNF469+ PMP22+ KCNE4+ FAM26E+ AKAP2+ PCDH12+ FLI1+ EDNRA+ ADAMTS5+ TMEM106A+ KCNJ8+ LOXL2+ TGFB3+ MMP2+ PDE3A+ COL10A1+ TLR4+ CTHRC1+ CTSK+ RASA3+ BNC2+ C9orf110+ GLIS3+ S1PR3",
-      "label": "TCGA expression subtype: Mesenchymal signature score"
+      "label": "TCGA expression subtype: Mesenchymal signature score",
+      "fieldLabel": "TCGA expression subtype: Mesenchymal signature score"
     },
     {
       "name": "HNSCC/z.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "= KIAA1609+ CDH3+ KRT14+ MICALCL+ BNC1+ DSG1+ FBLIM1+ PCDHGC5+ KRT6B+ ODZ2+ MSN+ CLCA2+ KRT16+ GJB2+ DSP+ KRT17+ CASP14+ TFAP2A+ SLC6A11+ KRT6A+ GJB6+ NIPAL4+ SLC16A1+ AHNAK2+ KRT6C+ RGS20+ CDSN+ PPARD+ MYO1B+ HTR7+ PPP2R2C+ TRPV3+ PYGL+ KRT5+ FAM83A+ GALNT6+ LIMA1+ CNGB1+ PRNP+ PLA2G4E+ SFN+ PI4K2A+ KRT1+ PLEK2+ MYO5A+ ITGA3+ CYP26B1+ RPS6KA4+ FSCN1+ F2RL1+ VDR+ FLRT3+ RHOD+ STON2+ C16orf57+ HEPHL1+ SH2D5+ TUBA4A+ FAM83G+ THSD1+ CAV1+ BAK1+ JUP+ COL17A1+ SLC38A2+ LUZP1+ POU3F1+ FAM83B+ ATP10D+ SOX15+ DAAM1+ MAPK6+ CAP1+ TMEM154+ FAM89A+ FAM83H+ KRTDAP+ EHD2+ CYB5R1+ PANX1+ SLC2A1+ GSDMA+ SLC7A5+ N4BP1+ TSPAN10+ GJB3+ CPA4+ MOBKL2B+ ATL3+ KIF13A+ IL22RA1+ LAD1+ CYP27C1+ KLK5+ SDR9C7+ TUBB6+ NDFIP2+ PTGFRN+ GPR153+ PKP3",
-      "label": "TCGA expression subtype: Basal signature score"
+      "label": "TCGA expression subtype: Basal signature score",
+      "fieldLabel": "TCGA expression subtype: Basal signature score"
     },
     {
       "name": "HNSCC/z.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "= LPHN3+ SLC29A2+ CHST7+ EPCAM+ STOX2+ PNCK+ KIAA1804+ LRP12+ BMP7+ SAMD12+ DLX6+ ARTN+ PLEKHG6+ ABCC1+ SOX13+ B4GALNT4+ BRD4+ TRPV4+ PTPRS+ LPP+ SLC12A8+ NF1+ B4GALNT1+ TXNRD1+ C20orf117+ GPX2+ SIX4+ SGEF+ ENO2+ SLCO3A1+ CXorf57+ CABYR+ PYCR2+ PHLDB2+ LASS6+ NHSL1+ KLHL11+ CYP26A1+ POU2F1+ ZFP64+ VPS37D+ ZBTB41+ AKR1C2+ EDIL3+ SLCO1A2+ FADS1+ PANX2+ BCORL1+ PCYT1B+ KLHL23+ FLVCR1+ C3orf58+ UBE2O+ MSI1+ DHX36+ WNT7B+ TMEM158+ TBL1X+ CYP2S1+ ZDHHC2+ GAN+ PSD3+ CYP4F11+ DLX6AS+ RND2+ MSI2+ ZNRF3+ SOX2+ CBS+ POU6F2+ TET3+ MYH14+ OTUD7B+ YEATS2+ KLHDC5+ C9orf125+ FAM60A+ SOX21+ KIAA1958+ DSG2+ OSGIN1+ CASK+ CLCN2+ FLJ46111+ NTRK2+ SLC16A14+ C1orf55+ ABCC5+ JAKMIP3+ GMPS+ EPT1+ GPC1+ AKR1C1+ CDC42BPA+ FAM190A+ MAGED4B+ BICD1+ RNF2+ CACNA1B+ ZC3HAV1L",
-      "label": "TCGA expression subtype: Classical signature score"
+      "label": "TCGA expression subtype: Classical signature score",
+      "fieldLabel": "TCGA expression subtype: Classical signature score"
     },
     {
       "name": "HNSCC/z.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "= TMPRSS2+ ILDR1+ SAMD12+ FOXA1+ CYP4X1+ RPRD2+ FOXP2+ IKZF3+ ABCA13+ SP1+ ELF3+ IKZF2+ DOC2B+ TMTC2+ SOX2+ POU2F1+ ZC3H4+ MED12+ PHLPP1+ FAM3B+ STOX2+ MUC4+ SOX21+ SGEF+ ATP8B1+ ARID2+ PLAC8+ PBX1+ ARID1A+ KDM3B+ KLHL23+ PHF8+ NUP210+ HLF+ GAS2L3+ C3orf58+ FBXO34+ C11orf93+ STAU2+ CLDN7+ ADH7+ RTKN2+ ZNF619+ RASSF5+ TSHZ1+ ALDH6A1+ BARD1+ ALDH5A1+ KLHL11+ RSBN1L+ ZNF687+ KRT19+ EHF+ WNK2+ NCOA1+ MBNL3+ SNX31+ MSL2+ MUC20+ MECOM+ KCTD3+ TJP3+ ELK4+ FAM83E+ PLEKHG6+ PCLO+ RBM47+ MTMR1+ EPC1+ CXADRP2+ NTRK2+ RAPGEF6+ LCOR+ PDIK1L+ MYH14+ POU2AF1+ NCOA2+ PUM2+ HNRNPUL1+ RPS6KA5+ FBXO21+ ANKRD56+ TMPRSS4+ ATE1+ SLC25A40+ EYA2+ BCOR+ TRMT2B+ ASXL2+ SGK196+ MYST3+ ZNF678+ CXCL17+ SENP1+ CXADR+ MAP3K13+ LRRC8B+ C1orf58+ PODXL2+ WIPF2",
-      "label": "TCGA expression subtype: Atypical signature score"
+      "label": "TCGA expression subtype: Atypical signature score",
+      "fieldLabel": "TCGA expression subtype: Atypical signature score"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "p-EMT",
-      "label": "tumor: p-EMT module score"
+      "label": "tumor: p-EMT module score",
+      "fieldLabel": "tumor: p-EMT module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "SERPINE1, TGFBI, MMP10, LAMC2, P4HA2, PDPN, ITGA5, LAMA3, CDH13, TNC, MMP2, EMP3, INHBA, LAMB3, VIM, SEMA3C, PRKCDBP, ANXA5, DHRS7, ITGB1",
-      "label": "tumor: p-EMT module profile"
+      "label": "tumor: p-EMT module profile",
+      "fieldLabel": "tumor: p-EMT module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Cell Cycle",
-      "label": "tumor: Cell Cycle module score"
+      "label": "tumor: Cell Cycle module score",
+      "fieldLabel": "tumor: Cell Cycle module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "TK1, HMGB2, ZWINT, MAD2L1, TUBA1B, STMN1, KIF22, CKS1B, H2AFZ, CENPW, CDC20, DTYMK, UBE2C, UBE2T, NUSAP1, RRM2, BIRC5, RNASEH2A, PCNA, TUBB",
-      "label": "tumor: Cell Cycle module profile"
+      "label": "tumor: Cell Cycle module profile",
+      "fieldLabel": "tumor: Cell Cycle module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Epi dif. 1",
-      "label": "tumor: Epithelial dif. 1 module score"
+      "label": "tumor: Epithelial dif. 1 module score",
+      "fieldLabel": "tumor: Epithelial dif. 1 module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "IL1RN, SLPI, CLDN4, S100A9, SPRR1B, PVRL4, RHCG, SDCBP2, S100A8, APOBEC3A, GRHL1, SULT2B1, ELF3, KRT16, PRSS8, MXD1, S100A7, KRT6B, LYPD3, TACSTD2",
-      "label": "tumor: Epithelial dif. 1 module profile"
+      "label": "tumor: Epithelial dif. 1 module profile",
+      "fieldLabel": "tumor: Epithelial dif. 1 module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Epi dif. 2",
-      "label": "tumor: Epithelial dif. 2 module score"
+      "label": "tumor: Epithelial dif. 2 module score",
+      "fieldLabel": "tumor: Epithelial dif. 2 module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "LY6D, KRT16, KRT6B, LYPD3, KRT6C, TYMP, FABP5, SCO2, FGFBP1, JUP, IMP4, DSC2, TMBIM1, KRT14, C1QBP, SFN, S100A14, RAB38, GJB5, MRPL14",
-      "label": "tumor: Epithelial dif. 2 module profile"
+      "label": "tumor: Epithelial dif. 2 module profile",
+      "fieldLabel": "tumor: Epithelial dif. 2 module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Hypoxia",
-      "label": "tumor: Hypoxia module score"
+      "label": "tumor: Hypoxia module score",
+      "fieldLabel": "tumor: Hypoxia module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "NDRG1, IGFBP3, PTHLH, EGLN3, BNIP3, NDUFA4L2, ERO1L, P4HA1, SLC2A1, ENO2, HK2, PGF, LDHA, PGK1, PDK1, DHRS3, DDIT4, PVRL4, GPNMB, BIK",
-      "label": "tumor: Hypoxia module profile"
+      "label": "tumor: Hypoxia module profile",
+      "fieldLabel": "tumor: Hypoxia module profile"
     },
     {
       "name": "HNSCC/signatureScore.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "Stress",
-      "label": "tumor: Stress module score"
+      "label": "tumor: Stress module score",
+      "fieldLabel": "tumor: Stress module score"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "FOS, ATF3, NR4A1, DUSP1, ZFP36, PPP1R15A, SGK1, EGR1, ZC3H12A, JUNB, FOSB, IER2, NFKBIA, NFKBIZ, HBEGF, BTG2, SOD2, CDKN1A, NCOA7, JUN",
-      "label": "tumor: Stress module profile"
+      "label": "tumor: Stress module profile",
+      "fieldLabel": "tumor: Stress module profile"
     },
     
     {
       "name": "HNSCC/cnv.txt",
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "chr1_60, chr1_130, chr1_200, chr1_270, chr1_340, chr1_410, chr1_480, chr1_550, chr1_620, chr1_690, chr1_760, chr1_830, chr1_900, chr1_970, chr1_1040, chr1_1110, chr1_1180, chr1_1250, chr1_1320, chr1_1390, chr1_1460, chr1_1530, chr1_1600, chr1_1670, chr1_1740, chr1_1810, chr1_1880, chr1_1950, chr2_10, chr2_80, chr2_150, chr2_220, chr2_290, chr2_360, chr2_430, chr2_500, chr2_570, chr2_640, chr2_710, chr2_780, chr2_850, chr2_920, chr2_990, chr2_1060, chr2_1130, chr2_1200, chr3_60, chr3_130, chr3_200, chr3_270, chr3_340, chr3_410, chr3_480, chr3_550, chr3_620, chr3_690, chr3_760, chr3_830, chr3_900, chr3_970, chr3_1040, chr4_50, chr4_120, chr4_190, chr4_260, chr4_330, chr4_400, chr4_470, chr4_540, chr4_610, chr5_0, chr5_70, chr11_520, chr11_590, chr11_660, chr11_730, chr11_800, chr11_870, chr11_940, chr11_1010, chr11_1080, chr11_1150, chr11_1220, chr12_60, chr12_130, chr12_200, chr12_270, chr12_340, chr12_410, chr12_480, chr12_550, chr12_620, chr12_690, chr12_760, chr12_830, chr12_900, chr13_10, chr13_80, chr13_150, chr13_220, chr13_290, chr14_40, chr14_110, chr14_180, chr14_250, chr14_320, chr14_390, chr14_460, chr14_530, chr14_600, chr15_40, chr15_110, chr15_180, chr15_250, chr15_320, chr15_390, chr15_460, chr15_530, chr16_20, chr16_90, chr16_160, chr16_230, chr16_300, chr16_370, chr16_440, chr16_510, chr16_580, chr16_650, chr16_720, chr17_50, chr17_120, chr17_190, chr17_260, chr17_330, chr17_470, chr17_540, chr17_610, chr17_680, chr17_750, chr17_820, chr17_890, chr17_960, chr17_1030, chr17_1100, chr18_40, chr18_110, chr18_180, chr19_50, chr19_120, chr19_190, chr19_260, chr19_330, chr19_400, chr19_470, chr19_540, chr19_610, chr19_680, chr19_750, chr19_820, chr19_890, chr19_960, chr19_1030, chr19_1100, chr19_1170, chr19_1240, chr19_1310, chr20_0, chr20_70, chr20_140, chr20_210, chr20_280, chr20_350, chr20_420, chr21_0, chr21_70, chr21_140, chr22_40, chr22_110, chr22_180, chr22_250, chr22_320, chrX_10, chrX_80, chrX_150, chrX_220, chrX_290, chrX_360, chrX_430, chrX_500, chrX_570, chrX_640, chrX_710, chrX_780",
+      "fieldLabel": "whole genome large-scale CNV profile",
       "label": "whole genome large-scale CNV profile"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "KRT14 KRT17 KRT6A KRT5 KRT19 KRT8 KRT16 KRT6B KRT15 KRT6C SFN EPCAM",
+      "fieldLabel": "epithelial markers - gene expression",
       "label": "epithelial markers - gene expression"
     },
     {
@@ -485,24 +509,28 @@
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "= KRT14 + KRT17 + KRT6A + KRT5 + KRT19 + KRT8 + KRT16 + KRT6B + KRT15 + KRT6C + SFN + EPCAM",
       "normalize": "mean",
+      "fieldLabel": "epithelial signature",
       "label": "epithelial signature"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "ACTA2, MYLK, MYL9",
+      "fieldLabel": "myofibroblasts markers - gene expression",
       "label": "myofibroblasts markers - gene expression"
     },
     {
       "name": "HNSCC/GSE103322_HNSCC_exp.txt",
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "FAP, PDPN, CTGF",
+      "fieldLabel": "extracellular matrix markers - gene expression",
       "label": "extracellular matrix markers - gene expression"
     },
     {
       "name": "HNSCC/tcgaClassification",
       "host": "https://ucscpublic.xenahubs.net",
       "fields": "TCGA expression subtype",
+      "fieldLabel": "TCGA expression subtype: assigned to individual cells",
       "label": "TCGA expression subtype: assigned to individual cells"
     }
   ],
