@@ -1,0 +1,3 @@
+## Comprehensive Characterization of Lung Adenocarcinomas Without Activating Oncogenic Alterations by Whole-Exome and Transcriptome Sequencing
+
+Inspite of utilizing comprehensive next-generation sequencing technologies, we have, however, been unable to identify activating RTK/RAS/RAF pathway alterations in approximately 20-30% of TCGA LUAD (lung adenocarcinoma) samples. Data from Center for Cancer Genomics GDAN (genome data analysis network) LUAD analysis working group to investigate the reasons underlying the apparent lack of RAS-pathway oncogenes in the these samples.
