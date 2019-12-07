@@ -605,7 +605,19 @@
       "name": "mRNA.Subtype.Correlation.tcga.tsv",
       "host": "https://luad.xenahubs.net",
       "fields": "Adenocarcinoma.centroid.Cor",
-      "label": "Adeno, LUSC, small cell-like centroid correlation score"
+      "label": "Adeno-like centroid correlation score"
+    },
+    {
+      "name": "mRNA.Subtype.Correlation.tcga.tsv",
+      "host": "https://luad.xenahubs.net",
+      "fields": "Squamous.Cell.Carcinoma.centroid.Cor",
+      "label": "LUSC-like centroid correlation score"
+    },
+    {
+      "name": "mRNA.Subtype.Correlation.tcga.tsv",
+      "host": "https://luad.xenahubs.net",
+      "fields": "Small.Cell.Carcinoma.centroid.Cor",
+      "label": "Small cell-like centroid correlation score"
     }
   ]
 }
