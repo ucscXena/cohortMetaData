@@ -588,6 +588,12 @@
       "host": "https://luad.xenahubs.net",
       "fields": "LURE_KRAS_score",
       "label": "LURE_KRAS_score"
+    },
+    {
+      "name": "mRNA.Subtype.Correlation.tcga.tsv",
+      "host": "https://luad.xenahubs.net",
+      "fields": "Classification.mRNA.Max.Cor",
+      "label": "Classification.mRNA"
     }
   ]
 }
