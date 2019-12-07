@@ -599,13 +599,13 @@
       "name": "mRNA.Subtype.Correlation.tcga.tsv",
       "host": "https://luad.xenahubs.net",
       "fields": "Classification.mRNA.Max.Cor",
-      "label": "Adeno, LUSC, small cell-like mRNA classification"
+      "label": "Adeno, LUSC, small cell-like classification by mRNA profile"
     },
     {
       "name": "mRNA.Subtype.Correlation.tcga.tsv",
       "host": "https://luad.xenahubs.net",
-      "fields": "Adenocarcinoma.centroid.Cor Squamous.Cell.Carcinoma.centroid.Cor Small.Cell.Carcinoma.centroid.Cor",
-      "label": "Adeno, LUSC, small cell-like centroid mRNA correlation"
+      "fields": "Adenocarcinoma.centroid.Cor",
+      "label": "Adeno, LUSC, small cell-like centroid correlation score"
     }
   ]
 }
