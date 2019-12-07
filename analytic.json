@@ -582,7 +582,7 @@
       "label": "PAM50 gene expression profile"
     }
   ],
-  "TCGA Lung Adenocarcinoma (LUAD)" [
+  "TCGA Lung Adenocarcinoma (LUAD)": [
     {
       "name": "20_fold_CV_leave_out_scores_mean_25_responses_with_names.tsv",
       "host": "https://luad.xenahubs.net",
