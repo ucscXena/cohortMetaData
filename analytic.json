@@ -599,7 +599,7 @@
       "name": "mRNA.Subtype.Correlation.tcga.tsv",
       "host": "https://luad.xenahubs.net",
       "fields": "Classification.mRNA.Max.Cor",
-      "label": "Classification.mRNA"
+      "label": "LUAD, LUSC, Small cell-like classification"
     }
   ]
 }
