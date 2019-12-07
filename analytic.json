@@ -587,7 +587,7 @@
       "name": "luad_onco_pos_neg_tcga.tsv",
       "host": "https://luad.xenahubs.net",
       "fields": "LUAD_oncogene_positive_negative",
-      "label": "oncogene: positive, negative"
+      "label": "oncogene status: positive, negative"
     },
     {
       "name": "20_fold_CV_leave_out_scores_mean_25_responses_with_names.tsv",
