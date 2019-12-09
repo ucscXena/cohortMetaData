@@ -6,7 +6,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LIHC.sampleMap/mutation_broad"
+      "dataset": "mc3/LIHC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -26,7 +26,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.CESC.sampleMap/mutation_curated_wustl"
+      "dataset": "mc3/CESC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -40,7 +40,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.SARC.sampleMap/mutation_broad"
+      "dataset": "mc3/SARC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -54,7 +54,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.THYM.sampleMap/mutation_broad"
+      "dataset": "mc3/THYM_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -68,7 +68,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.MESO.sampleMap/mutation_broad"
+      "dataset": "mc3/MESO_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -82,7 +82,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PAAD.sampleMap/mutation_broad"
+      "dataset": "mc3/PAAD_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -96,7 +96,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UVM.sampleMap/mutation_curated_broad"
+      "dataset": "mc3/UVM_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -116,7 +116,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.READ.sampleMap/mutation_bcm"
+      "dataset": "mc3/READ_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -127,6 +127,10 @@
     "gene expression": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LUNG.sampleMap/HiSeqV2"
+    },
+    "simple somatic mutation": {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "mc3/LUNG_mc3.txt"
     }
   },
   "TCGA Lung Squamous Cell Carcinoma (LUSC)": {
@@ -136,7 +140,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LUSC.sampleMap/mutation_broad"
+      "dataset": "mc3/LUSC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -150,7 +154,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.STAD.sampleMap/mutation_curated_broad"
+      "dataset": "mc3/STAD_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -161,6 +165,10 @@
     "gene expression": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.GBMLGG.sampleMap/HiSeqV2"
+    },
+    "simple somatic mutation": {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "mc3/GBMLGG_mc3.txt"
     }
   },
   "TCGA Colon Cancer (COAD)": {
@@ -170,7 +178,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.COAD.sampleMap/mutation_bcm"
+      "dataset": "mc3/COAD_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -204,7 +212,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LGG.sampleMap/mutation_broad"
+      "dataset": "mc3/LGG_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -218,7 +226,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.THCA.sampleMap/mutation_broad"
+      "dataset": "mc3/THCA_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -232,7 +240,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KICH.sampleMap/mutation_broad"
+      "dataset": "mc3/KICH_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -246,7 +254,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KIRP.sampleMap/mutation_bcm"
+      "dataset": "mc3/KIRP_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -257,6 +265,10 @@
     "gene expression": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.COADREAD.sampleMap/HiSeqV2"
+    },
+    "simple somatic mutation": {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "mc3/COADREAD_mc3.txt"
     }
   },
   "TCGA Bile Duct Cancer (CHOL)": {
@@ -266,7 +278,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.CHOL.sampleMap/mutation_broad"
+      "dataset": "mc3/CHOL_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -280,7 +292,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.GBM.sampleMap/mutation_broad"
+      "dataset": "mc3/GBM_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -294,7 +306,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LUAD.sampleMap/mutation_broad"
+      "dataset": "mc3/LUAD_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -308,7 +320,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.OV.sampleMap/mutation_wustl"
+      "dataset": "mc3/OV_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -322,7 +334,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.KIRC.sampleMap/mutation_bcm"
+      "dataset": "mc3/KIRC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -336,7 +348,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UCEC.sampleMap/mutation_wustl"
+      "dataset": "mc3/UCEC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -350,7 +362,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.HNSC.sampleMap/mutation_broad"
+      "dataset": "mc3/HNSC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -364,7 +376,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.ACC.sampleMap/mutation_curated_broad"
+      "dataset": "mc3/ACC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -378,7 +390,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PRAD.sampleMap/mutation_broad"
+      "dataset": "mc3/PRAD_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -392,7 +404,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.UCS.sampleMap/mutation_curated_broad"
+      "dataset": "mc3/UCS_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -406,7 +418,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.SKCM.sampleMap/mutation_broad"
+      "dataset": "mc3/SKCM_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -420,7 +432,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.PCPG.sampleMap/mutation_broad"
+      "dataset": "mc3/PCPG_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -448,7 +460,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.BRCA.sampleMap/mutation_curated_wustl"
+      "dataset": "mc3/BRCA_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -462,7 +474,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.TGCT.sampleMap/mutation_broad"
+      "dataset": "mc3/TGCT_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -488,7 +500,7 @@
       "host": "https://icgc.xenahubs.net",
       "dataset": "sp/copy_number_somatic_mutation.all_projects.specimen"
     }
-  },  
+  },
   "PACA-AU": {
     "gene expression": {
       "host": "https://icgc.xenahubs.net",
@@ -502,7 +514,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.LAML.sampleMap/mutation_wustl"
+      "dataset": "mc3/LAML_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -517,7 +529,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.DLBC.sampleMap/mutation_bcm"
+      "dataset": "mc3/DLBC_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -531,7 +543,7 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.BLCA.sampleMap/mutation_broad"
+      "dataset": "mc3/BLCA_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
@@ -551,39 +563,11 @@
     },
     "simple somatic mutation": {
       "host": "https://tcga.xenahubs.net",
-      "dataset": "TCGA.ESCA.sampleMap/mutation_broad"
+      "dataset": "mc3/ESCA_mc3.txt"
     },
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.ESCA.sampleMap/SNP6_nocnv_genomicSegment"
-    }
-  },
-  "ICGC (donor centric)": {
-    "gene expression": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "exp_seq_donor_US_log2"
-    },
-    "simple somatic mutation": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "SNV.donor.codingMutation-allProjects"
-    },
-    "copy number": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "CNV.SNP6.donor.xena"
-    }
-  },
-  "ICGC (specimen centric)": {
-    "gene expression": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "exp_seq_specimen_US_log2"
-    },
-    "simple somatic mutation": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "SNV.sp.codingMutation-allProjects"
-    },
-    "copy number": {
-      "host": "https://icgc.xenahubs.net",
-      "dataset": "CNV.SNP6.sp.xena"
     }
   },
   "Treehouse public expression dataset (July 2017)": {
