@@ -512,6 +512,10 @@
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LAML.sampleMap/HiSeqV2"
     },
+    "simple somatic mutation": {
+      "host": "https://tcga.xenahubs.net",
+      "dataset": "TCGA.LAML.sampleMap/mutation_wustl"
+    },   
     "copy number": {
       "host": "https://tcga.xenahubs.net",
       "dataset": "TCGA.LAML.sampleMap/SNP6_nocnv_genomicSegment"
