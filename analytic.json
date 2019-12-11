@@ -584,10 +584,10 @@
   ],
   "TCGA Lung Adenocarcinoma (LUAD)": [
     {
-      "name": "luad_onco_pos_neg_tcga.tsv",
+      "name": "onco_pos_neg.tsv",
       "host": "https://luad.xenahubs.net",
-      "fields": "LUAD_oncogene_positive_negative",
-      "label": "oncogene status: positive, negative"
+      "fields": "oncogene_positive_negative",
+      "label": "oncogene status: OP, ON"
     },
     {
       "name": "20_fold_CV_leave_out_scores_mean_25_responses_with_names.tsv",
