@@ -26,16 +26,15 @@ The Xena Visual Spreadsheet shows that the ERG fusion detected in PCAWG RNAseq a
 #### Citation
 [https://doi.org/10.1101/163907](https://doi.org/10.1101/163907)
 ```
-Online resources for PCAWG data exploration, visualization, and discovery
+Online resources for data exploration, visualization, and discovery for the Pan-Cancer Analysis of Whole Genomes project (PCAWG)
 doi: https://doi.org/10.1101/163907
 
-Mary Goldman, Junjun Zhang, Nuno A. Fonseca, Qian Xiang, Brian Craft, Elena Piñeiro, Brian O'Connor, Wojciech Bazant, Elisabet Barrera, Alfonso Muñoz, Robert Petryszak, Anja Füllgrabe, Fatima Al-Shahrour, Maria Keays, David Haussler, John Weinstein, Wolfgang Huber, Alfonso Valencia, Irene Papatheodorou, Jingchun Zhu, Vincent Ferreti, Miguel Vazquez, - PCAWG-12 Working Group, - PCAWG Network
+Mary Goldman, Junjun Zhang, Nuno A. Fonseca, Isidro Cortes-Ciriano, Qian Xiang, Brian Craft, Elena Piñeiro-Yáñez, Brian O'Connor, Wojciech Bazant, Elisabet Barrera, Alfonso Muñoz, Robert Petryszak, Anja Füllgrabe, Fatima Al-Shahrour, Maria Keays, David Haussler, John Weinstein, Wolfgang Huber, Alfonso Valencia, Peter J Park, Irene Papatheodorou, Jingchun Zhu, Vincent Ferreti, Miguel Vazquez, PCAWG-12 Working Group, PCAWG Network
 ```
 <br>
 
-#### Publication and Embargo Policy
+#### Publication Policy
 <a href="https://dcc.icgc.org/pcawg">https://dcc.icgc.org/pcawg</a><br>
-Please write to jennifer.jennings@oicr.on.ca for further information.
 <br>
 
 #### Visualize Controlled-access PCAWG-1 Concensus Somatic Mutation calls
