@@ -17,7 +17,7 @@ John Vivian, Arjun Arkal Rao, Frank Austin Nothaft, Christopher Ketchum, Joel Ar
 ## Live example
 ####[<span style="color:#4ecdc4"><u>Differential gene and isoform expression of FOXM1 transcription factor in TCGA vs. GTEx</u></span>](/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01)</span>
 
-<a href="/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_pcawg.xenahubs.net/FOXM1.png" width="600"></a>
+<a href="/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_toil.xenahubs.net/FOXM1.png" width="600"></a>
 
 ## Datasets
 We chose unaligned RNA samples from 3 datasets
@@ -25,12 +25,12 @@ We chose unaligned RNA samples from 3 datasets
 2. Genotype-Tissue Expression (GTEx)
 3. Therapeutically Applicable Research To Generate Effective Treatments (TARGET)
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_pcawg.xenahubs.net/Datasets.png" width="400px">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_toil.xenahubs.net/Datasets.png" width="400px">
 
 ## Pipeline
 The RNA-seq CGL pipeline is shown below.  CutAdapt was used for adapter trimming, STAR was used for alignment, and RSEM and Kallisto were used as quantifiers.
 
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_pcawg.xenahubs.net/DAG.png" width="500px">
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_toil.xenahubs.net/DAG.png" width="500px">
 
 ## Pipeline Inputs
 
