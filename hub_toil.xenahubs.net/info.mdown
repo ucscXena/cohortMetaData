@@ -1,0 +1,67 @@
+# UCSC Toil RNAseq Recompute Compendium
+
+The goal of the Toil recompute was to process ~20,000 RNA-seq samples to create a consistent meta-analysis of four datasets free of computational batch effects. Using Toil, UCSC's pipeline architecture, we ran this recompute in a little over 3 days on a large AWS cluster for a cost of $1.30 per sample.
+
+<button class="hubButton" data-cohort="TCGA TARGET GTEx">Launch Xena</button>
+
+## Citation
+If using this dataset, please cite our Nature Biotechnology publication: [https://doi.org/10.1038/nbt.3772](https://doi.org/10.1038/nbt.3772)
+   
+```
+Toil enables reproducible, open source, big biomedical data analyses.
+Nat Biotechnol. 2017 Apr 11;35(4):314-316. doi: 10.1038/nbt.3772.
+
+John Vivian, Arjun Arkal Rao, Frank Austin Nothaft, Christopher Ketchum, Joel Armstrong, Adam Novak, Jacob Pfeil, Jake Narkizian, Alden D Deran, Audrey Musselman-Brown, Hannes Schmidt, Peter Amstutz, Brian Craft, Mary Goldman, Kate Rosenbloom, Melissa Cline, Brian O'Connor, Megan Hanna, Chet Birger, W James Kent, David A Patterson, Anthony D Joseph, Jingchun Zhu, Sasha Zaranek, Gad Getz, David Haussler & Benedict Paten
+```
+
+## Live example
+####[<span style="color:#4ecdc4"><u>Differential gene and isoform expression of FOXM1 transcription factor in TCGA vs. GTEx</u></span>](/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01)</span>
+
+<a href="/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01"><img src="https://toil.xenahubs.net/download/meta/FOXM1.png" width="600"></a>
+
+## Datasets
+We chose unaligned RNA samples from 3 datasets
+1. The Cancer Genome Atlas (TCGA)
+2. Genotype-Tissue Expression (GTEx)
+3. Therapeutically Applicable Research To Generate Effective Treatments (TARGET)
+
+<img src="https://toil.xenahubs.net/download/meta/Datasets.png" width="400px">
+
+## Pipeline
+The RNA-seq CGL pipeline is shown below.  CutAdapt was used for adapter trimming, STAR was used for alignment, and RSEM and Kallisto were used as quantifiers.
+
+<img src="https://toil.xenahubs.net/download/meta/DAG.png" width="500px">
+
+## Pipeline Inputs
+
+### Reference genome
+* STAR, RSEM, and Kallisto indexes were all built with the same reference genome. HG38 (no alt analysis) with overlapping genes from the PAR locus removed (chrY:10,000-2,781,479 and chrY:56,887,902-57,217,415).
+    * `ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_genbank/Eukaryotes/vertebrates_mammals/Homo_sapiens/GRCh38/seqs_for_alignment_pipelines`
+
+### Annotation file
+* RSEM: Gencode V23 comprehensive annotation (CHR)
+    * `http://www.gencodegenes.org/releases/23.html first row`
+* Kallisto: Gencode V23 comprehensive annotation (ALL)
+    * `http://www.gencodegenes.org/releases/23.html second row`
+
+### Inputs were generated with the following commands
+* STAR
+    * `sudo docker run -v $(pwd):/data quay.io/ucsc_cgl/star --runThreadN 32 --runMode genomeGenerate --genomeDir /data/genomeDir --genomeFastaFiles hg38.fa --sjdbGTFfile gencode.v23.annotation.gtf`
+* Kallisto
+    * `sudo docker run -v $(pwd):/data quay.io/ucsc_cgl/kallisto index -i hg38.gencodeV23.transcripts.idx transcriptome_hg38_gencodev23.fasta`
+    * Kallisto index that was used during the recompute is available [here](https://www.synapse.org/#!Synapse:syn5882333/files/).
+* RSEM
+    * `sudo docker run -v $(pwd):/data --entrypoint=rsem-prepare-reference jvivian/rsem -p 4 --gtf gencode.v23.annotation.gtf hg38.fa hg38`
+
+## Raw data
+[Nature Publication Supplementary Note 7 – Data Availability ](https://images.nature.com/full/nature-assets/nbt/journal/v35/n4/extref/nbt.3772-S1.pdf)
+
+## Submitter sample ID to Xena sample ID mapping
+####[TCGA mapping](https://github.com/jvivian/ipython_notebooks/blob/master/tcga_rnaseq_analysis/unaligned.tsv)
+####[GTEx mapping](https://github.com/jvivian/ipython_notebooks/blob/master/gtex_rnaseq_analysis/SraRunTable.txt)
+####[TARGET mapping](https://github.com/jvivian/ipython_notebooks/blob/master/tcga_rnaseq_analysis/unaligned.tsv)
+
+<br>
+## Webinar -- use Xena to view TOIL recompute data
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlPQYV1oU7g" frameborder="0" allowfullscreen></iframe>
+<br>
