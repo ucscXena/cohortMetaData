@@ -9,7 +9,7 @@ The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids Fir
 Comparing recurrent copy number and somatic mutation events across pediatric and adult brain tumors. Adult tumors are enriched for IDH1, TP53, ATRX mutations and chr1p/chr19q co-deletion and pediatric tumors are enriched for BRAF V600E mutations.
 
 ### [Integrating KidsFirst and Proteomic Data Commons Data (PDC)](/?bookmark=35dea50d06fb48c6dd6fa20e3e26ebd8)
-<a href="/?bookmark=35dea50d06fb48c6dd6fa20e3e26ebd8"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2a CBTTC.png" width="500"></a>
+<a href="/?bookmark=35dea50d06fb48c6dd6fa20e3e26ebd8"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2a CBTTC.png" width="700"></a>
 <br>
 Integrating copy number, gene expression, somatic mutation, and RNA-seq gene fusion data from the KidsFirst Data Portal with the protein expression data from PDC. The integrated view shows distinct genomic events across the six most common pediatric brain cancer types in the data set.
 
