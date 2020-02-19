@@ -13,8 +13,8 @@ Comparing recurrent copy number and somatic mutation events across pediatric and
 <br>
 Integrating copy number, gene expression, somatic mutation, and RNA-seq gene fusion data from the KidsFirst Data Portal with the protein expression data from PDC. The integrated view shows distinct genomic events across the six most common pediatric brain cancer types in the data set.
 
-### [Correlation between gene expression and total protein expression for PDGFRA](/?bookmark=dad0330d345afc2d4bb55971681ab43c)
+### [Correlation between gene and total protein expression for *PDGFRA*](/?bookmark=dad0330d345afc2d4bb55971681ab43c)
 <a href="/?bookmark=dad0330d345afc2d4bb55971681ab43c"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2b CBTTC.png" width="500"></a>
 
 ### [Kaplan-Meier survival plot by histological type](/?bookmark=cfb7ba8bab795ff684cb742fb38aae59)
-<a href="/?bookmark=cfb7ba8bab795ff684cb742fb38aae59"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2c CBTTC.png" width="700"></a>
+<a href="/?bookmark=cfb7ba8bab795ff684cb742fb38aae59"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2c CBTTC.png" width="500"></a>
