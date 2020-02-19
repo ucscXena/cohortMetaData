@@ -1,11 +1,10 @@
 # Kids First Xena Hub
-<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/Kids_First_Graphic_Horizontal_FINAL.jpg" width="40%"  align="left" /> 
+<img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/Kids_First_Graphic_Horizontal_FINAL.jpg" width="40%"  align="left" style="margin:0px 50px /> 
 The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to develop a large-scale data resource to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Over 2015-2018, the program selected 26 patient cohorts for whole genome sequencing through a peer-review process.
 
 ## Example analyses
-### Pan-study cohort of TCGA and KidsFirst samples
-https://xenabrowser.net/?bookmark=68f459fff856aaa348540017601eede9
-
+### [Pan-study cohort of TCGA and KidsFirst samples](https://xenabrowser.net/?bookmark=68f459fff856aaa348540017601eede9)
+<a href="/?bookmark=68f459fff856aaa348540017601eede9"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 4 mutation cnv.png" width="700"></a>
 Comparing recurrent copy number and somatic mutation events across pediatric and adult brain tumors. Adult tumors are enriched for IDH1, TP53, ATRX mutations and chr1p/chr19q co-deletion and pediatric tumors are enriched for BRAF V600E mutations.
 
 ### Integrating KidsFirst and Proteomic Data Commons Data (PDC)
@@ -20,7 +19,7 @@ Kaplan-Meier survival plot by histological type
 https://xenabrowser.net/?bookmark=cfb7ba8bab795ff684cb742fb38aae59
 <table style="text-align:center;">
   <tr>
-    <td class="center"><a href="/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure1DE/Figure1DE_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure1DE.png" width="75%"></a></td>
-    <td class="center"><a href="/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7HI_walk_through.md"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/walthroughFigure7HI.png" width="75%"></a></td>
+    <td class="center"><a href="/?bookmark=dad0330d345afc2d4bb55971681ab43c"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2b CBTTC.png" width="75%"></a></td>
+    <td class="center"><a href="/?bookmark=cfb7ba8bab795ff684cb742fb38aae59"><img align="middle" src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 2c CBTTC.png" width="75%"></a></td>
   </tr>
 </table>
