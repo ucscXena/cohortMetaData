@@ -1,8 +1,10 @@
 # Kids First Xena Hub
+<br>
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/Kids_First_Graphic_Horizontal_FINAL.jpg" width="40%"  align="left" style="margin:0px 50px" /> 
 The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to develop a large-scale data resource to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Over 2015-2018, the program selected 26 patient cohorts for whole genome sequencing through a peer-review process.
 
 ## Example analyses
+<br>
 ### [Pan-study cohort of TCGA and KidsFirst samples](/?bookmark=68f459fff856aaa348540017601eede9)
 <a href="/?bookmark=68f459fff856aaa348540017601eede9"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_kidsfirst.xenahubs.net/figure 4 mutation cnv.png" width="700"></a>
 <br>
