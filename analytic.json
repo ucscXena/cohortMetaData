@@ -637,6 +637,65 @@
       "host": "https://preview.xenahubs.net",
       "fields": "IFN_score",
       "label": "IFN signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "TGFB_score",
+      "label": "TGFb signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "CSR_Activated_score",
+      "label": "CSR signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "Macrophages_score",
+      "label": "macrophage signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "CD8_T_cells_score",
+      "label": "CD8 T cell signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "IGF1-ligand_signature_score",
+      "label": "IGF-ligand signature score"
+    },        
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "IGF1R_activation_signature_score",
+      "label": "IGF-IR activation signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "cAMP_GSVA",
+      "label": "cAMP signature score"
+    },    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "SASP_GSVA",
+      "label": "SASP signature score"
+    },    
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "AST_GSVA",
+      "label": "AST signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "Fat_Browning_genes_GSVA",
+      "label": "Fat Browning signature score"
     }
   ]
 }
