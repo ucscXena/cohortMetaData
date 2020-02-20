@@ -629,8 +629,14 @@
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "IFN_score ICS5_score, TGFB_score, IGF1-ligand_signature_score",
-      "label": "transcriptome signatures"
+      "fields": "Active_Inactive_sign_corrected_avg",
+      "label": "Active/Inactive signature score"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "IFN_score",
+      "label": "IFN signature score"
     }
   ]
 }
