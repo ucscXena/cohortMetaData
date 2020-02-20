@@ -1,4 +1,4 @@
-A combined cohort of TCGA, TARGET and GTEx samples.
+## A combined cohort of TCGA, TARGET and GTEx samples.
 
 <button class="cohortButton" data-bookmark="bc7f3f46b042bcf5c099439c2816ff01">Comparative FOXM1 expression</button>
 
