@@ -1,4 +1,4 @@
-## A combined cohort of TCGA, TARGET and GTEx samples.
+# A combined cohort of TCGA, TARGET and GTEx samples
 
 [**The Cancer Genome Atlas (TCGA)**](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga), a landmark cancer genomics program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. This joint effort between the National Cancer Institute and the National Human Genome Research Institute began in 2006, bringing together researchers from diverse disciplines and multiple institutions.
 
