@@ -489,7 +489,6 @@
       "label": "tumor: Stress module profile",
       "fieldLabel": "tumor: Stress module profile"
     },
-    
     {
       "name": "HNSCC/cnv.txt",
       "host": "https://ucscpublic.xenahubs.net",
@@ -624,6 +623,14 @@
       "host": "https://luad.xenahubs.net",
       "fields": "Small.Cell.Carcinoma.centroid.Cor",
       "label": "Small cell-like centroid correlation score"
+    }
+  ],
+  "Normal Breast (Benz 2020)": [
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "IFN_score ICS5_score TGFB_score IGF1-ligand_signature_score",
+      "label": "transcriptome signatures"
     }
   ]
 }
