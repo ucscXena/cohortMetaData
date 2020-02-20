@@ -1,9 +1,9 @@
 ## A combined cohort of TCGA, TARGET and GTEx samples.
 
-<button class="cohortButton" data-bookmark="bc7f3f46b042bcf5c099439c2816ff01">Comparative FOXM1 expression</button>
-
 [**The Cancer Genome Atlas (TCGA)**](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga), a landmark cancer genomics program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. This joint effort between the National Cancer Institute and the National Human Genome Research Institute began in 2006, bringing together researchers from diverse disciplines and multiple institutions.
 
 [**TARGET**](https://ocg.cancer.gov/programs/target) data is intended exclusively for biomedical research using pediatric data (i.e., the research objectives cannot be accomplished using data from adults) that focus on the development of more effective treatments, diagnostic tests, or prognostic markers for childhood cancers. Moreover, TARGET data can be used for research relevant to the biology, causes, treatment and late complications of treatment of pediatric cancers, but is not intended for the sole purposes of methods and/or tool development (please see [Using TARGET Data](https://ocg.cancer.gov/programs/target/using-target-data) section of the OCG website). If you are interested in using TARGET data for publication or other research purposes, you must follow the [TARGET Publication Guidelines](https://ocg.cancer.gov/programs/target/target-publication-guidelines).
 
 [**The Genotype-Tissue Expression (GTEx)**](https://gtexportal.org/) project is an ongoing effort to build a comprehensive public resource to study tissue-specific gene expression and regulation. Samples were collected from 54 non-diseased tissue sites across nearly 1000 individuals, primarily for molecular assays including WGS, WES, and RNA-Seq. Remaining samples are available from the GTEx Biobank. The GTEx Portal provides open access to data including gene expression, QTLs, and histology images. 
+
+<button class="cohortButton" data-bookmark="bc7f3f46b042bcf5c099439c2816ff01">Example: compare FOXM1 expression</button>
