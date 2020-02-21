@@ -636,7 +636,7 @@
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "Active_Inactive_sign_corrected_avg",
-      "label": "gene signature, Active/Inactive"
+      "label": "Active/Inactive signature score"
     },
     {
       "name": "ktb/clinical.tsv",
