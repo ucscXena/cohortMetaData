@@ -629,6 +629,12 @@
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
+      "fields": "Transcriptome_phenotype",
+      "label": "Transcriptome phenotype"
+    },
+    {
+      "name": "ktb/clinical.tsv",
+      "host": "https://preview.xenahubs.net",
       "fields": "Active_Inactive_sign_corrected_avg",
       "label": "Active/Inactive signature score"
     },
