@@ -629,79 +629,73 @@
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "Transcriptome_phenotype",
-      "label": "Transcriptome phenotype"
-    },
-    {
-      "name": "ktb/clinical.tsv",
-      "host": "https://preview.xenahubs.net",
       "fields": "Active_Inactive_sign_corrected_avg",
-      "label": "Active/Inactive signature score"
+      "label": "gene signature, Active/Inactive"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "IFN_score",
-      "label": "IFN signature score"
+      "label": "gene signature, IFN activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "TGFB_score",
-      "label": "TGFb signature score"
+      "label": "gene signature, TGFb activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "CSR_Activated_score",
-      "label": "CSR signature score"
+      "label": "gene signature, CSR activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "Macrophages_score",
-      "label": "macrophage signature score"
+      "label": "gene signature, macrophage activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "CD8_T_cells_score",
-      "label": "CD8 T cell signature score"
+      "label": "gene signature, CD8 T cell activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "IGF1-ligand_signature_score",
-      "label": "IGF-ligand signature score"
+      "label": "gene signature, IGF1 activity"
     },        
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "IGF1R_activation_signature_score",
-      "label": "IGF-IR activation signature score"
+      "label": "gene signature, IGFIR activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "cAMP_GSVA",
-      "label": "cAMP signature score"
+      "label": "gene signature, cAMP activity"
     },    {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "SASP_GSVA",
-      "label": "SASP signature score"
+      "label": "gene signature, SASP activity"
     },    
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "AST_GSVA",
-      "label": "AST signature score"
+      "label": "gene signature, AST activity"
     },
     {
       "name": "ktb/clinical.tsv",
       "host": "https://preview.xenahubs.net",
       "fields": "Fat_Browning_genes_GSVA",
-      "label": "Fat Browning signature score"
+      "label": "gene signature, Fat Browning"
     }
   ]
 }
