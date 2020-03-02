@@ -5,13 +5,13 @@
 Here we recreate a variation of this figure.
 
 ## Live View of Figure 7H
-<a href="/?bookmark=e0a87c38427298adf380eba4812c78f2"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
+<a href="/?bookmark=c54e9592355684ed00bc6efce7e0312b"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/Figure7H.png" width="700"></a>
 
 Here we can see chromatin accessibility in the promoter region of FGD4 for 10 samples in TCGA Bladder Cancer. We can see that TCGA-BL-A13J-01A (top sample) has increased accessibility in the region upstream from FGD4 (column D), as highlighted by the black oval. This increased accessibility is associated with the highest FGD4 gene expression for this sample (column C).
 
 At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that overlaps with the eFGD4 point mutation ("enhancer FGD4") at chr12:32385775:C->T. Note that it is not possible to visualize the mutation in the mutation data on Xena because mutations outside the coding region are considered protected data by TCGA.
 
-[Click here for a live view.](/?bookmark=e0a87c38427298adf380eba4812c78f2)
+[Click here for a live view.](/?bookmark=c54e9592355684ed00bc6efce7e0312b)
 
 ### Steps to reproduce
 
@@ -19,7 +19,7 @@ At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that ov
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
-2. __Add cancer type to view.__ Click 'Add Column' next to the samples column, select 'Phenotypic', and select 'disease_code.project'. Click 'done'.
+2. __Add cancer type to view.__ Click 'Add Column' next to the samples column, select 'Phenotypic', and select 'project_id'. Click 'done'.
 
 3. __Add ATAC-seq peaks for chr12:32335774-32435774.__ Click 'Add Column' and enter 'chr12:32335774-32435774' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 	
@@ -37,7 +37,7 @@ At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that ov
 
 	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/makedragcolumn.gif" width="90%">
 
-	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples. [Click here for a live view.](/?bookmark=e0a87c38427298adf380eba4812c78f2)
+	> We can see that TCGA-BL-A13J-01A has the highest FGD4 gene expression for these samples. [Click here for a live view.](/?bookmark=c94f38d25c5f66cbfe8881824ed70806)
 
 
 ## Live View of Figure 1I
