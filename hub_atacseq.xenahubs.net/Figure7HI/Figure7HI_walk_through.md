@@ -31,7 +31,7 @@ At the top of column D we have highlighted the ATACseq peak (BLCA_65729) that ov
 
 	> <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_atacseq.xenahubs.net/Figure7HI/atacseqfilterblca.gif" width="90%">
 
-	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4. [Click here for a live view.](/?bookmark=da7e71868ec285fd1d3288e492cf5bee)
+	> We can see the third sample from the top (TCGA-BL-A13J-01A) has increased accessibility upstream from FGD4. [Click here for a live view.](/?bookmark=9174d81f5bc9f3a2a27657ffd586c574)
 
 5. __Examine relationship to FGD4 expression.__ Click 'Add Column' and enter 'FGD4' as the 'Gene or Position'. Click 'Gene Expression' and then click 'done'. Grab the top of the column and move it to the left.
 
