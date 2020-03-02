@@ -18,7 +18,7 @@ Here we can see heterogenous accessibility of rs6983267 (column C) and rs3525239
 
 	> Note that the GDC Pan-Cancer (PANCAN) cohort is already selected and we have filtered down to just those samples that have ATAC-seq data.
 
-2. __Add cancer type to view.__ Click 'Add Column' next to the samples column, select 'Phenotypic', and select 'disease_code.project'. Click 'done'.
+2. __Add cancer type to view.__ Click 'Add Column' next to the samples column, select 'Phenotypic', and select 'project_id'. Click 'done'.
 
 3. __Add ATAC-seq peak ESCA\_60954, which is the peak for rs6983267.__ Click 'Add Column' and enter 'ESCA\_60954' as the 'Gene or Position'. Click 'show Advanced' and choose 'All peak signal' under 'ATAC-seq'. Click 'done'.
 
