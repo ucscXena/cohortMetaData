@@ -1,9 +1,9 @@
-# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics (10x)
+# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics (SS2)
 
 <button class="cohortButton">Launch Xena</button>
 
 **[Project Page in HCA](https://data.humancellatlas.org/explore/projects//f83165c5-e2ea-4d15-a5cf-33f3550bffde)**<br>
-**Analysis Description in SCP [Blood](https://singlecell.broadinstitute.org/single_cell/study/SCP773/2020-mar-fetalmaternal-adult-blood-10x) and [Decidua](https://singlecell.broadinstitute.org/single_cell/study/SCP788/2020-mar-fetalmaternal-adult-decidua-10x)**
+**Analysis Description in SCP [Fetal Neuron](https://singlecell.broadinstitute.org/single_cell/study/SCP753/2020-mar-diff-fetal-neuron-ss2), [Adult Blood](https://singlecell.broadinstitute.org/single_cell/study/SCP773/2020-mar-fetalmaternal-adult-blood-10x) and [Adult Decidua](https://singlecell.broadinstitute.org/single_cell/study/SCP788/2020-mar-fetalmaternal-adult-decidua-10x)**
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
