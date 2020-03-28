@@ -2,7 +2,7 @@
 
 <button class="cohortButton">Launch Xena</button>
 
-**[Project Description in HCA](https://data.humancellatlas.org/explore/projects/116965f3-f094-4769-9d28-ae675c1b569c)**<br>
+**[Project Page in HCA](https://data.humancellatlas.org/explore/projects/116965f3-f094-4769-9d28-ae675c1b569c)**<br>
 **[Analysis Description in SCP](https://singlecell.broadinstitute.org/single_cell/study/SCP763/2020-mar-reprogram-embryo-dendritic-10x)**
 
 ### About Xena
