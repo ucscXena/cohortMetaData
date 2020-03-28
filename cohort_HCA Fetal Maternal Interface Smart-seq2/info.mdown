@@ -1,4 +1,4 @@
-# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics (SS2)
+# Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics (Smart-seq2)
 
 <button class="cohortButton">Launch Xena</button>
 
