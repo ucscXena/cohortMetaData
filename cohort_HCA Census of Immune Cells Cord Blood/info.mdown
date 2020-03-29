@@ -1,9 +1,9 @@
-# HCA Census of Immune Cells Adult Bone Marrow
+# HCA Census of Immune Cells Newborn Cord Blood
 
 <button class="cohortButton">Launch Xena</button>
 
 **[Project Page in HCA](https://data.humancellatlas.org/explore/projects/cc95ff89-2e68-4a08-a234-480eca21ce79)**<br>
-**[Analysis Description in SCP](https://singlecell.broadinstitute.org/single_cell/study/SCP771/2020-mar-census-adult-immune-10x)**
+**[Analysis Description in SCP](https://singlecell.broadinstitute.org/single_cell/study/SCP770/2020-mar-census-newborn-blood-10x)**
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
