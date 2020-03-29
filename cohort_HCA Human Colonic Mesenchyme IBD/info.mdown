@@ -1,4 +1,6 @@
 # Structural Remodeling of the Human Colonic Mesenchyme in Inflammatory Bowel Disease
+[Structural Remodeling of the Human Colonic Mesenchyme in Inflammatory Bowel Disease.](https://www.ncbi.nlm.nih.gov/pubmed/30270042)
+
 
 <button class="cohortButton">Launch Xena</button>
 
