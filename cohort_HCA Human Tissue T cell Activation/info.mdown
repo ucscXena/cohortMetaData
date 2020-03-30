@@ -6,9 +6,9 @@
 <br>
 **Analysis Description in SCP in 
 [Adult Blood](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-blood-10x),
-[Adult Bone Marrow](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-bonemarrow-10x),
-[Adult Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-lung-10x), and
-[Adult Lymphnode](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-lymphnode-10x)**
+[Adult Bone Marrow](https://singlecell.broadinstitute.org/single_cell/study/SCP791/2020-mar-tcell-adult-bonemarrow-10x),
+[Adult Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP792/2020-mar-tcell-adult-lung-10x), and
+[Adult Lymphnode](https://singlecell.broadinstitute.org/single_cell/study/SCP790/2020-mar-tcell-adult-lymphnode-10x)**
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
