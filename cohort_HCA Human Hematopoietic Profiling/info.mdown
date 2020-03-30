@@ -18,6 +18,8 @@ Click on the live view above or the 'Visualize' button and follow the wizard. Yo
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 Setty M, et al. [Characterization of cell fate probabilities in single-cell data with Palantir](https://www.ncbi.nlm.nih.gov/pubmed/30899105) Nature Biotechnology 2019
 

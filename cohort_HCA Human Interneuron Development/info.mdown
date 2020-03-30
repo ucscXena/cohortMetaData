@@ -18,6 +18,8 @@ Click on the live view above or the 'Visualize' button and follow the wizard. Yo
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 Close JL, et al. [Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation.](https://europepmc.org/abstract/MED/28279351) Neuron 2017
 

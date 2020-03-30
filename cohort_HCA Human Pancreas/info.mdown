@@ -21,6 +21,8 @@ Click on the live view above or the 'Visualize' button and follow the wizard. Yo
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 Enge M, et al. [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns.](https://www.ncbi.nlm.nih.gov/pubmed/28965763) Cell 2017
 

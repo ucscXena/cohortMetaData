@@ -18,6 +18,8 @@ Click on the live view above or the 'Visualize' button and follow the wizard. Yo
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 Kinchen J, et. al. [Structural Remodeling of the Human Colonic Mesenchyme in Inflammatory Bowel Disease.](https://www.ncbi.nlm.nih.gov/pubmed/30270042) Cell. 2018
 <br>

@@ -18,6 +18,8 @@ Click the live view above or the 'Visualize' button and follow the wizard. You c
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 MacParland SA, et al. [Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197289/) Nat Commun. 2018
 

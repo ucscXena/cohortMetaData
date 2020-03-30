@@ -6,7 +6,7 @@
 <br>
 **Analysis Description in SCP in 
 [Esophagus](https://singlecell.broadinstitute.org/single_cell/study/SCP768/2020-mar-sensitivity-adult-esophagus-10x),
-[Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP769/2020-mar-sensitivity-adult-lung-10x),
+[Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP769/2020-mar-sensitivity-adult-lung-10x), and 
 [Spleen](https://singlecell.broadinstitute.org/single_cell/study/SCP767/2020-mar-sensitivity-adult-spleen-10x)**
 
 ### About Xena
@@ -19,6 +19,8 @@ A live view of annotated cell types and expression of marker genes<br>
 Click the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
+
+<br>
 
 ### Publication
 Madissoon E,  et al. [Lung, spleen and oesophagus tissue remains stable for scRNAseq in cold preservation](https://www.biorxiv.org/content/10.1101/741405v1) BioRxiv 2019
