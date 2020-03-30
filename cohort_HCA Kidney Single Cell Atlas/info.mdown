@@ -1,15 +1,20 @@
 # Spatio-temporal immune zonation of the human kidney
+Stewart BJ et.al., [Spatiotemporal immune zonation of the human kidney](https://www.ncbi.nlm.nih.gov/pubmed/31604275) Science 2019
 
 <button class="cohortButton">Launch Xena</button>
 
-**[Project Description in HCA](https://data.humancellatlas.org/explore/projects/abe1a013-af7a-45ed-8c26-f3793c24a1f4)**
+**[Project Page in HCA](https://data.humancellatlas.org/explore/projects/abe1a013-af7a-45ed-8c26-f3793c24a1f4)**
+<br>
+**Analysis Description in SCP [Adult](https://singlecell.broadinstitute.org/single_cell/study/SCP761/2020-mar-spatiotemporal-adult-kidney-10x), [Fetal](https://singlecell.broadinstitute.org/single_cell/study/SCP760/2020-mar-spatiotemporal-fetal-kidney-10x)**
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
 
+
+
 ### To visualize
 Click the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
-## [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+### [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
 
 <br>
