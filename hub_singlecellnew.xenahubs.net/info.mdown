@@ -9,7 +9,7 @@ Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual 
 
 The view displays expression profiles of 24 genes with two cell annotations from the HCA Census of Immune Cells study. The 26-parameter data from all 794,365 cells is held in compressed form in the Browser, with no down-sampling applied in generating the view. Each row across the entire display represents a single cell. Xena’s public-private data join feature enables users to combine large public resource data, such as the gene expression data from HCA, with their own analysis results, such as the Louvain clusters. 
 
-## [Beginner Tutorial: Reproducing the live example](/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+## [Beginner Tutorial: Reproducing the live example](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
 <br>
 
