@@ -1,5 +1,5 @@
 # Spatio-temporal immune zonation of the human kidney
-Stewart BJ et.al., [Spatiotemporal immune zonation of the human kidney](https://www.ncbi.nlm.nih.gov/pubmed/31604275) Science 2019
+Stewart BJ, et al. [Spatiotemporal immune zonation of the human kidney](https://www.ncbi.nlm.nih.gov/pubmed/31604275) Science 2019
 
 <button class="cohortButton">Launch Xena</button>
 
