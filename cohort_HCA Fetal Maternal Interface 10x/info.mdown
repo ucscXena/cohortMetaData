@@ -2,7 +2,7 @@
 
 <button class="cohortButton">Launch Xena</button>
 
-__[Project Page in HCA](https://data.humancellatlas.org/explore/projects//f83165c5-e2ea-4d15-a5cf-33f3550bffde)__<br>
+__[Project Page in HCA](https://data.humancellatlas.org/explore/projects/f83165c5-e2ea-4d15-a5cf-33f3550bffde)__<br>
 __Analysis Description in SCP in [Adult Blood](https://singlecell.broadinstitute.org/single_cell/study/SCP773/2020-mar-fetalmaternal-adult-blood-10x) and [Adult Decidua](https://singlecell.broadinstitute.org/single_cell/study/SCP788/2020-mar-fetalmaternal-adult-decidua-10x)__
 
 ### About Xena
