@@ -1,4 +1,4 @@
-## HCA Census of Immune Cells
+# HCA Census of Immune Cells
 
 <button class="cohortButton">Launch Xena</button>
 
