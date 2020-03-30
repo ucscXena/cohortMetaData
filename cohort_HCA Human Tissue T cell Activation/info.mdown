@@ -7,7 +7,7 @@
 **Analysis Description in SCP in 
 [Adult Blood](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-blood-10x),
 [Adult Bone Marrow](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-bonemarrow-10x),
-[Adult Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-lung-10x),
+[Adult Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-lung-10x), and
 [Adult Lymphnode](https://singlecell.broadinstitute.org/single_cell/study/SCP793/2020-mar-tcell-adult-lymphnode-10x)**
 
 ### About Xena
