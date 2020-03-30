@@ -16,6 +16,8 @@ Click on the "Live view" above or the 'Visualize' button and follow the wizard. 
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
+<br>
+
 ### Publication
 Lukowski SW, et. al. [A single-cell transcriptome atlas of the adult human retina.](https://www.ncbi.nlm.nih.gov/pubmed/31436334) EMBO J. 2019
 
