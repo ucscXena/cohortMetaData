@@ -14,7 +14,7 @@ A live view of annotated cell types and marker genes for embryonic fibroblast an
 ### To visualize
 Click on the "Live view" above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
-### [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 <br>
 
 

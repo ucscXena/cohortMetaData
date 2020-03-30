@@ -1,6 +1,5 @@
 # Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns
 
-Enge M, et al. [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns.](https://www.ncbi.nlm.nih.gov/pubmed/28965763) Cell 2017
 
 <button class="cohortButton">Launch Xena</button>
 
@@ -20,6 +19,9 @@ A live view of annotated cell types and expression of marker genes<br>
 ### To visualize
 Click on the live view above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
-### [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
+
+### Publication
+Enge M, et al. [Single-Cell Analysis of Human Pancreas Reveals Transcriptional Signatures of Aging and Somatic Mutation Patterns.](https://www.ncbi.nlm.nih.gov/pubmed/28965763) Cell 2017
 
 <br>

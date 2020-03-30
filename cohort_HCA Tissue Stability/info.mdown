@@ -1,11 +1,10 @@
 # Ischaemic sensitivity of human tissue by single cell RNA seq
-Madissoon E,  et al. [Lung, spleen and oesophagus tissue remains stable for scRNAseq in cold preservation](https://www.biorxiv.org/content/10.1101/741405v1) BioRxiv 2019
 
 <button class="cohortButton">Launch Xena</button>
 
 **[Project Page in HCA](https://data.humancellatlas.org/explore/projects/c4077b3c-5c98-4d26-a614-246d12c2e5d7)**
 <br>
-**Analysis Description in SCP 
+**Analysis Description in SCP in 
 [Esophagus](https://singlecell.broadinstitute.org/single_cell/study/SCP768/2020-mar-sensitivity-adult-esophagus-10x),
 [Lung](https://singlecell.broadinstitute.org/single_cell/study/SCP769/2020-mar-sensitivity-adult-lung-10x),
 [Spleen](https://singlecell.broadinstitute.org/single_cell/study/SCP767/2020-mar-sensitivity-adult-spleen-10x)**
@@ -19,6 +18,9 @@ A live view of annotated cell types and expression of marker genes<br>
 ### To visualize
 Click the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
-### [More information on how to use Xena](https://singlecell.xenabrowser.net/datapages/?markdown=https://raw.githubusercontent.com/ucscXena/cohortMetaData/master/hub_singlecellnew.xenahubs.net/example1/info.mdown)
+### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
+
+### Publication
+Madissoon E,  et al. [Lung, spleen and oesophagus tissue remains stable for scRNAseq in cold preservation](https://www.biorxiv.org/content/10.1101/741405v1) BioRxiv 2019
 
 <br>
