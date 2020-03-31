@@ -1788,6 +1788,18 @@
       "feature": "louvain_labels"
     }
   ],
+  "HCA Reprogram-Embryo-Dendritic": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Reprogram-Embryo-Dendritic/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Reprogram-Embryo-Dendritic/10x/meta.tsv",
+      "feature": "louvain_labels"
+    }
+  ],
   "HCA Kidney Single Cell Atlas": [
     {
       "host": "https://singlecellnew.xenahubs.net",
@@ -1796,37 +1808,42 @@
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.txt",
+      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.tsv",
       "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.txt",
+      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.tsv",
       "feature": "louvain_labels"
     }
   ],
   "HCA Single Cell Liver Landscape": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/SingleCellLiverLandscape/cells.tsv",
-      "feature": "derived_organ_parts_label"
+      "dataset": "HCA/SingleCellLiverLandscape/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/SingleCellLiverLandscape/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/SingleCellLiverLandscape/10x/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
-  "HCA Tissue stability": [
+  "HCA Tissue Stability": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Tissue_stability/cells.tsv",
-      "feature": "derived_organ_label"
+      "dataset": "HCA/Tissue_stability/10x/category.tsv",
+      "feature": "main_category"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Tissue_stability/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/Tissue_stability/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Tissue_stability/10x/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
   "UCSC Cell Browser Autism": [
