@@ -1909,13 +1909,6 @@
       "feature": "region"
     }
   ],
-  "HCA Human Interneuron Development": [
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/interneuronDevelopment_Lein/phenotype.matrix",
-      "feature": "selected_cell_type"
-    }
-  ],
   "Tabula Muris SmartSeq2": [
     {
       "host": "https://singlecellnew.xenahubs.net",
