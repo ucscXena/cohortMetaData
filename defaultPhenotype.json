@@ -1639,14 +1639,14 @@
   "HCA Adult Retina (Wong)": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/WongAdultRetina/cells.tsv",
-      "feature": "derived_organ_parts_label"
+      "dataset": "HCA/WongAdultRetina/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/WongAdultRetina/cells.tsv",
-      "feature": "genes_detected"
-    }    
+      "dataset": "HCA/WongAdultRetina/10x/meta.tsv",
+      "feature": "louvain_labels"
+    }
   ],
   "HCA Census of Immune Cells": [
     {
@@ -1665,11 +1665,62 @@
       "feature": "genes_detected"
     }
   ],
-  "HCA Fetal Maternal Interface": [
+  "HCA Census of Immune Cells Bone Marrow": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Fetal_Maternal_Interface/phenotype.matrix",
-      "feature": "selected_cell_type"
+      "dataset": "HCA/Census_of_Immune_Cells_BoneMarrow/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Census_of_Immune_Cells_BoneMarrow/10x/meta.tsv",
+      "feature": "louvain_labels"
+    }
+  ],
+  "HCA Census of Immune Cells Cord Blood": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Census_of_Immune_Cells_CordBlood/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Census_of_Immune_Cells_CordBlood/10x/meta.tsv",
+      "feature": "louvain_labels"
+    }
+  ],
+  "HCA Fetal Maternal Interface 10x": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/10x/category.tsv",
+      "feature": "main_category"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/10x/meta.tsv",
+      "feature": "louvain_labels"
+    }
+  ],
+  "HCA Fetal Maternal Interface Smart-seq2": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/SS2/category.tsv",
+      "feature": "main_category"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/SS2/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/Fetal_Maternal_Interface/SS2/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
   "HCA HPSI Human Cerebral Organoids": [
@@ -1891,7 +1942,6 @@
       "dataset": "HNSCC/GSE103322_sample_metadata.txt",
       "feature": "patient"
     },
-    
     {
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "HNSCC/GSE103322_cell_metadata.txt",
