@@ -1764,6 +1764,18 @@
       "feature": "louvain_labels"
     }
   ],
+  "HCA Human Interneuron Development (copy)": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/interneuronDevelopment_Lein/SS2/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "HCA/interneuronDevelopment_Lein/SS2/meta.tsv",
+      "feature": "louvain_labels"
+    }
+  ],
   "HCA Human Pancreas": [
     {
       "host": "https://singlecellnew.xenahubs.net",
