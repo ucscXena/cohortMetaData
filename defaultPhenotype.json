@@ -1764,7 +1764,7 @@
       "feature": "louvain_labels"
     }
   ],
-  "HCA Human Interneuron Development (copy)": [
+  "HCA Human Interneuron Development": [
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HCA/interneuronDevelopment_Lein/SS2/meta.tsv",
