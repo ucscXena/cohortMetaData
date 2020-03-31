@@ -1723,7 +1723,7 @@
       "feature": "louvain_labels"
     }
   ],
-  "HCA HPSI Human Cerebral Organoids": [
+  "HCA HPSI human cerebral organoids": [
     {
       "host": "https://singlecellnew.xenahubs.net",
       "dataset": "HCA/HPSI_human_cerebral_organoids/cells.tsv",
@@ -1743,35 +1743,25 @@
   "HCA Human Colonic Mesenchyme IBD": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
-      "feature": "donor_organism.diseases.ontology_label"
+      "dataset": "HCA/HumanColonicMesenchymeIBD/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
-      "feature": "organ_parts_label"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
-      "feature": "derived_organ_label"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanColonicMesenchymeIBD/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/HumanColonicMesenchymeIBD/10x/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
   "HCA Human Hematopoietic Profiling": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Human_Hematopoietic_Profiling/cells.tsv",
-      "feature": "derived_organ_label"
+      "dataset": "HCA/Human_Hematopoietic_Profiling/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/Human_Hematopoietic_Profiling/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/Human_Hematopoietic_Profiling/10x/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
   "HCA Human Pancreas": [
@@ -1784,35 +1774,35 @@
   "HCA Human Tissue T cell Activation": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
-      "feature": "derived_organ_label"
+      "dataset": "HCA/HumanTissueTcellActivation/10x/category.tsv",
+      "feature": "main_category"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
-      "feature": "derived_organ_parts_label"
+      "dataset": "HCA/HumanTissueTcellActivation/10x/meta.tsv",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/HumanTissueTcellActivation/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/HumanTissueTcellActivation/10x/meta.tsv",
+      "feature": "louvain_labels"
     }
   ],
   "HCA Kidney Single Cell Atlas": [
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
-      "feature": "donor_organism.diseases.ontology_label"
+      "dataset": "HCA/KidneySingleCellAtlas/10x/category.txt",
+      "feature": "main_category"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
-      "feature": "derived_organ_parts_label"
+      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.txt",
+      "feature": "annotated_cell_identity.ontology_label"
     },
     {
       "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "HCA/KidneySingleCellAtlas/cells.tsv",
-      "feature": "genes_detected"
+      "dataset": "HCA/KidneySingleCellAtlas/10x/meta.txt",
+      "feature": "louvain_labels"
     }
   ],
   "HCA Single Cell Liver Landscape": [
