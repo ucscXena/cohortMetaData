@@ -1,0 +1,17 @@
+Xena's single cell browser is an online exploration tool for single cell RNA-seq data and associated meta-data and annotations. This browser connects to a Xena data hub that contains single-cell RNA sequencing data from the [Human Cell Atlas (HCA)](https://data.humancellatlas.org/) and other publications. It is built for performance, allowing you to dynamically view 1 million cells at a time. 
+
+Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell. Users interactively build their spreadsheet, enabling discovery across multiple genes and cell annotations.
+
+# Xena Single Cell Xena Hub is being updated. We will be back once the update is finished.
+updated April 15, 2020
+
+
+## [Beginner Tutorial: Reproducing the live example](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
+
+<br>
+
+## Looking forward
+
+This site currently supports the Visual Spreadsheet view and genomic signatures. We are actively working to support more Xena Browser functionalities. 
+
+<br>
