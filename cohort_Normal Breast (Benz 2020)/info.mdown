@@ -4,6 +4,4 @@ Since cancer-adjacent normal breast tissues commonly express an *Active* transcr
 
 <button class="cohortButton" data-bookmark="4618d22010817aedd9412fdc39f04f32">Example view: transcriptome signatures</button>
 
-## This is pre-publication data, you need to click on the "example view button" above to make the data accessible for visualization.
-
 [Improve this page](https://github.com/ucscXena/cohortMetaData/blob/master/cohort_Normal%20Breast%20(Benz%202020)/info.mdown) on github
