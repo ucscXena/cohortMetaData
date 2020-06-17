@@ -3,7 +3,8 @@
 <button class="cohortButton">Launch Xena</button>
 
 __[Project Page in HCA](https://data.humancellatlas.org/explore/projects/8185730f-4113-40d3-9cc3-929271784c2b)__<br>
-__[Analysis Description in SCP](https://singlecell.broadinstitute.org/single_cell/study/SCP737/hca-wongadultretina-retina-cumulus)__
+__[Analysis Description in SCP](https://singlecell.broadinstitute.org/single_cell/study/SCP737/hca-wongadultretina-retina-cumulus)__<br>
+Lukowski SW, et. al. [A single-cell transcriptome atlas of the adult human retina.](https://www.ncbi.nlm.nih.gov/pubmed/31436334) EMBO J. 2019
 
 ### About Xena
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
@@ -17,9 +18,6 @@ Click on the "Live view" above or the 'Visualize' button and follow the wizard. 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
 <br>
-
-### Publication
-Lukowski SW, et. al. [A single-cell transcriptome atlas of the adult human retina.](https://www.ncbi.nlm.nih.gov/pubmed/31436334) EMBO J. 2019
 
 [Improve this description](https://github.com/ucscXena/cohortMetaData/edit/master/cohort_HCA%20Adult%20Retina%20(Wong)/info.mdown) on github
 
