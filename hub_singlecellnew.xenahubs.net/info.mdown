@@ -15,6 +15,6 @@ The view displays expression profiles of 24 genes with two cell annotations from
 
 ## Looking forward
 
-This site currently supports the Visual Spreadsheet view and genomic signatures. We are actively working to support more Xena Browser functionalities. 
+This site currently supports the Visual Spreadsheet view, chart view, genomic signatures, as well as cell search, filter and subgrouping. We are actively working to support more Xena Browser functionalities. 
 
 <br>
