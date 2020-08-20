@@ -727,25 +727,29 @@
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "LAMP1 AGER FOXA2 NAPSA HOPX IGFBP2 SFTA3 NKX2-1 GATA6 ABCA3 SCGB3A1 AQP4 CLDN18 PGC SFTPD SFTPB SFTPC",
+      "fields": "= LAMP1 + AGER + FOXA2 + NAPSA + HOPX + IGFBP2 + SFTA3 + NKX2-1 + GATA6 + ABCA3 + SCGB3A1 + AQP4 + CLDN18 + PGC + SFTPD + SFTPB + SFTPC",
+      "fieldLabel": "Avelolar Signature score",
       "label": "Avelolar Signature"
     },
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "IDO1 KYNU QPRT",
+      "fields": "= IDO1 + KYNU + QPRT",
+      "fieldLabel": "Kynurenine Signature score",
       "label": "Kynurenine Signature"
     },
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "ANXA2 PLAT PLAUR PLAU",
+      "fields": "= ANXA2 + PLAT + PLAUR + PLAU",
+      "fieldLabel": "Plasminogen Activating Signature score",
       "label": "Plasminogen Activating Signature"
     },
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
       "host": "https://preview.xenahubs.net",
-      "fields": "GJB2 GJB3 GJB4 GJB5",
+      "fields": "= GJB2 + GJB3 + GJB4 + GJB5",
+      "fieldLabel": "Gap Junction Signature score",
       "label": "Gap Junction Signature"
     }
   ]
