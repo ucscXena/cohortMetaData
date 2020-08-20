@@ -723,6 +723,30 @@
       "host": "https://preview.xenahubs.net",
       "fields": "CD2 CD3D CD3E CD3G MARCO CSF1R CD68 GLDN APOE CCL3L1 TREM2 C1QB NUPR1 FOLR2 RNASE1 C1QA CD1E CD1C FCER1A PKIB CYP2S1 NDRG2 CMA1 MS4A2 TPSAB1 TPSB2 IGLL5 MZB1 JCHAIN DERL3 SDC1 MS4A1 BANK1 PAX5 CD79A PRDM1 XBP1 IRF4 MS4A1 IRF8 ACTB GAPDH MALAT1 FCGR3B ALPL CXCR1 CXCR2 ADGRG3 CMTM2 PROK2 MME MMP25 TNFRSF10C SLC32A1 SHD LRRC26 PACSIN1 LILRA4 CLEC4C DNASE1L3 CLEC4C LRRC26 SCT LAMP5",
       "label": "Immune Markers expression"
+    },
+    {
+      "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "LAMP1 AGER FOXA2 NAPSA HOPX IGFBP2 SFTA3 NKX2-1 GATA6 ABCA3 SCGB3A1 AQP4 CLDN18 PGC SFTPD SFTPB SFTPC",
+      "label": "Avelolar Signature"
+    },
+    {
+      "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "IDO1 KYNU QPRT",
+      "label": "Kynurenine Signature"
+    },
+    {
+      "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "ANXA2 PLAT PLAUR PLAU",
+      "label": "Plasminogen Activating Signature"
+    },
+    {
+      "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
+      "host": "https://preview.xenahubs.net",
+      "fields": "GJB2 GJB3 GJB4 GJB5",
+      "label": "Gap Junction Signature"
     }
   ]
 }
