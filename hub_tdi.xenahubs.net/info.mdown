@@ -13,4 +13,4 @@ Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=090c
 <a href="/?bookmark=2840719fafe8c991b8a147ae6ce22041"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview.png" style="width:65%;"></a>
 <a href="/?bookmark=c8aa079f00e0e16e77108350d1c01ef2"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview_chart.png" style="width:30%;margin-left:10px"></a>
 
-[Improve this page](https://github.com/ucscXena/cohortMetaData/edit/master/hub_tdi.xenahubs.net/info.mdown) on github
+[Improve the above content](https://github.com/ucscXena/cohortMetaData/edit/master/hub_tdi.xenahubs.net/info.mdown) on github
