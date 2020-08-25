@@ -9,6 +9,6 @@ d etc., across 10,590 TCGA samples, including 9,890 tumor samples and 700 solid 
 
 Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=e08e4a15719ed17a218cefe0021f36b1) to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
 
-[<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=050712fc8125a80234d9fb7115270e80)<br>
-<a href="/?bookmark=050712fc8125a80234d9fb7115270e80"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview.png" style="width:65%;"></a>
-<a href="/?bookmark=6f0f41973f6ff1d7586b3f8a9704977e"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview_chart.png" style="width:30%;margin-left:10px"></a>
+[<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=2840719fafe8c991b8a147ae6ce22041)<br>
+<a href="/?bookmark=2840719fafe8c991b8a147ae6ce22041"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview.png" style="width:65%;"></a>
+<a href="/?bookmark=c8aa079f00e0e16e77108350d1c01ef2"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview_chart.png" style="width:30%;margin-left:10px"></a>
