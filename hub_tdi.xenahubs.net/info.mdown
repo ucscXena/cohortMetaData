@@ -9,10 +9,10 @@ d etc., across 10,590 TCGA samples, including 9,890 tumor samples and 700 solid 
 
 Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=090c3e39c007fee19ba68eb23afe04bb) to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
 
-<button class="hubButton" data-bookmark="cb84763e7bbee40a0e300c95677c72b5">Click Here</button> to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
+Click <button class="hubButton" data-bookmark="cb84763e7bbee40a0e300c95677c72b5">HERE</button> to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
 
 [<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=2840719fafe8c991b8a147ae6ce22041)<br>
 <a href="/?bookmark=2840719fafe8c991b8a147ae6ce22041"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview.png" style="width:65%;"></a>
 <a href="/?bookmark=c8aa079f00e0e16e77108350d1c01ef2"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview_chart.png" style="width:30%;margin-left:10px"></a>
 
-[Improve the above content](https://github.com/ucscXena/cohortMetaData/edit/master/hub_tdi.xenahubs.net/info.mdown) on github
+[Improve the above content](https://github.com/ucscXena/cohortMetaData/blob/master/hub_tdi.xenahubs.net/info.mdown) on github
