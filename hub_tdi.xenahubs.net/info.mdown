@@ -7,7 +7,7 @@ The analysis result will be published in a manuscript titled "<B>Pan-cancer anal
 This web site provides interactive visualization and exploration of these computationally-deconvoluted cell type estimates, together with other data in the TCGA cohort, such as TMB, MSI, gene expression, somatic mutation, an\
 d etc., across 10,590 TCGA samples, including 9,890 tumor samples and 700 solid tissue normals.
 
-Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=e08e4a15719ed17a218cefe0021f36b1) to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
+Click [<span style="color:#4ecdc4;font-weight:bold">HERE</span>](/?bookmark=090c3e39c007fee19ba68eb23afe04bb) to start exploring: select <b>"Phenotypic"</b> variable, then type "Leukocyte", "B cell" etc to <b>search</b> for them.
 
 [<span style="color:#4ecdc4"><u>Live view: estimates of leukocyte, stromal cell, T cell, B cell, fibroblast composition, as well as TMB and MSI scores in 9890 TCGA tumor samples</u></span>](/?bookmark=2840719fafe8c991b8a147ae6ce22041)<br>
 <a href="/?bookmark=2840719fafe8c991b8a147ae6ce22041"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_tdi.xenahubs.net/liveview.png" style="width:65%;"></a>
