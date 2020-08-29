@@ -1982,7 +1982,7 @@
       "feature": "WHO ALAL Classification"
     }
   ],
-  "Longitudinal Lung Cancer ScRNA (Bivona 2020)": [
+  "Longitudinal Lung Cancer scRNA (Bivona 2020)": [
     {
       "host": "https://preview.xenahubs.net",
       "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
