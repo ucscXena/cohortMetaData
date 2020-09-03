@@ -753,14 +753,14 @@
       "host": "https://preview.xenahubs.net",
       "fields": "MARCO CSF1R GLDN CCL3L1 TREM2 C1QB  FOLR2 C1QA",
       "fieldLabel": "MF-macrophage marker",
-      "label": "IMF-macrophage marker expression"
+      "label": "MF-macrophage marker expression"
     },
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
       "host": "https://singlecellnew.xenahubs.net",
       "fields": "MARCO CSF1R GLDN CCL3L1 TREM2 C1QB  FOLR2 C1QA",
       "fieldLabel": "MF-macrophage marker",
-      "label": "IMF-macrophage marker expression"
+      "label": "MF-macrophage marker expression"
     },
     {
       "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv",
