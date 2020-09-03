@@ -1995,8 +1995,8 @@
     },
     {
       "host": "https://preview.xenahubs.net",
-      "dataset": "lungCancerBivona/tcell_6cluster.tsv",
-      "feature": "T_cell_6_cluster"
+      "dataset": "lungCancerBivona/IM04_Tcells_Seurat_object_metadata.tsv",
+      "feature": "seurat_clusters_t_cell"
     },
     {
       "host": "https://preview.xenahubs.net",
