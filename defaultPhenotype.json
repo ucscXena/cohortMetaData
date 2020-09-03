@@ -1989,7 +1989,17 @@
       "feature": "general_annotation1"
     },
     {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
+      "feature": "general_annotation1"
+    },
+    {
       "host": "https://preview.xenahubs.net",
+      "dataset": "lungCancerBivona/celltype_annotation.txt",
+      "feature": "cell_type_annotation"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "lungCancerBivona/celltype_annotation.txt",
       "feature": "cell_type_annotation"
     },
@@ -1999,7 +2009,17 @@
       "feature": "seurat_clusters_t_cell"
     },
     {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "lungCancerBivona/IM04_Tcells_Seurat_object_metadata.tsv",
+      "feature": "seurat_clusters_t_cell"
+    },
+    {
       "host": "https://preview.xenahubs.net",
+      "dataset": "lungCancerBivona/IM03_MFs_Seurat_object_nodups_new_cluster.tsv",
+      "feature": "seurat_clusters_macrophage_monocyte"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "lungCancerBivona/IM03_MFs_Seurat_object_nodups_new_cluster.tsv",
       "feature": "seurat_clusters_macrophage_monocyte"
     },
@@ -2009,12 +2029,27 @@
       "feature": "analysis"
     },
     {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
+      "feature": "analysis"
+    },
+    {
       "host": "https://preview.xenahubs.net",
       "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
       "feature": "biopsy_site"
     },
     {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
+      "feature": "biopsy_site"
+    },
+    {
       "host": "https://preview.xenahubs.net",
+      "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
+      "feature": "patient_id"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
       "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
       "feature": "patient_id"
     }
