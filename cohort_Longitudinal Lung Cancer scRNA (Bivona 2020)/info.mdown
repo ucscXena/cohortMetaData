@@ -1,0 +1,24 @@
+# Therapy-Induced Evolution of Human Lung Cancer Revealed by Single-Cell RNA Sequencing
+
+<button class="cohortButton">Launch Xena</button>
+
+## Publication:
+Maynard A, et. al. [Therapy-Induced Evolution of Human Lung Cancer Revealed by Single-Cell RNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/32822576/) Cell 2020
+
+### About Xena
+Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
+
+A live view of cell clutsters and marker genes for rod cells, bipolar neurons and Mueller cells
+<a href='/?columns=%5B%7B%22width%22%3A117%2C%22columnLabel%22%3A%22%22%2C%22fieldLabel%22%3A%22louvain_labels%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22name%22%3A%22HCA%2FWongAdultRetina%2F10x%2Fmeta.tsv%22%2C%22fields%22%3A%22louvain_labels%22%7D%2C%7B%22width%22%3A203%2C%22columnLabel%22%3A%22scRNA-seq%20gene%20expression%20-%20Cumulus%20count%22%2C%22fieldLabel%22%3A%22RP1%2C%20NR2E3%2C%20PDE6A%2C%20ARL4D%2C%20EPB41L2%2C%20AHI1%2C%20RIMS2%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22name%22%3A%22HCA%2FWongAdultRetina%2F10x%2FexprMatrix.tsv%22%2C%22fields%22%3A%22RP1%20NR2E3%20PDE6A%20ARL4D%20EPB41L2%20AHI1%20RIMS2%22%7D%2C%7B%22width%22%3A216%2C%22columnLabel%22%3A%22scRNA-seq%20gene%20expression%20-%20Cumulus%20count%22%2C%22fieldLabel%22%3A%22CADPS%2C%20GNG13%2C%20PCDH9%2C%20VSX1%2C%20SLC38A1%2C%20LRTM1%2C%20CAMK2B%2C%20CHN2%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22name%22%3A%22HCA%2FWongAdultRetina%2F10x%2FexprMatrix.tsv%22%2C%22fields%22%3A%22CADPS%20GNG13%20PCDH9%20VSX1%20SLC38A1%20LRTM1%20CAMK2B%20CHN2%22%7D%2C%7B%22width%22%3A207%2C%22columnLabel%22%3A%22scRNA-seq%20gene%20expression%20-%20Cumulus%20count%22%2C%22fieldLabel%22%3A%22GPX3%2C%20CLU%2C%20GLUL%2C%20VIM%2C%20APOE%2C%20CRABP1%2C%20PTGDS%2C%20MT2A%22%2C%22host%22%3A%22https%3A%2F%2Fsinglecellnew.xenahubs.net%22%2C%22name%22%3A%22HCA%2FWongAdultRetina%2F10x%2FexprMatrix.tsv%22%2C%22fields%22%3A%22GPX3%20CLU%20GLUL%20VIM%20APOE%20CRABP1%20PTGDS%20MT2A%22%7D%5D&heatmap=%7B%22showWelcome%22%3Afalse%2C%22mode%22%3A%22heatmap%22%7D'><img src="https://github.com/ucscXena/cohortMetaData/raw/master/cohort_HCA%20Adult%20Retina%20(Wong)/HCA%20Adult%20Retina%20(Wong).png" width="800px"></a>
+
+### To visualize
+Click on the "Live view" above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+
+### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
+
+<br>
+
+[Improve this description](https://github.com/ucscXena/cohortMetaData/edit/master/cohort_Longitudinal%20Lung%20Cancer%20scRNA%20(Bivona%202020)/info.mdown) on github
+
+<br>
+
