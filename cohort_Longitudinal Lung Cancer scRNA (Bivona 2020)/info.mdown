@@ -9,7 +9,7 @@ Maynard A, et. al. [Therapy-Induced Evolution of Human Lung Cancer Revealed by S
 Xena's Visual Spreadsheet is analogous to an office spreadsheet: it is a visual representation of a data grid where each column is a slice of genomic data (e.g. a gene or a set of genes' expression, inferred cell type, cell location), and each row is a single cell.
 
 ### To visualize
-Click on the "Live view" above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+Click on the "Launch Xena" above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
 
 ### [More information on how to use Xena](https://ucsc-xena.gitbook.io/project/tutorials/hca-tutorial)
 
