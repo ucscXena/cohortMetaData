@@ -1,1 +1,14 @@
 
+# Highly multiplexed immunofluorescence imaging of human tissues and tumors using t-CyCIF and conventional optical microscopes
+
+<button class="cohortButton">Launch Xena</button>
+
+## Publication:
+Lin J, et. al. [Highly multiplexed immunofluorescence imaging of human tissues and tumors using t-CyCIF and conventional optical microscopes](https://lincs.hms.harvard.edu/lin-elife-2018/) elif 2018
+
+### To visualize
+Click on the "Launch Xena" above or the 'Visualize' button and follow the wizard. You can view phenotype information like cell type, as well as gene expression for a single gene or set of genes.
+
+[Improve this description](https://github.com/ucscXena/cohortMetaData/edit/master/cohort_Longitudinal%20Lung%20Cancer%20scRNA%20(Bivona%202020)/info.mdown) on github
+
+<br>
