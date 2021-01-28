@@ -1,0 +1,4 @@
+#The Cancer Genome Atlas
+[The Cancer Genome Atlas (TCGA)](https://cancergenome.nih.gov/abouttcga/overview), a collaboration between the National Cancer Institute (NCI) and National Human Genome Research Institute (NHGRI), has generated comprehensive, multi-dimensional maps of the key genomic changes in 33 types of cancer. The TCGA dataset, describing tumor tissue and matched normal tissues from more than 11,000 patients, is publically available and has been used widely by the research community. The data have contributed to more than a thousand studies of cancer by independent researchers and to the TCGA research network publications.
+
+Data on this hub is derived from files download from TCGA Data Coordinating Center (DCC) in Jan 2016, and [Broad Firehose](https://gdac.broadinstitute.org/) (analyses 2016-01-28).
