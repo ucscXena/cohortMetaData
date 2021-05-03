@@ -15,7 +15,7 @@ John Vivian, Arjun Arkal Rao, Frank Austin Nothaft, Christopher Ketchum, Joel Ar
 ```
 
 ## Live example
-####[<span style="color:#4ecdc4"><u>Differential gene and isoform expression of FOXM1 transcription factor in TCGA vs. GTEx</u></span>](/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01)</span>
+#### [<span style="color:#4ecdc4"><u>Differential gene and isoform expression of FOXM1 transcription factor in TCGA vs. GTEx</u></span>](/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01)</span>
 
 <a href="/heatmap/?bookmark=bc7f3f46b042bcf5c099439c2816ff01"><img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_toil.xenahubs.net/FOXM1.png" width="600"></a>
 
