@@ -53,7 +53,9 @@ The RNA-seq CGL pipeline is shown below.  CutAdapt was used for adapter trimming
 * RSEM
     * `sudo docker run -v $(pwd):/data --entrypoint=rsem-prepare-reference jvivian/rsem -p 4 --gtf gencode.v23.annotation.gtf hg38.fa hg38`
 
-## Raw data
+## Raw gene and transcript level expression data
+Please contact UCSC Xena
+
 [Nature Publication Supplementary Note 7 – Data Availability ](https://static-content.springer.com/esm/art%3A10.1038%2Fnbt.3772/MediaObjects/41587_2017_BFnbt3772_MOESM2_ESM.pdf)
 
 ## Submitter sample ID to Xena sample ID mapping
