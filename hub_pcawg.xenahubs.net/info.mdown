@@ -30,7 +30,7 @@ The Xena Visual Spreadsheet shows that the ERG fusion detected in PCAWG RNAseq a
 
 [Nature landing page](https://www.nature.com/collections/pcawg/) - Explore PCAWG publications
 
-[A user's guide to the online resources for data exploration, visualization, and discovery for the Pan-Cancer Analysis of Whole Genomes project (PCAWG)](https://doi.org/10.1101/163907)
+[A user guide for the online exploration and visualization of PCAWG data](https://www.nature.com/articles/s41467-020-16785-6) Nature Communications volume 11, Article number: 3400 (2020)
 
 ### Publication Policy
 <a href="https://dcc.icgc.org/pcawg">https://dcc.icgc.org/pcawg</a><br>
