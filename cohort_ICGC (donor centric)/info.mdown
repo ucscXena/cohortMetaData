@@ -1,0 +1,1 @@
+The genomic data in this cohort was combined for all specimens from a donor. For the segmented copy number data, all segments were put into one file and then displayed. All averaging happens in the display. For the mutation data, all mutations were put into a single file and then displayed. All mutations from all specimens are displayed together.
