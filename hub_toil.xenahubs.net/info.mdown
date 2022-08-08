@@ -21,9 +21,9 @@ John Vivian, Arjun Arkal Rao, Frank Austin Nothaft, Christopher Ketchum, Joel Ar
 
 ## Datasets
 We chose unaligned RNA samples from 3 datasets
-1. The Cancer Genome Atlas (TCGA)
-2. Genotype-Tissue Expression (GTEx)
-3. Therapeutically Applicable Research To Generate Effective Treatments (TARGET)
+1. [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
+2. [Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/)
+3. [Therapeutically Applicable Research To Generate Effective Treatments (TARGET)](https://ocg.cancer.gov/programs/target)
 
 <img src="https://github.com/ucscXena/cohortMetaData/raw/master/hub_toil.xenahubs.net/Datasets.png" width="400px">
 
