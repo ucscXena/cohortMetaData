@@ -1,0 +1,1 @@
+This cohort contains data from [GTEx](https://gtexportal.org/home/) from 2017, generated as part of the [UCSC Toil RNAseq Recompute](https://xenabrowser.net/datapages/?host=https%3A%2F%2Ftoil.xenahubs.net). The group the generated the UCSC Recompute currently has no plans to update the data from TCGA, TARGET, or GTEx.
