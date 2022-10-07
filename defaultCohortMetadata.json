@@ -9,6 +9,7 @@ cohortList = [
       "name": "ST_Visium_exprMatrix.tsv"
     }],
     "url": "https://pubmed.ncbi.nlm.nih.gov/32579974/",
-    "publicationTitle" : "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma"
+    "publicationTitle" : "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
+    "abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer."
   }
 ]
