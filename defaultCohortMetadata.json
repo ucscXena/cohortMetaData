@@ -1,0 +1,14 @@
+cohortList = [
+  {
+    "cohort": "cSCC",
+    "label": "cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
+    "donorNumber": 2,
+    "preferredDataset": [
+    {
+      "host": "https://preview.xenahubs.net",
+      "name": "ST_Visium_exprMatrix.tsv"
+    }],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32579974/",
+    "publicationTitle" : "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma"
+  }
+]
