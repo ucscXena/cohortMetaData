@@ -1,5 +1,5 @@
 {
-  cohortList: [
+  "cohortList": [
     {
       "cohort": "cSCC",
       "label": "cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
