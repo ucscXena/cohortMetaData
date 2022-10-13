@@ -7,11 +7,24 @@
       "preferredDataset": [
       {
         "host": "https://preview.xenahubs.net",
-        "name": "ST_Visium_exprMatrix.tsv"
+        "name": "cSCC/ST_Visium_exprMatrix.tsv"
       }],
       "url": "https://pubmed.ncbi.nlm.nih.gov/32579974/",
       "publicationTitle" : "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
       "abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer."
+    },
+    {
+      "cohort": "follicular_remodeling",
+      "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
+      "donorNumber": 5,
+      "preferredDataset": [
+      {
+        "host": "https://preview.xenahubs.net",
+        "name": "follicular_remodeling/exprMatrix.tsv"
+      }],
+      "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058",
+      "publicationTitle" : "Single-cell reconstruction of follicular remodeling in the human adult ovary",
+      "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility."
     }
   ]
 }
