@@ -26,5 +26,21 @@
       "publicationTitle" : "Single-cell reconstruction of follicular remodeling in the human adult ovary",
       "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility."
     }
+  ],
+  integrationCohortList: [
+    {
+      "cohort": "Goltsev_Govek",
+      "label": "Integration mouse spleen Goltsev et al and Govek et al",
+      "subCohort": [
+        {
+          "name": "Govek_CITEseq",
+          "displayLabel": "CITE-seq (Govek et al Science Adv 2021)"
+        },
+        {
+          "name": "Goltsev_CODEX",
+          "displayLabel": "CODEX (Goltsev et al Cell 2018)"
+        }
+      ]
+    }
   ]
 }
