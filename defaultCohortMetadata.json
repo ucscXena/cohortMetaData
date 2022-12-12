@@ -2,7 +2,7 @@
   "cohortList": [
     {
       "cohort": "cSCC",
-      "label": "cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
+      "label": "Cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
       "donorNumber": 2,
       "preferredDataset": [
       {
@@ -30,7 +30,7 @@
   "integrationCohortList": [
     {
       "cohort": "Goltsev_Govek",
-      "label": "Integration mouse spleen Goltsev et al and Govek et al",
+      "label": "Mouse spleen",
       "subCohort": [
         {
           "name": "Govek_CITEseq",
