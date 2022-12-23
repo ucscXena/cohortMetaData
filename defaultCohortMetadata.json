@@ -28,39 +28,54 @@
       "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
       "donorNumber": 5,
       "preferredDataset": [
-      {
-        "host": "https://preview.xenahubs.net",
-        "name": "follicular_remodeling/exprMatrix.tsv"
-      }],
-      "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058",
-      "publicationTitle" : "Single-cell reconstruction of follicular remodeling in the human adult ovary",
-      "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility."
+        {
+          "host": "https://preview.xenahubs.net",
+          "name": "follicular_remodeling/exprMatrix.tsv"
+        }
+      ],
+      "publication": [
+        {
+          "title" : "Single-cell reconstruction of follicular remodeling in the human adult ovary",
+          "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
+          "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
+        }
+      ]  
     },
     {
       "cohort": "Govek_CITEseq",
       "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
       "donorNumber": 5,
       "preferredDataset": [
-      {
-        "host": "https://preview.xenahubs.net",
-        "name": "Govek_CITEseq/citeseq_ADT.tsv"
-      }],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766",
-      "publicationTitle" : "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
-      "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ."
+        {
+          "host": "https://preview.xenahubs.net",
+          "name": "Govek_CITEseq/citeseq_ADT.tsv"
+        }
+      ],
+      "publication": [
+        {
+          "title" : "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
+        }
+      ]
     },
     {
       "cohort": "Goltsev_CODEX",
       "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
       "donorNumber": 3,
       "preferredDataset": [
-      {
-        "host": "https://preview.xenahubs.net",
-        "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
-      }],
-      "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1",
-      "publicationTitle" : "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
-      "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples."
+        {
+          "host": "https://preview.xenahubs.net",
+          "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
+        }
+      ],
+      "publication": [
+        {
+          "title" : "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
+          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",    
+          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1" 
+        }
+      ]  
     }
   ],
   "integrationCohortList": [
