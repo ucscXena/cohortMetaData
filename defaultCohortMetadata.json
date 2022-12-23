@@ -85,11 +85,11 @@
       "subCohort": [
         {
           "name": "Govek_CITEseq",
-          "displayLabel": "CITE-seq (Govek et al Science Adv 2021)"
+          "displayLabel": "(Govek et al Science Adv 2021)"
         },
         {
           "name": "Goltsev_CODEX",
-          "displayLabel": "CODEX (Goltsev et al Cell 2018)"
+          "displayLabel": "(Goltsev et al Cell 2018)"
         }
       ]
     }
