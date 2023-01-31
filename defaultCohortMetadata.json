@@ -23,7 +23,8 @@
         }
       ]
     },
-    "cohort": "cSCC scRNA-seq",
+    {
+      "cohort": "cSCC scRNA-seq",
       "label": "Cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
       "donorNumber": 10,
       "preferredDataset": [
