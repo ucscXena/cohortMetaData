@@ -2,7 +2,7 @@
   "cohortList": [
     {
       "cohort": "cSCC",
-      "label": "Cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020, Chen et al BioRxiv 2022)",
+      "label": "cSCC Spatial Transcriptomics (Ji et al Cell 2020, Chen et al BioRxiv 2022)",
       "donorNumber": 2,
       "preferredDataset": [
         {
@@ -25,7 +25,7 @@
     },
     {
       "cohort": "cSCC scRNA-seq",
-      "label": "Cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020)",
+      "label": "cSCC single cell RNA-seq",
       "donorNumber": 10,
       "preferredDataset": [
         {
