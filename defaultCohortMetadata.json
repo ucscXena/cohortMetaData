@@ -110,6 +110,20 @@
           "displayLabel": "(Goltsev et al Cell 2018)"
         }
       ]
+    },
+    {
+      "cohort": "cSCC_ST_scRNAseq",
+      "label": "Cutaneous squamous cell carcinoma cSCC (Ji et al Cell 2020, Chen et al BioRxiv 2022)",
+      "subCohort": [
+        {
+          "cohort": "cSCC",
+          "displayLabel": "Spatial Transcriptomics"
+        },
+        {
+          "cohort": "cSCC scRNA-seq",
+          "displayLabel": "single cell RNA-seq"
+        }
+      ]
     }
   ]
 }
