@@ -25,6 +25,7 @@
               "host": "https://preview.xenahubs.net",
               "name": "cSCC/ST_Visium_exprMatrix.tsv"
             }
+          ]
         },
         {
           "cohort": "cSCC scRNA-seq",
