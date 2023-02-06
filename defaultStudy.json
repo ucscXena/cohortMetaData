@@ -15,7 +15,6 @@
 			],
 			"cohortList": [{
 					"cohort": "cSCC",
-					"displayLabel": "Spatial Transcriptomics",
 					"donorNumber": 2,
 					"preferredDataset": [{
 						"host": "https://preview.xenahubs.net",
@@ -24,7 +23,6 @@
 				},
 				{
 					"cohort": "cSCC scRNA-seq",
-					"displayLabel": "single cell RNA-seq",
 					"donorNumber": 10,
 					"preferredDataset": [{
 						"host": "https://preview.xenahubs.net",
