@@ -62,5 +62,28 @@
           ]
         }
       ]
+    },
+    {
+      "study": "Govek_CITEseq",
+      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
+      "publication": [
+        {
+          "title" : "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
+        }
+      ],
+      "cohortList":[
+        {
+          "cohort":"Govek_CITEseq",
+           "donorNumber": 5,
+           "preferredDataset": [
+            {
+            "host": "https://preview.xenahubs.net",
+            "name": "Govek_CITEseq/citeseq_ADT.tsv"
+            }
+          ]
+        }
+      ]
     }
 ]
