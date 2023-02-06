@@ -109,5 +109,20 @@
         }
       ]
     }
-  ]
+  ],
+  "integrationStudyList": [
+    {
+      "study": "Goltsev_Govek",
+      "label": "Mouse spleen",
+      "subStudy": [
+        {
+          "study": "Govek_CITEseq",
+          "displayLabel": "(Govek et al Science Adv 2021)"
+        },
+        {
+          "study": "Goltsev_CODEX",
+          "displayLabel": "(Goltsev et al Cell 2018)"
+        }
+      ]
+    },
 }
