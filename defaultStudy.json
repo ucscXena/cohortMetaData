@@ -39,5 +39,28 @@
           ]
         },
       ]
+    },
+    {
+      "study": "follicular_remodeling",
+      "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
+      "publication": [
+        {
+          "title" : "Single-cell reconstruction of follicular remodeling in the human adult ovary",
+          "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
+          "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
+        }
+      ],
+      "cohortList":[
+        {
+          "cohort": "follicular_remodeling",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "https://preview.xenahubs.net",
+              "name": "follicular_remodeling/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
     }
 ]
