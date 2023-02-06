@@ -85,5 +85,28 @@
           ]
         }
       ]
+    },
+    {
+      "study": "Goltsev_CODEX",
+      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
+      "publication": [
+        {
+          "title" : "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
+          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",    
+          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1" 
+        }
+      ],
+      "cohortList":[
+        {
+          "cohort":"Goltsev_CODEX",
+          "donorNumber": 3,
+          "preferredDataset": [
+            {
+              "host": "https://preview.xenahubs.net",
+              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
+            }
+          ]
+        }
+      ]
     }
 ]
