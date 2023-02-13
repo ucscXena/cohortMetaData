@@ -81,19 +81,19 @@
 					"name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
 				}]
 			}]
+		},
+		{
+			"study": "Goltsev_Govek",
+			"label": "Mouse spleen",
+			"subStudy": [{
+					"studyID": "Govek_CITEseq",
+					"displayLabel": "(Govek et al Science Adv 2021)"
+				},
+				{
+					"studyID": "Goltsev_CODEX",
+					"displayLabel": "(Goltsev et al Cell 2018)"
+				}
+			]
 		}
-	],
-	"integrationStudyList": [{
-		"study": "Goltsev_Govek",
-		"label": "Mouse spleen",
-		"subStudy": [{
-				"study": "Govek_CITEseq",
-				"displayLabel": "(Govek et al Science Adv 2021)"
-			},
-			{
-				"study": "Goltsev_CODEX",
-				"displayLabel": "(Goltsev et al Cell 2018)"
-			}
-		]
-	}]
+	]
 }
