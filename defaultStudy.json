@@ -131,6 +131,29 @@
 			]
 		},
 		{
+			"study": "Melanoma_immunotherapy_resistance",
+			"label": "Melanoma immunotherapy resistance (Jerby-Arnon cell 2018)",
+			"publication": [
+				{
+					"title": "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade",
+					"abstract": "mmune checkpoint inhibitors (ICIs) produce durable responses in some melanoma patients, but many patients derive no clinical benefit, and the molecular underpinnings of such resistance remain elusive. Here, we leveraged single-cell RNA sequencing (scRNA-seq) from 33 melanoma tumors and computational analyses to interrogate malignant cell states that promote immune evasion. We identified a resistance program expressed by malignant cells that is associated with T cell exclusion and immune evasion. The program is expressed prior to immunotherapy, characterizes cold niches in situ, and predicts clinical responses to anti-PD-1 therapy in an independent cohort of 112 melanoma patients. CDK4/6-inhibition represses this program in individual malignant cells, induces senescence, and reduces melanoma tumor outgrowth in mouse models in vivo when given in combination with immunotherapy. Our study provides a high-resolution landscape of ICI-resistant cell states, identifies clinically predictive signatures, and suggests new therapeutic strategies to overcome immunotherapy resistance.",
+					"url": "https://www.cell.com/cell/fulltext/S0092-8674(18)31178-4"
+				}
+			],
+			"cohortList": [
+				{
+					"cohort": "Melanoma scRNA-seq (Jerby-Arnon cell 2018)",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "melanoma_Jerby-Arnon/tumors_tpm.txt"
+						}
+					]
+				}
+			]
+		},
+		{
 			"study": "Goltsev_Govek",
 			"label": "Mouse spleen",
 			"subStudy": [
