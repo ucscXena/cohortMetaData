@@ -109,7 +109,7 @@
 		},
 		{
 			"study": "Atlas_melanoma_MEL08",
-			"label": "HTA Melanoma ATLAS (Ajit el al Cancer Discovery 2022)",
+			"label": "HTA Melanoma ATLAS (Ajit Cancer Discovery 2022)",
 			"publication": [
 				{
 					"title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
@@ -159,11 +159,11 @@
 			"subStudy": [
 				{
 					"studyID": "Govek_CITEseq",
-					"displayLabel": "(Govek et al Science Adv 2021)"
+					"displayLabel": "(Govek Science Adv 2021)"
 				},
 				{
 					"studyID": "Goltsev_CODEX",
-					"displayLabel": "(Goltsev et al Cell 2018)"
+					"displayLabel": "(Goltsev Cell 2018)"
 				}
 			]
 		},
@@ -173,7 +173,7 @@
 			"subStudy": [
 				{
 					"studyID": "Atlas_melanoma_MEL08",
-					"displayLabel": "HTA Melanoma ATLAS (Ajit el al Cancer Discovery 2022)"
+					"displayLabel": "HTA Melanoma ATLAS (Ajit Cancer Discovery 2022)"
 				},
 				{
 					"studyID": "Melanoma_immunotherapy_resistance",
