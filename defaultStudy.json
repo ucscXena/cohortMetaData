@@ -32,7 +32,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/scRNAseq_counts.txt"
+							"name": "cSCC/scRNAseq_counts_log2.txt"
 						}
 					]
 				}
