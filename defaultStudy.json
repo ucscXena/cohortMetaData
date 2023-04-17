@@ -109,7 +109,7 @@
 		},
 		{
 			"study": "Atlas_melanoma_MEL08",
-			"label": "HTA Melanoma ATLAS (Ajit Cancer Discovery 2022)",
+			"label": "HTAN Melanoma ATLAS (Ajit Cancer Discovery 2022)",
 			"publication": [
 				{
 					"title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
@@ -173,7 +173,7 @@
 			"subStudy": [
 				{
 					"studyID": "Atlas_melanoma_MEL08",
-					"displayLabel": "HTA Melanoma ATLAS (Ajit Cancer Discovery 2022)"
+					"displayLabel": "HTAN Melanoma ATLAS (Ajit Cancer Discovery 2022)"
 				},
 				{
 					"studyID": "Melanoma_immunotherapy_resistance",
