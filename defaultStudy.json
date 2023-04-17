@@ -78,7 +78,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "Govek_CITEseq/citeseq_ADT.tsv"
+							"name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
 						}
 					]
 				}
