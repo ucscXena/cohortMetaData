@@ -87,6 +87,10 @@
 						{
 							"host": "https://preview.xenahubs.net",
 							"name": "Govek_CITEseq/citeseq_ADT.tsv"
+						},
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "Govek_CITEseq/citeseq_mRNA.tsv"
 						}
 					]
 				}
