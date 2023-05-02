@@ -166,6 +166,29 @@
 			]
 		},
 		{
+			"study": "zebrahub",
+			"label": "Zebrahub",
+			"publication": [
+				{
+					"title": "Zebrahub sequencing and imaging atlas of zebrafish development",
+					"abstract": "Zebrahub is a comprehensive atlas of zebrafish embryonic development that combines single-cell RNA sequencing and live light-sheet imaging. Its aim is to provide a complete cartography of cellular lineages in space, time, and molecular domains, an essential step toward understanding how organisms develop.<br><br>Our ultimate goal is to create a high-quality multimodal foundational resource of vertebrate development and make it broadly available to the scientific community.",
+					"url": "https://zebrahub.ds.czbiohub.org/"
+				}
+			],
+			"cohortList": [
+				{
+					"cohort": "zebrahub",
+					"donorNumber": 40,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "zebrahub/exprMatrix.tsv"
+						}
+					]
+				}
+			]
+		},
+		{
 			"study": "Goltsev_Govek",
 			"label": "Mouse spleen",
 			"subStudy": [
