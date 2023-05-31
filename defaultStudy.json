@@ -41,8 +41,7 @@
 					]
 				},
 				{
-					"cohort": "cSCC_scRNAseq_visium",
-					"preferredDataset": []
+					"cohort": "cSCC_scRNAseq_visium"
 				}
 			]
 		},
