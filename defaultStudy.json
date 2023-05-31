@@ -41,7 +41,7 @@
 					]
 				},
 				{
-					"cohort": "cSCC_scRNAseq_visium".
+					"cohort": "cSCC_scRNAseq_visium",
 					"donorNumber": 10,
 					"preferredDataset": []
 				}
