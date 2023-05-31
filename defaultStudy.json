@@ -39,6 +39,11 @@
 							"name": "cSCC/scRNAseq_counts.txt"
 						}
 					]
+				},
+				{
+					"cohort": "cSCC_scRNAseq_visium",
+					"donorNumber": 10,
+					"preferredDataset": []
 				}
 			]
 		},
