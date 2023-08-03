@@ -171,22 +171,6 @@
 			]
 		},
 		{
-			"study": "TCGA",
-			"label": "TCGA single cell",
-			"cohortList": [
-				{
-					"cohort": "TCGA single cell",
-					"donorNumber": 89,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "TCGA/trim_count.log2.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
 			"study": "zebrahub",
 			"label": "Zebrahub",
 			"publication": [
