@@ -189,97 +189,49 @@
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA BRCA",
-			"label": "TCGA BRCA single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA BRCA single cell",
                                         "donorNumber": 9,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA LUSC",
-			"label": "TCGA LUSC single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA LUSC single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA HNSC",
-			"label": "TCGA HNSC single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA HNSC single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA SKCM",
-			"label": "TCGA SKCM single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA SKCM single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA LIHC",
-			"label": "TCGA LIHC single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA LIHC single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA LUAD",
-			"label": "TCGA LUAD single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA LUAD single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA BLCA",
-			"label": "TCGA BLCA single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA LUAD single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA PRAD",
-			"label": "TCGA PRAD single cell",
-			"cohortList": [
+				},
 				{
                                  	"cohort": "TCGA PRAD single cell",
                                         "donorNumber": 10,
