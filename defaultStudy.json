@@ -271,6 +271,18 @@
 			]
 		},
 		{
+                 	"study": "TCGA PRAD",
+			"label": "TCGA PRAD single cell",
+			"cohortList": [
+				{
+                                 	"cohort": "TCGA PRAD single cell",
+                                        "donorNumber": 10,
+                                        "preferredDataset": [
+					]
+				}
+			]
+		},
+		{
 			"study": "zebrahub",
 			"label": "Zebrahub",
 			"publication": [
