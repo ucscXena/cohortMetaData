@@ -235,6 +235,18 @@
 			]
 		},
 		{
+                 	"study": "TCGA LIHC",
+			"label": "TCGA LIHC single cell",
+			"cohortList": [
+				{
+                                 	"cohort": "TCGA LIHC single cell",
+                                        "donorNumber": 10,
+                                        "preferredDataset": [
+					]
+				}
+			]
+		},
+		{
 			"study": "zebrahub",
 			"label": "Zebrahub",
 			"publication": [
