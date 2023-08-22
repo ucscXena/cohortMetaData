@@ -183,6 +183,12 @@
                                                         "name": "TCGA/trim_count.log2.tsv"
                                                 }
 					]
+				},
+				{
+                                 	"cohort": "TCGA PAAD single cell",
+                                        "donorNumber": 10,
+                                        "preferredDataset": [
+					]
 				}
 			]
 		},
