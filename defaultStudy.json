@@ -253,6 +253,20 @@
 					"cohort": "Integration melanoma (scRNA-seq, t-CycIF)"
 				}
 			]
-		}
+		},
+		{
+			"study": "TCGA single cell",
+			"label": "TCGA single cell",
+			"subStudy": [
+				{
+					"studyID": "TCGA single cell",
+					"displayLabel": "TCGA single cell"
+				},
+				{
+					"studyID": "TCGA BRCA single cell",
+					"displayLabel": "TCGA BRCA single cell"
+				}
+			]
+		},
 	]
 }
