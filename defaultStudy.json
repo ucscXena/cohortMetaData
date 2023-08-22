@@ -227,7 +227,7 @@
 					]
 				},
 				{
-                                 	"cohort": "TCGA LUAD single cell",
+                                 	"cohort": "TCGA BLCA single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
 					]
