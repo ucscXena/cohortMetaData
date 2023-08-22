@@ -199,6 +199,18 @@
 			]
 		},
 		{
+                 	"study": "TCGA LUSC",
+			"label": "TCGA LUSC single cell",
+			"cohortList": [
+				{
+                                 	"cohort": "TCGA LUSC single cell",
+                                        "donorNumber": 10,
+                                        "preferredDataset": [
+					]
+				}
+			]
+		},
+		{
 			"study": "zebrahub",
 			"label": "Zebrahub",
 			"publication": [
@@ -253,20 +265,6 @@
 					"cohort": "Integration melanoma (scRNA-seq, t-CycIF)"
 				}
 			]
-		},
-		{
-			"study": "TCGA single cell",
-			"label": "TCGA single cell",
-			"subStudy": [
-				{
-					"studyID": "TCGA",
-					"displayLabel": "TCGA 9 cancers"
-				},
-				{
-					"studyID": "TCGA BRCA",
-					"displayLabel": "TCGA BRCA"
-				}
-			]
-		},
+		}
 	]
 }
