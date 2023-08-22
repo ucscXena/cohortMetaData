@@ -259,12 +259,12 @@
 			"label": "TCGA single cell",
 			"subStudy": [
 				{
-					"studyID": "TCGA single cell",
-					"displayLabel": "TCGA single cell"
+					"studyID": "TCGA",
+					"displayLabel": "TCGA 9 cancers"
 				},
 				{
-					"studyID": "TCGA BRCA single cell",
-					"displayLabel": "TCGA BRCA single cell"
+					"studyID": "TCGA BRCA",
+					"displayLabel": "TCGA BRCA"
 				}
 			]
 		},
