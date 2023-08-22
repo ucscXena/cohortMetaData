@@ -223,6 +223,18 @@
 			]
 		},
 		{
+                 	"study": "TCGA SKCM",
+			"label": "TCGA SKCM single cell",
+			"cohortList": [
+				{
+                                 	"cohort": "TCGA SKCM single cell",
+                                        "donorNumber": 10,
+                                        "preferredDataset": [
+					]
+				}
+			]
+		},
+		{
 			"study": "zebrahub",
 			"label": "Zebrahub",
 			"publication": [
