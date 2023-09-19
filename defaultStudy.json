@@ -171,6 +171,29 @@
 			]
 		},
 		{
+			"study": "10x Visium Mouse Sagittal Anterior1",
+			"label": "10x Visium Mouse Sagittal Anterior1",
+			"publication": [
+				{
+					"title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
+					"abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
+					"url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
+				}
+			],
+			"cohortList": [
+				{
+					"cohort": "10x visium Mouse Sagittal Anterior1",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
+						}
+					]
+				}
+			]
+		},
+		{
                  	"study": "TCGA",
 			"label": "TCGA single cell",
 			"cohortList": [
