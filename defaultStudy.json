@@ -194,6 +194,29 @@
 			]
 		},
 		{
+			"study": "Vizgen MERFISH Mouse Brain Receptor Map",
+			"label": "MERFISH Mouse Brain Receptor Map (Vizgen demo dataset)",
+			"publication": [
+				{
+					"title": "MERFISH Mouse Brain Receptor Map",
+					"abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
+					"url": "https://info.vizgen.com/mouse-brain-map?submissionGuid=556602ae-7d8e-400d-998d-f01939580490"
+				}
+			],
+			"cohortList": [
+				{
+					"cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "VizgenDemo/S2R1/exprMatrix.tsv"
+						}
+					]
+				}
+			]
+		},
+		{
                  	"study": "TCGA",
 			"label": "TCGA single cell",
 			"cohortList": [
