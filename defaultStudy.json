@@ -213,6 +213,9 @@
 							"name": "VizgenDemo/S2R1/exprMatrix.tsv"
 						}
 					]
+				},
+				{
+					"cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
 				}
 			]
 		},
