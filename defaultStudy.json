@@ -195,7 +195,7 @@
 		},
 		{
 			"study": "Vizgen MERFISH Mouse Brain Receptor Map, integrated with Allen Brain scRNA-seq",
-			"label": "MERFISH Mouse Brain Receptor Map (Vizgen demo dataset)",
+			"label": "MERFISH Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
 			"publication": [
 				{
 					"title": "MERFISH Mouse Brain Receptor Map",
