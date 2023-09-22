@@ -231,10 +231,6 @@
 					]
 				},
 				{
-                                 	"cohort": "TCGA single cell blob",
-                                        "donorNumber": 0
-				},
-				{
                                  	"cohort": "TCGA PAAD single cell",
                                         "donorNumber": 10,
                                         "preferredDataset": [
