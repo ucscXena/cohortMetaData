@@ -190,7 +190,7 @@
 							"name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
 						}
 					]
-				}
+				},
 				{
 					"cohort":"Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
 				}
