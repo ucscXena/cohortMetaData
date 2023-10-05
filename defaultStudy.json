@@ -149,7 +149,7 @@
 		},
 		{
 			"study": "Melanoma_immunotherapy_resistance",
-			"label": "Melanoma immunotherapy resistance (Jerby-Arnon cell 2018)",
+			"label": "Melanoma immunotherapy resistance (Jerby-Arnon et al Cell 2018)",
 			"publication": [
 				{
 					"title": "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade",
@@ -224,7 +224,7 @@
 		},
 		{
 			"study": "High-plex immunofluorescence imaging and H&E of the same tissue section",
-			"label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
+			"label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers (Lin et al Nature Cancer 2023)",
 			"publication": [
 				{
 					"title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
