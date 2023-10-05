@@ -242,6 +242,16 @@
 							"name": "CRC/CRC01/P37_S29-CRC01.tsv"
 						}
 					]
+				},
+				{
+					"cohort": "CRC04 immunofluorescence H&E",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "CRC/CRC04/P37_S32-CRC04.tsv"
+						}
+					]
 				}
 			]
 		},
