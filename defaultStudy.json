@@ -37,7 +37,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/patient_2/center_nmfs/exprMatrix.tsv"
+							"name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
 						}
 					]
 				},
@@ -47,7 +47,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/patient_5/center_nmfs/exprMatrix.tsv"
+							"name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
 						}
 					]
 				},
@@ -57,7 +57,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/patient_9/center_nmfs/exprMatrix.tsv"
+							"name": "cSCC/paste/patient_9/center_nmfs/exprMatrix.tsv"
 						}
 					]
 				},
@@ -67,7 +67,7 @@
 					"preferredDataset": [
 						{
 							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/patient_10/center_nmfs/exprMatrix.tsv"
+							"name": "cSCC/paste/patient_10/center_nmfs/exprMatrix.tsv"
 						}
 					]
 				},
