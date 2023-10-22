@@ -2,12 +2,17 @@
 	"studyList": [
 		{
 			"study": "cSCC",
-			"label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Chen et al BioRxiv 2022)",
+			"label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
 			"publication": [
 				{
 					"title": "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
 					"abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer.",
 					"url": "https://pubmed.ncbi.nlm.nih.gov/32579974/"
+				},
+				{
+					"title": "Alignment and integration of spatial transcriptomics data",
+					"abstract": "Spatial transcriptomics (ST) measures mRNA expression across thousands of spots from a tissue slice while recording the two-dimensional (2D) coordinates of each spot. We introduce probabilistic alignment of ST experiments (PASTE), a method to align and integrate ST data from multiple adjacent tissue slices. PASTE computes pairwise alignments of slices using an optimal transport formulation that models both transcriptional similarity and physical distances between spots. PASTE further combines pairwise alignments to construct a stacked 3D alignment of a tissue. Alternatively, PASTE can integrate multiple ST slices into a single consensus slice. We show that PASTE accurately aligns spots across adjacent slices in both simulated and real ST data, demonstrating the advantages of using both transcriptional similarity and spatial information. We further show that the PASTE integrated slice improves the identification of cell types and differentially expressed genes compared with existing approaches that either analyze single ST slices or ignore spatial information.",
+					"url": "https://pubmed.ncbi.nlm.nih.gov/35577957/"
 				},
 				{
 					"title": "Visualizing somatic alterations in spatial transcriptomics data of skin cancer",
