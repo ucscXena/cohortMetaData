@@ -32,6 +32,46 @@
 					]
 				},
 				{
+					"cohort": "center_nmfs_patient_2_ST",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "cSCC/patient_2/center_nmfs/exprMatrix.tsv"
+						}
+					]
+				},
+				{
+					"cohort": "center_nmfs_patient_5_ST",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "cSCC/patient_5/center_nmfs/exprMatrix.tsv"
+						}
+					]
+				},
+								{
+					"cohort": "center_nmfs_patient_9_ST",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "cSCC/patient_9/center_nmfs/exprMatrix.tsv"
+						}
+					]
+				},
+				{
+					"cohort": "center_nmfs_patient_10_ST",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "cSCC/patient_10/center_nmfs/exprMatrix.tsv"
+						}
+					]
+				},
+				{
 					"cohort": "cSCC scRNA-seq",
 					"donorNumber": 10,
 					"preferredDataset": [
