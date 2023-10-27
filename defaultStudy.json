@@ -32,6 +32,16 @@
 					]
 				},
 				{
+					"cohort": "patient_2 center slide",
+					"donorNumber": 1,
+					"preferredDataset": [
+						{
+							"host": "https://preview.xenahubs.net",
+							"name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
+						}
+					]
+				},
+				{
 					"cohort": "center_nmfs_patient_5_ST",
 					"donorNumber": 1,
 					"preferredDataset": [
@@ -68,10 +78,6 @@
 						{
 							"host": "https://preview.xenahubs.net",
 							"name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
-						},
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
 						}
 					]
 				},
