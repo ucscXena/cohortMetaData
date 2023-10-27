@@ -68,7 +68,7 @@
 						{
 							"host": "https://preview.xenahubs.net",
 							"name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
-						}
+						},
 						{
 							"host": "https://preview.xenahubs.net",
 							"name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
