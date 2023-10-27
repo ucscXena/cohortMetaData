@@ -32,7 +32,7 @@
 					]
 				},
 				{
-					"cohort": "patient_2 center slide",
+					"cohort": "patient_2 center slice",
 					"donorNumber": 1,
 					"preferredDataset": [
 						{
