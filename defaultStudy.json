@@ -42,7 +42,7 @@
 					]
 				},
 				{
-					"cohort": "center_nmfs_patient_5_ST",
+					"cohort": "patient_5 center slice",
 					"donorNumber": 1,
 					"preferredDataset": [
 						{
@@ -52,7 +52,7 @@
 					]
 				},
 				{
-					"cohort": "center_nmfs_patient_9_ST",
+					"cohort": "patient_9 center slice",
 					"donorNumber": 1,
 					"preferredDataset": [
 						{
@@ -62,7 +62,7 @@
 					]
 				},
 				{
-					"cohort": "center_nmfs_patient_10_ST",
+					"cohort": "patient_10 center slice",
 					"donorNumber": 1,
 					"preferredDataset": [
 						{
