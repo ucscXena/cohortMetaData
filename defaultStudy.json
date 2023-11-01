@@ -208,7 +208,7 @@
 					"donorNumber": 1,
 					"preferredDataset": [
 						{
-							"host": "https://singlecellnew.xenahubs.net",
+							"host": "previewsinglecell.xenahubs.net",
 							"name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
 						}
 					]
