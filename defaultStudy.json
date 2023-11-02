@@ -1,647 +1,471 @@
 {
-	"studyList": [
-		{
-			"study": "cSCC",
-			"label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
-			"publication": [
-				{
-					"title": "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
-					"abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer.",
-					"url": "https://pubmed.ncbi.nlm.nih.gov/32579974/"
-				},
-				{
-					"title": "Alignment and integration of spatial transcriptomics data",
-					"abstract": "Spatial transcriptomics (ST) measures mRNA expression across thousands of spots from a tissue slice while recording the two-dimensional (2D) coordinates of each spot. We introduce probabilistic alignment of ST experiments (PASTE), a method to align and integrate ST data from multiple adjacent tissue slices. PASTE computes pairwise alignments of slices using an optimal transport formulation that models both transcriptional similarity and physical distances between spots. PASTE further combines pairwise alignments to construct a stacked 3D alignment of a tissue. Alternatively, PASTE can integrate multiple ST slices into a single consensus slice. We show that PASTE accurately aligns spots across adjacent slices in both simulated and real ST data, demonstrating the advantages of using both transcriptional similarity and spatial information. We further show that the PASTE integrated slice improves the identification of cell types and differentially expressed genes compared with existing approaches that either analyze single ST slices or ignore spatial information.",
-					"url": "https://pubmed.ncbi.nlm.nih.gov/35577957/"
-				},
-				{
-					"title": "Visualizing somatic alterations in spatial transcriptomics data of skin cancer",
-					"abstract": "Tools to visualize genetic alterations within tissues remain underdeveloped despite the growth of spatial transcriptomic technologies, which measure gene expression in different regions of tissues. Since genetic alterations can be detected in RNA-sequencing data, we explored the feasibility of observing somatic alterations in spatial transcriptomics data. Extracting genetic information from spatial transcriptomic data would illuminate the spatial distribution of clones and allow for correlations with regional changes in gene expression to support genotype- phenotype studies. Recent work demonstrates that copy number alterations can be inferred from spatial transcriptomics data1. Here, we describe new software to further enhance the inference of copy number from spatial transcriptomics data. Moreover, we demonstrate that single nucleotide variants are also detectable in spatial transcriptomic data. We applied these approaches to map the location of point mutations, copy number alterations, and allelic imbalances in spatial transcriptomic data of two cutaneous squamous cell carcinomas. We show that both tumors are dominated by a single clone of cells, suggesting that their regional variations in gene expression2 are likely driven by non-genetic factors. Furthermore, we observe mutant cells in histologically normal tissue surrounding one tumor, which were not discernible upon histopathologic evaluation. Finally, we detected mono-allelic expression of immunoglobulin heavy chains in B-cells, revealing clonal populations of plasma cells surrounding one tumor. In summary, we put forward solutions to add the genetic dimension to spatial transcriptomic datasets, augmenting the potential of this new technology.",
-					"url": "https://doi.org/10.1101/2022.12.05.519162"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "cSCC",
-					"donorNumber": 2,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/ST_Visium_exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_2 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_5 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_9 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_9/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_10 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_10/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_2",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_5",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_5/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_9",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_9/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_10",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/paste/patient_10/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "cSCC scRNA-seq",
-					"donorNumber": 10,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/scRNAseq_counts_log2.txt"
-						},
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "cSCC/scRNAseq_counts.txt"
-						}
-					]
-				},
-				{
-					"cohort": "cSCC_scRNAseq_visium",
-					"donorNumber": 10,
-					"preferredDataset": []
-				}
-			]
-		},
-		{
-			"study": "cSCC-newhub",
-			"label": "new style hub Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
-			"publication": [
-				{
-					"title": "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
-					"abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer.",
-					"url": "https://pubmed.ncbi.nlm.nih.gov/32579974/"
-				},
-				{
-					"title": "Alignment and integration of spatial transcriptomics data",
-					"abstract": "Spatial transcriptomics (ST) measures mRNA expression across thousands of spots from a tissue slice while recording the two-dimensional (2D) coordinates of each spot. We introduce probabilistic alignment of ST experiments (PASTE), a method to align and integrate ST data from multiple adjacent tissue slices. PASTE computes pairwise alignments of slices using an optimal transport formulation that models both transcriptional similarity and physical distances between spots. PASTE further combines pairwise alignments to construct a stacked 3D alignment of a tissue. Alternatively, PASTE can integrate multiple ST slices into a single consensus slice. We show that PASTE accurately aligns spots across adjacent slices in both simulated and real ST data, demonstrating the advantages of using both transcriptional similarity and spatial information. We further show that the PASTE integrated slice improves the identification of cell types and differentially expressed genes compared with existing approaches that either analyze single ST slices or ignore spatial information.",
-					"url": "https://pubmed.ncbi.nlm.nih.gov/35577957/"
-				},
-				{
-					"title": "Visualizing somatic alterations in spatial transcriptomics data of skin cancer",
-					"abstract": "Tools to visualize genetic alterations within tissues remain underdeveloped despite the growth of spatial transcriptomic technologies, which measure gene expression in different regions of tissues. Since genetic alterations can be detected in RNA-sequencing data, we explored the feasibility of observing somatic alterations in spatial transcriptomics data. Extracting genetic information from spatial transcriptomic data would illuminate the spatial distribution of clones and allow for correlations with regional changes in gene expression to support genotype- phenotype studies. Recent work demonstrates that copy number alterations can be inferred from spatial transcriptomics data1. Here, we describe new software to further enhance the inference of copy number from spatial transcriptomics data. Moreover, we demonstrate that single nucleotide variants are also detectable in spatial transcriptomic data. We applied these approaches to map the location of point mutations, copy number alterations, and allelic imbalances in spatial transcriptomic data of two cutaneous squamous cell carcinomas. We show that both tumors are dominated by a single clone of cells, suggesting that their regional variations in gene expression2 are likely driven by non-genetic factors. Furthermore, we observe mutant cells in histologically normal tissue surrounding one tumor, which were not discernible upon histopathologic evaluation. Finally, we detected mono-allelic expression of immunoglobulin heavy chains in B-cells, revealing clonal populations of plasma cells surrounding one tumor. In summary, we put forward solutions to add the genetic dimension to spatial transcriptomic datasets, augmenting the potential of this new technology.",
-					"url": "https://doi.org/10.1101/2022.12.05.519162"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "cSCC",
-					"donorNumber": 2,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/ST_Visium_exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_2 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_5 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_9 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_9/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_10 center slice",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_10/center_nmfs/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_2",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_5",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_5/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_9",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_9/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "patient_10",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/paste/patient_10/2D/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "cSCC scRNA-seq",
-					"donorNumber": 10,
-					"preferredDataset": [
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/scRNAseq_counts_log2.txt"
-						},
-						{
-							"host": "previewsinglecell.xenahubs.net",
-							"name": "cSCC/scRNAseq_counts.txt"
-						}
-					]
-				},
-				{
-					"cohort": "cSCC_scRNAseq_visium",
-					"donorNumber": 10,
-					"preferredDataset": []
-				}
-			]
-		},
-		{
-			"study": "follicular_remodeling",
-			"label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
-			"publication": [
-				{
-					"title": "Single-cell reconstruction of follicular remodeling in the human adult ovary",
-					"abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
-					"url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "follicular_remodeling",
-					"donorNumber": 5,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "follicular_remodeling/exprMatrix.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "Govek_CITEseq",
-			"label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
-			"publication": [
-				{
-					"title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
-					"abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
-					"url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Govek_CITEseq",
-					"donorNumber": 5,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
-						},
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "Govek_CITEseq/citeseq_ADT.tsv"
-						},
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "Govek_CITEseq/citeseq_mRNA.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "Goltsev_CODEX",
-			"label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
-			"publication": [
-				{
-					"title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
-					"abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
-					"url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Goltsev_CODEX",
-					"donorNumber": 3,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "Atlas_melanoma_MEL08",
-			"label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
-			"publication": [
-				{
-					"title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
-					"abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
-					"url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Atlas of primary melanoma MEL08",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "AtlasMelanoma/MEL08-1-1.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "Melanoma_immunotherapy_resistance",
-			"label": "Melanoma immunotherapy resistance (Jerby-Arnon et al Cell 2018)",
-			"publication": [
-				{
-					"title": "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade",
-					"abstract": "mmune checkpoint inhibitors (ICIs) produce durable responses in some melanoma patients, but many patients derive no clinical benefit, and the molecular underpinnings of such resistance remain elusive. Here, we leveraged single-cell RNA sequencing (scRNA-seq) from 33 melanoma tumors and computational analyses to interrogate malignant cell states that promote immune evasion. We identified a resistance program expressed by malignant cells that is associated with T cell exclusion and immune evasion. The program is expressed prior to immunotherapy, characterizes cold niches in situ, and predicts clinical responses to anti-PD-1 therapy in an independent cohort of 112 melanoma patients. CDK4/6-inhibition represses this program in individual malignant cells, induces senescence, and reduces melanoma tumor outgrowth in mouse models in vivo when given in combination with immunotherapy. Our study provides a high-resolution landscape of ICI-resistant cell states, identifies clinically predictive signatures, and suggests new therapeutic strategies to overcome immunotherapy resistance.",
-					"url": "https://www.cell.com/cell/fulltext/S0092-8674(18)31178-4"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Melanoma scRNA-seq (Jerby-Arnon cell 2018)",
-					"donorNumber": 31,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "melanoma_Jerby-Arnon/tumors_tpm.txt"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "10x Visium Mouse Sagittal Anterior1",
-			"label": "Mouse Sagittal Anterior (10x demo dataset), integrated with Allen Brain scRNA-seq",
-			"publication": [
-				{
-					"title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
-					"abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
-					"url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "10x visium Mouse Sagittal Anterior1",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort":"Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
-				}
-			]
-		},
-		{
-			"study": "Vizgen MERFISH Mouse Brain Receptor Map",
-			"label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
-			"publication": [
-				{
-					"title": "MERFISH Mouse Brain Receptor Map",
-					"abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
-					"url": "https://info.vizgen.com/mouse-brain-map?submissionGuid=556602ae-7d8e-400d-998d-f01939580490"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "VizgenDemo/S2R1/exprMatrix.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
-				}
-			]
-		},
-		{
-			"study": "High-plex immunofluorescence imaging and H&E of the same tissue section",
-			"label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers (Lin et al Nature Cancer 2023)",
-			"publication": [
-				{
-					"title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
-					"abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
-					"url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "CRC01 immunofluorescence H&E",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "CRC/CRC01/P37_S29-CRC01.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "CRC04 immunofluorescence H&E",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "CRC/CRC04/P37_S32-CRC04.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "new hub High-plex immunofluorescence imaging and H&E of the same tissue section",
-			"label": "new hub High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers (Lin et al Nature Cancer 2023)",
-			"publication": [
-				{
-					"title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
-					"abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
-					"url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "CRC01 immunofluorescence H&E",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://previewsinglecell.xenahubs.net",
-							"name": "CRC/CRC01/P37_S29-CRC01.tsv"
-						}
-					]
-				},
-				{
-					"cohort": "CRC04 immunofluorescence H&E",
-					"donorNumber": 1,
-					"preferredDataset": [
-						{
-							"host": "https://previewsinglecell.xenahubs.net",
-							"name": "CRC/CRC04/P37_S32-CRC04.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-                 	"study": "TCGA",
-			"label": "TCGA single cell",
-			"cohortList": [
-				{
-                                 	"cohort": "TCGA single cell",
-                                        "donorNumber": 89,
-                                        "preferredDataset": [
-                                                {
-                                                 	"host": "https://preview.xenahubs.net",
-                                                        "name": "TCGA/trim_count.log2.tsv"
-                                                }
-					]
-				},
-				{
-                                 	"cohort": "TCGA PAAD single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA BRCA single cell",
-                                        "donorNumber": 9,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA LUSC single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA HNSC single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA SKCM single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA LIHC single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA LUAD single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA BLCA single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA PRAD single cell",
-                                        "donorNumber": 10,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA non-tumor single cell",
-                                        "donorNumber": 89,
-                                        "preferredDataset": [
-					]
-				},
-				{
-                                 	"cohort": "TCGA tumor single cell",
-                                        "donorNumber": 89,
-                                        "preferredDataset": [
-					]
-				}
-			]
-		},
-		{
-			"study": "zebrahub",
-			"label": "Zebrahub",
-			"publication": [
-				{
-					"title": "Zebrahub sequencing and imaging atlas of zebrafish development",
-					"abstract": "Zebrahub is a comprehensive atlas of zebrafish embryonic development that combines single-cell RNA sequencing and live light-sheet imaging. Its aim is to provide a complete cartography of cellular lineages in space, time, and molecular domains, an essential step toward understanding how organisms develop.<br><br>Our ultimate goal is to create a high-quality multimodal foundational resource of vertebrate development and make it broadly available to the scientific community.",
-					"url": "https://zebrahub.ds.czbiohub.org/"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "zebrahub",
-					"donorNumber": 40,
-					"preferredDataset": [
-						{
-							"host": "https://preview.xenahubs.net",
-							"name": "zebrahub/exprMatrix.tsv"
-						}
-					]
-				}
-			]
-		},
-		{
-			"study": "Goltsev_Govek",
-			"label": "Mouse spleen",
-			"subStudy": [
-				{
-					"studyID": "Govek_CITEseq",
-					"displayLabel": "Govek Science Adv 2021"
-				},
-				{
-					"studyID": "Goltsev_CODEX",
-					"displayLabel": "Goltsev Cell 2018"
-				}
-			]
-		},
-		{
-			"study": "AtlasMelanoma_Jerby-Arnon",
-			"label": "Melanoma",
-			"subStudy": [
-				{
-					"studyID": "Atlas_melanoma_MEL08",
-					"displayLabel": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)"
-				},
-				{
-					"studyID": "Melanoma_immunotherapy_resistance",
-					"displayLabel": "Melanoma immunotherapy resistance (Jerby-Arnon cell 2018)"
-				}
-			],
-			"cohortList": [
-				{
-					"cohort": "Integration melanoma (scRNA-seq, t-CycIF)"
-				}
-			]
-		}
-	]
+  "studyList": [
+    {
+      "study": "cSCC",
+      "label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
+      "publication": [
+        {
+          "title": "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma",
+          "abstract": "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we com- bined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a se- ries of human cSCCs and matched normal skin. cSCC exhibited four tumor subpopulations, three recapitu- lating normal epidermal states, and a tumor-specific keratinocyte (TSK) population unique to cancer, which localized to a fibrovascular niche. Integration of single-cell and spatial data mapped ligand-receptor net- works to specific cell types, revealing TSK cells as a hub for intercellular communication. Multiple features of potential immunosuppression were observed, including T regulatory cell (Treg) co-localization with CD8 T cells in compartmentalized tumor stroma. Finally, single-cell characterization of human tumor xenografts and in vivo CRISPR screens identified essential roles for specific tumor subpopulation-enriched gene net- works in tumorigenesis. These data define cSCC tumor and stromal cell subpopulations, the spatial niches where they interact, and the communicating gene networks that they engage in cancer.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32579974/"
+        },
+        {
+          "title": "Alignment and integration of spatial transcriptomics data",
+          "abstract": "Spatial transcriptomics (ST) measures mRNA expression across thousands of spots from a tissue slice while recording the two-dimensional (2D) coordinates of each spot. We introduce probabilistic alignment of ST experiments (PASTE), a method to align and integrate ST data from multiple adjacent tissue slices. PASTE computes pairwise alignments of slices using an optimal transport formulation that models both transcriptional similarity and physical distances between spots. PASTE further combines pairwise alignments to construct a stacked 3D alignment of a tissue. Alternatively, PASTE can integrate multiple ST slices into a single consensus slice. We show that PASTE accurately aligns spots across adjacent slices in both simulated and real ST data, demonstrating the advantages of using both transcriptional similarity and spatial information. We further show that the PASTE integrated slice improves the identification of cell types and differentially expressed genes compared with existing approaches that either analyze single ST slices or ignore spatial information.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35577957/"
+        },
+        {
+          "title": "Visualizing somatic alterations in spatial transcriptomics data of skin cancer",
+          "abstract": "Tools to visualize genetic alterations within tissues remain underdeveloped despite the growth of spatial transcriptomic technologies, which measure gene expression in different regions of tissues. Since genetic alterations can be detected in RNA-sequencing data, we explored the feasibility of observing somatic alterations in spatial transcriptomics data. Extracting genetic information from spatial transcriptomic data would illuminate the spatial distribution of clones and allow for correlations with regional changes in gene expression to support genotype- phenotype studies. Recent work demonstrates that copy number alterations can be inferred from spatial transcriptomics data1. Here, we describe new software to further enhance the inference of copy number from spatial transcriptomics data. Moreover, we demonstrate that single nucleotide variants are also detectable in spatial transcriptomic data. We applied these approaches to map the location of point mutations, copy number alterations, and allelic imbalances in spatial transcriptomic data of two cutaneous squamous cell carcinomas. We show that both tumors are dominated by a single clone of cells, suggesting that their regional variations in gene expression2 are likely driven by non-genetic factors. Furthermore, we observe mutant cells in histologically normal tissue surrounding one tumor, which were not discernible upon histopathologic evaluation. Finally, we detected mono-allelic expression of immunoglobulin heavy chains in B-cells, revealing clonal populations of plasma cells surrounding one tumor. In summary, we put forward solutions to add the genetic dimension to spatial transcriptomic datasets, augmenting the potential of this new technology.",
+          "url": "https://doi.org/10.1101/2022.12.05.519162"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "cSCC",
+          "donorNumber": 2,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/ST_Visium_exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_2 center slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_5 center slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_9 center slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_9/center_nmfs/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_10 center slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_10/center_nmfs/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_2",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_5",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_5/2D/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_9",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_9/2D/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "patient_10",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/paste/patient_10/2D/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "cSCC scRNA-seq",
+          "donorNumber": 10,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/scRNAseq_counts_log2.txt"
+            },
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "cSCC/scRNAseq_counts.txt"
+            }
+          ]
+        },
+        {
+          "cohort": "cSCC_scRNAseq_visium",
+          "donorNumber": 10,
+          "preferredDataset": []
+        }
+      ]
+    },
+    {
+      "study": "follicular_remodeling",
+      "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
+      "publication": [
+        {
+          "title": "Single-cell reconstruction of follicular remodeling in the human adult ovary",
+          "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
+          "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "follicular_remodeling",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "follicular_remodeling/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Govek_CITEseq",
+      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
+      "publication": [
+        {
+          "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Govek_CITEseq",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
+            },
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT.tsv"
+            },
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_mRNA.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Goltsev_CODEX",
+      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
+      "publication": [
+        {
+          "title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
+          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
+          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Goltsev_CODEX",
+          "donorNumber": 3,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Atlas_melanoma_MEL08",
+      "label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
+      "publication": [
+        {
+          "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
+          "abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Atlas of primary melanoma MEL08",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "AtlasMelanoma/MEL08-1-1.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Melanoma_immunotherapy_resistance",
+      "label": "Melanoma immunotherapy resistance (Jerby-Arnon et al Cell 2018)",
+      "publication": [
+        {
+          "title": "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade",
+          "abstract": "mmune checkpoint inhibitors (ICIs) produce durable responses in some melanoma patients, but many patients derive no clinical benefit, and the molecular underpinnings of such resistance remain elusive. Here, we leveraged single-cell RNA sequencing (scRNA-seq) from 33 melanoma tumors and computational analyses to interrogate malignant cell states that promote immune evasion. We identified a resistance program expressed by malignant cells that is associated with T cell exclusion and immune evasion. The program is expressed prior to immunotherapy, characterizes cold niches in situ, and predicts clinical responses to anti-PD-1 therapy in an independent cohort of 112 melanoma patients. CDK4/6-inhibition represses this program in individual malignant cells, induces senescence, and reduces melanoma tumor outgrowth in mouse models in vivo when given in combination with immunotherapy. Our study provides a high-resolution landscape of ICI-resistant cell states, identifies clinically predictive signatures, and suggests new therapeutic strategies to overcome immunotherapy resistance.",
+          "url": "https://www.cell.com/cell/fulltext/S0092-8674(18)31178-4"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Melanoma scRNA-seq (Jerby-Arnon cell 2018)",
+          "donorNumber": 31,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "melanoma_Jerby-Arnon/tumors_tpm.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "10x Visium Mouse Sagittal Anterior1",
+      "label": "Mouse Sagittal Anterior (10x demo dataset), integrated with Allen Brain scRNA-seq",
+      "publication": [
+        {
+          "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
+          "abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
+          "url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "10x visium Mouse Sagittal Anterior1",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
+        }
+      ]
+    },
+    {
+      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
+      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
+      "publication": [
+        {
+          "title": "MERFISH Mouse Brain Receptor Map",
+          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
+          "url": "https://info.vizgen.com/mouse-brain-map?submissionGuid=556602ae-7d8e-400d-998d-f01939580490"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
+        }
+      ]
+    },
+    {
+      "study": "High-plex immunofluorescence imaging and H&E of the same tissue section",
+      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers (Lin et al Nature Cancer 2023)",
+      "publication": [
+        {
+          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
+          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "CRC01 immunofluorescence H&E",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "CRC/CRC01/P37_S29-CRC01.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "CRC04 immunofluorescence H&E",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "CRC/CRC04/P37_S32-CRC04.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "TCGA",
+      "label": "TCGA single cell",
+      "cohortList": [
+        {
+          "cohort": "TCGA single cell",
+          "donorNumber": 89,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "TCGA/trim_count.log2.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "TCGA PAAD single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA BRCA single cell",
+          "donorNumber": 9,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA LUSC single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA HNSC single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA SKCM single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA LIHC single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA LUAD single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA BLCA single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA PRAD single cell",
+          "donorNumber": 10,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA non-tumor single cell",
+          "donorNumber": 89,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "TCGA tumor single cell",
+          "donorNumber": 89,
+          "preferredDataset": []
+        }
+      ]
+    },
+    {
+      "study": "zebrahub",
+      "label": "Zebrahub",
+      "publication": [
+        {
+          "title": "Zebrahub sequencing and imaging atlas of zebrafish development",
+          "abstract": "Zebrahub is a comprehensive atlas of zebrafish embryonic development that combines single-cell RNA sequencing and live light-sheet imaging. Its aim is to provide a complete cartography of cellular lineages in space, time, and molecular domains, an essential step toward understanding how organisms develop.<br><br>Our ultimate goal is to create a high-quality multimodal foundational resource of vertebrate development and make it broadly available to the scientific community.",
+          "url": "https://zebrahub.ds.czbiohub.org/"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "zebrahub",
+          "donorNumber": 40,
+          "preferredDataset": [
+            {
+              "host": "previewsinglecell.xenahubs.net",
+              "name": "zebrahub/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Goltsev_Govek",
+      "label": "Mouse spleen",
+      "subStudy": [
+        {
+          "studyID": "Govek_CITEseq",
+          "displayLabel": "Govek Science Adv 2021"
+        },
+        {
+          "studyID": "Goltsev_CODEX",
+          "displayLabel": "Goltsev Cell 2018"
+        }
+      ]
+    },
+    {
+      "study": "AtlasMelanoma_Jerby-Arnon",
+      "label": "Melanoma",
+      "subStudy": [
+        {
+          "studyID": "Atlas_melanoma_MEL08",
+          "displayLabel": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)"
+        },
+        {
+          "studyID": "Melanoma_immunotherapy_resistance",
+          "displayLabel": "Melanoma immunotherapy resistance (Jerby-Arnon cell 2018)"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Integration melanoma (scRNA-seq, t-CycIF)"
+        }
+      ]
+    }
+  ]
 }
