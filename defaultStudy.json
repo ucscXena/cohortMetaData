@@ -26,7 +26,7 @@
           "donorNumber": 2,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/ST_Visium_exprMatrix.tsv"
             }
           ]
@@ -36,7 +36,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_2/center_nmfs/exprMatrix.tsv"
             }
           ]
@@ -46,7 +46,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_5/center_nmfs/exprMatrix.tsv"
             }
           ]
@@ -56,7 +56,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_9/center_nmfs/exprMatrix.tsv"
             }
           ]
@@ -66,7 +66,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_10/center_nmfs/exprMatrix.tsv"
             }
           ]
@@ -76,7 +76,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
             }
           ]
@@ -86,7 +86,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_5/2D/exprMatrix.tsv"
             }
           ]
@@ -96,7 +96,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_9/2D/exprMatrix.tsv"
             }
           ]
@@ -106,7 +106,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_10/2D/exprMatrix.tsv"
             }
           ]
@@ -116,11 +116,11 @@
           "donorNumber": 10,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/scRNAseq_counts_log2.txt"
             },
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/scRNAseq_counts.txt"
             }
           ]
@@ -148,7 +148,7 @@
           "donorNumber": 5,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "follicular_remodeling/exprMatrix.tsv"
             }
           ]
@@ -171,15 +171,15 @@
           "donorNumber": 5,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
             },
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "Govek_CITEseq/citeseq_ADT.tsv"
             },
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "Govek_CITEseq/citeseq_mRNA.tsv"
             }
           ]
@@ -202,7 +202,7 @@
           "donorNumber": 3,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
             }
           ]
@@ -225,7 +225,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "AtlasMelanoma/MEL08-1-1.tsv"
             }
           ]
@@ -248,7 +248,7 @@
           "donorNumber": 31,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "melanoma_Jerby-Arnon/tumors_tpm.txt"
             }
           ]
@@ -271,7 +271,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
             }
           ]
@@ -297,7 +297,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "VizgenDemo/S2R1/exprMatrix.tsv"
             }
           ]
@@ -323,7 +323,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "CRC/CRC01/P37_S29-CRC01.tsv"
             }
           ]
@@ -333,7 +333,7 @@
           "donorNumber": 1,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "CRC/CRC04/P37_S32-CRC04.tsv"
             }
           ]
@@ -349,7 +349,7 @@
           "donorNumber": 89,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "TCGA/trim_count.log2.tsv"
             }
           ]
@@ -427,7 +427,7 @@
           "donorNumber": 40,
           "preferredDataset": [
             {
-              "host": "previewsinglecell.xenahubs.net",
+              "host": "https://previewsinglecell.xenahubs.net",
               "name": "zebrahub/exprMatrix.tsv"
             }
           ]
