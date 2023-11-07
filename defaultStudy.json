@@ -78,7 +78,7 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_2/2D/exprMatrix.tsv"
-            }
+            },
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/paste/patient_2/2D/exprMatrix.log2.tsv"
