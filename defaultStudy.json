@@ -28,6 +28,10 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "cSCC/ST_Visium_exprMatrix.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "cSCC/ST_Visium_exprMatrix_count.tsv"
             }
           ]
         },
