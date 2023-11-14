@@ -1231,7 +1231,7 @@
     {
       "host": "https://preview.xenahubs.net",
       "dataset": "HCMI-CMDC.clinical.tsv",
-      "feature": "sample_type"
+      "feature": "sample_type.samples"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
