@@ -1217,6 +1217,23 @@
       "feature": "Age at Diagnosis in Years"
     }
   ],
+  "GDC HCMI-CMDC": [
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "primary_site"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "sample_type"
+    }
+  ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
