@@ -1234,6 +1234,40 @@
       "feature": "sample_type.samples"
     }
   ],
+  "GDC CTSP-DLBCL1": [
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "primary_site"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "sample_type.samples"
+    }
+  ],
+  "GDC CGCI-HTMCP-LC": [
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "primary_site"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://preview.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "sample_type.samples"
+    }
+  ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
     {
       "host": "https://ucscpublic.xenahubs.net",
