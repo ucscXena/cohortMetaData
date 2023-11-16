@@ -1138,6 +1138,12 @@
       "dataset": "CGCI-HTMCP-LC.gene-level_ascat-ngs.tsv"
     }
   },
+  "GDC CTSP-DLBCL1": {
+    "gene expression": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.star_fpkm-uq.tsv"
+    }
+  },
   "Cancer Cell Line Encyclopedia (CCLE)": {
     "gene expression": {
       "host": "https://ucscpublic.xenahubs.net",
