@@ -1114,6 +1114,30 @@
       "dataset": "TARGET-WT.htseq_fpkm-uq.tsv"
     }
   },
+  "GDC HCMI-CMDC": {
+    "gene expression": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "HCMI-CMDC.star_fpkm-uq.tsv"
+    },
+    "copy number": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "HCMI-CMDC.segment_cnv_ascat-ngs.tsv"
+    },
+    "simple somatic mutation": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "HCMI-CMDC.somaticmutation_snv.tsv"
+    }
+  },
+  "GDC CGCI-HTMCP-LC": {
+    "gene expression": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.star_fpkm-uq.tsv"
+    },
+    "copy number": {
+      "host": "https://gdcbetarelease.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.gene-level_ascat-ngs.tsv"
+    }
+  },
   "Cancer Cell Line Encyclopedia (CCLE)": {
     "gene expression": {
       "host": "https://ucscpublic.xenahubs.net",
