@@ -1219,51 +1219,51 @@
   ],
   "GDC HCMI-CMDC": [
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "HCMI-CMDC.clinical.tsv",
       "feature": "primary_site"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "HCMI-CMDC.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "HCMI-CMDC.clinical.tsv",
       "feature": "sample_type.samples"
     }
   ],
   "GDC CTSP-DLBCL1": [
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CTSP-DLBCL1.clinical.tsv",
       "feature": "primary_site"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CTSP-DLBCL1.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CTSP-DLBCL1.clinical.tsv",
       "feature": "sample_type.samples"
     }
   ],
   "GDC CGCI-HTMCP-LC": [
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CGCI-HTMCP-LC.clinical.tsv",
       "feature": "primary_site"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CGCI-HTMCP-LC.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://preview.xenahubs.net",
+      "host": "https://gdcbetarelease.xenahubs.net",
       "dataset": "CGCI-HTMCP-LC.clinical.tsv",
       "feature": "sample_type.samples"
     }
