@@ -308,6 +308,10 @@
               "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression_z3.tsv"
             }
           ]
+        },
+        {
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
+          "donorNumber": 1
         }
       ]
     },
