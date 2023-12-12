@@ -306,6 +306,10 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression_normed_scaled.tsv"
             }
           ]
         },
