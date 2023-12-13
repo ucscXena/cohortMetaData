@@ -346,8 +346,8 @@
       ]
     },
     {
-      "study": "High-plex immunofluorescence imaging and H&E of the same tissue section",
-      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers (Lin et al Nature Cancer 2023)",
+      "study": "High-plex immunofluorescence imaging and H&E of the same tissue section CRC01",
+      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC01 (Lin et al Nature Cancer 2023)",
       "publication": [
         {
           "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
@@ -365,7 +365,20 @@
               "name": "CRC/CRC01/P37_S29-CRC01.tsv"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "study": "High-plex immunofluorescence imaging and H&E of the same tissue section CRC04",
+      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC04 (Lin et al Nature Cancer 2023)",
+      "publication": [
+        {
+          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
+          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
+        }
+      ],
+      "cohortList": [
         {
           "cohort": "CRC04 immunofluorescence H&E",
           "donorNumber": 1,
