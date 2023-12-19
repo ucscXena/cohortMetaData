@@ -10,7 +10,7 @@
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
-              "name": "TCGA/trim_count.log2.tsv"
+              "name": "TCGA/trim_count.tsv"
             }
           ]
         },
