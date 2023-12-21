@@ -381,7 +381,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "CRC01 immunofluorescence H&E",
+          "cohort": "HTA7_926_8 CRC01",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -404,7 +404,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "CRC04 immunofluorescence H&E",
+          "cohort": "HTA7_934_9 CRC04",
           "donorNumber": 1,
           "preferredDataset": [
             {
