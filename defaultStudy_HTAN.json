@@ -49,7 +49,7 @@
     },
     {
       "study": "High-plex immunofluorescence imaging and H&E of the same tissue section CRC01",
-      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC01 (Lin et al Nature Cancer 2023)",
+      "label": "HTAN HMS HTA7_926_8 CRC01 (Lin et al Nature Cancer 2023)",
       "publication": [
         {
           "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
@@ -59,7 +59,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "CRC01 immunofluorescence H&E",
+          "cohort": "HTA7_926_8 CRC01",
           "donorNumber": 1,
           "preferredDataset": [
             {
