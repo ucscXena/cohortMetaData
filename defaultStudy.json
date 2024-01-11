@@ -316,6 +316,20 @@
         {
           "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
           "donorNumber": 1
+        },
+        {
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient2 one slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression_normed_scaled.tsv"
+            }
+          ]
         }
       ]
     },
