@@ -25,7 +25,7 @@
     },
     {
       "study": "msk_sclc_chan_2021",
-      "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer",
+      "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
       "description": "155,098 cells from 21 fresh SCLC clinical samples obtained from 19 patients, as well as 24 LUAD and 4 tumor-adjacent normal lung samples as controls. The SCLC and LUAD cohorts include treated and untreated patients. Samples were obtained from primary tumors, regional lymph node metastases, and distant metastases (liver, adrenal gland, axilla, and pleural effusion). This data was generated as part of the NCI Human Tumor Atlas Network. (Grant Number: 1U2CCA233284-01).",
       "publication": [
         {
