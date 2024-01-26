@@ -24,30 +24,6 @@
       ]
     },
     {
-      "study": "msk_sclc_chan_2021",
-      "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
-      "description": "155,098 cells from 21 fresh SCLC clinical samples obtained from 19 patients, as well as 24 LUAD and 4 tumor-adjacent normal lung samples as controls. The SCLC and LUAD cohorts include treated and untreated patients. Samples were obtained from primary tumors, regional lymph node metastases, and distant metastases (liver, adrenal gland, axilla, and pleural effusion). This data was generated as part of the NCI Human Tumor Atlas Network. (Grant Number: 1U2CCA233284-01).",
-      "publication": [
-        {
-          "title": "Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cell lung cancer",
-          "abstract":"Small cell lung cancer (SCLC) is an aggressive malignancy that includes subtypes defined by differential expression of ASCL1, NEUROD1, and POU2F3 (SCLC-A, -N, and -P, respectively). To define the heterogeneity of tumors and their associated microenvironments across subtypes, we sequenced 155,098 transcriptomes from 21 human biospecimens, including 54,523 SCLC transcriptomes. We observe greater tumor diversity in SCLC than lung adenocarcinoma, driven by canonical, intermediate, and admixed subtypes. We discover a PLCG2-high SCLC phenotype with stem-like, pro-metastatic features that recurs across subtypes and predicts worse overall survival. SCLC exhibits greater immune sequestration and less immune infiltration than lung adenocarcinoma, and SCLC-N shows less immune infiltrate and greater T cell dysfunction than SCLC-A. We identify a profibrotic, immunosuppressive monocyte/macrophage population in SCLC tumors that is particularly associated with the recurrent, PLCG2-high subpopulation.",
-          "url": "https://cellxgene.cziscience.com/collections/62e8f058-9c37-48bc-9200-e767f318a8ec"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer",
-          "donorNumber": 41,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "HTAN_MSK_scRNAseq/Combined_samples/exprMatrix.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "study": "HTA7_926_8",
       "label": "HTAN HMS colorectal cancer mucous adenocarcinoma HTA7_926_8 CRC01 (Lin et al Nature Cancer 2023)",
       "publication": [
@@ -88,6 +64,30 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "CRC/CRC04/P37_S32-CRC04.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "msk_sclc_chan_2021",
+      "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
+      "description": "155,098 cells from 21 fresh SCLC clinical samples obtained from 19 patients, as well as 24 LUAD and 4 tumor-adjacent normal lung samples as controls. The SCLC and LUAD cohorts include treated and untreated patients. Samples were obtained from primary tumors, regional lymph node metastases, and distant metastases (liver, adrenal gland, axilla, and pleural effusion). This data was generated as part of the NCI Human Tumor Atlas Network. (Grant Number: 1U2CCA233284-01).",
+      "publication": [
+        {
+          "title": "Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cell lung cancer",
+          "abstract":"Small cell lung cancer (SCLC) is an aggressive malignancy that includes subtypes defined by differential expression of ASCL1, NEUROD1, and POU2F3 (SCLC-A, -N, and -P, respectively). To define the heterogeneity of tumors and their associated microenvironments across subtypes, we sequenced 155,098 transcriptomes from 21 human biospecimens, including 54,523 SCLC transcriptomes. We observe greater tumor diversity in SCLC than lung adenocarcinoma, driven by canonical, intermediate, and admixed subtypes. We discover a PLCG2-high SCLC phenotype with stem-like, pro-metastatic features that recurs across subtypes and predicts worse overall survival. SCLC exhibits greater immune sequestration and less immune infiltration than lung adenocarcinoma, and SCLC-N shows less immune infiltrate and greater T cell dysfunction than SCLC-A. We identify a profibrotic, immunosuppressive monocyte/macrophage population in SCLC tumors that is particularly associated with the recurrent, PLCG2-high subpopulation.",
+          "url": "https://cellxgene.cziscience.com/collections/62e8f058-9c37-48bc-9200-e767f318a8ec"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer",
+          "donorNumber": 41,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_MSK_scRNAseq/Combined_samples/exprMatrix.tsv"
             }
           ]
         }
