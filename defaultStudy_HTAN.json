@@ -1,29 +1,6 @@
 {
   "studyList": [
     {
-      "study": "HTA7_16_2",
-      "label": "HTAN HMS melanoma HTA7_16_2 MEL08 (Ajit et al Cancer Discovery 2022)",
-      "publication": [
-        {
-          "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
-          "abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
-          "url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Atlas of primary melanoma MEL08",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "AtlasMelanoma/MEL08-1-1.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "study": "HTA7_926_8",
       "label": "HTAN HMS colorectal cancer mucous adenocarcinoma HTA7_926_8 CRC01 (Lin et al Nature Cancer 2023)",
       "publication": [
@@ -64,6 +41,29 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "CRC/CRC04/P37_S32-CRC04.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "HTA7_16_2",
+      "label": "HTAN HMS melanoma HTA7_16_2 MEL08 (Ajit et al Cancer Discovery 2022)",
+      "publication": [
+        {
+          "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
+          "abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Atlas of primary melanoma MEL08",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "AtlasMelanoma/MEL08-1-1.tsv"
             }
           ]
         }
