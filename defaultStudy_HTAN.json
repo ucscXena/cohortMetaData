@@ -1,8 +1,8 @@
 {
   "studyList": [
     {
-      "study": "Atlas_melanoma_MEL08",
-      "label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
+      "study": "HTA7_16_2",
+      "label": "HTAN HMS melanoma HTA7_16_2 MEL08 (Ajit et al Cancer Discovery 2022)",
       "publication": [
         {
           "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
@@ -49,7 +49,7 @@
     },
     {
       "study": "HTA7_926_8",
-      "label": "HTAN HMS HTA7_926_8 CRC01 (Lin et al Nature Cancer 2023)",
+      "label": "HTAN HMS colorectal cancer mucous adenocarcinoma HTA7_926_8 CRC01 (Lin et al Nature Cancer 2023)",
       "publication": [
         {
           "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
@@ -72,7 +72,7 @@
     },
     {
       "study": "HTA7_934_9",
-      "label": "HTAN HMS HTA7_934_9 CRC04 (Lin et al Nature Cancer 2023)",
+      "label": "HTAN HMS colorectal cancer adenocarcinoma HTA7_934_9 CRC04 (Lin et al Nature Cancer 2023)",
       "publication": [
         {
           "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
