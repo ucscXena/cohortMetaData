@@ -229,7 +229,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "Atlas of primary melanoma MEL08",
+          "cohort": "MEL08",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -471,7 +471,7 @@
       "label": "Melanoma",
       "subStudy": [
         {
-          "studyID": "Atlas_melanoma_MEL08",
+          "studyID": "MEL08",
           "displayLabel": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)"
         },
         {
