@@ -58,7 +58,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "Atlas of primary melanoma MEL08",
+          "cohort": "MEL08",
           "donorNumber": 1,
           "preferredDataset": [
             {
