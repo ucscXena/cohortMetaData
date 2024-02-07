@@ -471,7 +471,7 @@
       "label": "Melanoma",
       "subStudy": [
         {
-          "studyID": "MEL08",
+          "studyID": "Atlas_melanoma_MEL08",
           "displayLabel": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)"
         },
         {
