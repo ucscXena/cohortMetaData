@@ -329,6 +329,60 @@
       ]
     },
     {
+      "study": "Goltsev_CODEX",
+      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
+      "publication": [
+        {
+          "title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
+          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
+          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Goltsev_CODEX",
+          "donorNumber": 3,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Govek_CITEseq",
+      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
+      "publication": [
+        {
+          "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Govek_CITEseq",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_mRNA.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "study": "msk_sclc_chan_2021",
       "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
       "description": "155,098 cells from 21 fresh SCLC clinical samples obtained from 19 patients, as well as 24 LUAD and 4 tumor-adjacent normal lung samples as controls. The SCLC and LUAD cohorts include treated and untreated patients. Samples were obtained from primary tumors, regional lymph node metastases, and distant metastases (liver, adrenal gland, axilla, and pleural effusion). This data was generated as part of the NCI Human Tumor Atlas Network. (Grant Number: 1U2CCA233284-01).",
@@ -370,60 +424,6 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "follicular_remodeling/exprMatrix.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "Govek_CITEseq",
-      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
-      "publication": [
-        {
-          "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
-          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Govek_CITEseq",
-          "donorNumber": 5,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_ADT.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_mRNA.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "Goltsev_CODEX",
-      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
-      "publication": [
-        {
-          "title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
-          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
-          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Goltsev_CODEX",
-          "donorNumber": 3,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
             }
           ]
         }
