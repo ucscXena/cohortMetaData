@@ -1,6 +1,168 @@
 {
   "studyList": [
     {
+      "study": "HTA7_926_8_CRC01",
+      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC01 (Lin et al Nature Cancer 2023)",
+      "publication": [
+        {
+          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
+          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "HTA7_926_8 CRC01",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "CRC/CRC01/P37_S29-CRC01.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "HTA7_934_9_CRC04",
+      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC04 (Lin et al Nature Cancer 2023)",
+      "publication": [
+        {
+          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
+          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "HTA7_934_9 CRC04",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "CRC/CRC04/P37_S32-CRC04.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Atlas_melanoma_MEL08",
+      "label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
+      "publication": [
+        {
+          "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
+          "abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
+          "url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "MEL08",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "AtlasMelanoma/MEL08-1-1.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "vz-ffpe-showcaseHuman-Lung",
+      "label": "MERSCOPE FFPE Human Immuno-oncology Lung cancer",
+      "publication": [
+        {
+          "title": "MERSCOPE FFPE Human Immuno-oncology",
+          "url": "https://info.vizgen.com/ffpe-showcase"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient1 one slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression_normed_scaled.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
+          "donorNumber": 1
+        },
+        {
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient2 one slice",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression_normed_scaled.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
+      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
+      "publication": [
+        {
+          "title": "MERFISH Mouse Brain Receptor Map",
+          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
+          "url": "https://info.vizgen.com/mouse-brain-map"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
+        }
+      ]
+    },
+    {
+      "study": "xenium_demo_hPancreas_Cancer",
+      "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (Xenium demo dataset)",
+      "description": "Xenium In Situ Gene Expression data for human pancreatic cancer sections using the Xenium Human Multi-Tissue and Cancer Panel.",
+      "publication": [
+        {
+          "title": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel",
+          "url": "https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "xenium_hPancreas_Cancer",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "xenium/xenium_hPancreas_Cancer/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "study": "cSCC",
       "label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
       "publication": [
@@ -141,138 +303,28 @@
       ]
     },
     {
-      "study": "HTA7_926_8_CRC01",
-      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC01 (Lin et al Nature Cancer 2023)",
+      "study": "10x Visium Mouse Sagittal Anterior1",
+      "label": "Mouse Sagittal Anterior (10x demo dataset), integrated with Allen Brain scRNA-seq",
       "publication": [
         {
-          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
-          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
-          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
+          "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
+          "abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
+          "url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
         }
       ],
       "cohortList": [
         {
-          "cohort": "HTA7_926_8 CRC01",
+          "cohort": "10x visium Mouse Sagittal Anterior1",
           "donorNumber": 1,
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
-              "name": "CRC/CRC01/P37_S29-CRC01.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "HTA7_934_9_CRC04",
-      "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC04 (Lin et al Nature Cancer 2023)",
-      "publication": [
-        {
-          "title": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers",
-          "abstract": "Precision medicine is critically dependent on better methods for diagnosing and staging disease and predicting drug response. Histopathology using Hematoxylin and Eosin (H&E) stained tissue - not genomics – remains the primary diagnostic method in cancer. Recently developed highly-multiplexed tissue imaging methods promise to enhance research studies and clinical practice with precise, spatially-resolved, single-cell data. Here we describe the “Orion” platform for collecting H&E and high-plex immunofluorescence images from the same cells in a whole-slide format suitable for diagnosis. Using a retrospective cohort of 74 colorectal cancer resections, we show that IF and H&E images provide human experts and machine learning algorithms with complementary information that can be used to generate interpretable, multiplexed image-based models predictive of progression-free survival. Combining models of immune infiltration and tumor-intrinsic features achieves a nearly 20-fold discrimination between rapid and slow (or no) progression, demonstrating the ability of multi-modal tissue imaging to generate high-performance biomarkers.",
-          "url": "https://www.tissue-atlas.org/atlas-datasets/lin-chen-campton-2023"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "HTA7_934_9 CRC04",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "CRC/CRC04/P37_S32-CRC04.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "Atlas_melanoma_MEL08",
-      "label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
-      "publication": [
-        {
-          "title": "The spatial landscape of progression and immunoediting in primary melanoma at single cell resolution",
-          "abstract": "Cutaneous melanoma is a highly immunogenic malignancy, surgically curable at early stages, but life- threatening when metastatic. Here we integrate high-plex imaging, 3D high-resolution microscopy, and spatially-resolved micro-region transcriptomics to study immune evasion and immunoediting in primary melanoma. We find that recurrent cellular neighborhoods involving tumor, immune, and stromal cells change significantly along a progression axis involving precursor states, melanoma in situ, and invasive tumor. Hallmarks of immunosuppression are already detectable in precursor regions. When tumors become locally invasive, a consolidated and spatially restricted suppressive environment forms along the tumor-stromal boundary. This environment is established by cytokine gradients that promote expression of MHC-II and IDO1, and by PD1-PDL1 mediated cell contacts involving macrophages, dendritic cells, and T cells. A few millimeters away, cytotoxic T cells synapse with melanoma cells in fields of tumor regression. Thus, invasion and immunoediting can co-exist within a few millimeters of each other in a single specimen.",
-          "url": "https://www.tissue-atlas.org/atlas-datasets/nirmal-maliga-vallius-2021/, https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "MEL08",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "AtlasMelanoma/MEL08-1-1.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "vz-ffpe-showcaseHuman-Lung",
-      "label": "MERSCOPE FFPE Human Immuno-oncology Lung cancer",
-      "publication": [
-        {
-          "title": "MERSCOPE FFPE Human Immuno-oncology",
-          "url": "https://info.vizgen.com/ffpe-showcase"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient1 one slice",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "vz-ffpe-showcase/HumanLungCancerPatient1/expression_normed_scaled.tsv"
+              "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
             }
           ]
         },
         {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
-          "donorNumber": 1
-        },
-        {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient2 one slice",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "vz-ffpe-showcase/HumanLungCancerPatient2/expression_normed_scaled.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "study": "xenium_demo_hPancreas_Cancer",
-      "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel",
-      "description": "Xenium In Situ Gene Expression data for human pancreatic cancer sections using the Xenium Human Multi-Tissue and Cancer Panel.",
-      "publication": [
-        {
-          "title": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel",
-          "url": "https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "xenium_hPancreas_Cancer",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "xenium/xenium_hPancreas_Cancer/exprMatrix.tsv"
-            }
-          ]
+          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
         }
       ]
     },
@@ -397,58 +449,6 @@
               "name": "melanoma_Jerby-Arnon/tumors_tpm.txt"
             }
           ]
-        }
-      ]
-    },
-    {
-      "study": "10x Visium Mouse Sagittal Anterior1",
-      "label": "Mouse Sagittal Anterior (10x demo dataset), integrated with Allen Brain scRNA-seq",
-      "publication": [
-        {
-          "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
-          "abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
-          "url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "10x visium Mouse Sagittal Anterior1",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
-        }
-      ]
-    },
-    {
-      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
-      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
-      "publication": [
-        {
-          "title": "MERFISH Mouse Brain Receptor Map",
-          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
-          "url": "https://info.vizgen.com/mouse-brain-map"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
         }
       ]
     },
