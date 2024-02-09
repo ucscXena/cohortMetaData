@@ -304,7 +304,7 @@
     },
     {
       "study": "10x Visium Mouse Sagittal Anterior1",
-      "label": "Mouse Sagittal Anterior (10x demo dataset), integrated with Allen Brain scRNA-seq",
+      "label": "Mouse Sagittal Anterior (10x Visium demo dataset), integrated with Allen Brain scRNA-seq",
       "publication": [
         {
           "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
