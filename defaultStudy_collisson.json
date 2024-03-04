@@ -7,7 +7,11 @@
         {
           "cohort": "PDAC",
           "donorNumber": 1,
-          "preferredDataset": []
+          "preferredDataset": [
+            {
+              "host": "https://collisson.xenahubs.net",
+              "name": "PDAC/2296_cellByProtein.tsv"
+            }
         }
       ]
     }
