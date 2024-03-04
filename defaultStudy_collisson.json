@@ -1,0 +1,15 @@
+{
+  "studyList": [
+    {
+      "study": "PDAC",
+      "label": "PDAC",
+      "cohortList": [
+        {
+          "cohort": "PDAC",
+          "donorNumber": 1,
+          "preferredDataset": []
+        }
+      ]
+    }
+  ]
+}
