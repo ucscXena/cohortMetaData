@@ -5,7 +5,7 @@
       "label": "PDAC",
       "cohortList": [
         {
-          "cohort": "PDAC",
+          "cohort": "tissue 2296",
           "donorNumber": 1,
           "preferredDataset": [
             {
