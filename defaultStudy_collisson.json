@@ -10,7 +10,7 @@
           "preferredDataset": [
             {
               "host": "https://collisson.xenahubs.net",
-              "name": "PDAC/2296_cellByProtein.tsv"
+              "name": "PDAC/2296_protein.tsv"
             }
           ]
         }
