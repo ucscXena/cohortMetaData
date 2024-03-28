@@ -80,7 +80,7 @@
       ],
       "cohortList": [
         {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient1 one slice",
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -94,11 +94,7 @@
           ]
         },
         {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
-          "donorNumber": 1
-        },
-        {
-          "cohort": "Vizgen Showcase Human Lung Cancer Patient2 one slice",
+          "cohort": "Vizgen Showcase Human Lung Cancer Patient2",
           "donorNumber": 1,
           "preferredDataset": [
             {
