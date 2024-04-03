@@ -2,7 +2,7 @@
 
 The hub hosts v18.0 release from [GDC Data Portal](https://portal.gdc.cancer.gov/). The hub is last updated on 2019-08-28.
 
-We are currently updating our GDC data. [Visualize our beta cohorts here.](https://gdcbetarelease.xenahubs.net)
+We are currently updating our GDC data. [Visualize our beta cohorts here.](https://xenabrowser.net/datapages/?host= https%3A%2F%2Fgdcbetarelease.xenahubs.net&removeHub=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fpcawg.xenahubs.net&removeHub=https%3A%2F%2Fatacseq.xenahubs.net&removeHub=https%3A%2F%2Fkidsfirst.xenahubs.net&removeHub=notebook%3A)
 
 ## Supported data types
 
