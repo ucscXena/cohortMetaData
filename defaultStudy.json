@@ -173,8 +173,10 @@
           "cohort": "Wu_Swarbrick_breast_cancer_CID44971",
           "donorNumber": 1,
           "preferredDataset": [
+            {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "Wu_Swarbrick_breast_cancer/CID44971/exprMatrix.tsv"
+            }
           ]
         }
       ]
