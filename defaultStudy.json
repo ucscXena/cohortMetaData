@@ -158,6 +158,29 @@
         }
       ]
     },
+
+    {
+      "study": "Wu_Swarbrick_breast_cancer",
+      "label": "A single-cell and spatially resolved atlas of human breast cancers (Wu et al Nat Genet 2021)",
+      "publication": [
+        {
+          "title": "A single-cell and spatially resolved atlas of human breast cancers",
+          "url": "https://www.nature.com/articles/s41588-021-00911-1",
+          "abstract": "Breast cancers are complex cellular ecosystems where heterotypic interactions play central roles in disease progression and response to therapy. However, our knowledge of their cellular composition and organization is limited. Here we present a single-cell and spatially resolved transcriptomics analysis of human breast cancers. We developed a single-cell method of intrinsic subtype classification (SCSubtype) to reveal recurrent neoplastic cell heterogeneity. Immunophenotyping using cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq) provides high-resolution immune profiles, including new PD-L1/PD-L2+ macrophage populations associated with clinical outcome. Mesenchymal cells displayed diverse functions and cell-surface protein expression through differentiation within three major lineages. Stromal-immune niches were spatially organized in tumors, offering insights into antitumor immune regulation. Using single-cell signatures, we deconvoluted large breast cancer cohorts to stratify them into nine clusters, termed ‘ecotypes’, with unique cellular compositions and clinical outcomes. This study provides a comprehensive transcriptional atlas of the cellular architecture of breast cancer."
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Wu_Swarbrick_breast_cancer_CID44971",
+          "donorNumber": 1,
+          "preferredDataset": [
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Wu_Swarbrick_breast_cancer/CID44971/exprMatrix.tsv"
+          ]
+        }
+      ]
+    },
+
     {
       "study": "cSCC",
       "label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
