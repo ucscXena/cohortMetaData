@@ -161,6 +161,12 @@
     {
       "study": "Wu_Swarbrick_breast_cancer",
       "label": "A single-cell and spatially resolved atlas of human breast cancers (Wu et al Nat Genet 2021)",
+      "publication": [
+        {
+          "title": "A single-cell and spatially resolved atlas of human breast cancers",
+          "url": "https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard"
+        }
+      ],
       "cohortList": [
         {
           "cohort": "Wu_Swarbrick_breast_cancer_CID44971",
