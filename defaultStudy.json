@@ -158,6 +158,7 @@
         }
       ]
     },
+    
     {
       "study": "Wu_Swarbrick_breast_cancer",
       "label": "A single-cell and spatially resolved atlas of human breast cancers (Wu et al Nat Genet 2021)",
@@ -180,6 +181,7 @@
         }
       ]
     },
+    
     {
       "study": "cSCC",
       "label": "Human Squamous Cell Carcinoma (Ji et al Cell 2020, Zeira et al Nature Methods 2022, Chen et al BioRxiv 2022)",
