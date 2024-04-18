@@ -23,6 +23,7 @@
         }
       ]
     },
+    
     {
       "study": "HTA7_934_9_CRC04",
       "label": "High-plex immunofluorescence imaging and traditional histology of the same tissue section for discovering image-based biomarkers CRC04 (Lin et al Nature Cancer 2023)",
@@ -46,6 +47,7 @@
         }
       ]
     },
+    
     {
       "study": "Atlas_melanoma_MEL08",
       "label": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)",
@@ -69,6 +71,7 @@
         }
       ]
     },
+    
     {
       "study": "vz-ffpe-showcaseHuman-Lung",
       "label": "MERSCOPE FFPE Human Immuno-oncology Lung cancer",
@@ -109,6 +112,7 @@
         }
       ]
     },
+    
     {
       "study": "Vizgen MERFISH Mouse Brain Receptor Map",
       "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
@@ -135,6 +139,7 @@
         }
       ]
     },
+    
     {
       "study": "xenium_demo_hPancreas_Cancer",
       "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (Xenium demo dataset)",
@@ -322,6 +327,7 @@
         }
       ]
     },
+    
     {
       "study": "10x Visium Mouse Sagittal Anterior1",
       "label": "Mouse Sagittal Anterior (10x Visium demo dataset), integrated with Allen Brain scRNA-seq",
@@ -371,6 +377,7 @@
         }
       ]
     },
+    
     {
       "study": "Govek_CITEseq",
       "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
@@ -402,6 +409,7 @@
         }
       ]
     },
+    
     {
       "study": "msk_sclc_chan_2021",
       "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
@@ -426,6 +434,7 @@
         }
       ]
     },
+    
     {
       "study": "follicular_remodeling",
       "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
@@ -449,6 +458,7 @@
         }
       ]
     },
+    
     {
       "study": "Melanoma_immunotherapy_resistance",
       "label": "Melanoma immunotherapy resistance (Jerby-Arnon et al Cell 2018)",
@@ -472,6 +482,7 @@
         }
       ]
     },
+    
     {
       "study": "zebrahub",
       "label": "Zebrahub",
@@ -495,6 +506,7 @@
         }
       ]
     },
+    
     {
       "study": "Goltsev_Govek",
       "label": "Mouse spleen",
@@ -509,6 +521,7 @@
         }
       ]
     },
+    
     {
       "study": "AtlasMelanoma_Jerby-Arnon",
       "label": "Melanoma",
