@@ -507,6 +507,23 @@
         }
       ]
     },
+
+    {
+      "study": "PDAC_control_access",
+      "label": "PDAC",
+      "cohortList": [
+        {
+          "cohort": "tissue 2296",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://collissoncontrolaccess.xenahubs.net",
+              "name": "PDAC/2296_protein.tsv"
+            }
+          ]
+        }
+      ]
+    }
     
     {
       "study": "Goltsev_Govek",
