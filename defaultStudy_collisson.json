@@ -19,7 +19,7 @@
 
     {
       "study": "PDAC_control_access",
-      "label": "PDAC",
+      "label": "PDAC_control_access",
       "cohortList": [
         {
           "cohort": "tissue 2296",
