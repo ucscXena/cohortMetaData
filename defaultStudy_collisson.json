@@ -22,7 +22,7 @@
       "label": "PDAC_control_access",
       "cohortList": [
         {
-          "cohort": "tissue 2296",
+          "cohort": "tissue 2296_control_access",
           "donorNumber": 1,
           "preferredDataset": [
             {
