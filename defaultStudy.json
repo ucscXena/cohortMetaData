@@ -114,6 +114,53 @@
     },
     
     {
+      "study": "xenium_demo_hPancreas_Cancer",
+      "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (Xenium demo dataset)",
+      "description": "Xenium In Situ Gene Expression data for human pancreatic cancer sections using the Xenium Human Multi-Tissue and Cancer Panel.",
+      "publication": [
+        {
+          "title": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel",
+          "url": "https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "xenium_hPancreas_Cancer",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "xenium/xenium_hPancreas_Cancer/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "study": "visiumHD_demo_human_lung_cancer",
+      "label": "Human Lung Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
+      "publication": [
+        {
+          "title": "Visium HD Spatial Gene Expression Library, Human Lung Cancer, IF Stained (FFPE)",
+          "url": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-of-human-lung-cancer-if"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Visium HD Human Lung Cancer",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "VisiumHD/HumanLungCancer/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "study": "Vizgen MERFISH Mouse Brain Receptor Map",
       "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
       "publication": [
@@ -136,30 +183,6 @@
         },
         {
           "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
-        }
-      ]
-    },
-    
-    {
-      "study": "xenium_demo_hPancreas_Cancer",
-      "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (Xenium demo dataset)",
-      "description": "Xenium In Situ Gene Expression data for human pancreatic cancer sections using the Xenium Human Multi-Tissue and Cancer Panel.",
-      "publication": [
-        {
-          "title": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel",
-          "url": "https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "xenium_hPancreas_Cancer",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "xenium/xenium_hPancreas_Cancer/exprMatrix.tsv"
-            }
-          ]
         }
       ]
     },
