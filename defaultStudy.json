@@ -153,10 +153,6 @@
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
-              "name": "VisiumHD/HumanLungCancer/exprMatrix.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
               "name": "VisiumHD/HumanLungCancer/exprMatrixCount.tsv"
             }
           ]
