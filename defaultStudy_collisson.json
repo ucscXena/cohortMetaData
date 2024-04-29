@@ -15,24 +15,6 @@
           ]
         }
       ]
-    },
-
-    {
-      "study": "PDAC_control_access",
-      "label": "PDAC_control_access 🔒",
-      "cohortList": [
-        {
-          "cohort": "tissue 2296_control_access",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://collissoncontrolaccess.xenahubs.net",
-              "name": "PDAC/2296_protein.tsv"
-            }
-          ]
-        }
-      ]
     }
-    
   ]
 }
