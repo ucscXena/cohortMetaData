@@ -138,6 +138,29 @@
     },
 
     {
+      "study": "visiumHD_demo_human_colorectal_cancer",
+      "label": "Human Lung Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
+      "publication": [
+        {
+          "title": "Visium HD Spatial Gene Expression Library, Human Colorectal Cancer (FFPE)",
+          "url": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-of-human-crc"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Visium HD Human Colorectal Cancer",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "VisiumHD/HumanColorectalCancer/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "study": "visiumHD_demo_human_lung_cancer",
       "label": "Human Lung Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
       "publication": [
