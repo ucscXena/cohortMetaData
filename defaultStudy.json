@@ -139,7 +139,7 @@
 
     {
       "study": "visiumHD_demo_human_colorectal_cancer",
-      "label": "Human Lung Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
+      "label": "Human Colorectal Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
       "publication": [
         {
           "title": "Visium HD Spatial Gene Expression Library, Human Colorectal Cancer (FFPE)",
