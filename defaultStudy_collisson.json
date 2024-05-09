@@ -14,7 +14,7 @@
             },
             {
               "host": "https://collisson.xenahubs.net",
-              "name": "2296_protein_normalized.tsv"
+              "name": "PDAC/2296_protein_normalized.tsv"
             }
           ]
         }
