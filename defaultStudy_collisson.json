@@ -17,6 +17,10 @@
               "name": "PDAC/2296_protein_normalized.tsv"
             }
           ]
+        },
+        {
+          "cohort": "tissue 2296 coregistration",
+          "donorNumber": 1
         }
       ]
     }
