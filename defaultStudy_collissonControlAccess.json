@@ -11,6 +11,24 @@
             {
               "host": "https://collissoncontrolaccess.xenahubs.net",
               "name": "PDAC/2296_protein.tsv"
+            },
+            {
+              "host": "https://collissoncontrolaccess.xenahubs.net",
+              "name": "PDAC/2296_protein_normalized.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "tissue 2296 coregistration_control_access",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://collissoncontrolaccess.xenahubs.net",
+              "name": "PDAC/2296_coregistration_protein.tsv"
+            },
+            {
+              "host": "https://collissoncontrolaccess.xenahubs.net",
+              "name": "PDAC/2296_coregistration_protein_normalized.tsv"
             }
           ]
         }
