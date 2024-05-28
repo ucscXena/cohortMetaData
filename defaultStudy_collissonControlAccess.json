@@ -5,7 +5,7 @@
       "label": "PDAC_control_access 🔒",
       "cohortList": [
         {
-          "cohort": "tissue 2296_control_access",
+          "cohort": "tissue 2296",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -19,7 +19,7 @@
           ]
         },
         {
-          "cohort": "tissue 2296 coregistration_control_access",
+          "cohort": "tissue 2296 coregistration",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "cohort": "tissue 2089_control_access",
+          "cohort": "tissue 2089",
           "donorNumber": 1,
           "preferredDataset": [
             {
