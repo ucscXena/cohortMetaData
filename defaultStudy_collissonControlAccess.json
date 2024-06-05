@@ -19,20 +19,6 @@
           ]
         },
         {
-          "cohort": "tissue 2296 coregistration",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://collissoncontrolaccess.xenahubs.net",
-              "name": "PDAC/2296/2296_coregistration_protein.tsv"
-            },
-            {
-              "host": "https://collissoncontrolaccess.xenahubs.net",
-              "name": "PDAC/2296/2296_coregistration_protein_normalized.tsv"
-            }
-          ]
-        },
-        {
           "cohort": "tissue 2089",
           "donorNumber": 1,
           "preferredDataset": [
