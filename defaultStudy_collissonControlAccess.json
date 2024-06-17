@@ -31,20 +31,20 @@
               "name": "PDAC/2089/protein_normalized.tsv"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "study": "16-080L",
+      "label": "16-080L_control_access 🔒",
+      "cohortList": [
         {
-          "study": "16-080L",
-          "label": "16-080L_control_access 🔒",
-          "cohortList": [
+          "cohort": "16-080L",
+          "donorNumber": 1,
+          "preferredDataset": [
             {
-              "cohort": "16-080L",
-              "donorNumber": 1,
-              "preferredDataset": [
-                {
-                  "host": "https://16-080L.xenahubs.net",
-                  "name": "scRNAseq/exprMatrix.tsv"
-                }
-              ]
+              "host": "https://16-080L.xenahubs.net",
+              "name": "scRNAseq/exprMatrix.tsv"
             }
           ]
         }
