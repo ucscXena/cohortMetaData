@@ -33,22 +33,6 @@
           ]
         }
       ]
-    },
-    {
-      "study": "16-080L",
-      "label": "16-080L_control_access 🔒",
-      "cohortList": [
-        {
-          "cohort": "16-080L",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://16-080L.xenahubs.net",
-              "name": "scRNAseq/exprMatrix.tsv"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
