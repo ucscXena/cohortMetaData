@@ -5,7 +5,7 @@
       "label": "16-080L_control_access 🔒",
       "cohortList": [
         {
-          "cohort": "16-080L",
+          "cohort": "16-080L scRNA-seq",
           "donorNumber": 1,
           "preferredDataset": [
             {
@@ -13,6 +13,11 @@
               "name": "scRNAseq/exprMatrix.tsv"
             }
           ]
+        },
+        {
+          "cohort": "16-080L xenium",
+          "donorNumber": 1,
+          "preferredDataset": []
         }
       ]
     }
