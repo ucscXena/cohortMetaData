@@ -17,7 +17,12 @@
         {
           "cohort": "16-080L xenium",
           "donorNumber": 1,
-          "preferredDataset": []
+          "preferredDataset": [
+            {
+              "host": "https://16-080L.xenahubs.net",
+              "name": "xenium/exprMatrix.tsv"
+            }
+          ]
         }
       ]
     }
