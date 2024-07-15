@@ -860,5 +860,19 @@
       "fieldLabel": "Gap Junction Signature score",
       "label": "Gap Junction Signature"
     }
-  ]
+  ],
+  "KS-omics": [
+    {
+      "name": "Immune_infiltrate.csv",
+      "host": "https://martin.xenahubs.net",
+      "fields":"B cell memory",
+      "label": "B cell memory score"
+    },
+    {
+      "name": "Immune_infiltrate.csv",
+      "host": "https://martin.xenahubs.net",
+      "fields":"Basophil",
+      "label": "Basophil score"
+    }
+  ],
 }
