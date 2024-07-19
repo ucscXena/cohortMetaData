@@ -21,6 +21,10 @@
             {
               "host": "https://16-080L.xenahubs.net",
               "name": "xenium/exprMatrix.tsv"
+            },
+            {
+              "host": "https://16-080L.xenahubs.net",
+              "name": "xenium/exprMatrix_10xSegmentation.tsv"
             }
           ]
         }
