@@ -27,6 +27,16 @@
               "name": "xenium/exprMatrix_10xSegmentation.tsv"
             }
           ]
+        },
+        {
+          "cohort": "16-080L CosMx",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://16-080L.xenahubs.net",
+              "name": "CosMx/FOV51_exprMat.tsv"
+            }
+          ]
         }
       ]
     }
