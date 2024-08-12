@@ -37,6 +37,11 @@
               "name": "CosMx/exprMat.tsv"
             }
           ]
+        },
+        {
+          "cohort": "16-080L scRNA-seq + xenium",
+          "donorNumber": 1,
+          "preferredDataset": []
         }
       ]
     }
