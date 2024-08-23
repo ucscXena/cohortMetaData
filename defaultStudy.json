@@ -531,6 +531,30 @@
     },
     
     {
+      "study": "Therapy-Induced_Longitudinal_Lung_Cancer_Bivona_2020",
+      "label": "Therapy-Induced Evolution of Human Lung Cancer Revealed by Single-Cell RNA Sequencing (Maynard et al Cell 2020)",
+      "publication": [
+        {
+          "title": "Therapy-Induced Evolution of Human Lung Cancer Revealed by Single-Cell RNA Sequencing",
+          "abstract": "Lung cancer, the leading cause of cancer mortality, exhibits heterogeneity that enables adaptability, limits therapeutic success, and remains incompletely understood. Single-cell RNA sequencing (scRNA-seq) of metastatic lung cancer was performed using 49 clinical biopsies obtained from 30 patients before and during targeted therapy. Over 20,000 cancer and tumor microenvironment (TME) single-cell profiles exposed a rich and dynamic tumor ecosystem. scRNA-seq of cancer cells illuminated targetable oncogenes beyond those detected clinically. Cancer cells surviving therapy as residual disease (RD) expressed an alveolar-regenerative cell signature suggesting a therapy-induced primitive cell-state transition, whereas those present at on-therapy progressive disease (PD) upregulated kynurenine, plasminogen, and gap-junction pathways. Active T-lymphocytes and decreased macrophages were present at RD and immunosuppressive cell states characterized PD. Biological features revealed by scRNA-seq were biomarkers of clinical outcomes in independent cohorts. This study highlights how therapy-induced adaptation of the multi-cellular ecosystem of metastatic cancer shapes clinical outcomes.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32822576"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Longitudinal Lung Cancer scRNA (Bivona 2020)",
+          "donorNumber": 30,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_scaledata.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "study": "zebrahub",
       "label": "Zebrahub",
       "publication": [
