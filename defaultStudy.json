@@ -92,6 +92,16 @@
               "name": "Bone_Marrow/scRNAseq/H33_seurat_rna_expression.tsv"
             }
           ]
+        },
+        {
+          "cohort": "human_bone_marrow_CODEX_Bandyopadhyay_H33",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Bone_Marrow/CODEX/H33_seurat_protein_expression.tsv"
+            }
+          ]
         }
       ]
     },
