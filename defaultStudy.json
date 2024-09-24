@@ -71,6 +71,30 @@
         }
       ]
     },
+
+    {
+      "study": "human_bone_marrow_Bandyopadhyay",
+      "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
+      "publication": [
+        {
+          "title": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging",
+          "abstract": "Non-hematopoietic cells are essential contributors to hematopoiesis. However, heterogeneity and spatial organization of these cells in human bone marrow remain largely uncharacterized. We used single-cell RNA sequencing (scRNA-seq) to profile 29,325 non-hematopoietic cells and discovered nine transcriptionally distinct subtypes. We simultaneously profiled 53,417 hematopoietic cells and predicted their interactions with non-hematopoietic subsets. We employed co-detection by indexing (CODEX) to spatially profile over 1.2 million cells. We integrated scRNA-seq and CODEX data to link predicted cellular signaling with spatial proximity. Our analysis revealed a hyperoxygenated arterio-endosteal neighborhood for early myelopoiesis, and an adipocytic localization for early hematopoietic stem and progenitor cells (HSPCs). We used our CODEX atlas to annotate new images and uncovered mesenchymal stromal cell (MSC) expansion and spatial neighborhoods co-enriched for leukemic blasts and MSCs in acute myeloid leukemia (AML) patient samples. This spatially resolved, multiomic atlas of human bone marrow provides a reference for investigation of cellular interactions that drive hematopoiesis.",
+          "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)00408-2"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "human_bone_marrow_scRNAseq_Bandyopadhyay_H33",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Bone_Marrow/scRNAseq/H33_seurat_rna_expression.tsv"
+            }
+          ]
+        }
+      ]
+    },
     
     {
       "study": "vz-ffpe-showcaseHuman-Lung",
