@@ -250,7 +250,6 @@
       "publication": [
         {
           "title": "The immunoregulatory landscape of human tuberculosis granulomas",
-          "abstract": "Tuberculosis (TB) in humans is characterized by formation of immune-rich granulomas in infected tissues, the architecture and composition of which are thought to affect disease outcome. However, our understanding of the spatial relationships that control human granulomas is limited. Here, we used multiplexed ion beam imaging by time of flight (MIBI-TOF) to image 37 proteins in tissues from patients with active TB. We constructed a comprehensive atlas that maps 19 cell subsets across 8 spatial microenvironments. This atlas shows an IFN-γ-depleted microenvironment enriched for TGF-β, regulatory T cells and IDO1+ PD-L1+ myeloid cells. In a further transcriptomic meta-analysis of peripheral blood from patients with TB, immunoregulatory trends mirror those identified by granuloma imaging. Notably, PD-L1 expression is associated with progression to active TB and treatment response. These data indicate that in TB granulomas, there are local spatially coordinated immunoregulatory programs with systemic manifestations that define active TB.",
           "url": "https://www.nature.com/articles/s41590-021-01121-x"
         }
       ],
