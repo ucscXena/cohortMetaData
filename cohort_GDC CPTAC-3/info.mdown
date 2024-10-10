@@ -1,3 +1,1 @@
-This cohort contains data from the [CPTACT-3 project](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac). Due to the fact that samples were pooled for analysis, we mapped all data to the case level rather than the sample level. Please [contact us](mailto:genome-cancer@soe.ucsc.edu) with any questions.
-
-The DNA methylation datasets did not undergo automated testing. These datasets did undergo manual spot checking.
+This cohort contains data from the [CPTACT-3 project](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac). Please see [our help page on the GDC](https://ucsc-xena.gitbook.io/project/public-data-we-host/gdc) for more information on this cohort.
