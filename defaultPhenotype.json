@@ -497,6 +497,600 @@
       "feature": "expression subtype"
     }
   ],
+  "GDC APOLLO-LUAD": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC BEATAML1.0-COHORT": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CDDP_EAGLE-1": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CGCI-BLGSP": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CGCI-HTMCP-CC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CGCI-HTMCP-DLBCL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CGCI-HTMCP-LC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-ASC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-MBC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-MPC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CPTAC-2": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CPTAC-3": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CTSP-DLBCL1": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC EXCEPTIONAL_RESPONDERS-ER": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC HCMI-CMDC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MMRF-COMMPASS": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MP2PRT-ALL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MP2PRT-WT": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC NCICCR-DLBCL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC OHSU-CNL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC ORGANOID-PANCREATIC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC REBC-THYR": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
   "GDC TARGET-ALL-P1": [
     {
       "host": "https://gdc.xenahubs.net",
@@ -1631,55 +2225,31 @@
       "feature": "primary_site"
     }
   ],
-  "GDC HCMI-CMDC": [
+  "GDC WCDT-MCRPC": [
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
-      "feature": "primary_site"
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "sample_type.samples"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
-      "feature": "sample_type.samples"
-    }
-  ],
-  "GDC CTSP-DLBCL1": [
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
       "feature": "primary_site"
-    },
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
-      "feature": "disease_type"
-    },
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
-      "feature": "sample_type.samples"
-    }
-  ],
-  "GDC CGCI-HTMCP-LC": [
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
-      "feature": "primary_site"
-    },
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
-      "feature": "disease_type"
-    },
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
-      "feature": "sample_type.samples"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
