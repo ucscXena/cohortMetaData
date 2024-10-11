@@ -953,7 +953,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-CHOL.segment_cnv_ascat-ngs.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1173,7 +1173,7 @@
   "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TTCGA-LUSC.star_fpkm-uq.tsv"
+      "dataset": "TCGA-LUSC.star_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
@@ -1331,7 +1331,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-TGCT.segment_cnv_ascat-ngs.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1345,7 +1345,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM.gene-level_ascat3.tsv"
+      "dataset": "TCGA-THYM.allele_cnv_ascat3.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
