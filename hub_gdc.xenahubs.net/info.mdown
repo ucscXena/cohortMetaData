@@ -38,7 +38,7 @@ New for this release, we worked to not have samples that have no genomic data an
     <td style="border:1px solid black;">miRNA Expression</td>
     <td style="border:1px solid black;">* stem loop</td>
   </tr>
-  <tr">
+  <tr>
     <td style="border:1px solid black;">Phenotype, clinical, and survival data</td>
     <td style="border:1px solid black;"></td>
   </tr>
