@@ -638,6 +638,10 @@
     "copy number": {
       "host": "https://gdc.xenahubs.net",
       "dataset": "CGCI-BLGSP.segment_cnv_ascat-ngs.tsv"
+    },
+    "simple somatic mutation": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-BLGSP.somaticmutation_targeted.tsv"
     }
   },
   "GDC CGCI-HTMCP-CC": {
@@ -675,6 +679,10 @@
     }
   },
   "GDC CMI-ASC": {
+    "gene expression": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.star_fpkm-uq.tsv"
+    },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
       "dataset": "CMI-ASC.somaticmutation_wxs.tsv"
@@ -827,6 +835,10 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-ALL-P2.star_fpkm-uq.tsv"
     },
+    "copy number": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.allele_cnv_ascat2.tsv"
+    },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-ALL-P2.somaticmutation_wxs.tsv"
@@ -847,6 +859,10 @@
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-AML.star_fpkm-uq.tsv"
     },
+    "copy number": {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.allele_cnv_ascat2.tsv"
+    },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-AML.somaticmutation_targeted.tsv"
@@ -855,11 +871,11 @@
   "GDC TARGET-CCSK": {
     "gene expression": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-CCSK.allele_cnv_ascat2.tsv"
+      "dataset": "TARGET-CCSK.star_fpkm-uq.tsv"
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.masked_cnv.tsv"
+      "dataset": "TARGET-CCSK.allele_cnv_ascat2.tsv"
     }
   },
   "GDC TARGET-NBL": {
@@ -869,7 +885,7 @@
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-NBL.somaticmutation_targeted.tsv"
+      "dataset": "TARGET-NBL.somaticmutation_wxs.tsv"
     }
   },
   "GDC TARGET-OS": {
