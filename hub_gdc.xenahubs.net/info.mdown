@@ -9,36 +9,36 @@ New for this release, we worked to not have samples that have no genomic data an
 ## Supported data types
 
 <table class="tg"><thead>
-  <tr>
+  <tr style="outline: thin solid">
     <th class="tg-0pky"><span style="font-weight:bold">Type of data</span></th>
     <th class="tg-0pky"><span style="font-weight:bold">Data</span></th>
   </tr></thead>
 <tbody>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">Copy Number Variation</td>
     <td class="tg-0pky">* Allele-specific Copy Number Segment (ASCAT2, ASCAT3)<br>* Copy Number Segment (AscatNGS)<br>* Masked Copy Number Segment (DNAcopy)<br>* Gene Level Copy Number (ABSOLUTE, ASCAT2, ASCAT3, AscatNGS)</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">Somatic Mutation</td>
     <td class="tg-0pky">* Ensemble Somatic Variant (WXS)<br>* Ensemble Somatic Variant (Targeted Sequencing)</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">Gene Expression RNAseq</td>
     <td class="tg-0pky">* STAR (Counts, FPKM, FPKM-UQ, TPM)</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">Protein expression</td>
     <td class="tg-0pky">* Protein Expression Quantification</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">DNA Methylation</td>
     <td class="tg-0pky">* Illumina Human Methylation 27K<br>* Illumina Human Methylation 450K<br>* Illumina Human Methylation epic v2</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">miRNA Expression</td>
     <td class="tg-0pky">* stem loop</td>
   </tr>
-  <tr>
+  <tr style="outline: thin solid">
     <td class="tg-0pky">Phenotype, clinical, and survival data</td>
     <td class="tg-0pky"></td>
   </tr>
