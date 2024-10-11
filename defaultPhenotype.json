@@ -497,775 +497,1759 @@
       "feature": "expression subtype"
     }
   ],
-  "GDC TCGA Acute Myeloid Leukemia (LAML)": [
+  "GDC APOLLO-LUAD": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
-      "feature": "acute_myeloid_leukemia_calgb_cytogenetics_risk_category"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.GDC_phenotype.tsv",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
       "feature": "disease_type"
-    }
-  ],
-  "GDC TCGA Adrenocortical Cancer (ACC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "APOLLO-LUAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC.GDC_phenotype.tsv",
+      "dataset": "APOLLO-LUAD.clinical.tsv",
       "feature": "primary_site"
     }
   ],
-  "GDC TCGA Bile Duct Cancer (CHOL)": [
+  "GDC BEATAML1.0-COHORT": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL.GDC_phenotype.tsv",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "BEATAML1.0-COHORT.clinical.tsv",
       "feature": "primary_site"
     }
   ],
-  "GDC TCGA Bladder Cancer (BLCA)": [
+  "GDC CDDP_EAGLE-1": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA.GDC_phenotype.tsv",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    }
-  ],
-  "GDC TCGA Breast Cancer (BRCA)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    }
-  ],
-  "GDC TCGA Cervical Cancer (CESC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC.GDC_phenotype.tsv",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
       "feature": "disease_type"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    }
-  ],
-  "GDC TCGA Colon Cancer (COAD)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD.GDC_phenotype.tsv",
-      "feature": "disease_type"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD.GDC_phenotype.tsv",
+      "dataset": "CDDP_EAGLE-1.clinical.tsv",
       "feature": "primary_site"
     }
   ],
-  "GDC TCGA Endometrioid Cancer (UCEC)": [
+  "GDC CGCI-BLGSP": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC.GDC_phenotype.tsv",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC.GDC_phenotype.tsv",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
       "feature": "disease_type"
-    }
-  ],
-  "GDC TCGA Esophageal Cancer (ESCA)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "CGCI-BLGSP.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA.GDC_phenotype.tsv",
-      "feature": "disease_type"
-    }
-  ],
-  "GDC TCGA Glioblastoma (GBM)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM.GDC_phenotype.tsv",
-      "feature": "prior_glioma"
-    }
-  ],
-  "GDC TCGA Head and Neck Cancer (HNSC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC.GDC_phenotype.tsv",
+      "dataset": "CGCI-BLGSP.clinical.tsv",
       "feature": "primary_site"
     }
   ],
-  "GDC TCGA Kidney Chromophobe (KICH)": [
+  "GDC CGCI-HTMCP-CC": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    }
-  ],
-  "GDC TCGA Kidney Clear Cell Carcinoma (KIRC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Kidney Papillary Cell Carcinoma (KIRP)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP.GDC_phenotype.tsv",
-      "feature": "tumor_type"
-    }
-  ],
-  "GDC TCGA Large B-cell Lymphoma (DLBC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC.GDC_phenotype.tsv",
-      "feature": "primary_site"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC.GDC_phenotype.tsv",
-      "feature": "ldh_level"
-    }
-  ],
-  "GDC TCGA Liver Cancer (LIHC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Lower Grade Glioma (LGG)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Lung Adenocarcinoma (LUAD)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD.GDC_phenotype.tsv",
-      "feature": "tobacco_smoking_history"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD.GDC_phenotype.tsv",
-      "feature": "disease_type"
-    }
-  ],
-  "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.GDC_phenotype.tsv",
-      "feature": "tobacco_smoking_history"
-    }
-  ],
-  "GDC TCGA Melanoma (SKCM)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    }
-  ],
-  "GDC TCGA Mesothelioma (MESO)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Ocular melanomas (UVM)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "/TCGA-UVM.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Ovarian Cancer (OV)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    }
-  ],
-  "GDC TCGA Pancreatic Cancer (PAAD)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD.GDC_phenotype.tsv",
-      "feature": "disease_type"
-    }
-  ],
-  "GDC TCGA Pheochromocytoma & Paraganglioma (PCPG)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Prostate Cancer (PRAD)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD.GDC_phenotype.tsv",
-      "feature": "psa_value"
-    }
-  ],
-  "GDC TCGA Rectal Cancer (READ)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ.GDC_phenotype.tsv",
-      "feature": "primary_site"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ.GDC_phenotype.tsv",
-      "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Sarcoma (SARC)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
       "feature": "disease_type"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC.GDC_phenotype.tsv",
-      "feature": "tumor_depth"
-    }
-  ],
-  "GDC TCGA Stomach Cancer (STAD)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD.GDC_phenotype.tsv",
-      "feature": "neoplasm_histologic_grade"
-    }
-  ],
-  "GDC TCGA Testicular Cancer (TGCT)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
       "feature": "primary_diagnosis.diagnoses"
-    }
-  ],
-  "GDC TCGA Thymoma (THYM)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM.GDC_phenotype.tsv",
-      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-CC.clinical.tsv",
       "feature": "primary_site"
     }
   ],
-  "GDC TCGA Thyroid Cancer (THCA)": [
+  "GDC CGCI-HTMCP-DLBCL": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-DLBCL.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
-  "GDC TCGA Uterine Carcinosarcoma (UCS)": [
+  "GDC CGCI-HTMCP-LC": [
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
       "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS.GDC_phenotype.tsv",
-      "feature": "age_at_initial_pathologic_diagnosis"
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS.GDC_phenotype.tsv",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
       "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-ASC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-ASC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-MBC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MBC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CMI-MPC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CMI-MPC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CPTAC-2": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-2.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CPTAC-3": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CPTAC-3.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC CTSP-DLBCL1": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC EXCEPTIONAL_RESPONDERS-ER": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "EXCEPTIONAL_RESPONDERS-ER.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC HCMI-CMDC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "HCMI-CMDC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MMRF-COMMPASS": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MMRF-COMMPASS.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MP2PRT-ALL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-ALL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC MP2PRT-WT": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "MP2PRT-WT.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC NCICCR-DLBCL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "NCICCR-DLBCL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC OHSU-CNL": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "OHSU-CNL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC ORGANOID-PANCREATIC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "ORGANOID-PANCREATIC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC REBC-THYR": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "REBC-THYR.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TARGET-ALL-P1": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P1.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P1.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P1.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P1.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P1.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TARGET-ALL-P2": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P2.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TARGET-ALL-P3": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-ALL-P3.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-AML": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-AML.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-AML.clinical.tsv",
-      "feature": "Gemtuzumab ozogamicin treatment"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-AML.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-CCSK": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-CCSK.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-CCSK.clinical.tsv",
-      "feature": "Stage"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-CCSK.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-CCSK.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-CCSK.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-NBL": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-NBL.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-NBL.clinical.tsv",
-      "feature": "COG Risk Group"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-NBL.clinical.tsv",
-      "feature": "Grade"
+      "feature": "disease_type"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-NBL.clinical.tsv",
-      "feature": "Diagnostic Category"
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-NBL.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-OS": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-OS.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-OS.clinical.tsv",
-      "feature": "Disease at diagnosis"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-OS.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-OS.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-OS.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-RT": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-RT.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-RT.clinical.tsv",
-      "feature": "Stage"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-RT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-RT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-RT.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "GDC TARGET-WT": [
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-WT.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
+      "feature": "sample_type.samples"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-WT.clinical.tsv",
-      "feature": "Stage"
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
     },
     {
       "host": "https://gdc.xenahubs.net",
       "dataset": "TARGET-WT.clinical.tsv",
-      "feature": "Histologic Classification of Primary Tumor"
-    }
-  ],
-  "GDC Pan-Cancer (PANCAN)": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
-      "feature": "program"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
-      "feature": "project_id"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
-      "feature": "sample_type"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "GDC-PANCAN.basic_phenotype.tsv",
-      "feature": "Age at Diagnosis in Years"
-    }
-  ],
-  "GDC HCMI-CMDC": [
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
-      "feature": "primary_site"
-    },
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "HCMI-CMDC.clinical.tsv",
-      "feature": "sample_type.samples"
-    }
-  ],
-  "GDC CTSP-DLBCL1": [
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
-      "feature": "primary_site"
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-WT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TARGET-WT.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Acute Myeloid Leukemia (LAML)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CTSP-DLBCL1.clinical.tsv",
-      "feature": "sample_type.samples"
-    }
-  ],
-  "GDC CGCI-HTMCP-LC": [
-    {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
-      "feature": "primary_site"
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LAML.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Adrenocortical Cancer (ACC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC.clinical.tsv",
       "feature": "disease_type"
     },
     {
-      "host": "https://gdcbetarelease.xenahubs.net",
-      "dataset": "CGCI-HTMCP-LC.clinical.tsv",
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ACC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Bile Duct Cancer (CHOL)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL.clinical.tsv",
       "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CHOL.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Bladder Cancer (BLCA)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BLCA.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Breast Cancer (BRCA)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-BRCA.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Cervical Cancer (CESC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-CESC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Colon Cancer (COAD)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-COAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Endometrioid Cancer (UCEC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCEC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Esophageal Cancer (ESCA)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-ESCA.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Glioblastoma (GBM)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-GBM.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Head and Neck Cancer (HNSC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-HNSC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Kidney Chromophobe (KICH)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KICH.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Kidney Clear Cell Carcinoma (KIRC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Kidney Papillary Cell Carcinoma (KIRP)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-KIRP.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Large B-cell Lymphoma (DLBC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-DLBC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Liver Cancer (LIHC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LIHC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Lower Grade Glioma (LGG)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LGG.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Lung Adenocarcinoma (LUAD)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Lung Squamous Cell Carcinoma (LUSC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-LUSC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Melanoma (SKCM)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SKCM.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SKCM.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SKCM.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SKCM.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SKCM.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Mesothelioma (MESO)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-MESO.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Ocular melanomas (UVM)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UVM.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Ovarian Cancer (OV)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-OV.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Pancreatic Cancer (PAAD)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PAAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Pheochromocytoma & Paraganglioma (PCPG)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PCPG.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Prostate Cancer (PRAD)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-PRAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Rectal Cancer (READ)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-READ.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Sarcoma (SARC)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-SARC.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Stomach Cancer (STAD)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-STAD.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Testicular Cancer (TGCT)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-TGCT.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Thymoma (THYM)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THYM.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Thyroid Cancer (THCA)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-THCA.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC TCGA Uterine Carcinosarcoma (UCS)": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "TCGA-UCS.clinical.tsv",
+      "feature": "primary_site"
+    }
+  ],
+  "GDC WCDT-MCRPC": [
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "sample_type.samples"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "age_at_earliest_diagnosis_in_years.diagnoses.xena_derived"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "disease_type"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "primary_diagnosis.diagnoses"
+    },
+    {
+      "host": "https://gdc.xenahubs.net",
+      "dataset": "WCDT-MCRPC.clinical.tsv",
+      "feature": "primary_site"
     }
   ],
   "Acute lymphoblastic leukemia (Mullighan 2008)": [
@@ -1598,18 +2582,6 @@
       "feature": "Tumor_type"
     }
   ],
-  "Single-cell RNA-seq mouse cortex (Zeisel)": [
-    {
-      "host": "https://ucscpublic.xenahubs.net",
-      "dataset": "Zeisel/Zeisel_expression_phenotype",
-      "feature": "tissue"
-    },
-    {
-      "host": "https://ucscpublic.xenahubs.net",
-      "dataset": "Zeisel/Zeisel_expression_phenotype",
-      "feature": "level1class"
-    }
-  ],
   "St Jude PCGP pan-cancer": [
     {
       "host": "https://ucscpublic.xenahubs.net",
@@ -1634,23 +2606,6 @@
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "TARGET_neuroblastoma/TARGET_neuroblastoma_clinicalMatrix",
       "feature": "MYCNamp"
-    }
-  ],
-  "Human brain (Darmanis 2015)": [
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
-      "feature": "biosample_source_life_stage"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
-      "feature": "sample_category"
-    },
-    {
-      "host": "https://singlecellnew.xenahubs.net",
-      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
-      "feature": "biosample_cell_type"
     }
   ],
   "TCGA PANCAN12 (PANCAN12)": [
@@ -1685,6 +2640,35 @@
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "MET500/geneExpression/M.meta.plus.txt",
       "feature": "tc"
+    }
+  ],
+  "Single-cell RNA-seq mouse cortex (Zeisel)": [
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Zeisel/Zeisel_expression_phenotype",
+      "feature": "tissue"
+    },
+    {
+      "host": "https://ucscpublic.xenahubs.net",
+      "dataset": "Zeisel/Zeisel_expression_phenotype",
+      "feature": "level1class"
+    }
+  ],
+  "Human brain (Darmanis 2015)": [
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "biosample_source_life_stage"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "sample_category"
+    },
+    {
+      "host": "https://singlecellnew.xenahubs.net",
+      "dataset": "DarmanisPNAS2015/quakeBrainGeo.tsv",
+      "feature": "biosample_cell_type"
     }
   ],
   "HCA Adult Retina (Wong)": [
@@ -2019,18 +3003,6 @@
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "HNSCC/GSE103322_sample_metadata.txt",
       "feature": "patient"
-    }
-  ],
-  "GDC TARGET-ALL-P3": [
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-ALL-P3.clinical.tsv",
-      "feature": "Age at Diagnosis in Days"
-    },
-    {
-      "host": "https://gdc.xenahubs.net",
-      "dataset": "TARGET-ALL-P3.clinical.tsv",
-      "feature": "WHO ALAL Classification"
     }
   ],
   "Longitudinal Lung Cancer scRNA (Bivona 2020)": [

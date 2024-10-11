@@ -1,39 +1,21 @@
 # GDC Xena Hub
 
-The hub hosts v18.0 release from [GDC Data Portal](https://portal.gdc.cancer.gov/). The hub is last updated on 2019-08-28.
+The hub hosts open access data from the [GDC Data Release 41.0 - August 28, 2024](https://docs.gdc.cancer.gov/Data/Release_Notes/Data_Release_Notes/).
 
-We are currently updating our GDC data. [Visualize our beta cohorts here.](https://xenabrowser.net/datapages/?host= https%3A%2F%2Fgdcbetarelease.xenahubs.net&removeHub=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fpcawg.xenahubs.net&removeHub=https%3A%2F%2Fatacseq.xenahubs.net&removeHub=https%3A%2F%2Fkidsfirst.xenahubs.net&removeHub=notebook%3A)
+You can view data from the [GDC Data Release v18.0 release - August 28, 2019](https://xenabrowser.net/datapages/?host=https%3A%2F%2FgdcV18.xenahubs.net&removeHub=https%3A%2F%2Fgdc.xenahubs.net%3A443). This data will only be available until October 2025. After October 2025 the data from this release will only be available for download.
+
+New for this release, we worked to not have samples that have no genomic data and only have phenotype/clinical data. This should make visualizing data in our Visual Spreadsheet easier.
 
 ## Supported data types
 
-Gene Expression RNAseq
-* HTSeq - Counts
-* HTSeq - FPKM
-* HTSeq - FPKM-uq
-* STAR - Counts (TARGET-ALL-P3 study only)
-
-Somatic Mutation
-* MuSE
-* MuTect2
-* SomaticSniper
-* VarScan2
-
-Copy Number Variation
-* segmented copy number
-* GISTIC - focal score by gene
-
-DNA Methylation
-* Illumina Human Methylation 27K
-* Illumina Human Methylation 450K
-
-miRNA Expression
-* stem loop
-
-Phenotype and clinical data
-
-## Study cohorts
-* TCGA
-* TARGET
-* GDC Pan-Cancer (PANCAN)
+| **Type of data**                       | **Data**                                                                                                                                                                                              |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Copy Number Variation                  | * Allele-specific Copy Number Segment (ASCAT2, ASCAT3)<br>* Copy Number Segment (AscatNGS)<br>* Masked Copy Number Segment (DNAcopy)<br>* Gene Level Copy Number (ABSOLUTE, ASCAT2, ASCAT3, AscatNGS) |
+| Somatic Mutation                       | * Ensemble Somatic Variant (WXS)<br>* Ensemble Somatic Variant (Targeted Sequencing)                                                                                                                  |
+| Gene Expression RNAseq                 | * STAR (Counts, FPKM, FPKM-UQ, TPM)                                                                                                                                                                   |
+| Protein expression                     | * Protein Expression Quantification                                                                                                                                                                   |
+| DNA Methylation                        | * Illumina Human Methylation 27K<br>* Illumina Human Methylation 450K<br>* Illumina Human Methylation epic v2                                                                                         |
+| miRNA Expression                       | * Stem loop                                                                                                                                                                                           |
+| Phenotype, clinical, and survival data |                                                                                                                                                                                                       |
 
 <br>
