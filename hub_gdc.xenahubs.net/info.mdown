@@ -8,48 +8,39 @@ New for this release, we worked to not have samples that have no genomic data an
 
 ## Supported data types
 
-<style>
-th, td {
-  text-align: left;
-  padding: 8px;
-  border:1px; 
-  solid black;
-}
-</style>
-
 <table style="border:1px solid black;border-collapse:collapse;"><thead>
   <tr>
-    <th style="border:1px solid black;"><span style="font-weight:bold">Type of data</span></th>
-    <th style="border:1px solid black;"><span style="font-weight:bold">Data</span></th>
+    <th style="border:1px solid black; text-align:left; padding:8px;"><span style="font-weight:bold">Type of data</span></th>
+    <th style="border:1px solid black; text-align:left; padding:8px;">Data</span></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td style="border:1px solid black;">Copy Number Variation</td>
-    <td style="border:1px solid black;">* Allele-specific Copy Number Segment (ASCAT2, ASCAT3)<br>* Copy Number Segment (AscatNGS)<br>* Masked Copy Number Segment (DNAcopy)<br>* Gene Level Copy Number (ABSOLUTE, ASCAT2, ASCAT3, AscatNGS)</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">Copy Number Variation</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* Allele-specific Copy Number Segment (ASCAT2, ASCAT3)<br>* Copy Number Segment (AscatNGS)<br>* Masked Copy Number Segment (DNAcopy)<br>* Gene Level Copy Number (ABSOLUTE, ASCAT2, ASCAT3, AscatNGS)</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">Somatic Mutation</td>
-    <td style="border:1px solid black;">* Ensemble Somatic Variant (WXS)<br>* Ensemble Somatic Variant (Targeted Sequencing)</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">Somatic Mutation</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* Ensemble Somatic Variant (WXS)<br>* Ensemble Somatic Variant (Targeted Sequencing)</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">Gene Expression RNAseq</td>
-    <td style="border:1px solid black;">* STAR (Counts, FPKM, FPKM-UQ, TPM)</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">Gene Expression RNAseq</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* STAR (Counts, FPKM, FPKM-UQ, TPM)</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">Protein expression</td>
-    <td style="border:1px solid black;">* Protein Expression Quantification</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">Protein expression</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* Protein Expression Quantification</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">DNA Methylation</td>
-    <td style="border:1px solid black;">* Illumina Human Methylation 27K<br>* Illumina Human Methylation 450K<br>* Illumina Human Methylation epic<br>* Illumina Human Methylation epic v2</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">DNA Methylation</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* Illumina Human Methylation 27K<br>* Illumina Human Methylation 450K<br>* Illumina Human Methylation epic<br>* Illumina Human Methylation epic v2</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">miRNA Expression</td>
-    <td style="border:1px solid black;">* stem loop</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">miRNA Expression</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">* stem loop</td>
   </tr>
   <tr>
-    <td style="border:1px solid black;">Phenotype, clinical, and survival data</td>
-    <td style="border:1px solid black;"></td>
+    <td style="border:1px solid black; text-align:left; padding:8px;">Phenotype, clinical, and survival data</td>
+    <td style="border:1px solid black; text-align:left; padding:8px;"></td>
   </tr>
 </tbody></table>
 
