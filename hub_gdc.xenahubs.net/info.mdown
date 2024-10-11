@@ -8,7 +8,7 @@ New for this release, we worked to not have samples that have no genomic data an
 
 ## Supported data types
 
-<table border="1"><thead>
+<table style="border:1px solid black;border-collapse:collapse;"><thead>
   <tr>
     <th style="border:1px solid black;"><span style="font-weight:bold">Type of data</span></th>
     <th style="border:1px solid black;"><span style="font-weight:bold">Data</span></th>
