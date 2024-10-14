@@ -925,7 +925,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LAML.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-LAML.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -939,7 +939,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ACC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-ACC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -953,7 +953,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CHOL.segment_cnv_ascat-ngs.tsv"
+      "dataset": "TCGA-CHOL.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -967,7 +967,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BLCA.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-BLCA.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -981,7 +981,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-BRCA.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-BRCA.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -995,7 +995,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-CESC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-CESC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1009,7 +1009,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-COAD.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-COAD.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1023,7 +1023,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCEC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-UCEC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1037,7 +1037,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-ESCA.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-ESCA.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1051,7 +1051,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-GBM.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-GBM.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1065,7 +1065,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-HNSC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-HNSC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1079,7 +1079,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KICH.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-KICH.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1093,7 +1093,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-KIRC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1107,7 +1107,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-KIRP.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-KIRP.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1121,7 +1121,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-DLBC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-DLBC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1135,7 +1135,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LIHC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-LIHC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1149,7 +1149,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LGG.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-LGG.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1163,7 +1163,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUAD.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-LUAD.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1177,7 +1177,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-LUSC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-LUSC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1191,7 +1191,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SKCM.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-SKCM.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1205,7 +1205,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-MESO.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-MESO.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1219,7 +1219,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UVM.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-UVM.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1233,7 +1233,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-OV.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-OV.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1247,7 +1247,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PAAD.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-PAAD.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1261,7 +1261,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PCPG.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-PCPG.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1275,7 +1275,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-PRAD.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-PRAD.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1289,7 +1289,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-READ.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-READ.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1303,7 +1303,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-SARC.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-SARC.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1317,7 +1317,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-STAD.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-STAD.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1331,7 +1331,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-TGCT.segment_cnv_ascat-ngs.tsv"
+      "dataset": "TCGA-TGCT.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1345,7 +1345,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THYM.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-THYM.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1359,7 +1359,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-THCA.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-THCA.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
@@ -1373,7 +1373,7 @@
     },
     "copy number": {
       "host": "https://gdc.xenahubs.net",
-      "dataset": "TCGA-UCS.allele_cnv_ascat3.tsv"
+      "dataset": "TCGA-UCS.masked_cnv_DNAcopy.tsv"
     },
     "simple somatic mutation": {
       "host": "https://gdc.xenahubs.net",
