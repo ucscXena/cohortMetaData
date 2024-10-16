@@ -243,7 +243,7 @@
         }
       ]
     },
-
+    
     {
       "study": "TB_McCaffrey",
       "label": "The immunoregulatory landscape of human tuberculosis granulomas (McCaffrey et al Nature Immunology 2022)",
@@ -261,6 +261,29 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "TB_McCaffrey/Patient10-1/cells_p10-1.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "study": "brainimagelibrary_0cbd479c521afff9_astrocytes",
+      "label": "brainimagelibrary.org astrocytes MERFISH",
+      "publication": [
+        {
+          "title": "brainimagelibrary.org 0cbd479c521afff9 astrocytes MERFISH",
+          "url": "https://download.brainimagelibrary.org/0c/bd/0cbd479c521afff9/astrocytes/processed/sample5/MERFISH/"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "brainimagelibrary_0cbd479c521afff9_astrocytes_sample5",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "brainimagelibrary/0cbd479c521afff9/sample5/cell_metadata.tsv"
             }
           ]
         }
