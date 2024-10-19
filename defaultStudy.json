@@ -283,7 +283,7 @@
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
-              "name": "brainimagelibrary/0cbd479c521afff9/sample5/cell_metadata.tsv"
+              "name": "brainimagelibrary/0cbd479c521afff9/sample5/geneExp.tsv"
             }
           ]
         }
