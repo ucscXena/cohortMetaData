@@ -1419,5 +1419,11 @@
       "host": "https://ucscpublic.xenahubs.net",
       "dataset": "MET500/geneExpression/M.mx.log2.txt"
     }
+  },
+  "KS-omics": {
+    "gene expression": {
+      "host": "https://kaposi.xenahubs.net",
+      "dataset": "Human_gene_expression.csv"
+    }
   }
 }
