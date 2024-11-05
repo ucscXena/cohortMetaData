@@ -1422,7 +1422,7 @@
   },
   "Kaposi's Sarcoma": {
     "gene expression": {
-      "host": "https://kaposi.xenahubs.net",
+      "host": "https://ucscpublic.xenahubs.net",
       "dataset": "Human_gene_expression.csv"
     }
   }
