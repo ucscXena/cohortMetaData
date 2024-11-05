@@ -933,8 +933,7 @@
       "host": "https://kaposi.xenahubs.net",
       "fields":"T_cell_MAIT",
       "label": "T cell MAIT score"
-    }
-
+    },
     
     {
       "name": "kaposi/Immune_infiltrate.csv",
