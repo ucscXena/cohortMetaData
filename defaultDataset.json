@@ -1420,7 +1420,7 @@
       "dataset": "MET500/geneExpression/M.mx.log2.txt"
     }
   },
-  "Kaposi''s Sarcoma": {
+  "Kaposi's Sarcoma": {
     "gene expression": {
       "host": "https://kaposi.xenahubs.net",
       "dataset": "Human_gene_expression.csv"
