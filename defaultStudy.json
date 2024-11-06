@@ -73,6 +73,30 @@
     },
 
     {
+      "study": "HTAN_breaset_CAF",
+      "label": "HTAN Breast Cancer Metastases (Klughammer et al Nature Medicine 2024)",
+      "publication": [
+        {
+          "title": "A multi-modal single-cell and spatial expression map of metastatic breast cancer biopsies across clinicopathological features",
+          "abstract": "Although metastatic disease is the leading cause of cancer-related deaths, its tumor microenvironment remains poorly characterized due to technical and biospecimen limitations. In this study, we assembled a multi-modal spatial and cellular map of 67 tumor biopsies from 60 patients with metastatic breast cancer across diverse clinicopathological features and nine anatomic sites with detailed clinical annotations. We combined single-cell or single-nucleus RNA sequencing for all biopsies with a panel of four spatial expression assays (Slide-seq, MERFISH, ExSeq and CODEX) and H&E staining of consecutive serial sections from up to 15 of these biopsies. We leveraged the coupled measurements to provide reference points for the utility and integration of different experimental techniques and used them to assess variability in cell type composition and expression as well as emerging spatial expression characteristics across clinicopathological and methodological diversity. Finally, we assessed spatial expression and co-localization features of macrophage populations, characterized three distinct spatial phenotypes of epithelial-to-mesenchymal transition and identified expression programs associated with local T cell infiltration versus exclusion, showcasing the potential of clinically relevant discovery in such maps.",
+          "url":"https://www.nature.com/articles/s41591-024-03215-z"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "HTA1_878_7149",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/878_7149/slideseq/slide-seq_expression.tsv"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "study": "human_bone_marrow_Bandyopadhyay",
       "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
       "publication": [
