@@ -92,6 +92,16 @@
               "name": "HTAN_CAF/878_7149/slideseq/slide-seq_expression.tsv"
             }
           ]
+        },
+        {
+          "cohort": "HTA1_313_932",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/313_932/slideseq/slide-seq_expression.tsv"
+            }
+          ]
         }
       ]
     },
