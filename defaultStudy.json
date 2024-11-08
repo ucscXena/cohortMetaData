@@ -100,6 +100,10 @@
             {
               "host": "https://previewsinglecell.xenahubs.net",
               "name": "HTAN_CAF/313_932/slideseq/expression.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/313_932/merfish/merfish_expression.tsv"
             }
           ]
         }
