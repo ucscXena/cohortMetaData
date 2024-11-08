@@ -332,6 +332,36 @@
               "name": "HTAN_CAF/514_6760/codex/codex_expression.tsv"
             }
           ]
+        },
+        {
+          "cohort": "HTA1_812_8239_slideseq",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/812_8239/slideseq/expression.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "HTA1_812_8239_merfish",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/812_8239/merfish/merfish_expression.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "HTA1_812_8239_codex",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/812_8239/codex/codex_expression.tsv"
+            }
+          ]
         }
       ]
     },
