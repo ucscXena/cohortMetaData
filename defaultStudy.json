@@ -192,7 +192,27 @@
               "name": "HTAN_CAF/982_7629/codex/codex_expression.tsv"
             }
           ]
-        } 
+        },
+        {
+          "cohort": "HTA1_944_7479_slideseq",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/944_7479/slideseq/expression.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "HTA1_944_7479_merfish",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "HTAN_CAF/944_7479/merfish/merfish_expression.tsv"
+            }
+          ]
+        }
       ]
     },
     
