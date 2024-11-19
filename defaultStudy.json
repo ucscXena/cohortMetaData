@@ -560,6 +560,38 @@
         }
       ]
     },
+
+   {
+      "study": "SenNet_CODEX_datasets_Rong_Fan_Lab",
+      "label": "SenNet CODEX datasets (Rong Fan Lab)",
+      "cohortList": [
+        {
+          "cohort": "LN00560",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "RongFanLab/SenNet_CODEX_datasets/LN00560_celltype_location_cleaned.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "LN00837",
+          "donorNumber": 1,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "LN22921",
+          "donorNumber": 1,
+          "preferredDataset": []
+        },
+        {
+          "cohort": "LN27766",
+          "donorNumber": 1,
+          "preferredDataset": []
+        }
+      ]
+    },
     
     {
       "study": "brainimagelibrary_0cbd479c521afff9_astrocytes",
