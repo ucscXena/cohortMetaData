@@ -7,7 +7,12 @@
         {
           "cohort": "LN00560",
           "donorNumber": 1,
-          "preferredDataset": []
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "RongFanLab/SenNet_CODEX_datasets/LN00560_celltype_location_cleaned.tsv"
+            }
+          ]
         },
         {
           "cohort": "LN00837",
