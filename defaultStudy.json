@@ -560,30 +560,7 @@
         }
       ]
     },
-    
-    {
-      "study": "brainimagelibrary_0cbd479c521afff9_astrocytes",
-      "label": "brainimagelibrary.org astrocytes MERFISH",
-      "publication": [
-        {
-          "title": "brainimagelibrary.org 0cbd479c521afff9 astrocytes MERFISH",
-          "url": "https://download.brainimagelibrary.org/0c/bd/0cbd479c521afff9/astrocytes/processed/sample5/MERFISH/"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "brainimagelibrary_0cbd479c521afff9_astrocytes_sample5",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://tmpsinglecell.xenahubs.net",
-              "name": "brainimagelibrary/0cbd479c521afff9/sample5/geneExp.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    
+  
     {
       "study": "Wu_Swarbrick_breast_cancer",
       "label": "A single-cell and spatially resolved atlas of human breast cancers (Wu et al Nat Genet 2021)",
