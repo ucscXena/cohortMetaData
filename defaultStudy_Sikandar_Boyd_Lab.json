@@ -1,0 +1,20 @@
+{
+  "studyList": [
+    {
+      "study": "Sikandar_Boyd_influenza_project",
+      "label": "breast cancer influenza project",
+      "cohortList": [
+        {
+          "cohort": "Sikandar_Boyd_influenza project",
+          "donorNumber": 12,
+          "preferredDataset": [
+            {
+              "host": "https://sikandarboydlab.xenahubs.net",
+              "name": "allCells.expression.data.tsv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
