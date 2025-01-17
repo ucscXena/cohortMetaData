@@ -1,0 +1,5 @@
+***The GDC Pan-Cancer (PANCAN) cohort still contains data from the v18.0 release.*** 
+
+The rest of the GDC data available on Xena is from the v41.0 release.
+
+We are working to upgrade to the v41.0 release.
