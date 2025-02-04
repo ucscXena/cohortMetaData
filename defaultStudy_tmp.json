@@ -2,10 +2,10 @@
   "studyList": [
     {
       "study": "SEA-AD",
-      "label": "SEA-AD",
+      "label": "SEA-AD subsample 400K",
       "cohortList": [
         {
-          "cohort": "SEA-AD subsample 400K",
+          "cohort": "SEA-AD",
           "donorNumber": 10,
           "preferredDataset": []
         }
