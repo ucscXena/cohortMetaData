@@ -1,18 +1,12 @@
 {
   "studyList": [
     {
-      "study": "brainimagelibrary_0cbd479c521afff9_astrocytes",
-      "label": "brainimagelibrary.org astrocytes MERFISH",
-      "publication": [
-        {
-          "title": "brainimagelibrary.org 0cbd479c521afff9 astrocytes MERFISH",
-          "url": "https://download.brainimagelibrary.org/0c/bd/0cbd479c521afff9/astrocytes/processed/sample5/MERFISH/"
-        }
-      ],
+      "study": "SEA-AD",
+      "label": "SEA-AD",
       "cohortList": [
         {
-          "cohort": "brainimagelibrary_0cbd479c521afff9_astrocytes_sample5",
-          "donorNumber": 1,
+          "cohort": "SEA-AD subsample 400K",
+          "donorNumber": 10,
           "preferredDataset": [
             {
               "host": "https://tmpsinglecell.xenahubs.net",
