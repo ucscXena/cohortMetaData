@@ -7,7 +7,12 @@
         {
           "cohort": "SEA-AD",
           "donorNumber": 10,
-          "preferredDataset": []
+          "preferredDataset": [            
+            {
+              "host": "https://tmpsinglecell.xenahubs.net",
+              "name": "SEA-AD/mtg_subsample_and_dlpfc_pax6.tsv"
+            }
+          ]
         }
       ]
     }
