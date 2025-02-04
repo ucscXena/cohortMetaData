@@ -7,12 +7,7 @@
         {
           "cohort": "SEA-AD subsample 400K",
           "donorNumber": 10,
-          "preferredDataset": [
-            {
-              "host": "https://tmpsinglecell.xenahubs.net",
-              "name": "brainimagelibrary/0cbd479c521afff9/sample5/geneExp.tsv"
-            }
-          ]
+          "preferredDataset": []
         }
       ]
     }
