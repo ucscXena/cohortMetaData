@@ -71,7 +71,7 @@
         }
       ]
     },
-
+    
     {
       "study": "msk_sclc_chan_2021",
       "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
@@ -455,7 +455,7 @@
         }
       ]
     },
-
+    
     {
       "study": "visiumHD_demo_human_colorectal_cancer",
       "label": "Human Colorectal Cancer, IF Stained (FFPE) (Visium HD demo dataset)",
@@ -690,7 +690,7 @@
         }
       ]
     },
-
+    
     {
       "study": "10x Visium Mouse Sagittal Anterior1",
       "label": "Cross dataset integration: Mouse Sagittal Anterior (10x Visium demo dataset) with Allen Brain scRNA-seq",
@@ -717,7 +717,7 @@
         }
       ]
     },
-
+    
     {
       "study": "human_bone_marrow_Bandyopadhyay",
       "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
@@ -751,7 +751,7 @@
         }
       ]
     },
-
+    
     {
       "study": "follicular_remodeling",
       "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
@@ -775,7 +775,7 @@
         }
       ]
     },
-
+    
     {
       "study": "Vizgen MERFISH Mouse Brain Receptor Map",
       "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
@@ -834,7 +834,7 @@
         }
       ]
     },
-
+    
     {
       "study": "Goltsev_CODEX",
       "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
@@ -858,7 +858,7 @@
         }
       ]
     },
-
+    
     {
       "study": "Goltsev_Govek",
       "label": "Mouse spleen",
