@@ -392,40 +392,6 @@
     },
     
     {
-      "study": "human_bone_marrow_Bandyopadhyay",
-      "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
-      "publication": [
-        {
-          "title": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging",
-          "abstract": "Non-hematopoietic cells are essential contributors to hematopoiesis. However, heterogeneity and spatial organization of these cells in human bone marrow remain largely uncharacterized. We used single-cell RNA sequencing (scRNA-seq) to profile 29,325 non-hematopoietic cells and discovered nine transcriptionally distinct subtypes. We simultaneously profiled 53,417 hematopoietic cells and predicted their interactions with non-hematopoietic subsets. We employed co-detection by indexing (CODEX) to spatially profile over 1.2 million cells. We integrated scRNA-seq and CODEX data to link predicted cellular signaling with spatial proximity. Our analysis revealed a hyperoxygenated arterio-endosteal neighborhood for early myelopoiesis, and an adipocytic localization for early hematopoietic stem and progenitor cells (HSPCs). We used our CODEX atlas to annotate new images and uncovered mesenchymal stromal cell (MSC) expansion and spatial neighborhoods co-enriched for leukemic blasts and MSCs in acute myeloid leukemia (AML) patient samples. This spatially resolved, multiomic atlas of human bone marrow provides a reference for investigation of cellular interactions that drive hematopoiesis.",
-          "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)00408-2"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "human_bone_marrow_scRNAseq_Bandyopadhyay_H33",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Bone_Marrow/scRNAseq/H33_seurat_rna_expression.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "human_bone_marrow_CODEX_Bandyopadhyay_H33",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Bone_Marrow/CODEX/H33_seurat_protein_expression.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    
-    {
       "study": "vz-ffpe-showcaseHuman-Lung",
       "label": "MERSCOPE FFPE Human Immuno-oncology Lung cancer",
       "publication": [
@@ -532,33 +498,6 @@
               "name": "VisiumHD/HumanLungCancer/exprMatrixCount.tsv"
             }
           ]
-        }
-      ]
-    },
-    
-    {
-      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
-      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
-      "publication": [
-        {
-          "title": "MERFISH Mouse Brain Receptor Map",
-          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
-          "url": "https://info.vizgen.com/mouse-brain-map"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
         }
       ]
     },
@@ -705,112 +644,6 @@
     },
     
     {
-      "study": "10x Visium Mouse Sagittal Anterior1",
-      "label": "Mouse Sagittal Anterior (10x Visium demo dataset), integrated with Allen Brain scRNA-seq",
-      "publication": [
-        {
-          "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
-          "abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
-          "url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "10x visium Mouse Sagittal Anterior1",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
-        }
-      ]
-    },
-    {
-      "study": "Goltsev_CODEX",
-      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
-      "publication": [
-        {
-          "title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
-          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
-          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Goltsev_CODEX",
-          "donorNumber": 3,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    
-    {
-      "study": "Govek_CITEseq",
-      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
-      "publication": [
-        {
-          "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
-          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Govek_CITEseq",
-          "donorNumber": 5,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_ADT.tsv"
-            },
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "Govek_CITEseq/citeseq_mRNA.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    
-    {
-      "study": "follicular_remodeling",
-      "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
-      "publication": [
-        {
-          "title": "Single-cell reconstruction of follicular remodeling in the human adult ovary",
-          "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
-          "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "follicular_remodeling",
-          "donorNumber": 5,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "follicular_remodeling/exprMatrix.tsv"
-            }
-          ]
-        }
-      ]
-    },
-    
-    {
       "study": "Melanoma_immunotherapy_resistance",
       "label": "Melanoma immunotherapy resistance (Jerby-Arnon et al Cell 2018)",
       "publication": [
@@ -857,7 +690,175 @@
         }
       ]
     },
+
+    {
+      "study": "10x Visium Mouse Sagittal Anterior1",
+      "label": "Cross dataset integration: Mouse Sagittal Anterior (10x Visium demo dataset) with Allen Brain scRNA-seq",
+      "publication": [
+        {
+          "title": "Mouse Brain Serial Section 1 (Sagittal-Anterior)",
+          "abstract": "10x Genomics obtained fresh frozen mouse brain tissue (Strain C57BL/6) from BioIVT Asterand. The tissue was embedded and cryosectioned as described in Visium Spatial Protocols - Tissue Preparation Guide Demonstrated Protocol (CG000240). Tissue sections of 10 µm thickness from a sagittal slice of the anterior were placed on Visium Gene Expression Slides.",
+          "url": "https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "10x visium Mouse Sagittal Anterior1",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "visium_Mouse_Brain_Sagittal_Anterior1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
+        }
+      ]
+    },
+
+    {
+      "study": "human_bone_marrow_Bandyopadhyay",
+      "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
+      "publication": [
+        {
+          "title": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging",
+          "abstract": "Non-hematopoietic cells are essential contributors to hematopoiesis. However, heterogeneity and spatial organization of these cells in human bone marrow remain largely uncharacterized. We used single-cell RNA sequencing (scRNA-seq) to profile 29,325 non-hematopoietic cells and discovered nine transcriptionally distinct subtypes. We simultaneously profiled 53,417 hematopoietic cells and predicted their interactions with non-hematopoietic subsets. We employed co-detection by indexing (CODEX) to spatially profile over 1.2 million cells. We integrated scRNA-seq and CODEX data to link predicted cellular signaling with spatial proximity. Our analysis revealed a hyperoxygenated arterio-endosteal neighborhood for early myelopoiesis, and an adipocytic localization for early hematopoietic stem and progenitor cells (HSPCs). We used our CODEX atlas to annotate new images and uncovered mesenchymal stromal cell (MSC) expansion and spatial neighborhoods co-enriched for leukemic blasts and MSCs in acute myeloid leukemia (AML) patient samples. This spatially resolved, multiomic atlas of human bone marrow provides a reference for investigation of cellular interactions that drive hematopoiesis.",
+          "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)00408-2"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "human_bone_marrow_scRNAseq_Bandyopadhyay_H33",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Bone_Marrow/scRNAseq/H33_seurat_rna_expression.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "human_bone_marrow_CODEX_Bandyopadhyay_H33",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Bone_Marrow/CODEX/H33_seurat_protein_expression.tsv"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "study": "follicular_remodeling",
+      "label": "Single-cell reconstruction of follicular remodeling in the human adult ovary (Fan et al Nat Commun 2019)",
+      "publication": [
+        {
+          "title": "Single-cell reconstruction of follicular remodeling in the human adult ovary",
+          "abstract": "The ovary is perhaps the most dynamic organ in the human body, only rivaled by the uterus. The molecular mechanisms that regulate follicular growth and regression, ensuring ovarian tissue homeostasis, remain elusive. We have performed single-cell RNA-sequencing using human adult ovaries to provide a map of the molecular signature of growing and regressing follicular populations. We have identified different types of granulosa and theca cells and detected local production of components of the complement system by (atretic) theca cells and stromal cells. We also have detected a mixture of adaptive and innate immune cells, as well as several types of endothelial and smooth muscle cells to aid the remodeling process. Our results highlight the relevance of mapping whole adult organs at the single-cell level and reflect ongoing efforts to map the human body. The association between complement system and follicular remodeling may provide key insights in reproductive biology and (in)fertility.",
+          "url": "https://www.nature.com/articles/s41467-019-11036-9, https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "follicular_remodeling",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "follicular_remodeling/exprMatrix.tsv"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
+      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
+      "publication": [
+        {
+          "title": "MERFISH Mouse Brain Receptor Map",
+          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
+          "url": "https://info.vizgen.com/mouse-brain-map"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
+          "donorNumber": 1,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
+        }
+      ]
+    },
     
+    {
+      "study": "Govek_CITEseq",
+      "label": "Single-cell transcriptomic analysis of mIHC images via antigen mapping (Govek et al Science Adv 2021)",
+      "publication": [
+        {
+          "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+          "abstract": "Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33674303/, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160766"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Govek_CITEseq",
+          "donorNumber": 5,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT_log2.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_ADT.tsv"
+            },
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Govek_CITEseq/citeseq_mRNA.tsv"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "study": "Goltsev_CODEX",
+      "label": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging (Goltsev et al Cell 2018)",
+      "publication": [
+        {
+          "title": "Deep Profiling of Mouse Splenic Architecture with CODEX Multiplexed Imaging",
+          "abstract": "A highly multiplexed cytometric imaging approach, termed co-detection by indexing (CODEX), is used here to create multiplexed datasets of normal and lupus (MRL/lpr) murine spleens. CODEX iteratively visualizes antibody binding events using DNA barcodes, fluorescent dNTP analogs, and an in situ polymerization-based indexing procedure. An algorithmic pipeline for single-cell antigen quantification in tightly packed tissues was developed and used to overlay well-known morphological features with de novo characterization of lymphoid tissue architecture at a single-cell and cellular neighborhood levels. We observed an unexpected, profound impact of the cellular neighborhood on the expression of protein receptors on immune cells. By comparing normal murine spleen to spleens from animals with systemic autoimmune disease (MRL/lpr), extensive and previously uncharacterized splenic cell-interaction dynamics in the healthy versus diseased state was observed. The fidelity of multiplexed spatial cytometry demonstrated here allows for quantitative systemic characterization of tissue architecture in normal and clinically aberrant samples.",
+          "url": "https://doi.org/10.1016/j.cell.2018.07.010, https://data.mendeley.com/datasets/zjnpwh8m5b/1"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Goltsev_CODEX",
+          "donorNumber": 3,
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "Goltsev_CODEX/codex_balbc1.protein.tsv"
+            }
+          ]
+        }
+      ]
+    },
+
     {
       "study": "Goltsev_Govek",
       "label": "Mouse spleen",
@@ -872,25 +873,3 @@
         }
       ]
     },
-    
-    {
-      "study": "AtlasMelanoma_Jerby-Arnon",
-      "label": "Melanoma",
-      "subStudy": [
-        {
-          "studyID": "Atlas_melanoma_MEL08",
-          "displayLabel": "HTAN Melanoma ATLAS (Ajit et al Cancer Discovery 2022)"
-        },
-        {
-          "studyID": "Melanoma_immunotherapy_resistance",
-          "displayLabel": "Melanoma immunotherapy resistance (Jerby-Arnon cell 2018)"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Integration melanoma (scRNA-seq, t-CycIF)"
-        }
-      ]
-    }
-  ]
-}
