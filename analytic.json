@@ -940,7 +940,7 @@
     {
       "name": "signatureScores_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "immune_B, immune_CD4T, immune_CD8T, immune_Treg, immune___T/ILC, immune_NK, immune_Interstitial macrophage, immune_Alveolar macrophage, immune_Neutrophil, immune_Classical monocyte, immune_Intermediate monocyte, immune_Non-classical monocyte, immune_cDC1, immune_cDC2, immune_pDC, immune_Ccr7 DC, immune_Proliferative",
+      "fields": "B, CD4T, CD8T, Treg, T/ILC, NK, Interstitial_macrophage, Alveolar_macrophage, Neutrophil, Classical_monocyte, Intermediate_monocyte, Non-classical_monocyte, cDC1, cDC2, pDC, Ccr7_DC, Proliferative",
       "label": "immune cell genomic signature"
     }
   ]
