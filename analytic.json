@@ -946,7 +946,7 @@
     {
       "name": "signatureScores_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "lymphocyte_Immunomodulatory_NK	lymphocyte_Cytotoxic_NK	lymphocyte_Ccl+_Cytotoxic_NK	lymphocyte_Proliferative_NK	lymphocyte_CD4_Naive	lymphocyte_CD8_Naive	lymphocyte_CD8_Memory	lymphocyte_CD8_Effector	lymphocyte_Treg	lymphocyte_gdT/ILC	lymphocyte_CD4_CD29+	lymphocyte_Proliferative_T	lymphocyte_Naive_B	lymphocyte_Ighm_B	lymphocyte_Breg",
+      "fields": "lymphocyte_Immunomodulatory_NK, lymphocyte_Cytotoxic_NK, lymphocyte_Ccl+_Cytotoxic_NK, lymphocyte_Proliferative_NK, lymphocyte_CD4_Naive, lymphocyte_CD8_Naive, lymphocyte_CD8_Memory, lymphocyte_CD8_Effector, lymphocyte_Treg, lymphocyte_gdT/ILC, lymphocyte_CD4_CD29+, lymphocyte_Proliferative_T, lymphocyte_Naive_B, lymphocyte_Ighm_B, lymphocyte_Breg",
       "label": "lymphocyte subtype genomic signature"
     }
   ]
