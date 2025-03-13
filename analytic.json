@@ -938,7 +938,7 @@
 
   "Sikandar_Boyd_influenza project": [
     {
-      "name": "signatureScores.tsv",
+      "name": "signatureScores_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
       "fields": "immune_B, immune_CD4T, immune_CD8T, immune_Treg, immune___T/ILC",
       "label": "immune cell genomic signature"
