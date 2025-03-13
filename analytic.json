@@ -942,6 +942,12 @@
       "host": "https://sikandarboydlab.xenahubs.net",
       "fields": "B, CD4T, CD8T, Treg, T/ILC, NK, Interstitial_macrophage, Alveolar_macrophage, Neutrophil, Classical_monocyte, Intermediate_monocyte, Non-classical_monocyte, cDC1, cDC2, pDC, Ccr7_DC, Proliferative",
       "label": "immune cell genomic signature"
+    },
+    {
+      "name": "signatureScores_transposed.tsv",
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "fields": "lymphocyte_Immunomodulatory_NK	lymphocyte_Cytotoxic_NK	lymphocyte_Ccl+_Cytotoxic_NK	lymphocyte_Proliferative_NK	lymphocyte_CD4_Naive	lymphocyte_CD8_Naive	lymphocyte_CD8_Memory	lymphocyte_CD8_Effector	lymphocyte_Treg	lymphocyte_gdT/ILC	lymphocyte_CD4_CD29+	lymphocyte_Proliferative_T	lymphocyte_Naive_B	lymphocyte_Ighm_B	lymphocyte_Breg",
+      "label": "lymphocyte subtype genomic signature"
     }
   ]
 }
