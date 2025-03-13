@@ -940,7 +940,7 @@
     {
       "name": "signatureScores.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "immune_B, immune_CD4T, immune_CD8T, immune_Treg, immune___T/ILC"
+      "fields": "immune_B, immune_CD4T, immune_CD8T, immune_Treg, immune___T/ILC",
       "label": "immune cell genomic signature"
     }
   ]
