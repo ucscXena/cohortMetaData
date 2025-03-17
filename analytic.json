@@ -940,7 +940,7 @@
     {
       "name": "signatureScores_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "B, CD4T, CD8T, Treg, T/ILC, NK, Interstitial_macrophage, Alveolar_macrophage, Neutrophil, Classical_monocyte, Intermediate_monocyte, Non-classical_monocyte, cDC1, cDC2, pDC, Ccr7_DC, Proliferative",
+      "fields": "immune_B,immune_CD4T,immune_CD8T,immune_Treg,immune___T/ILC,immune_NK,immune_Interstitial_macrophage,immune_Alveolar_macrophage,immune_Neutrophil,immune_Classical_monocyte,immune_Intermediate_monocyte,immune_Non-classical_monocyte,immune_cDC1,immune_cDC2,immune_pDC,immune_Ccr7_DC,immune_Proliferative",
       "label": "immune cell genomic signature",
       "fieldLabel": "immune cell genomic signature"
     },
@@ -954,7 +954,21 @@
     {
       "name": "signatureScores_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "Cd14+_inflammatory_AM, TLR-NF_B_inflammatory_myeloid, lymphocyte_Immunomodulatory_NK, lymphocyte_Cytotoxic_NK, lymphocyte_Ccl+_Cytotoxic_NK, lymphocyte_Proliferative_NK, lymphocyte_CD4_Naive, lymphocyte_CD8_Naive, lymphocyte_CD8_Memory, lymphocyte_CD8_Effector, lymphocyte_Treg, lymphocyte_gdT/ILC, lymphocyte_CD4_CD29+, lymphocyte_Proliferative_T, lymphocyte_Naive_B, lymphocyte_Ighm_B, lymphocyte_Breg, bone_marrow_derived_myeloid_Classical_mono, bone_marrow_derived_myeloid_Intermediate_mono, bone_marrow_derived_myeloid_Non-classical_mono, bone_marrow_derived_myeloid_Mature_neu, bone_marrow_derived_myeloid_Transitional_neu, bone_marrow_derived_myeloid_Immature_neu, bone_marrow_derived_myeloid_Inflammatory_neu, bone_marrow_derived_myeloid_cDC1, bone_marrow_derived_myeloid_cDC2, bone_marrow_derived_myeloid_IFN_DC, bone_marrow_derived_myeloid_Ccr7_DC, bone_marrow_derived_myeloid_pDC, bone_marrow_derived_myeloid_Prolif_DC, tissue_resident_marcrophage_IM_Antigen, tissue_resident_marcrophage_IM_Mrc1, tissue_resident_marcrophage_IM_Crip1, tissue_resident_marcrophage_IM_Proliferative, tissue_resident_marcrophage_AM_Homeostatic, tissue_resident_marcrophage_AM_Inflammatory, tissue_resident_marcrophage_AM_Lipid, tissue_resident_marcrophage_AM_Allergy, tissue_resident_marcrophage_AM_Antigen, tissue_resident_marcrophage_AM_Mt, tissue_resident_marcrophage_AM_IFN, tissue_resident_marcrophage_AM_Proliferative, B, CD4T, CD8T, Treg, T/ILC, NK, Interstitial_macrophage, Alveolar_macrophage, Neutrophil, Classical_monocyte, Intermediate_monocyte, Non-classical_monocyte, cDC1, cDC2, pDC, Ccr7_DC, Proliferative",
+      "fields": "bone_marrow_derived_myeloid_Classical_mono,bone_marrow_derived_myeloid_Intermediate_mono,bone_marrow_derived_myeloid_Non-classical_mono,bone_marrow_derived_myeloid_Mature_neu,bone_marrow_derived_myeloid_Transitional_neu,bone_marrow_derived_myeloid_Immature_neu,bone_marrow_derived_myeloid_Inflammatory_neu,bone_marrow_derived_myeloid_cDC1,bone_marrow_derived_myeloid_cDC2,bone_marrow_derived_myeloid_IFN_DC,bone_marrow_derived_myeloid_Ccr7_DC,bone_marrow_derived_myeloid_pDC,bone_marrow_derived_myeloid_Prolif_DC,TLR-NF_B_inflammatory_myeloid",
+      "label": "Bone marrow derived myeloid subtype genomic signature",
+      "fieldLabel": "Bone marrow derived myeloid subtype genomic signature"
+    },
+    {
+      "name": "signatureScores_transposed.tsv",
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "fields": "tissue_resident_marcrophage_IM_Antigen,tissue_resident_marcrophage_IM_Mrc1,tissue_resident_marcrophage_IM_Crip1,tissue_resident_marcrophage_IM_Proliferative,tissue_resident_marcrophage_AM_Homeostatic,tissue_resident_marcrophage_AM_Inflammatory,tissue_resident_marcrophage_AM_Lipid,tissue_resident_marcrophage_AM_Allergy,tissue_resident_marcrophage_AM_Antigen,tissue_resident_marcrophage_AM_Mt,tissue_resident_marcrophage_AM_IFN,tissue_resident_marcrophage_AM_Proliferative,Cd14+_inflammatory_AM",
+      "label": "Tissue resident marcrophage subtype genomic signature",
+      "fieldLabel": "Tissue resident marcrophage subtype genomic signature"
+    },
+    {
+      "name": "signatureScores_transposed.tsv",
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "fields": "immune_B,immune_CD4T,immune_CD8T,immune_Treg,immune___T/ILC,immune_NK,immune_Interstitial_macrophage,immune_Alveolar_macrophage,immune_Neutrophil,immune_Classical_monocyte,immune_Intermediate_monocyte,immune_Non-classical_monocyte,immune_cDC1,immune_cDC2,immune_pDC,immune_Ccr7_DC,immune_Proliferative,tissue_resident_marcrophage_IM_Antigen,tissue_resident_marcrophage_IM_Mrc1,tissue_resident_marcrophage_IM_Crip1,tissue_resident_marcrophage_IM_Proliferative,tissue_resident_marcrophage_AM_Homeostatic,tissue_resident_marcrophage_AM_Inflammatory,tissue_resident_marcrophage_AM_Lipid,tissue_resident_marcrophage_AM_Allergy,tissue_resident_marcrophage_AM_Antigen,tissue_resident_marcrophage_AM_Mt,tissue_resident_marcrophage_AM_IFN,tissue_resident_marcrophage_AM_Proliferative,bone_marrow_derived_myeloid_Classical_mono,bone_marrow_derived_myeloid_Intermediate_mono,bone_marrow_derived_myeloid_Non-classical_mono,bone_marrow_derived_myeloid_Mature_neu,bone_marrow_derived_myeloid_Transitional_neu,bone_marrow_derived_myeloid_Immature_neu,bone_marrow_derived_myeloid_Inflammatory_neu,bone_marrow_derived_myeloid_cDC1,bone_marrow_derived_myeloid_cDC2,bone_marrow_derived_myeloid_IFN_DC,bone_marrow_derived_myeloid_Ccr7_DC,bone_marrow_derived_myeloid_pDC,bone_marrow_derived_myeloid_Prolif_DC,lymphocyte_Immunomodulatory_NK,lymphocyte_Cytotoxic_NK,lymphocyte_Ccl+_Cytotoxic_NK,lymphocyte_Proliferative_NK,lymphocyte_CD4_Naive,lymphocyte_CD8_Naive,lymphocyte_CD8_Memory,lymphocyte_CD8_Effector,lymphocyte_Treg,lymphocyte_gdT/ILC,lymphocyte_CD4_CD29+,lymphocyte_Proliferative_T,lymphocyte_Naive_B,lymphocyte_Ighm_B,lymphocyte_Breg,TLR-NF_B_inflammatory_myeloid,Cd14+_inflammatory_AM",
       "label": "all genomic signatures",
       "fieldLabel": "combined genomic signatures"
     }
