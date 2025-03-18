@@ -3076,5 +3076,28 @@
       "dataset": "lungCancerBivona/S03_Main_Seurat_object_filtered_and_subset_annotated_metadata.tsv",
       "feature": "patient_id"
     }
+  ],
+
+  "Sikandar_Boyd_influenza project": [
+    {
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "dataset": "allCells.metadata.tsv",
+      "feature": "RNA_snn_res.0.8"
+    },
+    {
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "dataset": "allCells.annotated_clusters.tsv",
+      "feature": "annotated_clusters_res.0.8_level2"
+    },
+    {
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "dataset": "allCells.lineage.level1.tsv",
+      "feature": "cell_lineage_assingment"
+    },
+    {
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "dataset": "allCells.metadata.tsv",
+      "feature": "mouse_category"
+    }
   ]
 }
