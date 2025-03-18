@@ -3091,8 +3091,8 @@
     },
     {
       "host": "https://sikandarboydlab.xenahubs.net",
-      "dataset": "allCells.lineage.level1.tsv",
-      "feature": "cell_lineage_assingment"
+      "dataset": "allCells.annotated_clusters.tsv",
+      "feature": "annotated_clusters_res.0.8_level1"
     },
     {
       "host": "https://sikandarboydlab.xenahubs.net",
