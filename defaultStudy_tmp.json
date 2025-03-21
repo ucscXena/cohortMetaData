@@ -30,12 +30,7 @@
          {
            "cohort": "TB_McCaffrey_Patient10-1",
            "donorNumber": 1,
-           "preferredDataset": [
-             {
-               "host": "https://tmpsinglecell.xenahubs.net",
-               "name": "TB_McCaffrey/Patient10-1/cells_p10-1.tsv"
-             }
-           ]
+           "preferredDataset": []
          }
        ]
      },
