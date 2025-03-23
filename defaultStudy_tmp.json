@@ -52,7 +52,25 @@
            ]
          }
        ]
-     }
+     },
 
+    {
+       "study": "TB_McCaffrey",
+       "label": "An integrated transcriptomic cell atlas of human neural organoids (He et al Nature 2024)",
+       "publication": [
+         {
+           "title": "An integrated transcriptomic cell atlas of human neural organoids",
+           "url": "https://doi.org/10.1038/s41586-024-08172-8",
+           "abstract":"Human neural organoids, generated from pluripotent stem cells in vitro, are useful tools to study human brain development, evolution and disease. However, it is unclear which parts of the human brain are covered by existing protocols, and it has been difficult to quantitatively assess organoid variation and fidelity. Here we integrate 36 single-cell transcriptomic datasets spanning 26 protocols into one integrated human neural organoid cell atlas totalling more than 1.7 million cells. Mapping to developing human brain references shows primary cell types and states that have been generated in vitro, and estimates transcriptomic similarity between primary and organoid counterparts across protocols. We provide a programmatic interface to browse the atlas and query new datasets, and showcase the power of the atlas to annotate organoid cell types and evaluate new organoid protocols. Finally, we show that the atlas can be used as a diverse control cohort to annotate and compare organoid models of neural disease, identifying genes and pathways that may underlie pathological mechanisms with the neural models. The human neural organoid cell atlas will be useful to assess organoid fidelity, characterize perturbed and diseased states and facilitate protocol development."
+         }
+       ],
+       "cohortList": [
+         {
+           "cohort": "hnoca_cleanedmeta_downsampled",
+           "donorNumber": 15,
+           "preferredDataset": []
+         }
+       ]
+     }
   ]
 }
