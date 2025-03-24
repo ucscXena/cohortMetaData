@@ -6,6 +6,7 @@
       "cohortList": [
         {
           "cohort": "SEA-AD",
+          "cohortDataType":"foobar",
           "donorNumber": 10,
           "preferredDataset": []
         }
@@ -67,6 +68,7 @@
        "cohortList": [
          {
            "cohort": "hnoca_cleanedmeta_downsampled",
+           "cohortDataType":"multiple platforms",
            "donorNumber": 15,
            "preferredDataset": []
          }
