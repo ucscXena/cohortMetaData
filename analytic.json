@@ -978,6 +978,13 @@
       "fields": "Mesenchymal_Alveolar_fibroblast_1, Mesenchymal_Alveolar_fibroblast_2, Mesenchymal_Pericyte, Mesenchymal_Smooth_muscle, Mesenchymal_Vascular_smooth_muscle, Mesenchymal_Airway_Smooth_Muscle, Mesenchymal_Secondary_crest_myofibroblast_cell, Mesenchymal_Proliferative_mesenchymal_progenitor, Mesenchymal_Mesothelium",
       "label": "mesenchymal cell genomic signature",
       "fieldLabel": "mesenchymal genomic signature"
+    },
+    {
+      "name": "signatureScores_lungmap_transposed.tsv",
+      "host": "https://sikandarboydlab.xenahubs.net",
+      "fields": "Endothelial_Vascular_endothelial_cell, Endothelial_Capillary_cell, Endothelial_Capillary_cell_1, Endothelial_Capillary_cell_2, Endothelial_Arterial_endothelial_cell, Endothelial_Venous_endothelial_cell, Endothelial_Lymphatic_endothelial_cell, Endothelial_Progenitor_cell",
+      "label": "endothelial cell genomic signature",
+      "fieldLabel": "endothelial genomic signature"
     }
   ]
 }
