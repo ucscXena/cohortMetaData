@@ -982,7 +982,7 @@
     {
       "name": "signatureScores_lungmap_transposed.tsv",
       "host": "https://sikandarboydlab.xenahubs.net",
-      "fields": "Endothelial_Capillary_cell, Endothelial_Capillary_cell_1, Endothelial_Capillary_cell_2, Endothelial_Vascular_endothelial_cell, Endothelial_Arterial_endothelial_cell, Endothelial_Venous_endothelial_cell, Endothelial_Lymphatic_endothelial_cell, Endothelial_Progenitor_cell",
+      "fields": "Endothelial_Capillary_cell, Endothelial_Capillary_cell_1, Endothelial_Capillary_cell_2, Endothelial_Vascular_endothelial_cell, Endothelial_Lymphatic_endothelial_cell",
       "label": "endothelial cell genomic signature (lungMAP) ",
       "fieldLabel": "endothelial genomic signature"
     },
