@@ -70,6 +70,12 @@
           "donorNumber": 1,
           "cohortDataType":"mIF",
           "preferredDataset": []
+        },
+        {
+          "cohort": "OVCA_TMA22_region_004",
+          "donorNumber": 1,
+          "cohortDataType":"mIF",
+          "preferredDataset": []
         }
       ]
     },
