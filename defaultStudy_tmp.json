@@ -54,7 +54,26 @@
          }
        ]
      },
-
+    
+    {
+      "study": "Mayo_TMA",
+      "label": "SpaFlow: a Nextflow pipeline for QC and clustering of MxIF datasets (Novotny et al Bioinform Adv. 2025) Multiplex Immunofluorescence Image Quality Checking Using DAPI Channel-referenced Evaluation (Jiang et al J Histochem Cytochem. 2023)",
+      "publication": [
+        {
+          "title": "SpaFlow: a Nextflow pipeline for QC and clustering of MxIF datasets, Multiplex Immunofluorescence Image Quality Checking Using DAPI Channel-referenced Evaluation",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40041114/, https://pubmed.ncbi.nlm.nih.gov/36960831/"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "OVCA_TMA22_region_002",
+          "donorNumber": 1,
+          "cohortDataType":"mIF",
+          "preferredDataset": []
+        }
+      ]
+    },
+    
     {
        "study": "hnoca",
        "label": "An integrated transcriptomic cell atlas of human neural organoids (He et al Nature 2024)",
