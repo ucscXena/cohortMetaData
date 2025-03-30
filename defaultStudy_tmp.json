@@ -93,7 +93,7 @@
        "cohortList": [
          {
            "cohort": "hnoca_cleanedmeta_downsampled",
-           "cohortDataType":"multiple platforms",
+           "cohortDataType":"10x 3' v1, 10x 3' v2, 10x 3' v3, 10x multiome, BD Rhapsody Whole Transcriptome Analysis, CITE-seq, Drop-seq, Quartz-seq, SPLiT-seq, Smart-seq2",
            "donorNumber": 15,
            "preferredDataset": []
          }
