@@ -26,6 +26,7 @@
          {
            "cohort": "TB_McCaffrey_Patient10-1",
            "donorNumber": 1,
+           "cohortDataType":"MIBI-TOF",
            "preferredDataset": []
          }
        ]
