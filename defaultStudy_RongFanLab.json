@@ -7,22 +7,22 @@
         {
           "cohort": "LN00560",
           "donorNumber": 1,
-          "cohortDataType":"CODEX spatial"
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN00837",
           "donorNumber": 1,
-          "cohortDataType":"CODEX image"
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN22921",
           "donorNumber": 1,
-          "cohortDataType":"CODEX spatial"
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN27766",
           "donorNumber": 1,
-          "cohortDataType":"CODEX spatial"
+          "cohortDataType":"CODEX"
         }
       ]
     }
