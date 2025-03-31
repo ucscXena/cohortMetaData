@@ -7,42 +7,22 @@
         {
           "cohort": "LN00560",
           "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "RongFanLab/SenNet_CODEX_datasets/LN00560_celltype_location_cleaned.tsv"
-            }
-          ]
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN00837",
           "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "RongFanLab/SenNet_CODEX_datasets/LN00837_celltype_location_cleaned.tsv"
-            }
-          ]
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN22921",
           "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "RongFanLab/SenNet_CODEX_datasets/LN22921_celltype_location_cleaned.tsv"
-            }
-          ]
+          "cohortDataType":"CODEX"
         },
         {
           "cohort": "LN27766",
           "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "RongFanLab/SenNet_CODEX_datasets/LN27766_celltype_location_cleaned.tsv"
-            }
-          ]
+          "cohortDataType":"CODEX"
         }
       ]
     }
