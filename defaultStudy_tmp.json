@@ -6,7 +6,7 @@
       "cohortList": [
         {
           "cohort": "SEA-AD",
-          "cohortDataType":"foobar",
+          "cohortDataType":"snRNA-seq",
           "donorNumber": 10,
           "preferredDataset": []
         }
