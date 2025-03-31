@@ -7,7 +7,7 @@
         {
           "cohort": "Sikandar_Boyd_influenza project",
           "donorNumber": 12,
-          "cohortDataType":"scRNA-seq 10x Flex Gene Expression",
+          "cohortDataType":"10x Flex Gene Expression scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://sikandarboydlab.xenahubs.net",
