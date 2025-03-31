@@ -6,7 +6,7 @@
       "cohortList": [
         {
           "cohort": "SEA-AD",
-          "cohortDataType":"snRNA-seq",
+          "cohortDataType":"10x 3' v3 snRNA-seq, 10x multiome single nucleus",
           "donorNumber": 10,
           "preferredDataset": []
         }
