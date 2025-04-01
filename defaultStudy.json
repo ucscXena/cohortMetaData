@@ -744,6 +744,7 @@
         {
           "cohort": "10x visium Mouse Sagittal Anterior1",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -752,7 +753,10 @@
           ]
         },
         {
-          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex"
+          "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex",
+          "donorNumber": 73,
+          "cohortDataType": "10x Visium, in-house scRNA-seq",
+          "preferredDataset": []
         }
       ]
     },
