@@ -14,6 +14,7 @@
         {
           "cohort": "HTA7_926_8 CRC01",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -23,6 +24,7 @@
         }
       ]
     },
+    
     {
       "study": "HTA7_934_9",
       "label": "HTAN HMS colorectal cancer adenocarcinoma HTA7_934_9 CRC04 (Lin et al Nature Cancer 2023)",
@@ -37,6 +39,7 @@
         {
           "cohort": "HTA7_934_9 CRC04",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -46,6 +49,7 @@
         }
       ]
     },
+    
     {
       "study": "HTA7_16_2",
       "label": "HTAN HMS melanoma HTA7_16_2 MEL08 (Ajit et al Cancer Discovery 2022)",
@@ -60,6 +64,7 @@
         {
           "cohort": "MEL08",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -69,6 +74,7 @@
         }
       ]
     },
+    
     {
       "study": "msk_sclc_chan_2021",
       "label": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer (Chan et al Cancer Cell 2021)",
@@ -84,6 +90,7 @@
         {
           "cohort": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer",
           "donorNumber": 41,
+          "cohortDataType": "10x 3' v3 scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
