@@ -563,6 +563,7 @@
         {
           "cohort": "cSCC",
           "donorNumber": 2,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -577,6 +578,7 @@
         {
           "cohort": "patient_2 center slice",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -587,6 +589,7 @@
         {
           "cohort": "patient_5 center slice",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -597,6 +600,7 @@
         {
           "cohort": "patient_9 center slice",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -607,6 +611,7 @@
         {
           "cohort": "patient_10 center slice",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -617,6 +622,7 @@
         {
           "cohort": "patient_2",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -631,6 +637,7 @@
         {
           "cohort": "patient_5",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -641,6 +648,7 @@
         {
           "cohort": "patient_9",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -651,6 +659,7 @@
         {
           "cohort": "patient_10",
           "donorNumber": 1,
+          "cohortDataType": "10x Visium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -661,6 +670,7 @@
         {
           "cohort": "cSCC scRNA-seq",
           "donorNumber": 10,
+          "cohortDataType": "scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -675,6 +685,7 @@
         {
           "cohort": "cSCC_scRNAseq_visium",
           "donorNumber": 10,
+          "cohortDataType": "10x visium, scRNA-seq",
           "preferredDataset": []
         }
       ]
