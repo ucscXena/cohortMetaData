@@ -694,6 +694,7 @@
         {
           "cohort": "Melanoma scRNA-seq (Jerby-Arnon cell 2018)",
           "donorNumber": 31,
+          "cohortDataType": "Smart-seq2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -718,6 +719,7 @@
         {
           "cohort": "Longitudinal Lung Cancer scRNA (Bivona 2020)",
           "donorNumber": 33,
+          "cohortDataType": "Smart-seq2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
