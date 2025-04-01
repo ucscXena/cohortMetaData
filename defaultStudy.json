@@ -840,6 +840,7 @@
         {
           "cohort": "follicular_remodeling",
           "donorNumber": 5,
+          "cohortDataType": "10x 3' v2 scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -864,6 +865,7 @@
         {
           "cohort": "Govek_CITEseq",
           "donorNumber": 5,
+          "cohortDataType": "CITE-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
