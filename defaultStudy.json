@@ -14,6 +14,7 @@
         {
           "cohort": "HTA7_926_8 CRC01",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -38,6 +39,7 @@
         {
           "cohort": "HTA7_934_9 CRC04",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -62,6 +64,7 @@
         {
           "cohort": "MEL08",
           "donorNumber": 1,
+          "cohortDataType": "t-CyCIF",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -87,6 +90,7 @@
         {
           "cohort": "HTAN MSK - Single cell profiling reveals novel tumor and myeloid subpopulations in small cell lung cancer",
           "donorNumber": 41,
+          "cohortDataType": "10x 3' v3 scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -111,6 +115,7 @@
         {
           "cohort": "HTA1_878_7149_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -121,6 +126,7 @@
         {
           "cohort": "HTA1_878_7149_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -131,6 +137,7 @@
         {
           "cohort": "HTA1_878_7149_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -141,6 +148,7 @@
         {
           "cohort": "HTA1_313_932_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -151,6 +159,7 @@
         {
           "cohort": "HTA1_313_932_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -161,6 +170,7 @@
         {
           "cohort": "HTA1_313_932_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -171,6 +181,7 @@
         {
           "cohort": "HTA1_997_7789_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -181,6 +192,7 @@
         {
           "cohort": "HTA1_997_7789_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -191,6 +203,7 @@
         {
           "cohort": "HTA1_982_7629_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -201,6 +214,7 @@
         {
           "cohort": "HTA1_982_7629_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -211,6 +225,7 @@
         {
           "cohort": "HTA1_982_7629_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -221,6 +236,7 @@
         {
           "cohort": "HTA1_944_7479_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -231,6 +247,7 @@
         {
           "cohort": "HTA1_944_7479_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -241,6 +258,7 @@
         {
           "cohort": "HTA1_917_4531_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -251,6 +269,7 @@
         {
           "cohort": "HTA1_917_4531_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -261,6 +280,7 @@
         {
           "cohort": "HTA1_917_4531_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -271,6 +291,7 @@
         {
           "cohort": "HTA1_880_7179_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -281,6 +302,7 @@
         {
           "cohort": "HTA1_880_7179_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -291,6 +313,7 @@
         {
           "cohort": "HTA1_880_7179_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -301,6 +324,7 @@
         {
           "cohort": "HTA1_853_4381_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -311,6 +335,7 @@
         {
           "cohort": "HTA1_853_4381_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -321,6 +346,7 @@
         {
           "cohort": "HTA1_853_4381_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -331,6 +357,7 @@
         {
           "cohort": "HTA1_514_6760_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -341,6 +368,7 @@
         {
           "cohort": "HTA1_514_6760_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -351,6 +379,7 @@
         {
           "cohort": "HTA1_514_6760_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -361,6 +390,7 @@
         {
           "cohort": "HTA1_812_8239_slideseq",
           "donorNumber": 1,
+          "cohortDataType": "Slide-seqV2",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -371,6 +401,7 @@
         {
           "cohort": "HTA1_812_8239_merfish",
           "donorNumber": 1,
+          "cohortDataType": "MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -381,6 +412,7 @@
         {
           "cohort": "HTA1_812_8239_codex",
           "donorNumber": 1,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -404,6 +436,7 @@
         {
           "cohort": "Vizgen Showcase Human Lung Cancer Patient1",
           "donorNumber": 1,
+          "cohortDataType": "Vizgen MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -418,6 +451,7 @@
         {
           "cohort": "Vizgen Showcase Human Lung Cancer Patient2",
           "donorNumber": 1,
+          "cohortDataType": "Vizgen MERFISH",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -446,6 +480,7 @@
         {
           "cohort": "xenium_hPancreas_Cancer",
           "donorNumber": 1,
+          "cohortDataType": "Xenium",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -469,6 +504,7 @@
         {
           "cohort": "Visium HD Human Colorectal Cancer",
           "donorNumber": 1,
+          "cohortDataType": "Visium HD",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -492,6 +528,7 @@
         {
           "cohort": "Visium HD Human Lung Cancer",
           "donorNumber": 1,
+          "cohortDataType": "Visium HD",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
