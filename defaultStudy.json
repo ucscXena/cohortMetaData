@@ -762,6 +762,36 @@
     },
     
     {
+      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
+      "label": "Cross dataset integration: Mouse Brain Receptor Map (Vizgen demo dataset), with Allen Brain mouse reference scRNA-seq (Tasic et al Nat Neurosci 2016)",
+      "publication": [
+        {
+          "title": "MERFISH Mouse Brain Receptor Map",
+          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
+          "url": "https://info.vizgen.com/mouse-brain-map"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
+          "donorNumber": 1,
+          "cohortDataType": "Vizgen MERFISH",
+          "preferredDataset": [
+            {
+              "host": "https://previewsinglecell.xenahubs.net",
+              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
+            }
+          ]
+        },
+        {
+          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain",
+          "donorNumber": 73,
+          "cohortDataType": "Vizgen MERFISH, in-house scRNA-seq",
+        }
+      ]
+    },
+    
+    {
       "study": "human_bone_marrow_Bandyopadhyay",
       "label": "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging (Bandyopadhyay et al Cell 2024)",
       "publication": [
@@ -815,33 +845,6 @@
               "name": "follicular_remodeling/exprMatrix.tsv"
             }
           ]
-        }
-      ]
-    },
-    
-    {
-      "study": "Vizgen MERFISH Mouse Brain Receptor Map",
-      "label": "Mouse Brain Receptor Map (Vizgen demo dataset), integrated with Allen Brain scRNA-seq",
-      "publication": [
-        {
-          "title": "MERFISH Mouse Brain Receptor Map",
-          "abstract": "This dataset contains a MERFISH measurement of a gene panel containing 483 total genes including canonical brain cell type markers, GPCRs, and RTKs measured on 3 full coronal slices across 3 biological replicates.",
-          "url": "https://info.vizgen.com/mouse-brain-map"
-        }
-      ],
-      "cohortList": [
-        {
-          "cohort": "Vizgen MERFISH Mouse Brain Receptor Map S2R1",
-          "donorNumber": 1,
-          "preferredDataset": [
-            {
-              "host": "https://previewsinglecell.xenahubs.net",
-              "name": "VizgenDemo/S2R1/exprMatrix.tsv"
-            }
-          ]
-        },
-        {
-          "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain"
         }
       ]
     },
