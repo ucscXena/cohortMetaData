@@ -755,8 +755,7 @@
         {
           "cohort": "Integration visium Mouse Sagittal Anterior1 + Allen Brain visual cortex",
           "donorNumber": 73,
-          "cohortDataType": "10x Visium, in-house scRNA-seq",
-          "preferredDataset": []
+          "cohortDataType": "10x Visium, in-house scRNA-seq"
         }
       ]
     },
@@ -786,8 +785,7 @@
         {
           "cohort": "Integration Vizgen MERFISH, Allen Brain scRNAseq Mouse Brain",
           "donorNumber": 73,
-          "cohortDataType": "Vizgen MERFISH, in-house scRNA-seq",
-          "preferredDataset": []
+          "cohortDataType": "Vizgen MERFISH, in-house scRNA-seq"
         }
       ]
     },
