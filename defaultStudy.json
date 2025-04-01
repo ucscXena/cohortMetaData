@@ -898,6 +898,7 @@
         {
           "cohort": "Goltsev_CODEX",
           "donorNumber": 3,
+          "cohortDataType": "CODEX",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
