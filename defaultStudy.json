@@ -804,6 +804,7 @@
         {
           "cohort": "human_bone_marrow_scRNAseq_Bandyopadhyay_H33",
           "donorNumber": 1,
+          "cohortDataType": "10x 3' v3 scRNA-seq"
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -814,6 +815,7 @@
         {
           "cohort": "human_bone_marrow_CODEX_Bandyopadhyay_H33",
           "donorNumber": 1,
+          "cohortDataType": "CODEX"
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
