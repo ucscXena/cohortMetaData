@@ -670,7 +670,7 @@
         {
           "cohort": "cSCC scRNA-seq",
           "donorNumber": 10,
-          "cohortDataType": "scRNA-seq",
+          "cohortDataType": "10x 3′ v2 scRNA-seq",
           "preferredDataset": [
             {
               "host": "https://previewsinglecell.xenahubs.net",
@@ -685,7 +685,7 @@
         {
           "cohort": "cSCC_scRNAseq_visium",
           "donorNumber": 10,
-          "cohortDataType": "10x visium, scRNA-seq",
+          "cohortDataType": "10x visium, 10x 3′ v2 scRNA-seq",
           "preferredDataset": []
         }
       ]
