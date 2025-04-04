@@ -74,30 +74,31 @@
         },
         {
           "cohort": "OVCA_TMA22_region_004",
-          "donorNumber": 1,
+          "donorNumber": 0,
           "cohortDataType":"mIF",
           "preferredDataset": []
         },
         {
           "cohort": "OVCA_TMA22_region_026",
-          "donorNumber": 1,
+          "donorNumber": 0,
           "cohortDataType":"mIF",
           "preferredDataset": []
         },
         {
           "cohort": "OVCA_TMA22_region_030",
-          "donorNumber": 1,
+          "donorNumber": 0,
           "cohortDataType":"mIF",
           "preferredDataset": []
         },
         {
           "cohort": "OVCA_TMA22_region_050",
+          "donorNumber": 0,
           "cohortDataType":"mIF",
           "preferredDataset": []
         },
         {
           "cohort": "OVCA_TMA22_region_079",
-          "donorNumber": 1,
+          "donorNumber": 0,
           "cohortDataType":"mIF",
           "preferredDataset": []
         }
