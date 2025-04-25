@@ -113,7 +113,7 @@
 
     {
        "study": "UCE",
-       "label": "Cancer dataset universal cell embeding",
+       "label": "Cancer datasets universal cell embeding",
        "cohortList": [
          {
            "cohort": "cancer UCE",
