@@ -116,7 +116,7 @@
        "label": "Cancer dataset universal cell embeding",
        "cohortList": [
          {
-           "cohort": "UCE",
+           "cohort": "cancer UCE",
            "cohortDataType":"10x 3' v3",
            "preferredDataset": []
          }
