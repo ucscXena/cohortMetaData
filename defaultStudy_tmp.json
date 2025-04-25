@@ -110,6 +110,18 @@
         }
       ]
     },
+
+    {
+       "study": "UCE",
+       "label": "Cancer dataset universal cell embeding",
+       "cohortList": [
+         {
+           "cohort": "UCE",
+           "cohortDataType":"10x 3' v3",
+           "preferredDataset": []
+         }
+       ]
+     },
     
     {
        "study": "hnoca",
