@@ -478,7 +478,7 @@
       "cohortList": [
         {
           "cohort": "CosMx_liver_cancer",
-          "donorNumber": 2,
+          "donorNumber": 1,
           "cohortDataType": "CosMx",
           "preferredDataset": [
           ]
