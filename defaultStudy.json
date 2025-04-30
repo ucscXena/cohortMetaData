@@ -467,6 +467,26 @@
     },
     
     {
+      "study": "CoxMx_liver_cancer",
+      "label": "CosMx SMI Human Liver FFPE Dataset (CosMx demo dataset)",
+      "publication": [
+        {
+          "title": "CosMx SMI Human Liver FFPE Dataset",
+          "url": "https://nanostring.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/human-liver-rna-ffpe-dataset/"
+        }
+      ],
+      "cohortList": [
+        {
+          "cohort": "CosMx_liver_cancer",
+          "donorNumber": 2,
+          "cohortDataType": "CosMx",
+          "preferredDataset": [
+          ]
+        }
+      ]
+    },
+
+    {
       "study": "xenium_demo_hPancreas_Cancer",
       "label": "Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (Xenium demo dataset)",
       "description": "Xenium In Situ Gene Expression data for human pancreatic cancer sections using the Xenium Human Multi-Tissue and Cancer Panel.",
