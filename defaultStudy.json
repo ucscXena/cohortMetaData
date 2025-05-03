@@ -468,7 +468,7 @@
     
     {
       "study": "CoxMx_liver_cancer",
-      "label": "CosMx SMI Human Liver FFPE Dataset (CosMx demo dataset)",
+      "label": "FFPE human hepatocellular carcinoma (CosMx SMI demo dataset)",
       "publication": [
         {
           "title": "CosMx SMI Human Liver FFPE Dataset",
