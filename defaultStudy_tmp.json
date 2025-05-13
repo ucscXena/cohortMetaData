@@ -117,7 +117,12 @@
        "cohortList": [
          {
            "cohort": "cancer UCE",
-           "cohortDataType":"10x 3' v3",
+           "cohortDataType":"10x 3' v3, v2"
+           "preferredDataset": []
+         },
+         {
+           "cohort": "cancer UCE atlas",
+           "cohortDataType":"10x 3' v3, v2, 10x 5'"
            "preferredDataset": []
          }
        ]
