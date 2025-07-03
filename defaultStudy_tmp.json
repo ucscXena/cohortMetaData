@@ -113,7 +113,7 @@
 
     {
        "study": "UCE",
-       "label": "Cancer datasets universal cell embeding",
+       "label": "Universal Cell Embeding",
        "cohortList": [
          {
            "cohort": "cancer UCE",
@@ -126,7 +126,7 @@
            "preferredDataset": []
          },
          {
-           "cohort": "cancer UCE atlas 36M",
+           "cohort": "UCE atlas 36M cells",
            "cohortDataType":"10x 3' v3, 10x 3' v2, 10x 3' transcription profiling, TruDrop, 10x 5' v1, 10x 5' v2, BD Rhapsody Targeted mRNA, Drop-seq, microwell-seq, Smart-seq2, STRT-seq, BD Rhapsody Whole Transcriptome Analysis, CEL-seq2, 10x 3' v1, MARS-seq, Smart-seq v4, 10x 5' transcription profiling, Seq-Well, sci-RNA-seq, GEXSCOPE technology, inDrop",
            "preferredDataset": []
          }
