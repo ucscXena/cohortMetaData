@@ -132,13 +132,13 @@
            "entity_count":36700147,
            "map":[
               {
-                "label":“UMAP 36M“,
-                "type":“embedding”,
+                "label": "UMAP 36M",
+                "type": "embedding",
                 "entity_count":36700147,
                 "pyramid": true,
                 "image":[
                   {
-                    "label":“metadata”,
+                    "label": "metadata",
                     "path":“/UCE/image_36M_1024",
                     "offset":[69914.33, 104673.08],
                     "image_scalef": 6477.483
