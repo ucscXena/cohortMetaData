@@ -139,6 +139,7 @@
                 "image":[
                   {
                     "label": "metadata",
+                    "host": "https://tmpsinglecell.xenahubs.net",
                     "path": "/UCE/image_36M_1024",
                     "offset":[69914.33, 104673.08],
                     "image_scalef": 6477.483
