@@ -163,7 +163,7 @@
          },
          {
            "cohort": "UCE atlas 4M cells",
-           "cohortDataType":"10x 3' v3, 10x 3' v2, MARS-seq, sci-RNA-seq, 10x 5' v1, microwell-seq, TruDrop, Smart-seq2, Seq-Well, 10x 5' v2, Drop-seq, 10x 3' transcription profiling, 10x 5' transcription profiling, BD Rhapsody Targeted mRNA, 10x 3' v1, BD Rhapsody Whole Transcriptome Analysis, Smart-seq v4",
+           "cohortDataType":"10x 3' v3, 10x 3' v2, MARS-seq, sci-RNA-seq, 10x 5' v1, microwell-seq, TruDrop, Smart-seq2, Seq-Well, 10x 5' v2, Drop-seq, 10x 3' transcription profiling, 10x 5' transcription profiling, BD Rhapsody Targeted mRNA, 10x 3' v1, ...",
            "preferredDataset": [],
            "entity_count":4000000,
            "map":[
