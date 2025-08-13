@@ -145,7 +145,7 @@
            "entity_count":12000000,
            "map":[
               {
-                "label": "UMAP 4M (train, map)",
+                "label": "UMAP 12M (10M train, 2M map)",
                 "type": "embedding",
                 "entity_count":12000000,
                 "pyramid": true,
@@ -168,7 +168,7 @@
            "entity_count":4000000,
            "map":[
               {
-                "label": "UMAP 4M (train, map)",
+                "label": "UMAP 4M (2M train, 2M map)",
                 "type": "embedding",
                 "entity_count":4000000,
                 "pyramid": true,
