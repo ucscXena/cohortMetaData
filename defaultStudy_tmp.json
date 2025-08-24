@@ -160,29 +160,6 @@
                 ]
               }
            ]
-         },
-         {
-           "cohort": "UCE atlas 4M cells",
-           "cohortDataType":"10x 3' v3, 10x 3' v2, MARS-seq, sci-RNA-seq, 10x 5' v1, microwell-seq, TruDrop, Smart-seq2, Seq-Well, 10x 5' v2, Drop-seq, 10x 3' transcription profiling, 10x 5' transcription profiling, BD Rhapsody Targeted mRNA, 10x 3' v1, ...",
-           "preferredDataset": [],
-           "entity_count":4000000,
-           "map":[
-              {
-                "label": "UMAP 4M (2M train, 2M map)",
-                "type": "embedding",
-                "entity_count":4000000,
-                "pyramid": true,
-                "image":[
-                  {
-                    "label": "metadata",
-                    "host": "https://tmpsinglecell.xenahubs.net",
-                    "path": "/UCE/image_pytorch_4M",
-                    "offset":[59624.23747093826, 32239.822856882354],
-                    "image_scalef": 1173.2497884372517
-                  }
-                ]
-              }
-           ]
          }
        ]
     },
