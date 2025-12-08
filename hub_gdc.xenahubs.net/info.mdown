@@ -4,9 +4,9 @@ The hub hosts open access data from the [GDC Data Release v41.0 - August 28, 202
 
 ***The GDC Pan-Cancer (PANCAN) cohort still contains data from the v18.0 release.*** We are working to upgrade to the v41.0 release.
 
-You can view data from the [previous GDC Data Release (v18.0 from August 28, 2019)](https://xenabrowser.net/datapages/?host=https%3A%2F%2FgdcV18.xenahubs.net&removeHub=https%3A%2F%2Fgdc.xenahubs.net). This data will only be available until October 2025. After October 2025 the data from this release will only be available for download.
+If you need data from the previous GDC Data Relase (v18.0), please email us at genome-cancer@soe.ucsc.edu.
 
-New for this release, we worked to not have samples that have only have phenotype/clinical data and don't have anygenomic data. This should make visualizing data in our Visual Spreadsheet easier.
+New for this release, we worked to not have samples that have only have phenotype/clinical data and don't have any genomic data. This should make visualizing data in our Visual Spreadsheet easier.
 
 ## Supported data types
 
