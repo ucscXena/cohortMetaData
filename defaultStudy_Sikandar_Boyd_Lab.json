@@ -22,6 +22,10 @@
           "preferredDataset": [
             {
               "host": "https://sikandarboydlab.xenahubs.net",
+              "name": "PR8_TUMOR_EARLY/cell_level_expression_analysis.tsv"
+            },
+            {
+              "host": "https://sikandarboydlab.xenahubs.net",
               "name": "PR8_TUMOR_EARLY/cell_level_expression.tsv"
             }
           ]
