@@ -25,12 +25,6 @@
               "name": "PR8_TUMOR_EARLY/cell_level_expression.tsv"
             }
           ]
-        },
-        {
-          "cohort": "PR8_TUMOR_EARLY_8umbin",
-          "donorNumber": 1,
-          "cohortDataType":"Visium HD",
-          "preferredDataset": []
         }
       ]
     }
